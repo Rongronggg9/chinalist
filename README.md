@@ -10,6 +10,7 @@
     1. Fill in `Rule List URL` with the URL of [chinalist_omega.txt](https://raw.githubusercontent.com/Rongronggg9/chinalist/main/chinalist_omega.txt) 
     (or you may use [jsDelivr CDN](https://cdn.jsdelivr.net/gh/Rongronggg9/chinalist/chinalist_omega.txt))
     1. Set `Rule list rules` to `DIRECT`, `Default` to a proxy server profile
+    1. Click on `Download Profile Now` and then click on `Apply changes`
 1. Switch to this auto-switching profile
 
 ### [SmartProxy](https://github.com/salarcode/SmartProxy)
