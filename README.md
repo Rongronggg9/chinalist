@@ -3,7 +3,7 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Rongronggg9/chinalist/Update%20chinalist)
 
 ## Usage
-### SwitchyOmega
+### [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
 1. Open SwitchyOmega settings
 1. Go to an auto-switching profile configuration page (create one if needed)
     1. Set `Rule List Format` to `AutoProxy`
@@ -12,7 +12,7 @@
     1. Set `Rule list rules` to `DIRECT`, `Default` to a proxy server profile
 1. Switch to this auto-switching profile
 
-### SmartProxy
+### [SmartProxy](https://github.com/salarcode/SmartProxy)
 1. Open SmartProxy settings
 1. Go to `Proxy Rules Subscriptions`
     1. Click on `Subscribe to a rules list`
