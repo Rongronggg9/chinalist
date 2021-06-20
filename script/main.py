@@ -35,7 +35,7 @@ if __name__ == '__main__':
     jointed_list = joint_list(daily_chinalist, my_list)
 
     info = f'! Updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")}'
-    omega_list = [info]
+    omega_list = ['[AutoProxy 0.2.9]', info]
     smart_list = ['[AutoProxy 0.2.9]', info]
     for url in jointed_list:
         omega_list.append(f'||{url}')
