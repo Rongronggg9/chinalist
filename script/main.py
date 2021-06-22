@@ -34,9 +34,11 @@ if __name__ == '__main__':
     my_list = get_local_list(my_chinalist_path)
     jointed_list = joint_list(daily_chinalist, my_list)
 
-    info = f'! Updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")}'
-    omega_list = ['[AutoProxy 0.2.9]', info]
-    smart_list = ['[AutoProxy 0.2.9]', info]
+    info = f'[AutoProxy 0.2.9]\n! Updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")}'
+    omega_list = [info, '! This chinalist only works with SwitchyOmega.',
+                  'For other versions, please check https://github.com/Rongronggg9/chinalist']
+    smart_list = [info, '! This chinalist is expected to be used on SmartProxy.',
+                  '! For other versions, please check https://github.com/Rongronggg9/chinalist']
     for url in jointed_list:
         omega_list.append(f'||{url}')
         smart_list.append(f'@@||{url}')
