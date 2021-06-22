@@ -36,7 +36,7 @@ if __name__ == '__main__':
 
     info = f'[AutoProxy 0.2.9]\n! Updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")}'
     omega_list = [info, '! This chinalist only works with SwitchyOmega.',
-                  'For other versions, please check https://github.com/Rongronggg9/chinalist']
+                  '! For other versions, please check https://github.com/Rongronggg9/chinalist']
     smart_list = [info, '! This chinalist is expected to be used on SmartProxy.',
                   '! For other versions, please check https://github.com/Rongronggg9/chinalist']
     for url in jointed_list:
