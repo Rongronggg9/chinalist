@@ -11,27 +11,39 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2.3.1
-      
-    - name: Set up Python 3.9
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.9
-        
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r script/requirements.txt
+      - name: Get current time
+        uses: srfrnk/current-time@master
+        id: current-time
+        with:
+          format: "YYYY-MM-DD HH:mm"
 
-    - name: Update
-      run: |
-        python script/main.py
+      - name: Checkout
+        uses: actions/checkout@v2.3.1
 
-    - name: Push
-      uses: JamesIves/github-pages-deploy-action@4.1.4
-      with:
-        branch: main
-        folder: .
-        git-config-name: github-actions[bot]
-        git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r script/requirements.txt
+
+      - name: Update
+        run: |
+          python script/main.py
+
+      - name: Push
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: main
+          folder: .
+          git-config-name: github-actions[bot]
+          git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit-message: updated ${{ steps.current-time.outputs.formattedTime }} UTC
+
+      - name: Purge jsDelivr cache
+        run: |
+          wget -q -O - https://purge.jsdelivr.net/gh/Rongronggg9/chinalist@latest/chinalist_smart.txt
+          wget -q -O - https://purge.jsdelivr.net/gh/Rongronggg9/chinalist@latest/chinalist_omega.txt
