@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-06-24 00:45:00 UTC
+! Updated: 2021-06-24 03:53:51 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -5300,6 +5300,7 @@
 @@||58baogao.com
 @@||58bo.com
 @@||58buy.com
+@@||58cdn.com.cn
 @@||58che.com
 @@||58cloud.com
 @@||58coin.com
