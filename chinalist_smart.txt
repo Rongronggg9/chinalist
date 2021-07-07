@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-07-06 01:00:22 UTC
+! Updated: 2021-07-07 01:00:24 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -2042,7 +2042,6 @@
 @@||1drj.com
 @@||1drv.ws
 @@||1dufish.com
-@@||1duhy.com
 @@||1dume.com
 @@||1dusou.com
 @@||1dutm.com
@@ -9144,7 +9143,6 @@
 @@||aliyunwaf5.com
 @@||aliyunyh.com
 @@||aliyunyhw.com
-@@||aliyunyunvip46.com
 @@||alizhaopin.com
 @@||alizila.com
 @@||aljj.com
@@ -10214,6 +10212,7 @@
 @@||autofull.net
 @@||autogslb.com
 @@||autoharbin.org
+@@||autoho.com
 @@||autohome.com
 @@||autohr.org
 @@||autoitx.com
@@ -15199,6 +15198,7 @@
 @@||chinacft.org
 @@||chinacg.org
 @@||chinachemnet.com
+@@||chinachilun.org
 @@||chinachugui.com
 @@||chinacics.org
 @@||chinacir.com
@@ -22613,6 +22613,7 @@
 @@||exhera.com
 @@||exiaoba.com
 @@||exinee.com
+@@||exing113.com
 @@||exiqu.com
 @@||exmailqq.com
 @@||exmrw.com
@@ -23255,7 +23256,6 @@
 @@||feeyo.com
 @@||feeyun.com
 @@||fegine.com
-@@||fegirl.com
 @@||feheadline.com
 @@||fei123.com
 @@||fei580.com
@@ -23935,6 +23935,7 @@
 @@||foodjx.com
 @@||foodmate.net
 @@||foods1.com
+@@||foodsc.net
 @@||foodspace.net
 @@||foodszs.com
 @@||foodu14.com
@@ -26097,7 +26098,6 @@
 @@||gslxrc.com
 @@||gsmpers.com
 @@||gsmyi.com
-@@||gsnyjszg.com
 @@||gsp10-ssl-cn.ls.apple.com
 @@||gsp11-cn.ls.apple.com
 @@||gsp12-cn.ls.apple.com
@@ -26711,7 +26711,6 @@
 @@||gzfxkwl.com
 @@||gzgc120.com
 @@||gzgdwl.com
-@@||gzgjx99.com
 @@||gzguard12th.com
 @@||gzgxkj.com
 @@||gzhakj.com
@@ -27750,7 +27749,6 @@
 @@||hbqtgg.com
 @@||hbqyj.org
 @@||hbqyxy.com
-@@||hbrb.net
 @@||hbrbmedia.com
 @@||hbrc.com
 @@||hbrcgd.com
@@ -28496,6 +28494,7 @@
 @@||highgg.com
 @@||highgo.com
 @@||highlm.com
+@@||highsharp.com
 @@||hightopo.com
 @@||highwayguitar.com
 @@||higon.com
@@ -34378,6 +34377,7 @@
 @@||joojzz.com
 @@||joomob.com
 @@||joooz.com
+@@||joouoo.com
 @@||joowhee.com
 @@||joox.com
 @@||jooyoo.net
@@ -35291,6 +35291,7 @@
 @@||k3887.com
 @@||k4nz.com
 @@||k518.com
+@@||k5d.net
 @@||k6271.com
 @@||k666.com
 @@||k6uk.com
@@ -37053,7 +37054,6 @@
 @@||lanyg.com
 @@||lanyingwang.com
 @@||lanyuanxiaoyao.com
-@@||lanyuevilla.com
 @@||lanyunbrand.com
 @@||lanyus.com
 @@||lanyusf.com
@@ -48692,6 +48692,7 @@
 @@||saifou.com
 @@||saifutong.com
 @@||saigao.fun
+@@||saihu888.com
 @@||saihuahong.com
 @@||saihuitong.com
 @@||saike.com
@@ -53187,6 +53188,7 @@
 @@||t1.ink
 @@||t10.com
 @@||t105.com
+@@||t11.store
 @@||t12.com
 @@||t123yh.xyz
 @@||t1networks.com
@@ -55992,7 +55994,6 @@
 @@||ufidawhy.com
 @@||ufileos.com
 @@||ufirefly.com
-@@||ufish.io
 @@||ufizl.com
 @@||uflowx.com
 @@||ufo.club
@@ -56795,7 +56796,6 @@
 @@||vgabc.com
 @@||vgfav.com
 @@||vgjump.com
-@@||vglady.com
 @@||vglook.com
 @@||vgoapp.com
 @@||vgooo.com
@@ -61699,7 +61699,6 @@
 @@||xinzheng.cc
 @@||xinzhenkj.com
 @@||xinzhongnews.com
-@@||xiong.ac
 @@||xionganzhuce.com
 @@||xiongdayq.com
 @@||xiongdong.com
@@ -63832,7 +63831,6 @@
 @@||yinduzx.com
 @@||yineitong.com
 @@||yinfeiy.com
-@@||yinfos.com
 @@||ying-ji.com
 @@||yingbishufa.com
 @@||yingcankeji.com
@@ -65076,6 +65074,7 @@
 @@||yuanjie.org
 @@||yuanjisong.com
 @@||yuanjoy.com
+@@||yuanjubieshu.com
 @@||yuanlai.com
 @@||yuanlian365.com
 @@||yuanliao.info
