@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-07-12 00:57:02 UTC
+! Updated: 2021-07-13 01:00:00 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -885,6 +885,7 @@
 @@||100try.com
 @@||100txt.com
 @@||100txy.com
+@@||100ulife.com
 @@||100wa.com
 @@||100web.store
 @@||100weidu.com
@@ -1651,7 +1652,6 @@
 @@||172222.com
 @@||17284.net
 @@||172tt.com
-@@||172xiaoyuan.com
 @@||173.com
 @@||1732.com
 @@||1732.net
@@ -11754,7 +11754,6 @@
 @@||bingdian001.com
 @@||bingdian01.com
 @@||bingdong700.com
-@@||bingelmedia.com
 @@||binglai.net
 @@||binglanggu.com
 @@||binglingtech.com
@@ -11908,7 +11907,6 @@
 @@||bithosts.net
 @@||bithub00.com
 @@||bitjia.com
-@@||bitkan.com
 @@||bitky.cc
 @@||bitmain.vip
 @@||bitmap.cc
@@ -12497,7 +12495,6 @@
 @@||boao369.com
 @@||boatsky.com
 @@||bob2012.com
-@@||bobaiw.com
 @@||bobaow.com
 @@||bobbns.com
 @@||bobcardjf.com
@@ -12617,7 +12614,6 @@
 @@||bookingtee.com
 @@||bookinlife.net
 @@||booklist.mobi
-@@||bookqi.com
 @@||bookresource.net
 @@||books51.com
 @@||bookschina.com
@@ -13162,6 +13158,7 @@
 @@||bytegslb.com
 @@||byteimg.com
 @@||byteisland.com
+@@||bytescm.com
 @@||bytesfield.com
 @@||bytesmanager.com
 @@||bytestacks.com
@@ -13458,6 +13455,7 @@
 @@||caiyun.com
 @@||caiyunai.com
 @@||caiyunapp.com
+@@||caiyunyi.com
 @@||caizhaowang.com
 @@||caizhihr.com
 @@||caj11.com
@@ -18103,6 +18101,7 @@
 @@||cthy.com
 @@||ctiforum.com
 @@||ctiku.com
+@@||ctils.com
 @@||ctime.com
 @@||ctisd.com
 @@||ctjin.com
@@ -19608,7 +19607,6 @@
 @@||dianbucuo.com
 @@||diancaijun.com
 @@||dianchacha.com
-@@||dianclan.com
 @@||diandainfo.com
 @@||diandanbao.com
 @@||diandao.org
@@ -19707,7 +19705,6 @@
 @@||dianzhi.com
 @@||dianziaihaozhe.com
 @@||dianzis.com
-@@||dianziw.com
 @@||dianzixuexi.com
 @@||diaoao.com
 @@||diaoben.com
@@ -20610,7 +20607,6 @@
 @@||downcc.com
 @@||downclass.com
 @@||downerapi.com
-@@||downeyboy.com
 @@||downfeng.com
 @@||downfi.com
 @@||downg.com
@@ -28613,7 +28609,6 @@
 @@||hiyouqu.com
 @@||hizg.org
 @@||hizhu.com
-@@||hizhuanli.com
 @@||hizip.net
 @@||hizj.net
 @@||hizuan.net
@@ -31772,7 +31767,6 @@
 @@||inficn.com
 @@||infineon-autoeco.com
 @@||infineon-power-rf.org
-@@||infineonic.org
 @@||infinitescript.com
 @@||infinitiownerclub.com
 @@||infinityarts.net
@@ -38795,6 +38789,7 @@
 @@||longwiki.org
 @@||longwin.org
 @@||longwindspg.com
+@@||longwisepr.com
 @@||longxi-tech.net
 @@||longxianwen.net
 @@||longxuan.ren
@@ -39629,7 +39624,6 @@
 @@||maczd.com
 @@||maczhi.com
 @@||maczj.com
-@@||mad114.com
 @@||madailicai.com
 @@||made-in-china.com
 @@||madefuns.com
@@ -41703,7 +41697,6 @@
 @@||mp4ju.com
 @@||mpacc.net
 @@||mpaidata.com
-@@||mpanshi.com
 @@||mpdaogou.com
 @@||mpdsj.com
 @@||mpfmall.com
@@ -42749,7 +42742,6 @@
 @@||newcapec.net
 @@||newcger.com
 @@||newchainbase.com
-@@||newchannel.org
 @@||newchieve.com
 @@||newchinalife.com
 @@||newclasses.org
@@ -43153,7 +43145,6 @@
 @@||nlinkline.com
 @@||nljb.net
 @@||nlnln.com
-@@||nlpir.org
 @@||nlpjob.com
 @@||nlscan.com
 @@||nlv2.com
@@ -49693,7 +49684,6 @@
 @@||shanghaizhenji.com
 @@||shangji998.com
 @@||shangjilian.com
-@@||shanglei.net
 @@||shangliancn.com
 @@||shanglv51.com
 @@||shangmayuan.com
@@ -50429,7 +50419,6 @@
 @@||shsby.com
 @@||shsbzl.com
 @@||shsci.org
-@@||shscxh.net
 @@||shsee.com
 @@||shshilin.com
 @@||shsihua.com
@@ -54690,6 +54679,7 @@
 @@||tokenview.com
 @@||tokenworld.pro
 @@||tokimekiclub.org
+@@||toktok-mall.com
 @@||tol24.com
 @@||tolur.org
 @@||tom.cat
