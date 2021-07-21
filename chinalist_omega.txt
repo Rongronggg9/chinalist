@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-07-20 01:02:39 UTC
+! Updated: 2021-07-21 01:00:22 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -76,7 +76,6 @@
 ||00ksw.net
 ||00lewen.com
 ||00red.com
-||00sy.com
 ||00tera.com
 ||00txt.com
 ||01-123.com
@@ -1873,7 +1872,6 @@
 ||18488.com
 ||185185.com
 ||186078.com
-||1864445.com
 ||1865u.com
 ||1866.tv
 ||18665348887.com
@@ -5184,7 +5182,6 @@
 ||56steel.com
 ||56tchr.com
 ||56tj.com
-||56uo.com
 ||56uu.com
 ||56wen.com
 ||56ye.net
@@ -5208,6 +5205,7 @@
 ||57ac.com
 ||57auto.com
 ||57dj.com
+||57dp.com
 ||57ee.net
 ||57fx.com
 ||57gif.com
@@ -6506,7 +6504,6 @@
 ||801358.com
 ||802203.com
 ||8038.pw
-||8044445.com
 ||80710.com
 ||80714.com
 ||80800.vip
@@ -9705,7 +9702,6 @@
 ||app17.com
 ||app178.com
 ||app2pixel.com
-||app2xp.com
 ||app4cms.net
 ||app86.com
 ||app887.com
@@ -16922,7 +16918,6 @@
 ||cnnorip.org
 ||cnnot.com
 ||cnnovels.com
-||cnnpa.com
 ||cnnpz.com
 ||cnns.net
 ||cnntt.com
@@ -19235,7 +19230,6 @@
 ||decwhy.com
 ||dede168.com
 ||dede58.com
-||dedeadmin.com
 ||dedecms51.com
 ||dedecmsplus.com
 ||dededao.com
@@ -23925,7 +23919,6 @@
 ||forestpolice.org
 ||forevercd007.com
 ||foreveross.com
-||forga.me
 ||forgame.com
 ||forgotfun.org
 ||forindata.com
@@ -26008,7 +26001,6 @@
 ||grt-china.com
 ||gruntjs.net
 ||grvape.com
-||grxjgc.com
 ||gryu.net
 ||grzmz.com
 ||gs-loc-cn.apple.com
@@ -34679,7 +34671,6 @@
 ||jtlw.com
 ||jtnsh.com
 ||jtnxs.com
-||jtpk668.com
 ||jtqh.net
 ||jtstudy.com
 ||jttv.net
@@ -34792,7 +34783,6 @@
 ||jumaicms.com
 ||jumaizhijia.com
 ||jumanhua.com
-||jumbobondhk.com
 ||jumei.com
 ||jumeiglobal.com
 ||jumeinet.com
@@ -36129,7 +36119,6 @@
 ||komect.com
 ||kometo.com
 ||kompaz.win
-||konbo.net
 ||konekomoe.com
 ||konfan.net
 ||kongapi.com
@@ -38486,7 +38475,6 @@
 ||llsstaging.com
 ||lltaohuaxiang.com
 ||lltoken.com
-||lltxy.com
 ||llwin.com
 ||llwt.ink
 ||llycloud.com
@@ -39044,6 +39032,7 @@
 ||luck4ever.net
 ||luckeeinc.com
 ||luckfriend.com
+||luckincoffee.co
 ||luckincoffee.com
 ||luckincoffeecdn.com
 ||lucklnk.com
@@ -39147,7 +39136,6 @@
 ||luojilab.com
 ||luojituili.com
 ||luokewan.com
-||luokr.com
 ||luokuang.com
 ||luolai.com
 ||luolai.tech
@@ -46422,7 +46410,6 @@
 ||qilang.net
 ||qilanxiaozhu.co
 ||qilanxiaozhu.net
-||qilashou.com
 ||qilecms.com
 ||qilikongjian.com
 ||qilinchess.com
@@ -47227,7 +47214,6 @@
 ||quchaogu.com
 ||quchew.com
 ||quclouds.com
-||qudangdang.com
 ||qudao.com
 ||qudao.info
 ||qudao168.com
@@ -49775,6 +49761,7 @@
 ||shchengsan.com
 ||shchhukou.com
 ||shchjj.com
+||shclearing.com
 ||shcljoy.com
 ||shcngz.com
 ||shcs2010.com
@@ -53589,7 +53576,6 @@
 ||tbwan.com
 ||tbwda.com
 ||tbwfy.com
-||tbwshc.com
 ||tbxt.com
 ||tbyfsoft.com
 ||tbyuantu.com
@@ -59985,7 +59971,6 @@
 ||www8.hp.com
 ||www81854.com
 ||wwwbuild.net
-||wwwdeyi.com
 ||wwwer.net
 ||wwwic.net
 ||wwwimages.adobe.com
@@ -61187,7 +61172,6 @@
 ||xiazaiduo.com
 ||xiazaijidi.com
 ||xiazaima.com
-||xiazaimv.com
 ||xiazaisoft.com
 ||xiazaiziti.com
 ||xibaiwang.com
@@ -62896,7 +62880,6 @@
 ||yajuke.com
 ||yajxc.com
 ||yakool.com
-||yakutv.cc
 ||yalan888.com
 ||yalewoo.com
 ||yaliang.net
@@ -62962,6 +62945,7 @@
 ||yangmaod.com
 ||yangmaodang.org
 ||yangmaohao.net
+||yangner.com
 ||yangniupiju.com
 ||yangqianguan.com
 ||yangqimanhua.com
@@ -63402,7 +63386,6 @@
 ||yeyoucdn.com
 ||yeyoujia.com
 ||yeyulingfeng.com
-||yeyulx.com
 ||yeyun.com
 ||yezdm.com
 ||yezhuwq.com
@@ -64188,7 +64171,6 @@
 ||ylhaitao.com
 ||ylhh.net
 ||ylhsrsrc.com
-||ylhzfc.com
 ||ylife9.com
 ||ylimg.com
 ||ylinux.org
@@ -64461,7 +64443,6 @@
 ||you-mi.net
 ||you1ke.com
 ||you200.com
-||you5168.com
 ||youba.com
 ||youba123.com
 ||youban.com
@@ -65857,6 +65838,7 @@
 ||z7xz.com
 ||z7ys.com
 ||z8q.cc
+||za-doctor.com
 ||zablog.me
 ||zac1993.com
 ||zackku.com
@@ -65912,7 +65894,9 @@
 ||zanba.com
 ||zanbai.com
 ||zangaifamily.com
+||zangdiyg.com
 ||zanghaihuatxt.com
+||zangx.com
 ||zanmeishi.com
 ||zanpic.com
 ||zantainet.com
@@ -66394,7 +66378,6 @@
 ||zgzkw.com
 ||zgznh.com
 ||zgzpbz.com
-||zgzqzdcs.com
 ||zgzsrc.com
 ||zgzwl.com
 ||zgzxwsg.com
