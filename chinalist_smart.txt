@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-07-23 00:59:16 UTC
+! Updated: 2021-07-24 00:59:18 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -3870,7 +3870,6 @@
 @@||49ivb.org
 @@||49jie.com
 @@||49pic.com
-@@||49w.cc
 @@||49wanwan.com
 @@||49you.com
 @@||49yu.com
@@ -4687,7 +4686,6 @@
 @@||520mwx.com
 @@||520shu.com
 @@||520sz.com
-@@||520tingshu.com
 @@||520wawa.com
 @@||520way.com
 @@||520wenshen.com
@@ -16738,7 +16736,6 @@
 @@||cngaosu.com
 @@||cngb.org
 @@||cngba.com
-@@||cngbn.com
 @@||cngdwx.com
 @@||cnggt120.com
 @@||cngin.com
@@ -25619,7 +25616,6 @@
 @@||golaravel.com
 @@||gold-v.com
 @@||gold58.com
-@@||gold600.com
 @@||gold678.com
 @@||gold8818.com
 @@||goldapple.name
@@ -29520,7 +29516,6 @@
 @@||huamoe.com
 @@||huan-tai.com
 @@||huan.tv
-@@||huanaotong.com
 @@||huanbao-world.com
 @@||huanbao.com
 @@||huanbaoscx.com
@@ -39772,7 +39767,6 @@
 @@||manben.com
 @@||manboker.com
 @@||mandao-tech.com
-@@||mandao.tv
 @@||mandarincapital.net
 @@||mandarinedu.org
 @@||mandarinhouse.com
@@ -55218,7 +55212,6 @@
 @@||ttxunta.com
 @@||ttyingqiu.com
 @@||ttyjf.com
-@@||ttyl5.com
 @@||ttymq.com
 @@||ttyongche.com
 @@||ttyqm.com
@@ -59586,7 +59579,6 @@
 @@||wsfff.com
 @@||wsfnk.com
 @@||wsfsy.com
-@@||wsgblw.com
 @@||wsgjp.com
 @@||wsglb0.com
 @@||wsglb0.info
@@ -60321,7 +60313,6 @@
 @@||xbwbh.com
 @@||xbwebyun.com
 @@||xbxgame.com
-@@||xbxwx.net
 @@||xbxwx.org
 @@||xbxxb.com
 @@||xbxxz.com
@@ -68384,7 +68375,6 @@
 @@||zwwltkl.com
 @@||zwwx.com
 @@||zwzsh.net
-@@||zwzsj.com
 @@||zwzyzx.com
 @@||zx-casting.com
 @@||zx-tour.com
