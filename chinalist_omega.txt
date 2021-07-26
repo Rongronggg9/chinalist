@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-07-25 01:00:38 UTC
+! Updated: 2021-07-26 00:58:42 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -3747,6 +3747,7 @@
 ||4321.com
 ||432520.com
 ||4339.cc
+||43423manhua.com
 ||435000.com
 ||435200.com
 ||435214.com
@@ -6843,7 +6844,6 @@
 ||88eq.com
 ||88fenxiao.com
 ||88h3.com
-||88haodian.com
 ||88hom.com
 ||88ht.com
 ||88htu.com
@@ -7783,7 +7783,6 @@
 ||9g.com
 ||9gaoding.com
 ||9gty.net
-||9gui.net
 ||9hcom.com
 ||9he.com
 ||9host.org
@@ -11697,6 +11696,7 @@
 ||bilicraft.com
 ||biligame.com
 ||biligame.net
+||bilihot.com
 ||bilimoe.com
 ||bilingling.com
 ||bilinstar.com
@@ -11807,6 +11807,7 @@
 ||biqugeapp.com
 ||biqugebook.com
 ||biqugecom.com
+||biqugee.com
 ||biqugeg.com
 ||biqugemm.com
 ||biquger.com
@@ -13378,7 +13379,6 @@
 ||caimai.cc
 ||caimaovip.com
 ||caimei365.com
-||caimigs.com
 ||caimogu.net
 ||caimomo.com
 ||cainachina.com
@@ -17799,7 +17799,6 @@
 ||cric.com
 ||cric2009.com
 ||cricbigdata.com
-||crifan.com
 ||crifst.com
 ||crimoon.net
 ||crispstata.com
@@ -23571,6 +23570,7 @@
 ||fiphoenix.com
 ||fir.im
 ||fir.vip
+||firadio.net
 ||fire233.com
 ||fire2333.com
 ||firebase-settings.crashlytics.com
@@ -26247,6 +26247,7 @@
 ||gugu5.com
 ||gugud.com
 ||guguread.com
+||gugutm.com
 ||gugutown.com
 ||guguyu.com
 ||guguzhu.com
@@ -29445,7 +29446,6 @@
 ||huaci.cc
 ||huacnlee.com
 ||huacolor.com
-||huacolor.net
 ||huada120.com
 ||huadan.com
 ||huadehyd.com
@@ -31588,7 +31588,6 @@
 ||imotao.com
 ||imoxiu.com
 ||imp3.net
-||impdo.com
 ||imperfectionstudio.com
 ||imperial-vision.com
 ||impk.cc
@@ -33807,6 +33806,7 @@
 ||jisilu.com
 ||jisu-cnd.com
 ||jisu-edu.com
+||jisuacg.com
 ||jisuan.mobi
 ||jisuanke.com
 ||jisuanqinet.com
@@ -36402,7 +36402,6 @@
 ||kuaipao8.com
 ||kuaipeilian.com
 ||kuaipng.com
-||kuaiqiangche.com
 ||kuaiqin.com
 ||kuaiqin.net
 ||kuaiqun.org
@@ -36923,7 +36922,6 @@
 ||lanqi.com
 ||lanqiao.org
 ||lanqibing.com
-||lanqiutv.com
 ||lanqiuzu.com
 ||lanreelh.com
 ||lanren9.com
@@ -39797,6 +39795,7 @@
 ||manhua1.com
 ||manhua123.net
 ||manhua365.com
+||manhua456.com
 ||manhuaba.cc
 ||manhuabei.com
 ||manhuacheng.com
@@ -40468,6 +40467,7 @@
 ||menglegame.com
 ||menglei.info
 ||mengma.com
+||mengma021.com
 ||mengniang.tv
 ||mengniu99.com
 ||mengqiuju.com
@@ -41348,7 +41348,6 @@
 ||mofang.com
 ||mofang.jp
 ||mofangge.com
-||mofangge.xin
 ||mofanghr.com
 ||mofangshe.com
 ||mofangyu.com
@@ -42375,6 +42374,7 @@
 ||naruto4u.com
 ||narutom.com
 ||nas2x.com
+||nas66.com
 ||nasgetinfo.com
 ||nashangban.com
 ||nashwork.com
@@ -45208,6 +45208,7 @@
 ||pkurc.com
 ||pkusky.com
 ||pkusp.com
+||pkuszh.com
 ||pkvs.com
 ||pkzx.com
 ||plaidc.com
@@ -46496,6 +46497,7 @@
 ||qinglm.com
 ||qinglue.net
 ||qinglvcha.com
+||qingman5.com
 ||qingmang.mobi
 ||qingmayun.com
 ||qingmei.me
@@ -50254,7 +50256,6 @@
 ||shoujikanshu.cc
 ||shoujimi.com
 ||shoujitouping.com
-||shoujiw.com
 ||shoujiwan.com
 ||shouker.com
 ||shouliwang.com
@@ -56672,6 +56673,7 @@
 ||veryevent.com
 ||verygrass.com
 ||verygslb.com
+||verygslb.net
 ||veryhappy.pw
 ||veryide.com
 ||veryitman.com
@@ -63138,7 +63140,6 @@
 ||ycgj.cc
 ||ycgjj.net
 ||ycgslb.com
-||ychdzx.co
 ||ychefu.com
 ||ychmpw.com
 ||ychromedgeie.com
@@ -65765,6 +65766,7 @@
 ||yzmoney.com
 ||yznano.com
 ||yznn.com
+||yzpsb.com
 ||yzrb.com
 ||yzrcfw.com
 ||yzrom.com
@@ -68618,7 +68620,6 @@
 ||zzobokj.com
 ||zzpd8.com
 ||zzpuke.com
-||zzpzero.com
 ||zzqklm.com
 ||zzqxs.com
 ||zzrbl.com
