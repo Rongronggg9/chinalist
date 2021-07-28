@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-07-27 01:00:09 UTC
+! Updated: 2021-07-28 01:01:13 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -2853,7 +2853,6 @@
 @@||31jiaju.com
 @@||31jmw.com
 @@||31jxw.com
-@@||31kan.com
 @@||31knit.com
 @@||31mada.com
 @@||31martech.com
@@ -3841,7 +3840,6 @@
 @@||47gs.com
 @@||47jh.com
 @@||47ks.com
-@@||47yun.com
 @@||47zu.com
 @@||48.com
 @@||4846.com
@@ -13609,7 +13607,6 @@
 @@||cattsoft.com
 @@||catv.net
 @@||caua99.com
-@@||cauchies.org
 @@||caup.net
 @@||cauvet.com
 @@||cav-ad.com
@@ -32016,7 +32013,6 @@
 @@||iradwine.com
 @@||iranshao.com
 @@||iraoping.com
-@@||iraqhosa.com
 @@||iray.me
 @@||ircmnr.com
 @@||iread.cf
@@ -33015,7 +33011,6 @@
 @@||jfyiyao.com
 @@||jfz.com
 @@||jfzhiyao.com
-@@||jfzkchina.com
 @@||jfzw.com
 @@||jgames.net
 @@||jgaoxiao.com
@@ -33531,7 +33526,6 @@
 @@||jindaodao.com
 @@||jindian120.com
 @@||jindianweb.com
-@@||jindiaoqizhong.com
 @@||jindingfm.com
 @@||jindun007.net
 @@||jindunfan.com
@@ -37916,7 +37910,6 @@
 @@||lingaoren.com
 @@||lingb.net
 @@||lingcaixinyuan.com
-@@||lingchenliang.com
 @@||lingd.cc
 @@||lingd.com
 @@||lingdai.name
@@ -39286,7 +39279,6 @@
 @@||lxin007.com
 @@||lxjep.com
 @@||lxjk999.com
-@@||lxjwlt.com
 @@||lxlggo.com
 @@||lxly168.com
 @@||lxmiyu.com
@@ -39759,7 +39751,6 @@
 @@||mangocity.com
 @@||mangoebike.com
 @@||mangogame.com
-@@||mangowed.com
 @@||mangrovetreesanya.com
 @@||mangtuhuyu.com
 @@||manguo42.com
@@ -45399,7 +45390,6 @@
 @@||potevio.com
 @@||potianji.net
 @@||potplayer.org
-@@||potplayer.pro
 @@||pouchcontainer.io
 @@||poukao.com
 @@||power-bd.com
@@ -52601,7 +52591,6 @@
 @@||sxhxbank.com
 @@||sxiaoshuo.com
 @@||sxjagc.com
-@@||sxjcylbx.com
 @@||sxjzxww.com
 @@||sxkid.com
 @@||sxkzxt.com
@@ -55354,6 +55343,7 @@
 @@||tumukeji.com
 @@||tumunity.com
 @@||tumuzhe.com
+@@||tuna.wiki
 @@||tungshungroup.com
 @@||tungsten-alloy.com
 @@||tungsten-bar.com
@@ -57046,7 +57036,6 @@
 @@||vrerse.com
 @@||vrgame520.com
 @@||vrguancha.net
-@@||vrjibao.com
 @@||vrjie.com
 @@||vrlequ.com
 @@||vrmvip.com
@@ -65595,7 +65584,6 @@
 @@||yxwoo.com
 @@||yxxurl.com
 @@||yxyfhgc.com
-@@||yxyun.com
 @@||yxyzjx.com
 @@||yxz.me
 @@||yxzxgy.com
