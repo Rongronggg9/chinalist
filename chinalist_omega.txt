@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-08-03 01:03:00 UTC
+! Updated: 2021-08-04 00:57:59 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -1994,7 +1994,6 @@
 ||1b23.com
 ||1biaozhun.com
 ||1biqu.com
-||1biquge.com
 ||1bus.net
 ||1cae.com
 ||1caifu.com
@@ -3183,6 +3182,7 @@
 ||360zhijia.com
 ||360zhuizhu.com
 ||360zhyx.com
+||360zimeiti.com
 ||361.cm
 ||361757.com
 ||3618med.com
@@ -15422,7 +15422,6 @@
 ||chinaren.com
 ||chinareports.org
 ||chinarootdesign.com
-||chinarta.com
 ||chinartlaw.com
 ||chinarun.com
 ||chinarzfh.com
@@ -22958,7 +22957,6 @@
 ||fapiao365.com
 ||fapiaobang.com
 ||faqrobot.org
-||faqwork.com
 ||far123.com
 ||far2000.com
 ||faradayfuturecn.com
@@ -23023,6 +23021,7 @@
 ||fawuzaixian.com
 ||fax52.com
 ||faxdns.com
+||faxdns.net
 ||faxeye.com
 ||faxingchina.com
 ||faxingcn.com
@@ -25693,6 +25692,7 @@
 ||googleanalytics.com
 ||googlebridge.com
 ||googlefonts.net
+||googleoptimize.com
 ||googlesyndication.com
 ||googletagmanager.com
 ||googletagservices.com
@@ -31585,7 +31585,6 @@
 ||inbeijing.org
 ||inbilin.com
 ||inbooker.com
-||inboxarchiver.com
 ||inc365.com
 ||incake.net
 ||incensechina.com
@@ -35157,6 +35156,7 @@
 ||ka5188.com
 ||kaadas.com
 ||kaayou.com
+||kaayun.com
 ||kaba365.com
 ||kabasiji.com
 ||kabitu.com
@@ -47909,6 +47909,7 @@
 ||rijiwang.com
 ||riju.tv
 ||rijutv.com
+||rikka.app
 ||rilvtong.com
 ||rilzob.com
 ||rimiedu.com
@@ -50948,6 +50949,7 @@
 ||sketchupbar.com
 ||sketchupbbs.com
 ||skg.com
+||skhao.net
 ||skieer.com
 ||skight.com
 ||skinme.cc
@@ -51343,6 +51345,7 @@
 ||sogou.com
 ||sogou2.com
 ||sogoucdn.com
+||sogouimecdn.com
 ||sogouw.com
 ||sogouwenwen.com
 ||soharp.com
@@ -61883,6 +61886,7 @@
 ||xn--nyqx2gbsm8u0b.com
 ||xn--nyw032beqlm2f.com
 ||xn--nyw032beqlm2f.net
+||xn--rhq0kz4zzjc7w9a66k.com
 ||xn--rss99n.com
 ||xn--s4t325g.com
 ||xn--w9qy23cc6adz7d.net
@@ -64658,7 +64662,6 @@
 ||yqphh.com
 ||yqptzx.com
 ||yqqlm.vip
-||yqqzx.com
 ||yqsbz.com
 ||yqscpt.com
 ||yqsns.com
@@ -68528,5 +68531,3 @@
 ||zzzzaaaa.com
 ||zzzzhong.com
 ||zzzzmall.com
-||凯荣机械.net
-||名臣健康.com
