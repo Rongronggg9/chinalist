@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-08-05 00:58:48 UTC
+! Updated: 2021-08-06 01:02:32 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -8558,7 +8558,6 @@
 @@||aigtek.com
 @@||aigupiao.com
 @@||aigzg.com
-@@||aihacoin.com
 @@||aihaisi.com
 @@||aihala.com
 @@||aihandu.com
@@ -12416,7 +12415,6 @@
 @@||bnwin.com
 @@||bnxb.com
 @@||bnxxjs.com
-@@||bnyhbj.com
 @@||bnzt88.com
 @@||bo-blog.com
 @@||bo-yi.com
@@ -12979,6 +12977,7 @@
 @@||bx24k.com
 @@||bx58.com
 @@||bxb2b.com
+@@||bxba.net
 @@||bxcc.vip
 @@||bxd365.com
 @@||bxdaka.com
@@ -16057,7 +16056,6 @@
 @@||citiz.net
 @@||citreport.com
 @@||cits-sz.net
-@@||cits.com.mo
 @@||cits0871.com
 @@||cits2.com
 @@||citscq.com
@@ -21518,7 +21516,6 @@
 @@||ecydm.com
 @@||ecyj.net
 @@||ecyti.com
-@@||ed-camin.com
 @@||ed2000.app
 @@||ed2000.com
 @@||ed2000k.com
@@ -31710,7 +31707,6 @@
 @@||inputmore.com
 @@||inrice.com
 @@||inrugao.com
-@@||ins-home.com
 @@||insarticle.com
 @@||inshockgroup.com
 @@||insisi.com
@@ -48696,7 +48692,6 @@
 @@||sbkk88.com
 @@||sblunwen.com
 @@||sbo8.com
-@@||sbosport9.com
 @@||sbr-info.com
 @@||sbrj.net
 @@||sbt123.com
@@ -51941,7 +51936,6 @@
 @@||stepfpga.com
 @@||stevenshi.me
 @@||stewartcn.com
-@@||stfhq.com
 @@||stfile.com
 @@||stg8.com
 @@||stgairasia.com
@@ -53294,7 +53288,6 @@
 @@||taokaifu.com
 @@||taoke.com
 @@||taokehome.com
-@@||taoketuitui.com
 @@||taokewenan.com
 @@||taokezhushou.com
 @@||taoku.com
@@ -53491,7 +53484,6 @@
 @@||tcxx.info
 @@||tcy365.com
 @@||tcyl.pro
-@@||tcyl77.com
 @@||tcylgslb.com
 @@||tcz.name
 @@||td-tech.com
@@ -56143,7 +56135,6 @@
 @@||usaobb.com
 @@||usaphoenixnews.com
 @@||usashopcn.com
-@@||usbabyada.com
 @@||usbing.com
 @@||usbmi.com
 @@||usbxyz.com
@@ -59855,6 +59846,7 @@
 @@||wxhand.com
 @@||wxhbts.com
 @@||wxhon.com
+@@||wxhouse.com
 @@||wxhu.net
 @@||wxhudong.com
 @@||wxiao.net
@@ -63520,7 +63512,6 @@
 @@||yili.com
 @@||yilianmeiti.com
 @@||yilianyixue.com
-@@||yiliaotui.com
 @@||yilibabyclub.com
 @@||yilihuo.com
 @@||yilijet.com
