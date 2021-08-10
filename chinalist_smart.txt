@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-08-09 00:59:08 UTC
+! Updated: 2021-08-10 01:01:20 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -6386,6 +6386,7 @@
 @@||7mother.com
 @@||7msj.com
 @@||7mx.com
+@@||7na7.com
 @@||7naicha.com
 @@||7nepal.com
 @@||7net.cc
@@ -26247,6 +26248,7 @@
 @@||guoanqi.com
 @@||guoaso.com
 @@||guobaihui.com
+@@||guobaoyou.com
 @@||guobencoffee.com
 @@||guobensd.com
 @@||guobiao99.com
@@ -26995,6 +26997,7 @@
 @@||halloar.com
 @@||hallofix.com
 @@||hallotw.com
+@@||halo.moe
 @@||halobearing.com
 @@||halomobi.com
 @@||haluoha.com
@@ -30987,6 +30990,7 @@
 @@||ifengcdn.com
 @@||ifenghui.com
 @@||ifengimg.com
+@@||ifengli.com
 @@||ifenglian.com
 @@||ifengniao.net
 @@||ifengo.com
@@ -31419,6 +31423,7 @@
 @@||imeiju.cc
 @@||imeiju.io
 @@||imeijutt.com
+@@||imeishike.com
 @@||imeitou.com
 @@||imekaku.com
 @@||imeme.tv
@@ -33214,6 +33219,7 @@
 @@||jianzhimao.com
 @@||jianzhiwang.com
 @@||jianzhiwangzhan.com
+@@||jianzhiweike.net
 @@||jianzhiyixin.com
 @@||jianzhu2008.com
 @@||jiao4.com
@@ -35289,6 +35295,7 @@
 @@||kanguowai.com
 @@||kangxi55wlsf.com
 @@||kangxin.com
+@@||kangyueshi.com
 @@||kangze.com
 @@||kangzhi.com
 @@||kanhaiwai.com
@@ -37445,6 +37452,7 @@
 @@||leyixue.com
 @@||leyohotel.com
 @@||leyoucp.com
+@@||leyoujia.com
 @@||leyouquan.com
 @@||leyuanbaby.com
 @@||leyubox.com
@@ -38355,6 +38363,7 @@
 @@||llssite.com
 @@||llsstaging.com
 @@||lltaohuaxiang.com
+@@||lltllt.com
 @@||lltoken.com
 @@||llwin.com
 @@||llwt.ink
@@ -40354,6 +40363,7 @@
 @@||menglangroup.com
 @@||menglegame.com
 @@||menglei.info
+@@||menglei.xyz
 @@||mengma.com
 @@||mengma021.com
 @@||mengniang.tv
@@ -43196,6 +43206,7 @@
 @@||ntefyxq.com
 @@||ntejiazheng.com
 @@||ntes53.com
+@@||ntfabu.com
 @@||ntfsformac.cc
 @@||nthfw.com
 @@||ntjoy.com
@@ -44395,6 +44406,7 @@
 @@||pautoclub.com
 @@||paxdn.com
 @@||paxgl.com
+@@||paydxm.com
 @@||payeco.com
 @@||payloads.online
 @@||paymax.cc
