@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-08-13 00:58:28 UTC
+! Updated: 2021-08-14 00:54:22 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -3416,7 +3416,6 @@
 ||3975cdn.com
 ||3977s.com
 ||39ask.net
-||39box.com
 ||39clean.com
 ||39cs.com
 ||39dg.com
@@ -5706,7 +5705,6 @@
 ||655u.com
 ||655yx.com
 ||656463.com
-||657565.com
 ||65875.com
 ||659595.com
 ||65house.com
@@ -6314,6 +6312,7 @@
 ||7ccj.com
 ||7cen.com
 ||7chacha.com
+||7cloud.shop
 ||7cmz.com
 ||7cname.com
 ||7colorblog.com
@@ -14096,7 +14095,6 @@
 ||cdzgh.com
 ||cdzhinan.com
 ||cdzikao.com
-||cdzimeijia.com
 ||cdzimo.com
 ||cdzixun.net
 ||cdzmn.com
@@ -15646,6 +15644,7 @@
 ||chiznews.com
 ||chjso.com
 ||chkj365.com
+||chklingw.com
 ||chlahb.com
 ||chloe99.com
 ||chmecc.org
@@ -15919,7 +15918,6 @@
 ||ci52.com
 ||ci800.com
 ||ciamiecn.com
-||ciandcd.com
 ||ciaoca.com
 ||ciatcm.org
 ||ciavision.com
@@ -19940,7 +19938,6 @@
 ||dll01.com
 ||dllake.com
 ||dllcm.com
-||dlldone.com
 ||dllhook.com
 ||dllku.com
 ||dllxsp.com
@@ -25994,6 +25991,7 @@
 ||gtm-a2b4.com
 ||gtm-a2b6.com
 ||gtm-a3b1.com
+||gtm-a3b6.com
 ||gtm-a4b4.com
 ||gtm-a4b8.com
 ||gtm-a4b9.com
@@ -27586,6 +27584,7 @@
 ||hbrebond.com
 ||hbrfxh.com
 ||hbrfyl.com
+||hbrjcspx.com
 ||hbrqygr.com
 ||hbruicai.com
 ||hbryzx.net
@@ -32423,7 +32422,6 @@
 ||iwyv.com
 ||iwyvi.com
 ||iwzwy.com
-||iwzxi.com
 ||ixbd.net
 ||ixbren.net
 ||ixcv.com
@@ -32613,7 +32611,6 @@
 ||jar-world3000.com
 ||jarhu.com
 ||jartto.wang
-||jaskni.com
 ||jasolar.com
 ||jason-z.com
 ||jasongj.com
@@ -32722,7 +32719,6 @@
 ||jcsb.com
 ||jcsfs.com
 ||jcsjt.com
-||jcspkj.com
 ||jcssyxh.com
 ||jctmj.net
 ||jctrans.com
@@ -34081,6 +34077,7 @@
 ||jnmami.com
 ||jnnc.com
 ||jnnews.tv
+||jnqccw.com
 ||jnqjyj.com
 ||jnrain.com
 ||jnshu.com
@@ -34516,6 +34513,7 @@
 ||jsyunbf.com
 ||jsyxrcb.com
 ||jszb123.com
+||jszbtb.com
 ||jszbug.com
 ||jszbw.com
 ||jszg.org
@@ -35561,6 +35559,7 @@
 ||kenweini.com
 ||kenwen.com
 ||kenword.com
+||kenxv.com
 ||kepingtong.com
 ||kepuchina.org
 ||kepusky.com
@@ -36175,6 +36174,7 @@
 ||kt5u.com
 ||ktanx.com
 ||ktbiao.com
+||ktfdsb.com
 ||kting.info
 ||ktjd.net
 ||ktkj.com
@@ -36878,6 +36878,7 @@
 ||laohuabao.com
 ||laohuangli.net
 ||laohucaijing.com
+||laohutao.com
 ||laohuyun.com
 ||laojilu.com
 ||laojiuxitong.com
@@ -37396,6 +37397,7 @@
 ||lexueying.com
 ||lexun.com
 ||lexun365.com
+||lexzr.com
 ||leyaoyao.com
 ||leyaoyao.org
 ||leybc.com
@@ -38500,6 +38502,7 @@
 ||longaa.com
 ||longanlaw.com
 ||longau.com
+||longbaobook.com
 ||longcai.com
 ||longcheer.com
 ||longchen80.com
@@ -40471,6 +40474,7 @@
 ||mht.la
 ||mhtclub.com
 ||mhtml5.com
+||mhwck.com
 ||mhwmm.com
 ||mhwy2.com
 ||mhxk.com
@@ -41818,6 +41822,7 @@
 ||mychebao.com
 ||mychemy.com
 ||mychery.com
+||mychery.net
 ||mychinaevent.com
 ||mychunyan.net
 ||mycleanmymac.com
@@ -42893,7 +42898,6 @@
 ||nk84.com
 ||nkscdn.com
 ||nktaba.com
-||nkw100.com
 ||nkyp.com
 ||nlark.com
 ||nlinkline.com
@@ -46853,6 +46857,7 @@
 ||qqyy.com
 ||qqyyx.com
 ||qqzaixian.com
+||qqzby.net
 ||qqzhi.com
 ||qqzi.net
 ||qqzl.cc
@@ -48140,7 +48145,6 @@
 ||rsw163.com
 ||rszfg.com
 ||rt-blend.com
-||rt-mart.net
 ||rt-thread.io
 ||rt-thread.org
 ||rtasia.org
@@ -48836,6 +48840,7 @@
 ||sdchina.com
 ||sdchn.com
 ||sdcqjy.com
+||sdctech.net
 ||sdcydl.com
 ||sdd17.com
 ||sddagongrubber.com
@@ -50021,6 +50026,7 @@
 ||shojo.cc
 ||shokan.org
 ||shokw.com
+||shomyq.com
 ||shoot.photo
 ||shootmedia.net
 ||shop.globalsign.com
@@ -51189,7 +51195,6 @@
 ||soba8.com
 ||sobaidupan.com
 ||sobanks.com
-||sobeautiful-wtbbs.com
 ||sobeian.com
 ||sobeycache.com
 ||sobeycloud.com
@@ -52458,6 +52463,7 @@
 ||sxrb.com
 ||sxrbw.com
 ||sxrczx.com
+||sxrjcspx.com
 ||sxrsj.net
 ||sxrtv.com
 ||sxsapi.com
@@ -54772,6 +54778,7 @@
 ||treelib.com
 ||treetwins.com
 ||treeyee.com
+||trejhtyrjetyjetyrkuy-3.xyz
 ||trekin.space
 ||trekiz.com
 ||trend6.com
@@ -56243,7 +56250,6 @@
 ||uyunbaby.com
 ||uyuyao.com
 ||uyyidc.com
-||uz178.com
 ||uz73.com
 ||uz73.net
 ||uzai.com
@@ -60195,6 +60201,7 @@
 ||xdkjchina.com
 ||xdkjjy.com
 ||xdkjpx.com
+||xdlaa.xyz
 ||xdmnyy.com
 ||xdmssp.com
 ||xdnice.com
@@ -60983,6 +60990,7 @@
 ||xiezhenye.com
 ||xieziqiu.net
 ||xiezixiansheng.com
+||xiezuo100.com
 ||xiezuocat.com
 ||xifan.org
 ||xifangw.com
@@ -62171,6 +62179,7 @@
 ||xuexb.com
 ||xuexi.la
 ||xuexi365.com
+||xuexi637.com
 ||xuexiaodaquan.com
 ||xuexiaodaquan.net
 ||xuexiaozhaopin.com
@@ -62366,6 +62375,7 @@
 ||xxka.com
 ||xxko.net
 ||xxkt.org
+||xxkucun.com
 ||xxlcn.com
 ||xxlinux.com
 ||xxliudsp.com
@@ -63885,6 +63895,7 @@
 ||ykinvestment.com
 ||ykjhdc.com
 ||ykntv.com
+||ykplg.com
 ||ykpxxx.com
 ||ykq.ink
 ||ykqnl.com
@@ -64161,6 +64172,7 @@
 ||yooek.com
 ||yooerjia.com
 ||yoohouse.com
+||yoojia.com
 ||yooknet.com
 ||yooli.com
 ||yoolin.cc
@@ -65518,6 +65530,7 @@
 ||yzfc8.com
 ||yzfjy.com
 ||yzgjgs.com
+||yzgnet.com
 ||yzgttm.com
 ||yzgzgd.com
 ||yzhbw.net
