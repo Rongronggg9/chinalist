@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-10-03 01:07:02 UTC
+! Updated: 2021-10-04 01:06:12 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -2083,7 +2083,6 @@
 @@||1shang.com
 @@||1shangbiao.com
 @@||1sheng.com
-@@||1shipin.net
 @@||1shoucang.com
 @@||1sj.tv
 @@||1sohu.com
@@ -3998,7 +3997,6 @@
 @@||51569.com
 @@||5156edu.com
 @@||5156rcw.com
-@@||5156ys.net
 @@||515app.com
 @@||515car.com
 @@||515fa.com
@@ -9817,7 +9815,6 @@
 @@||asiaci.com
 @@||asiacool.com
 @@||asiacorp.net
-@@||asiadancing.com
 @@||asiae.com
 @@||asiaeap.com
 @@||asiafactor.com
@@ -11617,7 +11614,6 @@
 @@||biquge99.cc
 @@||biqugeapp.com
 @@||biqugebook.com
-@@||biqugecom.com
 @@||biqugee.com
 @@||biqugeg.com
 @@||biqugemm.com
@@ -14458,7 +14454,6 @@
 @@||chda.net
 @@||chdajob.com
 @@||chdelphin.com
-@@||chdmv.com
 @@||chdtv.net
 @@||che.com
 @@||che0.com
@@ -20216,7 +20211,6 @@
 @@||douhuar.com
 @@||douhuibuy.com
 @@||douikan.com
-@@||doujind.com
 @@||doukantv.com
 @@||doukeji.com
 @@||doulai.com
@@ -20832,7 +20826,6 @@
 @@||dygangs.com
 @@||dygod.com
 @@||dygod.org
-@@||dygodj8.com
 @@||dyhhy.cc
 @@||dyhjw.com
 @@||dyhr88.com
@@ -27521,7 +27514,6 @@
 @@||hdmnw.com
 @@||hdmooncake.com
 @@||hdmv.org
-@@||hdnfm.com
 @@||hdpfans.com
 @@||hdpyqa.com
 @@||hdpyqc.com
@@ -42250,7 +42242,6 @@
 @@||nfcmag.com
 @@||nffair.com
 @@||nffund.com
-@@||nfjt.net
 @@||nflchina.com
 @@||nfmedia.com
 @@||nfmrtfv.com
@@ -43060,6 +43051,7 @@
 @@||oelove.com
 @@||oemol.com
 @@||oemresource.com
+@@||oemsnavi.com
 @@||oeob.net
 @@||oesell.com
 @@||oetsi.com
@@ -46832,6 +46824,7 @@
 @@||qwpo2018.com
 @@||qwpr3.com
 @@||qwpr38.com
+@@||qwps.com
 @@||qwqk.net
 @@||qwqoffice.com
 @@||qwspcz.com
@@ -52010,6 +52003,7 @@
 @@||sxgdtv.com
 @@||sxglpx.com
 @@||sxgoo.com
+@@||sxgq.net
 @@||sxgs.com
 @@||sxhctv.com
 @@||sxhlxy.com
@@ -53341,7 +53335,6 @@
 @@||theonemusic.net
 @@||theorychina.org
 @@||thepaintstore.net
-@@||thepast.cc
 @@||thestack.net
 @@||thethirdmedia.com
 @@||thetigerhood.com
@@ -59822,7 +59815,6 @@
 @@||xgdq.com
 @@||xgfz.net
 @@||xggjj.com
-@@||xgh0st.com
 @@||xghylt.com
 @@||xgimi.com
 @@||xgj-info.com
@@ -63500,7 +63492,6 @@
 @@||ynet.com
 @@||ynfabu.com
 @@||yngd016.com
-@@||yngehao.com
 @@||ynggzy.com
 @@||yngl666.com
 @@||yngp.com
