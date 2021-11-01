@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-10-31 01:03:18 UTC
+! Updated: 2021-11-01 01:03:32 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
