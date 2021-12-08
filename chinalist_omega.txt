@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2021-12-07 01:06:20 UTC
+! Updated: 2021-12-08 01:05:40 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -1883,7 +1883,6 @@
 ||189read.com
 ||189read.net
 ||189sec.com
-||189share.com
 ||189smarthome.com
 ||189store.com
 ||189works.com
@@ -5741,7 +5740,6 @@
 ||666629b.com
 ||6666519.net
 ||666666.so
-||666898d.com
 ||6669667.com
 ||666baicai.com
 ||666gps.com
@@ -8997,6 +8995,7 @@
 ||aliwears.com
 ||aliwx.net
 ||alixiaozhan.com
+||alixiaozhan.net
 ||alixinwen.com
 ||alixixi.com
 ||alixox.com
@@ -13887,7 +13886,6 @@
 ||cditv.tv
 ||cdjingfeng.com
 ||cdjingying.com
-||cdjinpeng.com
 ||cdjnrc.com
 ||cdjsjx.com
 ||cdjxjy.com
@@ -14229,6 +14227,7 @@
 ||cfhpc.org
 ||cfido.com
 ||cfiec.net
+||cfiecdns.net
 ||cfimg.com
 ||cfkq.net
 ||cflm.com
@@ -19440,7 +19439,6 @@
 ||dhrcbank.com
 ||dhrest.com
 ||dht5867.com
-||dhtb.com
 ||dhwooden.com
 ||dhy559999.com
 ||dhy85888.com
@@ -19450,7 +19448,6 @@
 ||dhyjaqa.com
 ||dhyz.net
 ||dhzw.cc
-||di.com
 ||di3fang.com
 ||di3fang.vip
 ||diablohu.com
@@ -23370,7 +23367,6 @@
 ||fhd001.com
 ||fhdjh.com
 ||fhdq.net
-||fhdr.com
 ||fhg90.com
 ||fhhgj.com
 ||fhkioskmodules.com
@@ -25146,7 +25142,6 @@
 ||ghboke.com
 ||ghgy.com
 ||ghgy.net
-||ghkm.com
 ||ghlearning.com
 ||ghmba.com
 ||ghmcchina.com
@@ -26289,6 +26284,7 @@
 ||guotv.com
 ||guowaidiaocha.com
 ||guowaitianqi.com
+||guowenku.com
 ||guoxingjun.com
 ||guoxinqh.com
 ||guoxue.com
@@ -30205,7 +30201,6 @@
 ||hxt-semitech.com
 ||hxthjy.com
 ||hxtk.com
-||hxttcp.com
 ||hxwglm.com
 ||hxxdsb.com
 ||hxxkw.org
@@ -31786,6 +31781,7 @@
 ||intelvisioncn.com
 ||inter12.org
 ||inter1908.net
+||interactivebrokers.hk
 ||interbator.com
 ||internationalbrand.net
 ||internbird.com
@@ -31846,7 +31842,6 @@
 ||ioneball.com
 ||ionewu.com
 ||ionic.wang
-||ionic8.com
 ||ionichina.com
 ||ionicliquid.org
 ||iooeoo.com
@@ -37208,7 +37203,6 @@
 ||leagsoft.com
 ||leangoo.com
 ||leankun.com
-||leanlan.com
 ||leanote.com
 ||leanote.org
 ||leansoftx.com
@@ -51288,6 +51282,7 @@
 ||sobeycache.com
 ||sobeycloud.com
 ||sobot.com
+||soboten.com
 ||sobug.com
 ||sobuhu.com
 ||socang.com
@@ -52587,7 +52582,6 @@
 ||sxwpyx.com
 ||sxwrsa.org
 ||sxww.com
-||sxxcrl.com
 ||sxxdll.com
 ||sxxiaomeng.com
 ||sxxl.com
@@ -53419,7 +53413,6 @@
 ||taurus66.com
 ||tavsiktlig.com
 ||tax-edu.net
-||tax12366.org
 ||taxjiangkewang.com
 ||taxnote.org
 ||taxspirit.com
@@ -56116,6 +56109,7 @@
 ||uplookedu.com
 ||uplooking.com
 ||upnb.com
+||upowerchain.com
 ||uppsd.com
 ||upqzfile.com
 ||upqzfilebk.com
@@ -58186,6 +58180,7 @@
 ||wenneart.com
 ||wenpie.com
 ||wenrouge.com
+||wenruya.com
 ||wenryxu.com
 ||wensang.com
 ||wenshao-art.com
@@ -59027,7 +59022,6 @@
 ||wmcn.com
 ||wmedias.com
 ||wmgjd.com
-||wmgm.org
 ||wmiao.com
 ||wmiyx.com
 ||wmjk.net
@@ -60375,6 +60369,7 @@
 ||xfsub.com
 ||xft123.com
 ||xftclub.com
+||xfun233.com
 ||xfwi.com
 ||xfxb.net
 ||xfyousheng.com
@@ -61867,7 +61862,6 @@
 ||xn--w9qy23cc6adz7d.net
 ||xn--wlqw5ebvdhpi5hepihs3c.com
 ||xn--xhq9mt12cf5v.ink
-||xn--xhq9mt12cf5v.site
 ||xn--ygtp21bwyedsq.com
 ||xn--zq2aw6m.xyz
 ||xn-ck.com
@@ -67861,7 +67855,6 @@
 ||zorrowh.com
 ||zou.la
 ||zou114.com
-||zou114.net
 ||zoubiao.com
 ||zoucheng.cc
 ||zoucz.com
