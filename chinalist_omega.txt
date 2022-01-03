@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-01-02 01:09:46 UTC
+! Updated: 2022-01-03 01:06:27 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -479,7 +479,6 @@
 ||05935.com
 ||0593666.com
 ||0594.com
-||059400.com
 ||0595job.com
 ||0595rc.com
 ||0596fc.com
@@ -9676,6 +9675,7 @@
 ||aqdstatic.com
 ||aqee.net
 ||aqfen.com
+||aqhbq.com
 ||aqhuayu.com
 ||aqidb.org
 ||aqioo.com
@@ -10210,6 +10210,7 @@
 ||b2b98.net
 ||b2baa.com
 ||b2bic.com
+||b2bname.com
 ||b2bneican.com
 ||b2bvip.com
 ||b2bvip.net
@@ -10219,7 +10220,6 @@
 ||b355.cc
 ||b35ii.com
 ||b3inside.com
-||b3log.org
 ||b3logfile.com
 ||b5200.net
 ||b5b6.com
@@ -13026,7 +13026,6 @@
 ||c.citic
 ||c.team
 ||c0594.com
-||c0de4fun.com
 ||c0ks.com
 ||c1042.com
 ||c1ass.com
@@ -21622,7 +21621,6 @@
 ||ehedco.com
 ||ehiman.com
 ||ehinvest.hk
-||ehn3.com
 ||ehome5.com
 ||ehome8.com
 ||ehomeclouds.com
@@ -22502,6 +22500,7 @@
 ||faceh5.com
 ||facehufu.com
 ||faceid.com
+||faceminiproject.online
 ||faceplusplus.com
 ||faceu.mobi
 ||faceu.net
@@ -22833,7 +22832,6 @@
 ||faxingchina.com
 ||faxingcn.com
 ||faxingnet.com
-||faxingshuo.com
 ||faxingsj.com
 ||faxingtp.com
 ||faxingtupian.com
@@ -23201,6 +23199,7 @@
 ||fffzgh.com
 ||ffhre.com
 ||ffis.me
+||ffjd1.com
 ||ffmarket.com
 ||ffmulu.com
 ||ffpedia.com
@@ -24659,6 +24658,7 @@
 ||gdkz88.com
 ||gdlins.com
 ||gdlppow.com
+||gdlsgz.com
 ||gdmappress.com
 ||gdmingshizx.com
 ||gdmm.com
@@ -33988,6 +33988,7 @@
 ||jmtsg.com
 ||jmxfw.com
 ||jmxw.net
+||jmykw.com
 ||jmyna.net
 ||jmzcgs.com
 ||jmzns.com
@@ -36763,7 +36764,6 @@
 ||lantian.tv
 ||lantinglou.com
 ||lantingmingjia.com
-||lantouzi.com
 ||lantunyouxi.com
 ||lanuss.com
 ||lanvige.com
@@ -36997,7 +36997,6 @@
 ||lczyy.com
 ||ld0766.com
 ||ld12366.com
-||ld246.com
 ||ldcache.net
 ||ldcang.com
 ||ldd.me
@@ -37422,7 +37421,6 @@
 ||lhflh.com
 ||lhggjd.org
 ||lhh.la
-||lhidc.net
 ||lhlqw.com
 ||lhm8.com
 ||lhrbszb.com
@@ -40907,7 +40905,6 @@
 ||mlyfc.net
 ||mlyfcyy.com
 ||mlzcn.com
-||mm.cc
 ||mm.com
 ||mm111.net
 ||mm12581.com
@@ -42098,6 +42095,7 @@
 ||nantaihu.com
 ||nantongbike.com
 ||nantonghua.net
+||nantongle.com
 ||nanxueqx.com
 ||nanxunjob.com
 ||nanyangcable.com
@@ -51423,7 +51421,6 @@
 ||spdiy.net
 ||spdl.com
 ||spdydns.com
-||spe777.com
 ||specialcdnstatus.com
 ||speed-dns.cc
 ||speed-idc.com
@@ -52847,7 +52844,6 @@
 ||tainicement.net
 ||taipingyangyinshua.com
 ||taiqigame.com
-||taiqingjiu.com
 ||tairan.com
 ||taishangshiwu.com
 ||taishenghb.com
@@ -57051,6 +57047,7 @@
 ||wangjunwei.com
 ||wangkl.com
 ||wangkx.xyz
+||wangl903.com
 ||wangle.com
 ||wanglibao.com
 ||wanglids.com
@@ -57116,7 +57113,6 @@
 ||wangyin.com
 ||wangyou.com
 ||wangyou2.com
-||wangyq.com
 ||wangyuan.com
 ||wangyuegame.com
 ||wangyutang.com
@@ -59052,6 +59048,7 @@
 ||woziku.com
 ||wp-china-yes.net
 ||wp-h.com
+||wp10.cc
 ||wpan123.com
 ||wpceo.com
 ||wpchina.org
@@ -65400,6 +65397,7 @@
 ||zahtb.com
 ||zahuibaike.com
 ||zahuishi.com
+||zai-art.com
 ||zaibei.net
 ||zaichengdu.com
 ||zaidu.la
@@ -65974,6 +65972,7 @@
 ||zhanggang.net
 ||zhanggao.club
 ||zhanggaoyuan.com
+||zhanggee.com
 ||zhanghaijun.com
 ||zhanghongliang.com
 ||zhanghuanglong.com
@@ -67206,7 +67205,6 @@
 ||zjipc.com
 ||zjj17u.com
 ||zjj21.com
-||zjj588.com
 ||zjjd.org
 ||zjjdamuzhi.com
 ||zjjgcyz.com
