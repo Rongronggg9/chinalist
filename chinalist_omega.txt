@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-01-05 01:09:22 UTC
+! Updated: 2022-01-06 01:13:33 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -3189,6 +3189,7 @@
 ||363u.com
 ||364000.com
 ||365128.com
+||365135.com
 ||36543.com
 ||365500.com
 ||365708.com
@@ -5563,7 +5564,6 @@
 ||6122.net
 ||612345.com
 ||612459.com
-||6132071.com
 ||6132823.com
 ||6132979.com
 ||6137.net
@@ -8438,7 +8438,6 @@
 ||aidrive.com
 ||aiduoka.com
 ||aiduwenxue.com
-||aidzs.com
 ||aiec-alliance.com
 ||aiegle.com
 ||aiemy.com
@@ -9290,6 +9289,7 @@
 ||anquanzhuomian.com
 ||anqunzhi.com
 ||anrayer.com
+||anren.org
 ||anrenmind.com
 ||anruichina.com
 ||ansgo.com
@@ -13251,6 +13251,7 @@
 ||callda.com
 ||callmewhy.com
 ||caloinfo.com
+||calorietech.com
 ||calt.com
 ||calvinneo.com
 ||cambm.com
@@ -13753,6 +13754,7 @@
 ||cd-vv.com
 ||cd-zc.com
 ||cd120.com
+||cd23f.com
 ||cd37wan.com
 ||cdabon.com
 ||cdadata.com
@@ -13917,6 +13919,7 @@
 ||cdqcp.com
 ||cdqph.com
 ||cdqss.com
+||cdrbs.net
 ||cdren.com
 ||cdren.net
 ||cdronghai.com
@@ -19013,6 +19016,7 @@
 ||dedezhuji.com
 ||deehai.com
 ||deemob.com
+||deemos.com
 ||deepai.com
 ||deepano.com
 ||deepaso.com
@@ -28579,6 +28583,7 @@
 ||hnoceanrace.com
 ||hnol.net
 ||hnpet.net
+||hnpfw.com
 ||hnpolice.com
 ||hnpost.com
 ||hnqfseed.com
@@ -33143,6 +33148,7 @@
 ||jiatingdog.com
 ||jiatui.com
 ||jiatx.com
+||jiawentrans.com
 ||jiawin.com
 ||jiaxiaozhijia.com
 ||jiaxichina.net
@@ -38213,6 +38219,7 @@
 ||lljgame.com
 ||lljgxx.com
 ||llku.com
+||llqdh.com
 ||lls.moe
 ||llsapp.com
 ||llscdn.com
@@ -40241,6 +40248,7 @@
 ||menle.com
 ||menpiao.com
 ||menqiu.com
+||menubarx.app
 ||menwee.com
 ||menww.com
 ||menwww.com
@@ -40697,6 +40705,7 @@
 ||minhangshi.com
 ||minhow.com
 ||mini-audio.com
+||mini-program.net
 ||mini5cn-1.opera-mini.net
 ||mini5cn.opera-mini.net
 ||miniadx.com
@@ -44327,6 +44336,7 @@
 ||pdfdo.com
 ||pdfdowell.com
 ||pdfexpert.cc
+||pdffsy.com
 ||pdffx.com
 ||pdfjia.com
 ||pdflibr.com
@@ -46859,6 +46869,7 @@
 ||queenfather.com
 ||quegame.com
 ||quegoo.com
+||queji.tw
 ||queqiaoba.com
 ||querylist.cc
 ||queshao.com
@@ -48090,7 +48101,6 @@
 ||ruvar.com
 ||ruvisas.com
 ||ruwen5.com
-||ruxianke.com
 ||ruyahui.com
 ||ruyig.com
 ||ruyile.com
@@ -52870,6 +52880,7 @@
 ||talkwithtrend.com
 ||talkyun.com
 ||taluo.com
+||talyscm.com
 ||talzjsj.com
 ||tamaegis.com
 ||tamc8.com
@@ -54417,6 +54428,7 @@
 ||touchxd.com
 ||touclick.com
 ||touduyu.com
+||toufu321.com
 ||toughcoder.net
 ||tougub.com
 ||touhou.cd
@@ -60116,6 +60128,7 @@
 ||xhj.com
 ||xhjingling.com
 ||xhkt.tv
+||xhlaowu.com
 ||xhlgfsc.com
 ||xhlyjlb.com
 ||xhma.com
@@ -63339,7 +63352,6 @@
 ||yinjiaji.com
 ||yinjietd.com
 ||yinka.co
-||yinke.com
 ||yinker.com
 ||yinlei.net
 ||yinliuba.com
@@ -65857,6 +65869,7 @@
 ||zgtuku.com
 ||zgtxw.com
 ||zgtygg.com
+||zgtzhb.com
 ||zgui.com
 ||zguonew.com
 ||zgw.com
@@ -66033,7 +66046,6 @@
 ||zhaoapple.com
 ||zhaobeidaxiao.com
 ||zhaobeijing.com
-||zhaobiao.info
 ||zhaobuxiu.com
 ||zhaocaibb.com
 ||zhaocaihr.com
