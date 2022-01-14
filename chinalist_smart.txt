@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-01-13 01:11:00 UTC
+! Updated: 2022-01-14 01:09:48 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -1213,7 +1213,6 @@
 @@||123hao.com
 @@||123hdp.com
 @@||123huodong.com
-@@||123ku.com
 @@||123lihun.com
 @@||123meiyan.com
 @@||123nice.net
@@ -4973,6 +4972,7 @@
 @@||53tct.com
 @@||53xjd.com
 @@||53yao.com
+@@||53yu.com
 @@||53zw.net
 @@||54.com
 @@||54114.com
@@ -4997,6 +4997,7 @@
 @@||54kefu.net
 @@||54lol.com
 @@||54manong.com
+@@||54md.com
 @@||54op.com
 @@||54share.com
 @@||54tf.com
@@ -6471,7 +6472,6 @@
 @@||80juqing.com
 @@||80kongjian.com
 @@||80kuku.com
-@@||80lib.com
 @@||80ml.com
 @@||80nb.com
 @@||80note.com
@@ -7028,6 +7028,7 @@
 @@||91daizhang.com
 @@||91danji.com
 @@||91data.com
+@@||91datong.com
 @@||91dba.com
 @@||91dbb.com
 @@||91dbq.com
@@ -7092,7 +7093,6 @@
 @@||91mariadb.com
 @@||91maths.com
 @@||91mitang.com
-@@||91mjw.com
 @@||91money.com
 @@||91muzhi.com
 @@||91nzh.com
@@ -7628,7 +7628,6 @@
 @@||99read.com
 @@||99rom.com
 @@||99sky.com
-@@||99suliao.com
 @@||99sun.com
 @@||99sushe.com
 @@||99vf.com
@@ -10096,7 +10095,6 @@
 @@||avicui.com
 @@||avivaqueen.com
 @@||avivasign.com
-@@||avjoy.me
 @@||avlsec.com
 @@||avlyun.com
 @@||avnpc.com
@@ -11092,7 +11090,6 @@
 @@||beian88.com
 @@||beianapi29.com
 @@||beianapi30.com
-@@||beianbaba.com
 @@||beianidc.com
 @@||beianw.net
 @@||beibaozq.com
@@ -11231,7 +11228,6 @@
 @@||benyh.com
 @@||benyht.com
 @@||benyouhui.com
-@@||benz-photo.com
 @@||benzhb.com
 @@||benzhibbs.com
 @@||benztu.com
@@ -11611,7 +11607,6 @@
 @@||binkery.com
 @@||binmt.cc
 @@||binmtplus.com
-@@||binospace.com
 @@||binpang.me
 @@||binqsoft.com
 @@||binstream.live
@@ -19269,7 +19264,6 @@
 @@||dggjqw.com
 @@||dggkj.com
 @@||dggvip.net
-@@||dghfw.com
 @@||dghqmotor.com
 @@||dginfo.com
 @@||dgjiuqi.com
@@ -19657,7 +19651,6 @@
 @@||diqu114.com
 @@||diqua.com
 @@||dir001.com
-@@||dircha.com
 @@||directui.com
 @@||discourse-studies.com
 @@||discoversources.com
@@ -19863,6 +19856,7 @@
 @@||dm190.com
 @@||dm300.com
 @@||dm321.net
+@@||dm4mm.com
 @@||dm5.com
 @@||dm77.com
 @@||dm789.com
@@ -20664,6 +20658,7 @@
 @@||duoduotv.com
 @@||duoduoyin.com
 @@||duoduoyouli888.com
+@@||duoduozb.com
 @@||duoduozhifu.com
 @@||duoente.net
 @@||duoerpharmacy.com
@@ -22639,7 +22634,6 @@
 @@||fanglist.com
 @@||fanglitong.com
 @@||fangmeileju.com
-@@||fangniaowang.net
 @@||fangqk.com
 @@||fangshanzi.com
 @@||fangshuitan888.com
@@ -23493,7 +23487,6 @@
 @@||flashv8.com
 @@||flashwar.com
 @@||flashwing.net
-@@||flashyl.com
 @@||flatshare365.com
 @@||flawcache.com
 @@||flduo.com
@@ -25664,7 +25657,6 @@
 @@||gpnewtech.com
 @@||gppapp.com
 @@||gps8.com
-@@||gpshk.cc
 @@||gpslook.net
 @@||gpsoo.net
 @@||gpsspg.com
@@ -26014,6 +26006,7 @@
 @@||gudaovision.com
 @@||gudi.cc
 @@||gudianhr.com
+@@||guduodata.com
 @@||guer.org
 @@||guestops.com
 @@||gufeiposuiji.com
@@ -26566,6 +26559,7 @@
 @@||h-shgroup.com
 @@||h-ui.net
 @@||h-world.com
+@@||h-zl.net
 @@||h0591.com
 @@||h0758.net
 @@||h0f.me
@@ -28424,7 +28418,6 @@
 @@||hkpep.com
 @@||hkproperty.com
 @@||hkqbh.com
-@@||hkqq8.com
 @@||hkskyloyd.com
 @@||hkstv.tv
 @@||hkt4.com
@@ -28859,7 +28852,6 @@
 @@||horizonrcg.com
 @@||horn-yacht.com
 @@||horsa.org
-@@||horsehr.com
 @@||horti-expo2019.com
 @@||horti-expo2019.org
 @@||hortor.net
@@ -29696,6 +29688,7 @@
 @@||huitouyu.com
 @@||huitouzi.com
 @@||huitu.com
+@@||huitun.com
 @@||huiurl.com
 @@||huivo.com
 @@||huiweixin.com
@@ -29818,7 +29811,6 @@
 @@||huocc.com
 @@||huochai.mobi
 @@||huochaihe.cc
-@@||huoche.biz
 @@||huoche.com
 @@||huoche.net
 @@||huoche.wiki
@@ -30458,6 +30450,7 @@
 @@||ibianqu.com
 @@||ibiaozhi.com
 @@||ibicn.com
+@@||ibidian.com
 @@||ibiji.com
 @@||ibimawen.com
 @@||ibimuyu.com
@@ -33473,7 +33466,6 @@
 @@||jingwentian.com
 @@||jingwuhui.com
 @@||jingxi.com
-@@||jingxialai.com
 @@||jingxianglawfirm.com
 @@||jingxinad.com
 @@||jingxingseo.com
@@ -34409,6 +34401,7 @@
 @@||jsnx.net
 @@||jsnxs.com
 @@||jsocr.com
+@@||json-json.com
 @@||jsonin.com
 @@||jsonnode.com
 @@||jsososo.com
@@ -38725,6 +38718,7 @@
 @@||ls666.com
 @@||lsbankchina.com
 @@||lsbchina.com
+@@||lsbin.com
 @@||lsccb.com
 @@||lsfyw.net
 @@||lsg3.com
@@ -44230,6 +44224,7 @@
 @@||parkchina.net
 @@||parkdaily.com
 @@||parkingjet.com
+@@||parkingquickly.com
 @@||parkmecn.com
 @@||parkviewgreen.com
 @@||parnassusdata.com
@@ -45623,7 +45618,6 @@
 @@||qbxz.com
 @@||qc-dds.net
 @@||qc-hr.com
-@@||qc-pm.com
 @@||qc027.com
 @@||qc178.com
 @@||qc188.com
@@ -46786,9 +46780,11 @@
 @@||qtimes.net
 @@||qtj5.com
 @@||qtlcdn.com
+@@||qtlcdncn.info
 @@||qtlcn.com
 @@||qtlglb.com
 @@||qtlglb.info
+@@||qtlgslbcn.info
 @@||qtluyuan.com
 @@||qtmojo.com
 @@||qtonghua.com
@@ -47718,6 +47714,7 @@
 @@||ritarpower.com
 @@||ritering.com
 @@||rivergame.net
+@@||riyuanma.com
 @@||riyuba.com
 @@||riyuexing.org
 @@||riyuezhuan.com
@@ -49196,6 +49193,7 @@
 @@||shadow-forum.com
 @@||shadowedu.net
 @@||shadowq.com
+@@||shaduizi.com
 @@||shafa.com
 @@||shafaguanjia.com
 @@||shahaizi.com
@@ -50659,7 +50657,6 @@
 @@||sjdzp.net
 @@||sjetdz.com
 @@||sjfcdn.com
-@@||sjfkai.com
 @@||sjfpro.com
 @@||sjfx.com
 @@||sjfzxm.com
@@ -52169,7 +52166,6 @@
 @@||sushouka688.com
 @@||susong51.com
 @@||susongbbs.com
-@@||susouth.com
 @@||sustc.us
 @@||susudm.com
 @@||suteidc.com
@@ -53487,6 +53483,7 @@
 @@||tenshi.cc
 @@||tensorchip.com
 @@||tensornews.net
+@@||tenstars.net
 @@||tensynad.com
 @@||tensynchina.com
 @@||tentrue.com
@@ -54402,6 +54399,7 @@
 @@||topeetboard.com
 @@||topenergy.org
 @@||topengroup.net
+@@||topfisc.com
 @@||topflames.com
 @@||topfreeweb.net
 @@||topgslb.com
@@ -54428,6 +54426,7 @@
 @@||topnews9.com
 @@||topomel.com
 @@||toppdu.com
+@@||topperuse.com
 @@||toppiao.net
 @@||topproio.com
 @@||topqh.net
@@ -59094,6 +59093,7 @@
 @@||wpcnzz.com
 @@||wpdaxue.com
 @@||wpengapp.com
+@@||wper.com
 @@||wpgdadatong.com
 @@||wpgdadawant.com
 @@||wphonelife.com
@@ -59729,7 +59729,6 @@
 @@||wzright.com
 @@||wzsee.com
 @@||wzsky.net
-@@||wzssbs.com
 @@||wzstationery.com
 @@||wztf121.com
 @@||wzwmw.com
@@ -61767,7 +61766,6 @@
 @@||xshuotxt.com
 @@||xshwp.com
 @@||xsina.net
-@@||xsj2020888.com
 @@||xsj2021888.com
 @@||xsjedu.org
 @@||xsjsource.com
@@ -63344,7 +63342,6 @@
 @@||yingmi.com
 @@||yingmile.com
 @@||yingming.net
-@@||yingmishi.com
 @@||yingmoo.com
 @@||yingpingji.com
 @@||yingsheng.com
@@ -65821,6 +65818,7 @@
 @@||zggdjj.com
 @@||zggjgy.com
 @@||zgglkx.com
+@@||zgglyun.com
 @@||zggonglue.com
 @@||zggqzp.com
 @@||zggx.net
@@ -65895,6 +65893,7 @@
 @@||zgsd.net
 @@||zgsee.net
 @@||zgserver.com
+@@||zgshici.com
 @@||zgshifu.com
 @@||zgshige.com
 @@||zgshjj.com
@@ -66607,6 +66606,7 @@
 @@||zhongguojianmenguan.com
 @@||zhongguojie.org
 @@||zhongguojie.wang
+@@||zhongguojinrongtouziwang.com
 @@||zhongguojixiewang.com
 @@||zhongguomap.com
 @@||zhongguopeixun.net
