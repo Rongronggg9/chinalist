@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-01-17 01:09:59 UTC
+! Updated: 2022-01-18 01:10:32 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -543,7 +543,6 @@
 ||0728f.com
 ||0730188.com
 ||0730news.com
-||0730seo.com
 ||073122.com
 ||0731a.com
 ||0731cfw.com
@@ -6445,7 +6444,6 @@
 ||8090app.com
 ||8090cdn.com
 ||8090mt.com
-||8090st.com
 ||8090vision.com
 ||8090xx.com
 ||8090yx.com
@@ -18925,6 +18923,7 @@
 ||ddsaas.com
 ||ddske.com
 ||ddstarapp.com
+||ddswcm.com
 ||ddsy.com
 ||ddtaba.com
 ||ddtugame.com
@@ -25393,7 +25392,6 @@
 ||gongchou.com
 ||gongfubb.com
 ||gongheshengshi.com
-||gongjianglaile.com
 ||gongjiao.com
 ||gongjiaomi.com
 ||gongju.com
@@ -26816,7 +26814,6 @@
 ||hamanw.com
 ||hambut.com
 ||hamir.net
-||han-cang.com
 ||han-tang.cc
 ||han66.com
 ||hanamichi.wiki
@@ -32027,6 +32024,7 @@
 ||itaokecms.com
 ||itaotuo.com
 ||itavcn.com
+||itazhi.com
 ||itbegin.com
 ||itbeihe.com
 ||itbiaoju.com
@@ -32861,6 +32859,7 @@
 ||jhsctv.com
 ||jhsdai.com
 ||jhsfojiao.com
+||jhsjtxx.com
 ||jhssapp.com
 ||jht868.com
 ||jhtcgroup.com
@@ -33776,7 +33775,6 @@
 ||jjcto.com
 ||jjdc.net
 ||jjdede.com
-||jjdf.com
 ||jjdiaoyu.com
 ||jjdzc.com
 ||jjecn.com
@@ -34143,7 +34141,6 @@
 ||joywii.net
 ||joywok.com
 ||joyyang.com
-||joyyoo.com
 ||joyzlan.com
 ||jp-moco.com
 ||jp.com
@@ -38702,6 +38699,7 @@
 ||lsuoled.com
 ||lsup.net
 ||lsw315.com
+||lswld.com
 ||lswlsw.com
 ||lsxz.org
 ||lsywtc.com
@@ -41805,6 +41803,7 @@
 ||mymova.com
 ||mynb8.com
 ||mynee.com
+||myoas.com
 ||myodatech.com
 ||myoldtime.com
 ||myonlystar.com
@@ -52603,7 +52602,6 @@
 ||szpichappy.com
 ||szpmi.org
 ||szpowerpms.com
-||szpxb.com
 ||szpxe.com
 ||szqcz.com
 ||szqf.org
@@ -52888,6 +52886,7 @@
 ||tangdouimg.com
 ||tangeche.com
 ||tanggu11g.com
+||tangguoxian.com
 ||tanghushi.com
 ||tangide.com
 ||tangjie.me
@@ -53947,6 +53946,7 @@
 ||titan007.com
 ||titan24.com
 ||titanar.com
+||titanmatrix.com
 ||titapark.com
 ||tixa.com
 ||tixaapp.com
@@ -57577,7 +57577,6 @@
 ||weikd.com
 ||weike.fm
 ||weikebaba.net
-||weikefanli.com
 ||weikeimg.com
 ||weikejianghu.com
 ||weikengtech.com
@@ -61663,6 +61662,7 @@
 ||xsb.tw
 ||xsb120.com
 ||xsbiquge.com
+||xsbnggzyjyxx.com
 ||xscbs.com
 ||xschu.com
 ||xsdwk.com
