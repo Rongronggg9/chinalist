@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-01-26 01:10:30 UTC
+! Updated: 2022-01-27 01:04:30 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -9750,6 +9750,7 @@
 ||artlinkart.com
 ||artliving.tv
 ||artlnk.com
+||artmotions.net
 ||artoolinks.com
 ||artopia-group.com
 ||artp.cc
@@ -17260,6 +17261,7 @@
 ||cpcwe.com
 ||cpdad.com
 ||cpdaily.com
+||cpdyj.com
 ||cpecc.net
 ||cpeol.net
 ||cpgzh.com
@@ -19513,6 +19515,7 @@
 ||dimeng.net
 ||dimensionalzone.com
 ||dimpurr.com
+||dimsmary.tech
 ||dinais.com
 ||dindin.com
 ||dingdanggj.com
@@ -21269,6 +21272,7 @@
 ||ecombdstatic.com
 ||ecomoter.com
 ||ecookinn.com
+||ecool.site
 ||ecoplastech.com
 ||ecoprint.tech
 ||ecorr.org
@@ -25112,6 +25116,7 @@
 ||global-idc.net
 ||global-jf.com
 ||global-scsl.com
+||global-trade-center.com
 ||globalaccentchinese.com
 ||globalbuy.cc
 ||globalcompressor.com
@@ -28319,6 +28324,7 @@
 ||hkpep.com
 ||hkproperty.com
 ||hkqbh.com
+||hkscxh.com
 ||hkskyloyd.com
 ||hkstv.tv
 ||hkt4.com
@@ -45522,6 +45528,7 @@
 ||qcy.com
 ||qcymall.com
 ||qcyoung.com
+||qd-metro.com
 ||qd256.com
 ||qd315.net
 ||qdac.cc
@@ -53975,6 +53982,7 @@
 ||tlcharity.com
 ||tlfjw.com
 ||tlfw.net
+||tlggzyjy.com
 ||tlightsky.com
 ||tlinx.com
 ||tljcw.com
@@ -56149,6 +56157,7 @@
 ||vertuonline.com
 ||ververica.com
 ||very9s.net
+||veryapex.com
 ||verybeaut.com
 ||verycaca.com
 ||verycd.com
@@ -58630,6 +58639,7 @@
 ||wn51.com
 ||wn789.com
 ||wnacg.xyz
+||wnark.com
 ||wnbsq.com
 ||wndhw.com
 ||wndlkj.com
@@ -62729,6 +62739,7 @@
 ||yeshj.com
 ||yeshu.com
 ||yesidos.com
+||yesiness.com
 ||yeskn.com
 ||yesky.com
 ||yeslib.com
