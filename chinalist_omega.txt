@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-02-19 01:09:21 UTC
+! Updated: 2022-02-20 01:14:05 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -1423,7 +1423,6 @@
 ||15w.com
 ||15wz.com
 ||15xdd.com
-||15xs.com
 ||15yan.com
 ||15yc.com
 ||15yl.com
@@ -2145,6 +2144,7 @@
 ||204u.com
 ||205.com
 ||206dy.com
+||2080ly.com
 ||2088062.com
 ||2088063.com
 ||208xs.com
@@ -5574,7 +5574,6 @@
 ||61sou.com
 ||61tg.com
 ||61vps.com
-||61ww.com
 ||61xiangce.com
 ||62.com
 ||6210k.com
@@ -8579,7 +8578,6 @@
 ||aituan.com
 ||aitupian.com
 ||aituwo.com
-||aitxt.com
 ||aityp.com
 ||aiurl.com
 ||aiuw.com
@@ -10044,7 +10042,6 @@
 ||awtmt.com
 ||awuming.com
 ||awx1.com
-||ax1x.com
 ||ax2nc4.ren
 ||ax630.com
 ||axatp.com
@@ -13375,7 +13372,6 @@
 ||cbi360.net
 ||cbi88.com
 ||cbice.com
-||cbide.com
 ||cbiec.com
 ||cbiec.net
 ||cbismb.com
@@ -16581,7 +16577,6 @@
 ||cnmo.com
 ||cnmobile.net
 ||cnmods.org
-||cnmoi.org
 ||cnmsl.net
 ||cnmsn.net
 ||cnmstl.net
@@ -17565,6 +17560,7 @@
 ||csharpkit.com
 ||cshixi.com
 ||cshnkj.com
+||cshope.net
 ||cshu360.com
 ||cshxdc.com
 ||cshzw.com
@@ -18189,7 +18185,6 @@
 ||dadetong.com
 ||dadianstudio.com
 ||dadicinema.com
-||dadighost.com
 ||dadijilu.com
 ||dadipedia.com
 ||dadiwang.com
@@ -19813,6 +19808,7 @@
 ||dnsabc-g.com
 ||dnsapple.com
 ||dnsapple.net
+||dnsce.com
 ||dnscnc.com
 ||dnsddos.com
 ||dnsdiy.com
@@ -27294,6 +27290,7 @@
 ||hbseo.com
 ||hbsfgk.org
 ||hbshbsh.com
+||hbshengbangwl.com
 ||hbshgzx.com
 ||hbshls.com
 ||hbsia.org
@@ -27444,7 +27441,6 @@
 ||hdingsheng.com
 ||hdj.me
 ||hdjay.com
-||hdjr.org
 ||hdjwww.com
 ||hdlcdns.com
 ||hdlchina.com
@@ -27796,7 +27792,6 @@
 ||heyinguanli.com
 ||heymore.com
 ||heyou51.com
-||heyoutz.com
 ||heyplus.com
 ||heyreport.com
 ||heyria.com
@@ -34763,7 +34758,6 @@
 ||jztvxmt.com
 ||jztylxx.com
 ||jztzw.net
-||jzvip.cc
 ||jzwcom.com
 ||jzxs.com
 ||jzxue.com
@@ -36238,6 +36232,7 @@
 ||kxyike.com
 ||kxzmw.com
 ||ky-express.com
+||ky5yx.com
 ||ky958.com
 ||kybapp.com
 ||kybapp.net
@@ -38809,12 +38804,10 @@
 ||lwlm.com
 ||lwons.com
 ||lwork.com
-||lwqwq.com
 ||lwrcb.com
 ||lwsay.com
 ||lwswxs.com
 ||lwtxt.cc
-||lwurl.to
 ||lwxgds.com
 ||lwxiaoshuo.com
 ||lwxs.org
@@ -40506,6 +40499,7 @@
 ||miraclevision.net
 ||mirari.cc
 ||mirgaga.net
+||mirmzhy.com
 ||mirxat.com
 ||misaka.center
 ||misall.com
@@ -43038,6 +43032,7 @@
 ||officeedit.com
 ||officejc.net
 ||officese.com
+||officesoftcn.com
 ||officeweb365.com
 ||officewj.com
 ||officexr.com
@@ -43396,7 +43391,6 @@
 ||optaim.com
 ||optbbs.com
 ||opticsjournal.net
-||opticsx.org
 ||optimix.asia
 ||optimized-ai.com
 ||optinetchina.com
@@ -43992,7 +43986,6 @@
 ||pc51.com
 ||pc521.net
 ||pc5210.com
-||pc6.com
 ||pc6a.com
 ||pc70.com
 ||pc811.com
@@ -46481,6 +46474,7 @@
 ||qtumist.com
 ||qtx.com
 ||qtyd.com
+||qu.la
 ||qu02.com
 ||qu114.com
 ||qu247.com
@@ -50928,7 +50922,6 @@
 ||sooopu.com
 ||soopat.com
 ||soopay.net
-||sooshong.com
 ||sooshu.net
 ||soosmart.com
 ||sootoo.com
@@ -52968,6 +52961,7 @@
 ||tdnsv6.com
 ||tdnsv8.com
 ||tdpress.com
+||tdun.com
 ||tduou.com
 ||tdyxmoto.com
 ||tdzyw.com
@@ -58504,7 +58498,6 @@
 ||wogame.net
 ||wogoo.com
 ||wohenizaiyiqi.com
-||wohenok.com
 ||wohxx.com
 ||woi3d.com
 ||woiyu.com
@@ -61170,7 +61163,6 @@
 ||xmtbang.com
 ||xmtekic.com
 ||xmttz02.pw
-||xmtyl.com
 ||xmtyy02.pw
 ||xmtyy04.pw
 ||xmuchong.com
@@ -61331,6 +61323,7 @@
 ||xrunda.com
 ||xrwcn.com
 ||xs-servers.com
+||xs.la
 ||xs222.tw
 ||xs2500.com
 ||xs321.com
@@ -61362,7 +61355,6 @@
 ||xshengyan.com
 ||xshenshu.com
 ||xshkvip.com
-||xshouyi.com
 ||xshrcw.com
 ||xshulin.com
 ||xshuma.com
@@ -63288,7 +63280,6 @@
 ||yk08.com
 ||yk211.com
 ||ykadx.com
-||ykanxiaoshuo.com
 ||ykccn.com
 ||ykclass.com
 ||ykdgd.com
