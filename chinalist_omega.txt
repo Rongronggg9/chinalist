@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-02-20 01:14:05 UTC
+! Updated: 2022-02-21 01:04:34 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -11162,6 +11162,7 @@
 ||bestbaijiu.com
 ||bestbeibao.com
 ||bestcake.com
+||bestcdn.vip
 ||bestcem.com
 ||bestdjb.com
 ||bestdo.com
@@ -24375,6 +24376,7 @@
 ||gate-dhgames.com
 ||gateface.com
 ||gatewang.com
+||gateway.craft.moe
 ||gather-dns.com
 ||gathernames.com
 ||gaussianoptics.com
