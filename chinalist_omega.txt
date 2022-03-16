@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-03-15 01:20:23 UTC
+! Updated: 2022-03-16 01:21:27 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -930,6 +930,7 @@
 ||108cun.com
 ||108pk.com
 ||108qi.com
+||108shu.com
 ||108sq.com
 ||108tian.com
 ||109.com
@@ -6071,7 +6072,6 @@
 ||77745.com
 ||777524.com
 ||7775367.com
-||777684a.com
 ||777lala.com
 ||777moban.com
 ||777n.com
@@ -7854,7 +7854,6 @@
 ||acgdb.com
 ||acgdmzy.com
 ||acgdoge.net
-||acgface.com
 ||acgist.com
 ||acgn.pw
 ||acgnt.com
@@ -8090,7 +8089,6 @@
 ||aesml.com
 ||aesucai.com
 ||aevit.xyz
-||aex88.com
 ||af360.com
 ||afanti100.com
 ||afarway.com
@@ -10092,7 +10090,6 @@
 ||b7l.cc
 ||b8yx.com
 ||ba-li.com
-||ba125.com
 ||ba210.com
 ||baaidu.com
 ||baalchina.net
@@ -22646,7 +22643,6 @@
 ||fdzq.com
 ||fe-cable.com
 ||fe2x.cc
-||fe347.com
 ||fe520.com
 ||fearlazy.com
 ||feaye.com
@@ -25560,7 +25556,6 @@
 ||gtm.oasisfeng.com
 ||gtmlufax.com
 ||gtn9.com
-||gtnqk.com
 ||gto365.com
 ||gtobal.com
 ||gttof2020.com
@@ -36096,7 +36091,6 @@
 ||l7audiolab.com
 ||l99.com
 ||la-mo.com
-||la31.com
 ||lab-z.com
 ||labagd.com
 ||labahao.com
@@ -37530,6 +37524,7 @@
 ||lishouhong.com
 ||lishuhang.me
 ||lishui.com
+||lisinit.com
 ||lisizhang.com
 ||lisp123.com
 ||listarypro.com
@@ -37768,6 +37763,7 @@
 ||lkkued.com
 ||lkmcdk.com
 ||lkme.cc
+||lkong.com
 ||lkong.net
 ||lkxianglong.net
 ||lkyou.com
@@ -40019,7 +40015,6 @@
 ||midaijihua.com
 ||midainc.com
 ||midasbuy.com
-||midday.me
 ||midea.com
 ||midea.com.tr
 ||midicn.com
@@ -40572,7 +40567,6 @@
 ||modernsky.com
 ||modernweekly.com
 ||modian.com
-||modoer.com
 ||modooplay.com
 ||modulesocean.com
 ||moduovr.com
@@ -43066,6 +43060,7 @@
 ||onlyyou.com
 ||onmpw.com
 ||ono-bbb.com
+||ononw.com
 ||onqc.com
 ||ontheroadstore.com
 ||onthink.com
