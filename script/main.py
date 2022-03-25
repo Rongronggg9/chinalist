@@ -24,6 +24,7 @@ def get_online_list(url: str) -> list[str]:
 
 
 def get_local_list(path: str) -> list[str]:
+    logging.info(f'Reading local list... ({path})')
     try:
         with open(path) as file:
             local_list = file.read().split()
@@ -40,6 +41,7 @@ def joint_list(*lists: Iterable[str]) -> list[str]:
 
 
 def update_txt(new_list: Iterable[str], path: str) -> NoReturn:
+    logging.info(f'Updating {path}...')
     with open(path, 'w') as file:
         file.write('\n'.join(new_list))
 
