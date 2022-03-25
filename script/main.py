@@ -1,38 +1,59 @@
+from __future__ import annotations
+from collections.abc import Iterable
+from typing import NoReturn
+
 import requests
+import logging
 from datetime import datetime
 
+DAILY_CHINALIST_URL = 'https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt'
+MY_CHINALIST_PATH = 'script/my_chinalist.txt'
 
-def get_online_list(url):
-    response = requests.get(url)
-    online_list = response.text.split()
-    return online_list
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def get_local_list(path):
-    with open(path) as file:
-        local_list = file.read().split()
+def get_online_list(url: str) -> list[str]:
+    logging.info(f'Fetching online list... ({url})')
+    try:
+        response = requests.get(url, timeout=10)
+        online_list = response.text.split()
+        return online_list
+    except requests.exceptions.ConnectionError:
+        logging.critical('Connection error.')
+        exit(1)
+
+
+def get_local_list(path: str) -> list[str]:
+    try:
+        with open(path) as file:
+            local_list = file.read().split()
+    except FileNotFoundError:
+        local_list = []
     return local_list
 
 
-def joint_list(*lists):
-    jointed_list = []
-    for single_list in lists:
-        jointed_list.extend(single_list)
+def joint_list(*lists: Iterable[str]) -> list[str]:
+    logging.info('Jointing lists...')
+    jointed_list = set()
+    jointed_list.update(*lists)
     return sorted(jointed_list)
 
 
-def update_txt(list, path):
+def update_txt(new_list: Iterable[str], path: str) -> NoReturn:
     with open(path, 'w') as file:
-        file.write('\n'.join(list))
+        file.write('\n'.join(new_list))
 
 
-if __name__ == '__main__':
-    daily_chinalist_url = 'https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt'
-    my_chinalist_path = 'script/my_chinalist.txt'
+def main():
+    old_list = get_local_list('chinalist_plain.txt')
 
-    daily_chinalist = get_online_list(daily_chinalist_url)
-    my_list = get_local_list(my_chinalist_path)
+    daily_chinalist = get_online_list(DAILY_CHINALIST_URL)
+    my_list = get_local_list(MY_CHINALIST_PATH)
     jointed_list = joint_list(daily_chinalist, my_list)
+
+    if jointed_list == old_list:
+        logging.info('No update.')
+        return
 
     info = f'[AutoProxy 0.2.9]\n! Updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")}'
     omega_list = [info, '! This chinalist only works with SwitchyOmega.',
@@ -45,3 +66,10 @@ if __name__ == '__main__':
 
     update_txt(omega_list, 'chinalist_omega.txt')
     update_txt(smart_list, 'chinalist_smart.txt')
+    update_txt(jointed_list, 'chinalist_plain.txt')
+
+    logging.info('Update finished.')
+
+
+if __name__ == '__main__':
+    main()
