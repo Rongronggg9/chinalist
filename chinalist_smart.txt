@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-03-27 01:35:19 UTC
+! Updated: 2022-03-28 01:42:05 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -19130,6 +19130,7 @@
 @@||dianxin.net
 @@||dianxinnews.com
 @@||dianxinos.com
+@@||dianyingjie.com
 @@||dianyingshow.com
 @@||dianyingwenxue.com
 @@||dianyinjidiao.com
@@ -23716,6 +23717,7 @@
 @@||fuzhugo.com
 @@||fview.com
 @@||fvti.com
+@@||fw-12365.com
 @@||fw-biotech.com
 @@||fw4.co
 @@||fw4.me
@@ -29122,6 +29124,7 @@
 @@||huhoo.net
 @@||huhua.net
 @@||huhuang.net
+@@||huhuguanjia.com
 @@||huhuhiiuio.com
 @@||huhuvr.com
 @@||hui-ben.com
@@ -37328,6 +37331,7 @@
 @@||linlizone.com
 @@||linlongyun.com
 @@||linlongyx.com
+@@||linmi.cc
 @@||linni.com
 @@||linnsea.com
 @@||linnyou.com
@@ -38360,6 +38364,7 @@
 @@||luoohu.com
 @@||luooqi.com
 @@||luoqiu.com
+@@||luoqiu.info
 @@||luoqiuxs.com
 @@||luoqiuzw.com
 @@||luoqiuzww.com
@@ -45201,6 +45206,7 @@
 @@||qi-che.com
 @@||qi-ju.com
 @@||qi-wen.com
+@@||qi58.com
 @@||qiachu.com
 @@||qiaiou.com
 @@||qiak.com
@@ -48101,6 +48107,7 @@
 @@||sdzdmjg.com
 @@||sdzhidian.com
 @@||sdzk.co
+@@||sdzxswhjygjlm.com
 @@||se77en.cc
 @@||se7enzone.com
 @@||sea-group.org
@@ -48696,6 +48703,7 @@
 @@||shbars.com
 @@||shbbq.net
 @@||shbear.com
+@@||shbg.org
 @@||shbicycle.com
 @@||shbj.com
 @@||shbnrj.com
@@ -60548,6 +60556,7 @@
 @@||xjhgame.net
 @@||xjhjsd.com
 @@||xjhr.com
+@@||xjietiao.com
 @@||xjishu.com
 @@||xjisme.com
 @@||xjiuai.com
@@ -62438,6 +62447,7 @@
 @@||yinan9.com
 @@||yinar.com
 @@||yinbaitu.com
+@@||yinbangbroker.com
 @@||yinbin.ink
 @@||yinchengpai.com
 @@||yinchengwealth.com
@@ -62563,6 +62573,7 @@
 @@||yinxiangma.com
 @@||yinxiangqingyang.com
 @@||yinxiao.com
+@@||yinxiaobao.net
 @@||yinxinbh.com
 @@||yinxing.com
 @@||yinxunbiao.com
@@ -62616,6 +62627,7 @@
 @@||yiqisoo.com
 @@||yiqisooimg.com
 @@||yiqisou.net
+@@||yiqitp.com
 @@||yiqiu.org
 @@||yiqiuu.com
 @@||yiqiv.com
@@ -62686,6 +62698,7 @@
 @@||yitopapp.com
 @@||yituocn.com
 @@||yitutech.com
+@@||yituyu.com
 @@||yiupin.com
 @@||yiuxiu.com
 @@||yivian.com
@@ -63936,6 +63949,7 @@
 @@||yunban.com
 @@||yunbang.net
 @@||yunbangcheng.com
+@@||yunbaoriji.com
 @@||yunbei.com
 @@||yunbeitech.com
 @@||yunbiao.tv
