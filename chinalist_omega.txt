@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-03-30 01:36:40 UTC
+! Updated: 2022-03-31 01:35:33 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -5388,6 +5388,7 @@
 ||5u3d.com
 ||5u588.com
 ||5u5u5u5u.com
+||5uar.com
 ||5ugaizhuang.com
 ||5uks.com
 ||5upm.com
@@ -5419,7 +5420,6 @@
 ||5yhua.org
 ||5yi.com
 ||5ykj.com
-||5you.com
 ||5youchou.com
 ||5yun.org
 ||5zai.com
@@ -9092,7 +9092,6 @@
 ||anlu114.com
 ||anmobc.com
 ||anmoxiansheng.com
-||anmoyi98.com
 ||ann9.com
 ||annangela.moe
 ||annchain.io
@@ -10192,7 +10191,6 @@
 ||baiduyunpan.net
 ||baiduyunsousou.com
 ||baiduyy.com
-||baiduzhidao.site
 ||baiduzjn.com
 ||baieryk.com
 ||baietu.com
@@ -10470,7 +10468,6 @@
 ||baobao88.com
 ||baobaobang.com
 ||baobaoshu.com
-||baobaotd.com
 ||baobei360.com
 ||baobeicang.com
 ||baobeigezi.com
@@ -10626,7 +10623,6 @@
 ||bayinfu.com
 ||bayinh.com
 ||bayinmao.com
-||baytaku.com
 ||bayuegua.com
 ||bayueju.com
 ||bayueweb.com
@@ -12453,7 +12449,6 @@
 ||bthss.com
 ||bthuifu.com
 ||btime.com
-||btiyu.com
 ||btmao.cc
 ||btmayi.cc
 ||btmeiju.com
@@ -13923,7 +13918,6 @@
 ||cfiec.net
 ||cfiecdns.net
 ||cfimg.com
-||cfkq.net
 ||cflm.com
 ||cfm119.com
 ||cfmcc.com
@@ -20025,7 +20019,6 @@
 ||downos.com
 ||downpp.com
 ||downsave.com
-||downuc.com
 ||downun.com
 ||downv.com
 ||downxia.com
@@ -22438,6 +22431,7 @@
 ||fastcdn.com
 ||fastcname.com
 ||fastdo.cc
+||fastgit.org
 ||fastgz.com
 ||fastidea.cc
 ||fastidea.me
@@ -23236,7 +23230,6 @@
 ||focussend.com
 ||fodang.org
 ||fodian.net
-||fodizi.com
 ||fodizi.net
 ||fodlab.com
 ||fodoco.com
@@ -25610,7 +25603,6 @@
 ||gugeapps.net
 ||gugexs.com
 ||gugong.net
-||gugooe.com
 ||gugu5.com
 ||gugud.com
 ||guguread.com
@@ -27044,7 +27036,6 @@
 ||hbsccloud.com
 ||hbsdenterprise.com
 ||hbsem.com
-||hbseo.com
 ||hbsfgk.org
 ||hbshbsh.com
 ||hbshengbangwl.com
@@ -30008,6 +29999,7 @@
 ||icaifu.com
 ||icaile.com
 ||ican-contest.org
+||ican365.net
 ||icandata.com
 ||icangshu111.com
 ||icanzc.com
@@ -31084,6 +31076,7 @@
 ||innjia.com
 ||innlym.me
 ||innocomn.com
+||innodealing.com
 ||innojoy.com
 ||innotechx.com
 ||innotron.com
@@ -31814,7 +31807,6 @@
 ||iweek.ly
 ||iweekapi.com
 ||iweidu.net
-||iweishow.com
 ||iweizhijia.com
 ||iweju.com
 ||iwellen.com
@@ -35159,7 +35151,6 @@
 ||kit-lee.me
 ||kiteshow.com
 ||kitstown.com
-||kittyyoo.com
 ||kiujq.com
 ||kiwa-tech.com
 ||kiwenlau.com
@@ -37089,7 +37080,6 @@
 ||light3moon.com
 ||lightalk.com
 ||lightcss.com
-||lightfire.cc
 ||lightgx.com
 ||lightingchina.com
 ||lightinit.com
@@ -39515,7 +39505,6 @@
 ||meirenshang.com
 ||meiridazhe.com
 ||meirids.com
-||meirishangxin.com
 ||meirishentie.com
 ||meiritv.net
 ||meiriyiwen.com
@@ -40186,7 +40175,6 @@
 ||mite5.com
 ||miteno.com
 ||miteo.net
-||mitilove.com
 ||mitiplus.com
 ||mittrchina.com
 ||miui.com
@@ -46679,6 +46667,7 @@
 ||readm.tech
 ||readmeok.com
 ||readmorejoy.com
+||readnos.com
 ||readnovel.com
 ||readpaper.com
 ||readpaul.com
@@ -47489,7 +47478,6 @@
 ||s575.com
 ||s5tx.com
 ||s60sky.com
-||s6qq.com
 ||s72c.com
 ||s8dj.com
 ||s8j.com
@@ -49247,7 +49235,6 @@
 ||shrcdy.com
 ||shrenq.com
 ||shrenqi.com
-||shrinkablesleeve.com
 ||shrobotpark.com
 ||shsaic.net
 ||shsbnu.net
@@ -50604,6 +50591,7 @@
 ||source3g.com
 ||sourcecodecap.com
 ||sourcedev.cc
+||sourl.co
 ||sousea.com
 ||soushai.com
 ||soushuking.com
@@ -50747,7 +50735,6 @@
 ||springcloud.cc
 ||springcocoon.com
 ||springtour.com
-||spriteapp.com
 ||sprzny.com
 ||spswc.com
 ||sptcc.com
@@ -51809,7 +51796,6 @@
 ||szfg.net
 ||szflysky.com
 ||szfob.cc
-||szfuit.com
 ||szfw.org
 ||szfwzl.com
 ||szfyhd.com
@@ -54927,6 +54913,7 @@
 ||unibizp.com
 ||unicde.com
 ||unicloud.com
+||unicom-cz.com
 ||unicomjnwy.com
 ||unicomlife.com
 ||unicompayment.com
@@ -55759,6 +55746,7 @@
 ||vkvr.net
 ||vlabstatic.com
 ||vlan9.com
+||vland-official.com
 ||vlandgroup.com
 ||vlcms.com
 ||vldbd.com
@@ -56256,7 +56244,6 @@
 ||wanglibao.com
 ||wanglids.com
 ||wanglu.info
-||wangluojianshen.com
 ||wangluoliuxing.com
 ||wanglutech.com
 ||wanglv.com
@@ -58422,7 +58409,6 @@
 ||wuchenxu.com
 ||wuda-website.com
 ||wudage.com
-||wudang.cc
 ||wudangquan.net
 ||wudangshan.com
 ||wudao.com
@@ -58626,6 +58612,7 @@
 ||wvshare.com
 ||ww2bbs.net
 ||wwc-blog.com
+||wwdz13.com
 ||wwe008.com
 ||wwenglish.com
 ||wwenglish.org
@@ -58967,6 +58954,7 @@
 ||xarxrljt.com
 ||xaseastar.com
 ||xasff.com
+||xasgxy.com
 ||xashangwang.com
 ||xasimonds.com
 ||xasixiongdi.com
@@ -60022,7 +60010,6 @@
 ||xincheping.com
 ||xinchukj.com
 ||xincmm.com
-||xinda22.com
 ||xindaifu.com
 ||xindemarinenews.com
 ||xindexuexi.com
@@ -62205,7 +62192,6 @@
 ||yichemall.com
 ||yichesafe.com
 ||yichuyifan.com
-||yicipapa.com
 ||yiclear.com
 ||yicongfound.org
 ||yicuba.com
@@ -62659,7 +62645,6 @@
 ||yiwaiart.com
 ||yiwan.com
 ||yiwanggo.net
-||yiwangml.com
 ||yiwanzhushou.com
 ||yiwealth.com
 ||yiweb.com
