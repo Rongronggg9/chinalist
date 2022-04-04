@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-04-03 01:40:56 UTC
+! Updated: 2022-04-04 01:43:11 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -3456,6 +3456,7 @@
 ||3haow.com
 ||3hbox.com
 ||3hgui.com
+||3incloud.com
 ||3j4.com
 ||3jdh.com
 ||3jidi.com
@@ -9887,7 +9888,6 @@
 ||avnpc.com
 ||avoscloud.com
 ||avq360.com
-||avqrw.com
 ||avrvi.com
 ||avrw.com
 ||avtechcn.com
@@ -12142,7 +12142,6 @@
 ||boluo.com
 ||boluo.link
 ||boluo.org
-||boluo1122.com
 ||boluogouwu.com
 ||boluomee.com
 ||boluomeet.com
@@ -12981,6 +12980,7 @@
 ||caispace.com
 ||caistv.com
 ||cait.com
+||caitlinbeverly.com
 ||caitun.com
 ||caiu8.com
 ||caiweiming.com
@@ -13189,6 +13189,7 @@
 ||catguo.com
 ||cathayagroup.com
 ||cathayfund.com
+||catherinebeverly.com
 ||catjc.com
 ||cato-travel.com
 ||cattsoft.com
@@ -14791,7 +14792,6 @@
 ||chinagb.net
 ||chinagb.org
 ||chinagba.com
-||chinagcd.com
 ||chinagcp.org
 ||chinagdg.com
 ||chinagiftsfair.com
@@ -17231,8 +17231,6 @@
 ||crazyflasher.com
 ||crazyphper.com
 ||crazypm.com
-||crbbav.com
-||crbbpp.com
 ||crbeverage.com
 ||crc.com.hk
 ||crc.hk
@@ -19720,6 +19718,7 @@
 ||doido.com
 ||doit.am
 ||doitim.com
+||doiua.com
 ||doki8.com
 ||doko.com
 ||dolanzz.com
@@ -21474,7 +21473,6 @@
 ||enappstore.com
 ||enbowang.com
 ||enbrands.com
-||enci-world.com
 ||enec.net
 ||enelcn.com
 ||enen6.com
@@ -22833,6 +22831,7 @@
 ||fghi34.com
 ||fgidna.com
 ||fgkj.cc
+||fgo-teamup.com
 ||fgo.wiki
 ||fgowiki.com
 ||fgvisa.net
@@ -29711,6 +29710,7 @@
 ||hzsgjj.com
 ||hzshudian.com
 ||hzstad88.com
+||hzsxn.com
 ||hzti.com
 ||hztosz.com
 ||hztraining.com
@@ -33242,6 +33242,7 @@
 ||jjapk.com
 ||jjb-static.com
 ||jjbang.com
+||jjbangbang.com
 ||jjbank.net
 ||jjbbs.com
 ||jjbhn.com
@@ -38160,6 +38161,7 @@
 ||lty.fun
 ||ltzsjt.com
 ||lu.com
+||lu18.com
 ||lu35.com
 ||lu4n.com
 ||lua.ren
@@ -45063,6 +45065,7 @@
 ||qhdgjj.com
 ||qhdjcbj.com
 ||qhdnews.com
+||qhdok.com
 ||qhdren.com
 ||qhdymdc.com
 ||qhea.com
@@ -48501,6 +48504,7 @@
 ||shangshi360.com
 ||shangshici.com
 ||shangshu.cc
+||shangshuyixue.com
 ||shangtao.net
 ||shangtao360.com
 ||shangtianapp.com
@@ -54473,6 +54477,7 @@
 ||tz1288.com
 ||tz1980.com
 ||tz8.com
+||tz887.com
 ||tz911.com
 ||tzbank.com
 ||tzbank.net
@@ -63448,6 +63453,7 @@
 ||ys168.com
 ||ys1688.cc
 ||ys2345.com
+||ys4fun.com
 ||ys666888.com
 ||ys7.com
 ||ys720.com
@@ -64532,7 +64538,6 @@
 ||zbai.net
 ||zbapk.com
 ||zbbar.net
-||zbcrw.com
 ||zbfilm.com
 ||zbfjsj.com
 ||zbgedu.com
@@ -66770,6 +66775,7 @@
 ||ztww.net
 ||ztxz.cc
 ||ztzy.com
+||zu1k.com
 ||zuan-cheng.com
 ||zuanbi8.com
 ||zuanchuang.org
@@ -66819,6 +66825,7 @@
 ||zuiidea.com
 ||zuijiao.net
 ||zuijunshi.com
+||zuik.ren
 ||zuikc.com
 ||zuiku.com
 ||zuikzy.com
