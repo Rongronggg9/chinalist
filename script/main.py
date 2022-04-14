@@ -1,5 +1,4 @@
 from __future__ import annotations
-from collections.abc import Iterable
 from typing import NoReturn
 
 import requests
@@ -7,7 +6,9 @@ import logging
 from datetime import datetime
 
 DAILY_CHINALIST_URL = 'https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt'
+GFWLIST_URL = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
 MY_CHINALIST_PATH = 'script/my_chinalist.txt'
+MY_GFWLIST_PATH = 'script/my_gfwlist.txt'
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -17,6 +18,7 @@ def get_online_list(url: str) -> list[str]:
     try:
         response = requests.get(url, timeout=10)
         online_list = response.text.split()
+        logging.info(f'Fetched {len(online_list)} URLs.')
         return online_list
     except requests.exceptions.ConnectionError:
         logging.critical('Connection error.')
@@ -30,17 +32,32 @@ def get_local_list(path: str) -> list[str]:
             local_list = file.read().split()
     except FileNotFoundError:
         local_list = []
+    logging.info(f'Read {len(local_list)} URLs from {path}.')
     return local_list
 
 
-def joint_list(*lists: Iterable[str]) -> list[str]:
+def joint_list(*lists: list[str]) -> list[str]:
     logging.info('Jointing lists...')
     jointed_list = set()
     jointed_list.update(*lists)
+    logging.info(f'Got {sum(len(l) for l in lists)} URLs from {len(lists)} lists. '
+                 f'After jointing, remain {len(jointed_list)} URLs.')
     return sorted(jointed_list)
 
 
-def update_txt(new_list: Iterable[str], path: str) -> NoReturn:
+def filter_list(ori_list: list[str], gfwlist: list[str]) -> list[str]:
+    logging.info('Filtering list...')
+    filtered_list = list(
+        filter(
+            lambda x: x not in gfwlist and all(not x.endswith('.' + y) for y in gfwlist),
+            ori_list
+        )
+    )
+    logging.info(f'Got {len(ori_list)} URLs. After filtering, remain {len(filtered_list)} URLs.')
+    return filtered_list
+
+
+def update_txt(new_list: list[str], path: str) -> NoReturn:
     logging.info(f'Updating {path}...')
     with open(path, 'w') as file:
         file.write('\n'.join(new_list))
@@ -50,8 +67,11 @@ def main():
     old_list = get_local_list('chinalist_plain.txt')
 
     daily_chinalist = get_online_list(DAILY_CHINALIST_URL)
+    my_gfwlist = get_local_list(MY_GFWLIST_PATH)
+    filtered_list = filter_list(daily_chinalist, my_gfwlist)
+
     my_list = get_local_list(MY_CHINALIST_PATH)
-    jointed_list = joint_list(daily_chinalist, my_list)
+    jointed_list = joint_list(filtered_list, my_list)
 
     if jointed_list == old_list:
         logging.info('No update.')
