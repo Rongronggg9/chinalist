@@ -4,6 +4,7 @@ from typing import NoReturn
 import requests
 import logging
 from datetime import datetime
+from functools import reduce
 
 DAILY_CHINALIST_URL = 'https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt'
 DAILY_GFWLIST_URL = 'https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt'
@@ -40,7 +41,8 @@ def joint_list(*lists: list[str]) -> list[str]:
     logging.info('Jointing lists...')
     jointed_list = set()
     jointed_list.update(*lists)
-    logging.info(f'Got {sum(len(l) for l in lists)} URLs from {len(lists)} lists. '
+    # noinspection PyTypeChecker
+    logging.info(f'Got {reduce(lambda a, b: f"{a}+{b}", [len(l) for l in lists])}={sum(len(l) for l in lists)} URLs. '
                  f'After jointing, remain {len(jointed_list)} URLs.')
     return sorted(jointed_list)
 
@@ -53,7 +55,8 @@ def filter_list(ori_list: list[str], gfwlist: list[str]) -> list[str]:
             ori_list
         )
     )
-    logging.info(f'Got {len(ori_list)} URLs. After filtering, remain {len(filtered_list)} URLs.')
+    logging.info(f'Got {len(ori_list)} URLs to be filtered, {len(gfwlist)} URLs to be filtered out. '
+                 f'After filtering, remain {len(filtered_list)} URLs.')
     return filtered_list
 
 
