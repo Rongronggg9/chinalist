@@ -6,7 +6,7 @@ import logging
 from datetime import datetime
 
 DAILY_CHINALIST_URL = 'https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt'
-GFWLIST_URL = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
+DAILY_GFWLIST_URL = 'https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt'
 MY_CHINALIST_PATH = 'script/my_chinalist.txt'
 MY_GFWLIST_PATH = 'script/my_gfwlist.txt'
 
@@ -67,8 +67,9 @@ def main():
     old_list = get_local_list('chinalist_plain.txt')
 
     daily_chinalist = get_online_list(DAILY_CHINALIST_URL)
+    daily_gfwlist = get_online_list(DAILY_GFWLIST_URL)
     my_gfwlist = get_local_list(MY_GFWLIST_PATH)
-    filtered_list = filter_list(daily_chinalist, my_gfwlist)
+    filtered_list = filter_list(daily_chinalist, joint_list(daily_gfwlist, my_gfwlist))
 
     my_list = get_local_list(MY_CHINALIST_PATH)
     jointed_list = joint_list(filtered_list, my_list)
