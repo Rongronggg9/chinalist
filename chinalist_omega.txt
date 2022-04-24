@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-04-23 01:41:54 UTC
+! Updated: 2022-04-24 01:41:12 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -2433,7 +2433,6 @@
 ||25xt.com
 ||25yi.com
 ||25yz.com
-||26-degree.com
 ||260.net
 ||263.com
 ||263.net
@@ -9025,6 +9024,7 @@
 ||annto.com
 ||anoah.com
 ||anonym-hi.com
+||anoob.icu
 ||anorectal.net
 ||anosmcloud.com
 ||anoyi.com
@@ -12352,6 +12352,7 @@
 ||btcsos.com
 ||btcwatch.com
 ||btdad.live
+||btdad17.xyz
 ||btdog.com
 ||btdtech.net
 ||btege.com
@@ -13378,6 +13379,7 @@
 ||cction.com
 ||cctlife.com
 ||cctocloud.com
+||cctongwen.com
 ||cctpress.com
 ||cctry.com
 ||cctsx.com
@@ -15070,7 +15072,6 @@
 ||chinayigui.com
 ||chinayk.com
 ||chinaymc.com
-||chinayouji.com
 ||chinayuanwang.com
 ||chinayyjx.com
 ||chinayyo.com
@@ -17615,6 +17616,7 @@
 ||cxthhhhh.com
 ||cxtuku.com
 ||cxtxt.com
+||cxvlog.com
 ||cxw.com
 ||cxwl.com
 ||cxwt103.com
@@ -18665,7 +18667,6 @@
 ||dengtadaka.com
 ||dengxiaolong.com
 ||dengxiaopingnet.com
-||dengyong.cc
 ||dentistshow.com
 ||denuoexpo.com
 ||deosin.com
@@ -19000,7 +19001,6 @@
 ||dianyongqi.com
 ||dianyuan.com
 ||dianyuanic.net
-||dianyue8.com
 ||dianyuesh.com
 ||dianzhanggui.net
 ||dianzhangzhipin.com
@@ -19329,7 +19329,6 @@
 ||dksgames.com
 ||dky.cc
 ||dkybpc.com
-||dkys.org
 ||dl-origin.ubnt.com
 ||dl-rc.com
 ||dl.delivery.mp.microsoft.com
@@ -21995,6 +21994,7 @@
 ||f8fm.com
 ||fa-today.com
 ||fa597.com
+||fa68.com
 ||faakee.com
 ||fabang.com
 ||fabao365.com
@@ -24143,7 +24143,6 @@
 ||gdong.com
 ||gdou.com
 ||gdpanshi.com
-||gdpycy02.com
 ||gdqynews.com
 ||gdrc.com
 ||gdrc360.com
@@ -24258,7 +24257,6 @@
 ||geement.com
 ||geeqee.com
 ||geermunews.com
-||geesee.com
 ||geeseteam.com
 ||geetest.com
 ||geewaza.com
@@ -24435,7 +24433,6 @@
 ||ggemo.com
 ||ggerg.com
 ||ggeye.com
-||ggg.cool
 ||ggj88.com
 ||ggjrw.com
 ||ggjstz.com
@@ -25021,6 +25018,7 @@
 ||gosinoic.com
 ||gospelwin.com
 ||gosuncdn.com
+||gosuncdn.net
 ||gosunm.com
 ||goten.com
 ||gotocdn.com
@@ -26894,7 +26892,6 @@
 ||hbsdenterprise.com
 ||hbsem.com
 ||hbsfgk.org
-||hbshbsh.com
 ||hbshengbangwl.com
 ||hbshgzx.com
 ||hbshls.com
@@ -27336,7 +27333,6 @@
 ||hepawang.com
 ||hepmall.com
 ||hepost.com
-||hequnshebei.com
 ||hercity.com
 ||hercules-micro.com
 ||herdsric.com
@@ -27874,6 +27870,7 @@
 ||hmecw.com
 ||hmgj.com
 ||hminvestment.com
+||hmjiayi.com
 ||hmlan.com
 ||hmldds.com
 ||hmltec.com
@@ -31149,7 +31146,6 @@
 ||iqcrj.com
 ||iqdii.com
 ||iqdnet.com
-||iqianbang.com
 ||iqianggou.com
 ||iqianjin.com
 ||iqianyue.com
@@ -32306,7 +32302,6 @@
 ||jiandati.com
 ||jiandiao.com
 ||jiando.com
-||jiandudu.com
 ||jiane86.com
 ||jianeryi.com
 ||jianfei.com
@@ -36800,6 +36795,7 @@
 ||libvideo.com
 ||lic-bcbc.com
 ||licai.com
+||licai.work
 ||licai18.com
 ||licaie.com
 ||licaifan.com
@@ -37494,6 +37490,7 @@
 ||lm284.com
 ||lm335.com
 ||lm343.com
+||lm553.com
 ||lm685.com
 ||lm811.com
 ||lm832.com
@@ -38225,7 +38222,6 @@
 ||lvrui.io
 ||lvsanxia.com
 ||lvse.com
-||lvsetxt.com
 ||lvshedesign.com
 ||lvshi567.com
 ||lvshiminglu.com
@@ -39166,6 +39162,7 @@
 ||medlinker.net
 ||medme.net
 ||medmeeting.org
+||medproad.com
 ||medsci-tech.com
 ||medstarcorp.com
 ||medtion.com
@@ -43588,6 +43585,7 @@
 ||people-squared.com
 ||peopleapp.com
 ||peopleart.tv
+||peopledailyhealth.com
 ||peopledailypress.com
 ||peoplenews.eu
 ||peoplerail.com
@@ -46261,7 +46259,6 @@
 ||r-tms.net
 ||r12345.com
 ||r147emh.com
-||r18moeimages.xyz
 ||r1x1.com
 ||r1y.com
 ||r220.cc
@@ -47628,6 +47625,7 @@
 ||scpic8.com
 ||scplt.com
 ||scqcp.com
+||scqiuchang.com
 ||scrcu.com
 ||scrdzf.com
 ||scrmtech.com
@@ -50365,7 +50363,6 @@
 ||soutu123.com
 ||soutudi.so
 ||soutushenqi.com
-||souutu.com
 ||souvr.com
 ||souwifi.com
 ||souwoo.com
@@ -51548,7 +51545,6 @@
 ||szfyhd.com
 ||szgalaxy.com
 ||szgft.com
-||szgftz.com
 ||szggzy.com
 ||szgky.com
 ||szgla.com
@@ -51744,6 +51740,7 @@
 ||t-nan.com
 ||t-v.com
 ||t.tt
+||t00ls.cc
 ||t00y.com
 ||t027.com
 ||t086.com
@@ -52017,7 +52014,6 @@
 ||taodocs.com
 ||taodu.com
 ||taodudu.cc
-||taoduyx.com
 ||taofang.com
 ||taofen8.com
 ||taofont.com
@@ -52737,7 +52733,6 @@
 ||tiantang6.com
 ||tianti.com
 ||tiantian.com
-||tiantian8.com
 ||tiantiancaipu.com
 ||tiantianfm.com
 ||tiantianfunds.com
@@ -66850,6 +66845,7 @@
 ||zyxzcm.com
 ||zyyda.com
 ||zyyfy.com
+||zyz119.com
 ||zyzaojiao.com
 ||zyzg.com
 ||zyzhan.com
