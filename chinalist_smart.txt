@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-05-01 02:17:32 UTC
+! Updated: 2022-05-02 01:57:51 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -355,7 +355,6 @@
 @@||0510syedu.com
 @@||0511w.com
 @@||0512118114.com
-@@||0512fangchan.com
 @@||0512pearl.com
 @@||0512s.com
 @@||0512zp.com
@@ -3550,7 +3549,6 @@
 @@||400cx.com
 @@||400gb.com
 @@||400iu.com
-@@||400jk.com
 @@||400jz.com
 @@||400lyw.com
 @@||400num.com
@@ -5558,7 +5556,6 @@
 @@||669pic.com
 @@||669play.com
 @@||669ye.com
-@@||66beian.com
 @@||66call.com
 @@||66cn.com
 @@||66diqiu.com
@@ -8721,6 +8718,7 @@
 @@||aliyunga0017.com
 @@||aliyunga0018.com
 @@||aliyungf.com
+@@||aliyunhelp.com
 @@||aliyunhn.com
 @@||aliyunj.com
 @@||aliyunlive.com
@@ -9485,6 +9483,7 @@
 @@||armchina.com
 @@||armsword.com
 @@||armystar.com
+@@||arnaz-on-co-jp.icu
 @@||arocmag.com
 @@||arp.cc
 @@||arpg2.com
@@ -10069,7 +10068,6 @@
 @@||baiduhua.com
 @@||baidulook.com
 @@||baidunongmin.com
-@@||baiduonce.com
 @@||baiduor.com
 @@||baidupan.com
 @@||baidupcs.com
@@ -12281,7 +12279,6 @@
 @@||bsh.com
 @@||bshaishu.com
 @@||bshare.com
-@@||bshjxxkj.com
 @@||bsida.com
 @@||bsidu.com
 @@||bsjhhzs.com
@@ -19194,7 +19191,6 @@
 @@||dituge.com
 @@||dituhui.com
 @@||dituwuyou.com
-@@||diudou.com
 @@||diugai.com
 @@||diushouji.com
 @@||div.io
@@ -27209,6 +27205,7 @@
 @@||helloweba.com
 @@||helloweba.net
 @@||hellowebfont.com
+@@||hellowgame.com
 @@||helloyao.com
 @@||helong.info
 @@||help-hope.org
@@ -29018,7 +29015,6 @@
 @@||huizhan-inc.com
 @@||huizhaofang.com
 @@||huizhek.com
-@@||huizhekou.net
 @@||huizhijiaxun.com
 @@||huizhimob.com
 @@||huizhouf.com
@@ -31479,7 +31475,6 @@
 @@||itruke.com
 @@||itry.com
 @@||its114.com
-@@||itscoder.com
 @@||itshai.com
 @@||itsiwei.com
 @@||itsk.com
@@ -33381,7 +33376,6 @@
 @@||jovcloud.com
 @@||jovetech.com
 @@||jowto.com
-@@||joy9178.com
 @@||joyact.com
 @@||joyami.com
 @@||joyany.com
@@ -37165,6 +37159,7 @@
 @@||listentoworld.com
 @@||listenvod.com
 @@||litaow.com
+@@||litchon.com
 @@||litecoin.ink
 @@||litecoin.ren
 @@||litefeel.com
@@ -40204,7 +40199,6 @@
 @@||moerail.ml
 @@||moerkeji.net
 @@||moerlong.com
-@@||moesola.com
 @@||moetu.org
 @@||moetuji.com
 @@||moew.xyz
@@ -41125,6 +41119,7 @@
 @@||naifei.pro
 @@||naigirl.com
 @@||naikanxs.com
+@@||naikili.life
 @@||naimei.com
 @@||nainiuapp.com
 @@||naiping.net
@@ -47397,7 +47392,6 @@
 @@||sayabear.com
 @@||sayloving.com
 @@||saywash.com
-@@||sb1152.com
 @@||sbanfu.com
 @@||sbanzu.com
 @@||sbc-mcc.com
@@ -49131,6 +49125,7 @@
 @@||shuowan.com
 @@||shuowan.net
 @@||shuoxu.com
+@@||shupaiyun.com
 @@||shuqi.com
 @@||shuqiapi.com
 @@||shuqiread.com
@@ -59225,7 +59220,6 @@
 @@||xiaolinwl.com
 @@||xiaolinyuan.com
 @@||xiaolist.com
-@@||xiaolixiaoxue.com
 @@||xiaolizhuli.com
 @@||xiaolu123.com
 @@||xiaoluboke.com
@@ -66144,7 +66138,6 @@
 @@||zonen-tech.com
 @@||zonepp.com
 @@||zoneve.com
-@@||zongcaidarentilihaoya.com
 @@||zonghangsl.com
 @@||zongheng.com
 @@||zonghengche.com
