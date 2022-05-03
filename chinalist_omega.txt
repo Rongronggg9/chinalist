@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-05-02 01:57:51 UTC
+! Updated: 2022-05-03 01:57:55 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -70,6 +70,7 @@
 ||00cf.com
 ||00cha.com
 ||00cha.net
+||00dyun.xyz
 ||00ic.com
 ||00it.net
 ||00ksw.net
@@ -789,7 +790,6 @@
 ||100fang.com
 ||100font.com
 ||100ftv.com
-||100hdy.com
 ||100how.com
 ||100ip.net
 ||100jiapu.com
@@ -2405,7 +2405,6 @@
 ||25838yn.com
 ||25847.com
 ||25863.com
-||2588.tv
 ||25892.com
 ||258ch.com
 ||258fuwu.com
@@ -3881,6 +3880,7 @@
 ||5151.com
 ||51511.com
 ||515158.com
+||5151app.com
 ||5151doc.com
 ||5151sc.com
 ||5153.com
@@ -12166,7 +12166,6 @@
 ||botorange.com
 ||botslab.com
 ||bottos.org
-||botui.ink
 ||bounb.com
 ||boweifeng.com
 ||bowerp.com
@@ -13917,7 +13916,6 @@
 ||chachongba.com
 ||chacuo.net
 ||chadan.wang
-||chadianhua.net
 ||chadianshang.com
 ||chadianshang2.com
 ||chadown.com
@@ -19196,7 +19194,6 @@
 ||div.io
 ||divcss5.com
 ||diwork.com
-||dixiao.org
 ||dixintong.com
 ||diybcq.com
 ||diybuy.net
@@ -21062,6 +21059,7 @@
 ||efpp.com
 ||efucms.com
 ||efueloil.com
+||efunent.com
 ||efwang.com
 ||efwh.com
 ||efy-tech.com
@@ -22174,6 +22172,7 @@
 ||fanque.cc
 ||fanrenshucheng.com
 ||fanruan.com
+||fans.fans
 ||fans1.com
 ||fans8.com
 ||fansgu.com
@@ -22885,7 +22884,6 @@
 ||fjsjs.com
 ||fjstfc.com
 ||fjtelecom.com
-||fjtgyxa.vip
 ||fjtianya.com
 ||fjtn.com
 ||fjtv.net
@@ -25502,6 +25500,7 @@
 ||guoguo-app.com
 ||guohanlawfirm.com
 ||guohead.com
+||guohexinxiang.com
 ||guohuapharm.com
 ||guoji.biz
 ||guojianglive.com
@@ -27467,7 +27466,6 @@
 ||hhpj.net
 ||hhrcard.com
 ||hhrdc.com
-||hhrhl.vip
 ||hhrtu.com
 ||hhtravel.com
 ||hhvv.com
@@ -27953,6 +27951,7 @@
 ||hnsyu.net
 ||hnteacher.net
 ||hntengn.com
+||hntezhi.com
 ||hntianduo.com
 ||hnticai.com
 ||hntobacco.com
@@ -28556,6 +28555,7 @@
 ||huacaoshumu.net
 ||huacemedia.com
 ||huacenter.com
+||huachao.vip
 ||huachenit.com
 ||huachenyuanyang.com
 ||huaci.cc
@@ -28713,6 +28713,7 @@
 ||huanyingzq.com
 ||huanyou365.com
 ||huanyouji.com
+||huanyuantech.com
 ||huanyudns.com
 ||huanyutv.com
 ||huaoe.com
@@ -29354,7 +29355,6 @@
 ||hxytw.com
 ||hxyxsj.com
 ||hxzdhn.com
-||hy-cgp.com
 ||hy-la.com
 ||hy-zr.com
 ||hy01888.com
@@ -32518,6 +32518,7 @@
 ||jiexi.la
 ||jiexiyouxuan.com
 ||jieyou.com
+||jieyougame.com
 ||jieyoujob.com
 ||jieyue.net
 ||jiez238.com
@@ -33573,6 +33574,7 @@
 ||jshuachen.com
 ||jshy.com
 ||jshylm.com
+||jsifaja.com
 ||jsimg.cc
 ||jsinfo.net
 ||jsiteec.org
@@ -39219,6 +39221,7 @@
 ||meimingteng.com
 ||meingrace.com
 ||meinv.com
+||meinv.page
 ||meip0.me
 ||meip4.me
 ||meipai.com
@@ -46859,7 +46862,6 @@
 ||router.tw
 ||routeryun.com
 ||routewize.com
-||rouwen.net
 ||rouzip.com
 ||rowcan.com
 ||royalpay.com.au
@@ -47309,6 +47311,8 @@
 ||sankaijian.com
 ||sankgo.com
 ||sankougift.com
+||sankoup.com
+||sankoup1.com
 ||sankuai.com
 ||sanlan123.com
 ||sanlangwang.ink
@@ -56330,7 +56334,6 @@
 ||weeyun.com
 ||wefans.com
 ||wefiler.com
-||wefinder.com
 ||wefinger.club
 ||wegame.com
 ||wegamex.com.hk
@@ -57464,7 +57467,6 @@
 ||wlanbanlv.com
 ||wlanwifi.net
 ||wlbaike.com
-||wlbqczk.vip
 ||wlcbnews.com
 ||wlcbw.com
 ||wlcxx.com
@@ -63044,7 +63046,6 @@
 ||yqmh.com
 ||yqphh.com
 ||yqptzx.com
-||yqqlm.vip
 ||yqsbz.com
 ||yqsns.com
 ||yqtc.com
@@ -63140,7 +63141,6 @@
 ||ysx8.vip
 ||ysx9999.com
 ||ysxs8.com
-||ysyhljt.vip
 ||ysyycv.com
 ||yszx99.com
 ||yszyun.com
