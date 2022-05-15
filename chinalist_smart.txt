@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-05-15 01:59:57 UTC
+! Updated: 2022-05-15 15:25:09 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -34445,6 +34445,7 @@
 @@||kcjyyjzzs.com
 @@||kcjzsc.com
 @@||kcloudidc.com
+@@||kcna.kp
 @@||kcrcb.com
 @@||kcwiki.org
 @@||kcyuri.com
