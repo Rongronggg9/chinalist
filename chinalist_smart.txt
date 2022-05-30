@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-05-29 02:02:32 UTC
+! Updated: 2022-05-30 01:56:58 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -9592,7 +9592,6 @@
 @@||atobo.com
 @@||atomhike.com
 @@||atomic-art.com
-@@||atomwuxi.com
 @@||atool.org
 @@||atool9.com
 @@||atoolbox.net
@@ -10131,6 +10130,7 @@
 @@||baiyuxiong.com
 @@||baizhan.net
 @@||baizhanke.com
+@@||baizhanlive.com
 @@||baizhenzhu.com
 @@||baizhibest.com
 @@||baizhiedu.com
@@ -10585,6 +10585,7 @@
 @@||bdfkb.com
 @@||bdfzcd.net
 @@||bdfzgz.net
+@@||bdgamelive.com
 @@||bdgslb.com
 @@||bdhuakan.com
 @@||bdi.pub
@@ -11918,6 +11919,7 @@
 @@||bohaiyun.com
 @@||bohe.com
 @@||bohuihe.com
+@@||bohuitalent.com
 @@||bohutmt.com
 @@||boincdn.live
 @@||boiots.com
@@ -13884,7 +13886,6 @@
 @@||changhongit.com
 @@||changhongnet.com
 @@||changhuapower.com
-@@||changingedu.com
 @@||changjiangdata.com
 @@||changjiangexpress.com
 @@||changjiangtimes.com
@@ -15540,6 +15541,7 @@
 @@||clb6.net
 @@||clboss.com
 @@||clbu.club
+@@||clbug.com
 @@||clcindex.com
 @@||clclibrary.com
 @@||clcmw.com
@@ -17127,6 +17129,7 @@
 @@||csflgg.com
 @@||csftyy.com
 @@||csgm168.com
+@@||csgocn.net
 @@||csgokai.com
 @@||csgpc.org
 @@||csgwbn.com
@@ -17727,7 +17730,6 @@
 @@||dachuw.net
 @@||dadaabc.com
 @@||dadaabcc.com
-@@||dadabew.com
 @@||dadagame.com
 @@||dadagem.xyz
 @@||dadaizi.com
@@ -24297,6 +24299,7 @@
 @@||giftsbeijing.com
 @@||gifu-pr.com
 @@||giga-da.com
+@@||giga-science.com
 @@||gigabyte.com
 @@||gigaget.com
 @@||giikin.com
@@ -24397,6 +24400,7 @@
 @@||gkzxw.com
 @@||gl-data.com
 @@||gl-inet.com
+@@||gl102.com
 @@||gl258.com
 @@||glab.online
 @@||glamever.com
@@ -26712,6 +26716,7 @@
 @@||hbzqzx.com
 @@||hbzsb.com
 @@||hbzuojia.com
+@@||hbzw56.com
 @@||hbzywh.com
 @@||hc-byq.com
 @@||hc-cdn.com
@@ -30590,7 +30595,6 @@
 @@||infoxmation.com
 @@||infzm.com
 @@||ing10bbs.com
-@@||ing2ing.com
 @@||ingageapp.com
 @@||ingcore.com
 @@||ingdan.com
@@ -32614,7 +32618,6 @@
 @@||jiongyaya.com
 @@||jiou.me
 @@||jiouyun.com
-@@||jipays.com
 @@||jipingacg.com
 @@||jipinwww.com
 @@||jipukeji.com
@@ -32833,7 +32836,6 @@
 @@||jjgsxc.com
 @@||jjhgamedns.com
 @@||jjhh.com
-@@||jjhsd.com
 @@||jjhuifu.com
 @@||jjhuigou.com
 @@||jjhuoyan.com
@@ -37467,7 +37469,6 @@
 @@||loopjump.com
 @@||looquan.com
 @@||loorain.com
-@@||loosun.com
 @@||looyu.com
 @@||looyuoms.com
 @@||looyush.com
@@ -38428,7 +38429,6 @@
 @@||mamicode.com
 @@||mamilist.com
 @@||mamioo.com
-@@||mamipush.com
 @@||mamsh.org
 @@||managershare.com
 @@||manben.com
@@ -39030,7 +39030,6 @@
 @@||meitushop.com
 @@||meitustat.com
 @@||meituyun.com
-@@||meituyunji.com
 @@||meiwai.net
 @@||meiweis.com
 @@||meiweishudan.com
@@ -41859,6 +41858,7 @@
 @@||ntvxbf7.com
 @@||ntwikis.com
 @@||ntwzy.com
+@@||ntxiru.com
 @@||nu1l.com
 @@||nuan.io
 @@||nuandao.com
@@ -42163,6 +42163,7 @@
 @@||ok06.com
 @@||ok1616.com
 @@||ok165.com
+@@||ok2.wang
 @@||ok206.com
 @@||ok365.com
 @@||ok3w.net
@@ -46922,7 +46923,6 @@
 @@||saiyouedu.net
 @@||saiyunyx.com
 @@||sakway.com
-@@||saladns.com
 @@||salasolo.com
 @@||saleoilpaintings.com
 @@||salogs.com
@@ -47049,7 +47049,6 @@
 @@||sanyuanbaobao.com
 @@||sanyuantc.com
 @@||sanyuesha.com
-@@||sanzang5.com
 @@||sanzang5.net
 @@||sanzangwang.com
 @@||sanzei.com
@@ -47343,6 +47342,7 @@
 @@||sdhsie.com
 @@||sdhuxiji.com
 @@||sdhxnykj.com
+@@||sdhysyyxgs.com
 @@||sdiandian.com
 @@||sdiborn.com
 @@||sdicin.com
@@ -47866,6 +47866,7 @@
 @@||shanghaidisneyresort.com
 @@||shanghaiferry.com
 @@||shanghaihino.com
+@@||shanghaihuanli.com
 @@||shanghaiiot.org
 @@||shanghaik11.com
 @@||shanghaimart.com
@@ -50074,7 +50075,6 @@
 @@||sptcc.com
 @@||sptccn.com
 @@||spthome.com
-@@||sptxm.com
 @@||spway.net
 @@||spyouxi.com
 @@||spzs.com
@@ -52303,7 +52303,6 @@
 @@||tiantiancaipu.com
 @@||tiantianfm.com
 @@||tiantianfunds.com
-@@||tiantianhr.com
 @@||tiantianleshuiguo.com
 @@||tiantianquce.com
 @@||tiantianqutao.com
@@ -54952,6 +54951,7 @@
 @@||viptijian.com
 @@||vipwaf.com
 @@||vipwaf.net
+@@||vipwhjtsgpc.com
 @@||vipwm.cc
 @@||vipxap.com
 @@||vipxdns.com
@@ -56989,7 +56989,6 @@
 @@||wisedoo.com
 @@||wisedsp.net
 @@||wisedu.com
-@@||wiseduc.com
 @@||wiseimp.com
 @@||wiselong.com
 @@||wisenjoy.com
@@ -60272,6 +60271,7 @@
 @@||xuewangzhan.net
 @@||xuexb.com
 @@||xuexi.la
+@@||xuexi1234567.com
 @@||xuexi365.com
 @@||xuexi637.com
 @@||xuexiaodaquan.com
@@ -60638,6 +60638,7 @@
 @@||xzcblog.com
 @@||xzddx.com
 @@||xzdzsww.com
+@@||xzfi.cc
 @@||xzfile.com
 @@||xzggjyzpw.com
 @@||xzgjj.com
@@ -62341,7 +62342,6 @@
 @@||youjingnetwork.com
 @@||youjiuhealth.com
 @@||youjoy.tv
-@@||youjuke.com
 @@||youkake.com
 @@||youke.co
 @@||youke.com
@@ -65564,7 +65564,6 @@
 @@||zkyxls.com
 @@||zkzhkj.com
 @@||zkzj.org
-@@||zl532.com
 @@||zl99.org
 @@||zlbaba.com
 @@||zlca.org
