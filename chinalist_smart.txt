@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-05-31 01:56:35 UTC
+! Updated: 2022-06-01 02:10:15 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -3857,7 +3857,6 @@
 @@||515ppt.com
 @@||51658042.com
 @@||51661182.com
-@@||51663.net
 @@||5166ys.com
 @@||516a.com
 @@||516edu.com
@@ -6889,7 +6888,6 @@
 @@||92bizhi.com
 @@||92caijing.com
 @@||92cloud.com
-@@||92cy.cc
 @@||92demo.com
 @@||92dp.com
 @@||92ez.com
@@ -9949,7 +9947,6 @@
 @@||baideye.com
 @@||baidinet.com
 @@||baidouya.com
-@@||baidu-360-yyy-kubo.com
 @@||baidu-int.com
 @@||baidu-itm.com
 @@||baidu-mgame.com
@@ -10665,7 +10662,6 @@
 @@||beeshow.tv
 @@||beestor.com
 @@||beestore.tv
-@@||beeui.com
 @@||beevideo.tv
 @@||beeweart.com
 @@||begcl.com
@@ -10828,6 +10824,7 @@
 @@||berui.com
 @@||bes.ren
 @@||besg-bee.com
+@@||besget.com
 @@||beshtech.com
 @@||bessystem.com
 @@||best-inc.com
@@ -11463,7 +11460,6 @@
 @@||bjdfart.com
 @@||bjdfxj.com
 @@||bjdiaoyu.com
-@@||bjdingyi.com
 @@||bjdjc.com
 @@||bjdllti.com
 @@||bjdlzl.com
@@ -12208,7 +12204,6 @@
 @@||btbat.com
 @@||btbctex.com
 @@||btbt.tv
-@@||btbt4k.com
 @@||btby-pump.com
 @@||btc114.com
 @@||btc116.com
@@ -13381,7 +13376,6 @@
 @@||cdn-cn3.apple-mapkit.com
 @@||cdn-cn4.apple-mapkit.com
 @@||cdn-data-cloud.com
-@@||cdn-dns-kubo.com
 @@||cdn-dodo.com
 @@||cdn-files.net
 @@||cdn-hotels.com
@@ -13439,9 +13433,7 @@
 @@||cdnhwc6.com
 @@||cdnhwchcg02.com
 @@||cdni.net
-@@||cdnip567.com
 @@||cdnjtzy.com
-@@||cdnk8.com
 @@||cdnle.com
 @@||cdnle.net
 @@||cdnmama.com
@@ -21173,7 +21165,6 @@
 @@||en51.com
 @@||en8848.com
 @@||en998.com
-@@||ename-dns.net
 @@||ename.com
 @@||ename.net
 @@||enamourmall.com
@@ -23941,6 +23932,7 @@
 @@||gdrc360.com
 @@||gdrc365.com
 @@||gdrcu.com
+@@||gdreload.com
 @@||gdrfyy.com
 @@||gds-services.com
 @@||gdscse.net
@@ -29707,6 +29699,7 @@
 @@||icpdaili.com
 @@||icphu.com
 @@||icpisp.net
+@@||icplist.com
 @@||icrazyidea.com
 @@||icroom.com
 @@||icrosschina.com
@@ -32545,7 +32538,6 @@
 @@||jinrongwang.net
 @@||jinrui-tech.com
 @@||jins-cn.com
-@@||jins365.com
 @@||jinsdk.com
 @@||jinse.com
 @@||jinsebook.com
@@ -32631,7 +32623,6 @@
 @@||jishuchi.com
 @@||jishukong.com
 @@||jishuqq.com
-@@||jishutuan.com
 @@||jishux.com
 @@||jisi17.com
 @@||jisilu.com
@@ -34086,7 +34077,6 @@
 @@||kakalili.com
 @@||kakamobi.com
 @@||kakatv1.com
-@@||kakazy-yun.com
 @@||kalading.com
 @@||kalazan.com
 @@||kalcaddle.com
@@ -35356,7 +35346,6 @@
 @@||kuyubox.com
 @@||kuyumall.com
 @@||kuyun.com
-@@||kuyun1.com
 @@||kuzhengame.com
 @@||kveaa.com
 @@||kvecc.com
@@ -43844,6 +43833,7 @@
 @@||poseidon.dl.playstation.net
 @@||poseidong.com
 @@||posfree.com
+@@||posge.com
 @@||positivisten.com
 @@||posn.net
 @@||post183.net
@@ -50074,7 +50064,6 @@
 @@||sqfcw.com
 @@||sqfortune.com
 @@||sqggzy.com
-@@||sqiming.com
 @@||sqkb.com
 @@||sql110.com
 @@||sqlsec.com
@@ -52983,6 +52972,7 @@
 @@||toutiaostatic.com
 @@||toutiaovod.com
 @@||toutiaoyule.com
+@@||toutiaozb.com
 @@||toutoufc.com
 @@||toutoupiao.com
 @@||touwenzi.com
@@ -55436,7 +55426,6 @@
 @@||wandoer.com
 @@||wandouip.com
 @@||wandoujia.com
-@@||wandouys.com
 @@||waneziyuan.com
 @@||wanfangdata.com
 @@||wanfangqikan.com
@@ -60063,7 +60052,6 @@
 @@||xspcf.com
 @@||xspic.com
 @@||xspliter.com
-@@||xsrjt.com
 @@||xsrtvu.com
 @@||xsshuku.com
 @@||xssk.net
@@ -65669,7 +65657,6 @@
 @@||znyseo.com
 @@||znyshurufa.com
 @@||znyxb.com
-@@||znzbt.com
 @@||znznet.net
 @@||zo-l.net
 @@||zocai.com
