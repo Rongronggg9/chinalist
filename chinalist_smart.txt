@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-06-22 02:59:27 UTC
+! Updated: 2022-06-23 01:56:56 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -973,6 +973,7 @@
 @@||114park.com
 @@||114photo.com
 @@||114piaowu.com
+@@||114pifa.com
 @@||114pinpai.com
 @@||114px.com
 @@||114qy.com
@@ -2804,7 +2805,6 @@
 @@||3361.com
 @@||3366.com
 @@||3366.net
-@@||336655.com
 @@||3366722.com
 @@||336688.net
 @@||3366img.com
@@ -7963,6 +7963,7 @@
 @@||ahu.cc
 @@||ahuano.com
 @@||ahudows.com
+@@||ahugeship.com
 @@||ahuyi.com
 @@||ahwwnews.com
 @@||ahwxcs.com
@@ -11292,7 +11293,6 @@
 @@||biyong007.com
 @@||biyou.tech
 @@||biyoujz.com
-@@||biyuns.com
 @@||biyuwu.cc
 @@||biz-east.com
 @@||biz178.com
@@ -12175,7 +12175,6 @@
 @@||btsabc.org
 @@||btschool.net
 @@||btsemi.com
-@@||btsha.com
 @@||btshidai.com
 @@||btsmth.com
 @@||btsmth.org
@@ -21945,6 +21944,7 @@
 @@||fansyes.com
 @@||fantablade.com
 @@||fantaiai.com
+@@||fantaicdn.net
 @@||fantanggame.com
 @@||fantatech.com
 @@||fantawild.com
@@ -23093,6 +23093,7 @@
 @@||ftcauction.com
 @@||ftcgj.com
 @@||ftfast.com
+@@||fthformal.com
 @@||ftium4.com
 @@||ftnormal00ab.com
 @@||ftnormal00ak.com
@@ -23399,6 +23400,7 @@
 @@||fzyfan.net
 @@||fzyfs.net
 @@||fzzqcdn.com
+@@||fzzycs.com
 @@||g-emall.com
 @@||g-photography.net
 @@||g-var.com
@@ -25915,6 +25917,7 @@
 @@||hallofix.com
 @@||halomobi.com
 @@||haluoha.com
+@@||hama-net.com
 @@||hamanw.com
 @@||hambut.com
 @@||hamir.net
@@ -26313,6 +26316,7 @@
 @@||happyplaygame.net
 @@||happyroll.net
 @@||happysky.org
+@@||happytimenet.com
 @@||happytrave.com
 @@||happyux.com
 @@||happywalk.net
@@ -29147,6 +29151,7 @@
 @@||hzhanbo.com
 @@||hzhfzx.com
 @@||hzhike.com
+@@||hzhisoft.com
 @@||hzhltec.com
 @@||hzhr.com
 @@||hzhuangxiang.com
@@ -29296,6 +29301,7 @@
 @@||i5738.com
 @@||i5i6.net
 @@||i5mai.com
+@@||i66wan.com
 @@||i6879.com
 @@||i7box.com
 @@||i7fh.com
@@ -30607,6 +30613,7 @@
 @@||ioa365.com
 @@||ioage.com
 @@||iocrest.com
+@@||iodraw.com
 @@||ioeyjsb.com
 @@||ioffershow.com
 @@||ioffice100.com
@@ -35048,6 +35055,7 @@
 @@||kuaiyoujia.com
 @@||kuaiyouxi.com
 @@||kuaiyu.com
+@@||kuaiyugo.com
 @@||kuaiyunbd.com
 @@||kuaiyunds.com
 @@||kuaizhan.com
@@ -36495,6 +36503,7 @@
 @@||lilvb.com
 @@||lily-collection.com
 @@||lilyenglish.com
+@@||lilyinthefield.com
 @@||lilysamericandiner.com
 @@||lilysgame.com
 @@||limax.com
@@ -36968,7 +36977,6 @@
 @@||lj168.com
 @@||ljbao.net
 @@||ljcdn.com
-@@||ljemail.org
 @@||ljhis.com
 @@||ljhks.net
 @@||ljia.com
@@ -38941,6 +38949,7 @@
 @@||menglechong.com
 @@||menglegame.com
 @@||mengma.com
+@@||mengmax.fun
 @@||mengniang.tv
 @@||mengniu99.com
 @@||mengqianxun.net
@@ -47870,7 +47879,6 @@
 @@||shcell.org
 @@||shchengsan.com
 @@||shchhukou.com
-@@||shchjj.com
 @@||shclearing.com
 @@||shcljoy.com
 @@||shcngz.com
@@ -49210,6 +49218,7 @@
 @@||skyrj.com
 @@||skysea.com
 @@||skysgame.com
+@@||skysriver.com
 @@||skysrt.com
 @@||skyts.net
 @@||skytv.cc
@@ -49305,6 +49314,7 @@
 @@||smarthomecn.com
 @@||smartisan.com
 @@||smartisanos.com
+@@||smartjoygames.com
 @@||smartleon.net
 @@||smartlifein.com
 @@||smartlinku.com
@@ -50035,7 +50045,6 @@
 @@||ssreader.com
 @@||ssrrxx.com
 @@||ssrtys.com
-@@||sss129vip.com
 @@||ssscdn.com
 @@||sssie.com
 @@||ssso.com
@@ -50635,6 +50644,7 @@
 @@||swift51.com
 @@||swifter.tips
 @@||swifthumb.com
+@@||swiftjava.com
 @@||swiftlet.net
 @@||swiftmi.com
 @@||swiftstar.net
@@ -50689,6 +50699,7 @@
 @@||sxemc.com
 @@||sxepc.com
 @@||sxfblog.com
+@@||sxfoundation.com
 @@||sxfu.org
 @@||sxgdtv.com
 @@||sxglpx.com
@@ -52569,7 +52580,6 @@
 @@||tohic.net
 @@||tohkalove.com
 @@||tohosting.com
-@@||tohosting.net
 @@||tohours.com
 @@||tohuo.com
 @@||toidea.com
@@ -60112,6 +60122,7 @@
 @@||xuhot.com
 @@||xujianhua.com
 @@||xujun.org
+@@||xuka.com
 @@||xukai.xyz
 @@||xulaoshi68.com
 @@||xuliangwei.com
@@ -61342,7 +61353,6 @@
 @@||yimiaozhongdemeng.com
 @@||yimidida.com
 @@||yimihaodi.com
-@@||yimikf.com
 @@||yimin.biz
 @@||yimin168.com
 @@||yimincaifu.com
@@ -62333,6 +62343,7 @@
 @@||youyacao.com
 @@||youyanchu.com
 @@||youyannet.com
+@@||youyegame.com
 @@||youyikeji666.com
 @@||youyilm.com
 @@||youyiqi.com
@@ -63418,6 +63429,7 @@
 @@||yzpetfood.com
 @@||yzrb.com
 @@||yzrom.com
+@@||yzrshop.com
 @@||yzs.com
 @@||yzsbh.com
 @@||yzspdq.com
@@ -63887,7 +63899,6 @@
 @@||zgny.com
 @@||zgong.com
 @@||zgpingshu.com
-@@||zgpj.net
 @@||zgpts.com
 @@||zgqkk.com
 @@||zgqw.com
@@ -64990,6 +65001,7 @@
 @@||zifandiaosu.com
 @@||zifeiwuya.com
 @@||zige365.com
+@@||zigecha.com
 @@||zigeer.com
 @@||zigqnx.com
 @@||ziguhonglan.com
