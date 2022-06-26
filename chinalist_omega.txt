@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-06-26 02:06:48 UTC
+! Updated: 2022-06-26 19:22:54 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -10882,6 +10882,7 @@
 ||bhrencai.com
 ||bhuitong.com
 ||bhxww.com
+||bhzck.xyz
 ||bhzhu203.com
 ||bhzhuji.com
 ||bhzpw.com
@@ -14986,7 +14987,6 @@
 ||chrieschina.com
 ||chris-tina.com
 ||chrmn.com
-||chrom-china.com
 ||chromecj.com
 ||chromedownloads.net
 ||chromefor.com
@@ -15094,7 +15094,6 @@
 ||chujuan.net
 ||chukong-inc.com
 ||chukou1.com
-||chukuangren.com
 ||chule.cc
 ||chulouwang.com
 ||chumacdn.com
@@ -15497,6 +15496,7 @@
 ||clouddn.com
 ||clouddream.net
 ||cloudflarea.com
+||cloudfront.net
 ||cloudgap.net
 ||cloudgfw.com
 ||cloudgfw.net
@@ -17350,7 +17350,6 @@
 ||cxxjs.com
 ||cxy61.com
 ||cxy7.com
-||cxyd.net
 ||cxyfjy.com
 ||cxyl.org
 ||cxylfc.com
@@ -19830,6 +19829,7 @@
 ||dui.ai
 ||dui1dui.com
 ||dui88.com
+||dui9999.com
 ||duia.com
 ||duiai.com
 ||duianba.com
@@ -23539,6 +23539,7 @@
 ||ganglonggou.com
 ||gangpaibao.com
 ||gangqinpu.com
+||gangqinxiansheng.com
 ||gangzai.online
 ||ganhuoche.com
 ||ganhuodaquan.com
@@ -33847,6 +33848,7 @@
 ||kafangtech.com
 ||kafka.cc
 ||kagirl.net
+||kahao123.com
 ||kai-ying.com
 ||kaiba315.com
 ||kaibo5888.com
@@ -34179,7 +34181,6 @@
 ||keede.com
 ||keenonrobot.com
 ||keensky.com
-||keenwon.com
 ||keep.city
 ||keep.com
 ||keepc.com
@@ -37121,6 +37122,7 @@
 ||loho88.com
 ||loj.ac
 ||loji.com
+||loke123.com
 ||lokyi.name
 ||lol123.net
 ||lol99.com
@@ -38845,7 +38847,6 @@
 ||meiyixinrui.com
 ||meiyou.com
 ||meiyue.com
-||meiyuxiuxiu.com
 ||meizhanggui.cc
 ||meizhejie.com
 ||meizhou.com
@@ -46017,7 +46018,6 @@
 ||repian.com
 ||repianimg.com
 ||replays.net
-||res0w.com
 ||resclassaction.com
 ||reserve-prime.apple.com
 ||resheji.com
@@ -47373,7 +47373,6 @@
 ||sendbp.com
 ||sendcloud.net
 ||sendcloud.org
-||sendocn.com
 ||sendong.com
 ||sends.cc
 ||senenwood.com
@@ -52580,6 +52579,7 @@
 ||tongpankt.com
 ||tongshanbank.com
 ||tongshuai.com
+||tongtaiamc.com
 ||tongtech.com
 ||tongtianta.site
 ||tongtongli.com
@@ -55005,7 +55005,6 @@
 ||vv881.com
 ||vv8yx.com
 ||vv91.com
-||vv9vv.com
 ||vvaii.com
 ||vvbtc.com
 ||vvddcc.com
@@ -61571,6 +61570,7 @@
 ||yixi.tv
 ||yixia.com
 ||yixiaoxi.com
+||yixiaozu.com
 ||yixie8.com
 ||yixiekeji.com
 ||yixieshi.com
