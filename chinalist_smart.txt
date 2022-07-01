@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-06-30 02:04:06 UTC
+! Updated: 2022-07-01 02:15:27 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -7986,7 +7986,6 @@
 @@||aibing.cc
 @@||aibo123.com
 @@||aibooks.cc
-@@||aibosha.com
 @@||aicai.com
 @@||aicaicdn.com
 @@||aicdn.com
@@ -10978,7 +10977,6 @@
 @@||bigda.com
 @@||bigdata-expo.org
 @@||bigdata.ren
-@@||bigdatabbs.com
 @@||bigdatabuy.com
 @@||bigdataedu.org
 @@||bigdatasafe.org
@@ -16595,7 +16593,6 @@
 @@||corpize.com
 @@||corpring.com
 @@||corpus4u.org
-@@||cortexfx.bnpparibas.com
 @@||cos-show.com
 @@||cosco.com
 @@||coscon.com
@@ -20964,7 +20961,6 @@
 @@||elpwc.com
 @@||els001.com
 @@||elsenow.com
-@@||elsiehoney.com
 @@||elsyhw.com
 @@||elsz5.xyz
 @@||eltws.com
@@ -31967,7 +31963,6 @@
 @@||jiaoben.net
 @@||jiaobuser.com
 @@||jiaochengzhijia.com
-@@||jiaodafu.net
 @@||jiaodian.pub
 @@||jiaodong.net
 @@||jiaofei123.com
@@ -33903,7 +33898,6 @@
 @@||kaiyuangroup.cc
 @@||kaiyuanhi.com
 @@||kaiyuanhotels.com
-@@||kaiyuanzg.com
 @@||kajicam.com
 @@||kaka.com
 @@||kaka3.com
@@ -35478,7 +35472,6 @@
 @@||lanjinger.com
 @@||lanjingfm.com
 @@||lanjingtmt.com
-@@||lanketd.com
 @@||lanlanlife.com
 @@||lanlicai.com
 @@||lanlv.com
@@ -38926,7 +38919,6 @@
 @@||mergeek.com
 @@||merklechina.com
 @@||mescroll.com
-@@||meshang.net
 @@||meshiot.com
 @@||mesince.com
 @@||mesresearch.com
@@ -40053,8 +40045,6 @@
 @@||msfpay.com
 @@||msfxt.com
 @@||msgcarry.com
-@@||msgr.dlservice.microsoft.com
-@@||msgruser.dlservice.microsoft.com
 @@||msgtjj.com
 @@||mshandong.com
 @@||mshc2018.com
@@ -40919,7 +40909,6 @@
 @@||netbian.com
 @@||netcnnet.net
 @@||netcoc.com
-@@||netcolor.com
 @@||netconst.com
 @@||netcoretec.com
 @@||netded.com
@@ -53538,7 +53527,6 @@
 @@||tysdmh.com
 @@||tysj365.com
 @@||tysjyjy.com
-@@||tyst88.com
 @@||tysurl.com
 @@||tyswy.com
 @@||tyszy.com
@@ -57935,7 +57923,6 @@
 @@||xazzg.com
 @@||xazzp.com
 @@||xazzs.com
-@@||xb.dlservice.microsoft.com
 @@||xb100.net
 @@||xb2s.com
 @@||xb5.cc
