@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-07-05 02:02:56 UTC
+! Updated: 2022-07-06 02:12:08 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -658,7 +658,6 @@
 @@||0951job.com
 @@||09635.com
 @@||0967ll.com
-@@||09685.com
 @@||096hg.com
 @@||0991dj.com
 @@||0991net.com
@@ -3803,7 +3802,6 @@
 @@||5153.com
 @@||51555.net
 @@||51569.com
-@@||5156edu.com
 @@||5156rcw.com
 @@||515app.com
 @@||515car.com
@@ -5690,6 +5688,7 @@
 @@||71acg.net
 @@||71baomu.com
 @@||71baomu.net
+@@||71big.net
 @@||71dm.com
 @@||71du.com
 @@||71e.com
@@ -11778,6 +11777,7 @@
 @@||bobopos.com
 @@||bobouny.com
 @@||bobtj.com
+@@||bobtranslate.com
 @@||bocaidaka.com
 @@||boce.com
 @@||bocep2c.com
@@ -13323,7 +13323,6 @@
 @@||cdnmama.com
 @@||cdnmaster.com
 @@||cdnok.com
-@@||cdnpan.com
 @@||cdnpe.com
 @@||cdnsvc.com
 @@||cdntip.com
@@ -18185,7 +18184,6 @@
 @@||ddnddn.com
 @@||ddnode.com
 @@||ddns-only.xyz
-@@||ddns.tokyo
 @@||ddnsto.com
 @@||ddong.com
 @@||ddooo.com
@@ -24286,7 +24284,6 @@
 @@||glosku.com
 @@||glqh.com
 @@||glshimg.com
-@@||gltattoo.com
 @@||gltjk.com
 @@||gltop.com
 @@||glvs.com
@@ -24943,7 +24940,6 @@
 @@||guaili.org
 @@||guailuo.com
 @@||guailuzi.com
-@@||guainiuwang.com
 @@||guaiwola.com
 @@||guaixun.com
 @@||guajibao.club
@@ -25508,7 +25504,6 @@
 @@||gzstv.com
 @@||gzsuiti.com
 @@||gzsums.net
-@@||gzsww.com
 @@||gzsy06.com
 @@||gzsy07.com
 @@||gzszgas.com
@@ -27087,7 +27082,6 @@
 @@||hhvv.com
 @@||hhxdkj.com
 @@||hhxin.com
-@@||hhycdai.com
 @@||hhycdk.com
 @@||hhygame.com
 @@||hhygames.com
@@ -27838,6 +27832,7 @@
 @@||houdask.com
 @@||houdunwang.com
 @@||houge.biz
+@@||houjt.com
 @@||houkai.com
 @@||houpuwang.com
 @@||houqinbao.com
@@ -29194,7 +29189,6 @@
 @@||i-size.com
 @@||i-study.net
 @@||i-tongfang.com
-@@||i-tv.com
 @@||i-xinnuo.com
 @@||i-xoron.com
 @@||i.dell.com
@@ -31286,7 +31280,6 @@
 @@||iyunyue.com
 @@||iyunzk.com
 @@||iyuxy.com
-@@||iyx668.com
 @@||iyxku.com
 @@||iyyin.com
 @@||iyz168.com
@@ -31682,6 +31675,7 @@
 @@||jggjj.com
 @@||jgjapp.com
 @@||jgjh.com
+@@||jgjsoft.com
 @@||jgscct.com
 @@||jgsdaily.com
 @@||jgshwx.com
@@ -33707,6 +33701,7 @@
 @@||jzant.com
 @@||jzb.com
 @@||jzbar.net
+@@||jzbbc.com
 @@||jzbdc.com
 @@||jzcbank.com
 @@||jzchou.com
@@ -34289,6 +34284,7 @@
 @@||keyray-hk.com
 @@||keyshot.cc
 @@||keyuhome.com
+@@||keyunidc.com
 @@||keyunsoft.com
 @@||keyyou.net
 @@||kezhaozhao.com
@@ -34803,6 +34799,7 @@
 @@||ksense.com
 @@||ksfang.com
 @@||ksgnr.com
+@@||kshhl.com
 @@||kshot.com
 @@||ksjgs.com
 @@||ksks001.com
@@ -36248,7 +36245,6 @@
 @@||liba.com
 @@||libaclub.com
 @@||libai.com
-@@||liball.me
 @@||libaopay.com
 @@||libaoyun.com
 @@||libinx.com
@@ -37046,6 +37042,7 @@
 @@||logdu.com
 @@||loghao.com
 @@||logi-inno.com
+@@||logi.im
 @@||logicdsp.com
 @@||login.cdnetworks.com
 @@||logo-emblem.com
@@ -40063,6 +40060,7 @@
 @@||mtcop.com
 @@||mtcsys.com
 @@||mtcx99.com
+@@||mtdpai.com
 @@||mtdpgame.com
 @@||mtdx.net
 @@||mtedu.com
@@ -44512,6 +44510,7 @@
 @@||qijizuopin.com
 @@||qijoe.com
 @@||qijuan.com
+@@||qijucn.com
 @@||qik339.com
 @@||qikan.com
 @@||qikanol.com
@@ -44868,7 +44867,6 @@
 @@||qjhm.net
 @@||qji.cc
 @@||qjimage.com
-@@||qjishu.com
 @@||qjkc.net
 @@||qjmotor.com
 @@||qjrc.com
@@ -47087,6 +47085,7 @@
 @@||sdj-tech.com
 @@||sdjcw.com
 @@||sdjinlan.com
+@@||sdjjdt.com
 @@||sdjnwx.com
 @@||sdjtcx.com
 @@||sdjushu.com
@@ -48097,6 +48096,7 @@
 @@||shitac.com
 @@||shitianxia.vip
 @@||shitibaodian.com
+@@||shitoc.com
 @@||shitongaf.com
 @@||shitou.com
 @@||shitouboy.com
@@ -48920,7 +48920,6 @@
 @@||siwazyw.cc
 @@||siwazyw.tv
 @@||siwazyw.xyz
-@@||siwazywcdn.com
 @@||siwazywcdn2.com
 @@||siwazywimg.com
 @@||siwei.me
@@ -48956,7 +48955,6 @@
 @@||sj35hb.com
 @@||sj3w.com
 @@||sj88.com
-@@||sj96615.com
 @@||sj998.com
 @@||sjawards.com
 @@||sjbzx.com
@@ -49572,6 +49570,7 @@
 @@||sopandas.com
 @@||sopanxia.com
 @@||soperson.com
+@@||sophiatiles.com
 @@||soppt.com
 @@||sopuning.com
 @@||soq.com
@@ -51134,6 +51133,7 @@
 @@||taisantech.com
 @@||taishangshiwu.com
 @@||taishengtoys.com
+@@||taitongdaikuan.com
 @@||taiwandao.tw
 @@||taixingren.com
 @@||taixsw.com
@@ -52298,6 +52298,7 @@
 @@||tjst.net
 @@||tjstats.com
 @@||tjtele.com
+@@||tjtusuguan.com
 @@||tjtzkj.com
 @@||tjufbase.com
 @@||tjupdi.com
@@ -60119,7 +60120,6 @@
 @@||xxcang.com
 @@||xxcig.com
 @@||xxcmw.com
-@@||xxd.io
 @@||xxdao.com
 @@||xxfzl.com
 @@||xxghh.biz
@@ -61586,6 +61586,7 @@
 @@||yjk.im
 @@||yjldp.com
 @@||yjlin4.com
+@@||yjnbn.com
 @@||yjopen.com
 @@||yjpal.com
 @@||yjq.cc
@@ -62833,6 +62834,7 @@
 @@||yunnut.com
 @@||yunos-tv.com
 @@||yunos.com
+@@||yunpaiwang.net
 @@||yunpan.com
 @@||yunpansou.cc
 @@||yunpanx.com
@@ -64145,6 +64147,7 @@
 @@||zhgjm.com
 @@||zhgl.com
 @@||zhgnj.com
+@@||zhgqt.com
 @@||zhguoguo.com
 @@||zhh.me
 @@||zhhainiao.com
