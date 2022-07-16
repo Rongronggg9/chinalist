@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-07-15 02:20:07 UTC
+! Updated: 2022-07-16 02:01:46 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -2438,7 +2438,6 @@
 ||27ws.com
 ||27yx.com
 ||28.com
-||2800.so
 ||281010.com
 ||28123.com
 ||2827.com
@@ -3999,7 +3998,6 @@
 ||51h5.com
 ||51hanghai.com
 ||51hangkong.com
-||51hanhua.com
 ||51haofu.com
 ||51haojob.com
 ||51hcb.com
@@ -7183,7 +7181,6 @@
 ||99max.me
 ||99mc.com
 ||99meiju.app
-||99meiju.org
 ||99meiju.tv
 ||99meili.com
 ||99mst.com
@@ -13532,7 +13529,6 @@
 ||cfc365.com
 ||cfca-c.org
 ||cfcdn.org
-||cfcdn.site
 ||cfcglx.com
 ||cfcp67.com
 ||cfcpn.com
@@ -17988,7 +17984,6 @@
 ||daxueit.com
 ||daxuepc.com
 ||daxueshi.com
-||daxuesou.com
 ||daxuesushe.com
 ||daxuewa.com
 ||daxuewang.com
@@ -20064,8 +20059,6 @@
 ||dyrbw.com
 ||dyrcb.net
 ||dyrjjt.com
-||dyrt168.com
-||dysxxw.com
 ||dytechnolog.com
 ||dytol.com
 ||dytt.net
@@ -21708,7 +21701,6 @@
 ||fan88.com
 ||fanai.com
 ||fancai.com
-||fanchuanxiao.net
 ||fancl-vip.com
 ||fancyapi.com
 ||fancydsp.com
@@ -23065,7 +23057,6 @@
 ||fullstack.love
 ||fulu.com
 ||fumake.com
-||fuman8.net
 ||fumanyou.cc
 ||fumi.com
 ||fumu.com
@@ -24497,7 +24488,6 @@
 ||good321.net
 ||goodaiai.com
 ||goodapk.com
-||goodapp.net
 ||goodbaby.com
 ||goodbabygroup.com
 ||goodbaike.com
@@ -24797,7 +24787,6 @@
 ||gsktraining.com
 ||gskwai.com
 ||gskyty.com
-||gslxrc.com
 ||gsmpers.com
 ||gsp10-ssl-cn.ls.apple.com
 ||gsp13-cn.ls.apple.com
@@ -30841,7 +30830,6 @@
 ||isumiao.com
 ||isummi.com
 ||isun.org
-||isux.us
 ||isuzhou.me
 ||isvee.com
 ||isvjcloud.com
@@ -32407,7 +32395,6 @@
 ||jishuqq.com
 ||jishux.com
 ||jisi17.com
-||jisilu.com
 ||jisu-cnd.com
 ||jisuacg.com
 ||jisuan.mobi
@@ -34194,7 +34181,6 @@
 ||kenfor.com
 ||kenfor.net
 ||kengatoki.com
-||kengdie.com
 ||kengwan.com
 ||keniu.com
 ||keniub.com
@@ -34331,7 +34317,6 @@
 ||kimiss.net
 ||kimiter.com
 ||kimleo.net
-||kimnote.com
 ||kimqi.net
 ||kimsom.com
 ||kina.cc
@@ -36442,6 +36427,7 @@
 ||lingkou.com
 ||lingla.com
 ||linglingkaimen.com
+||linglong.space
 ||linglongart.com
 ||linglongtech.com
 ||linglu666.com
@@ -40276,7 +40262,6 @@
 ||mybxg.com
 ||mycaigou.com
 ||mycaijing.com
-||mycaixun.com
 ||mycar168.com
 ||mycaraok.com
 ||mycarbar.com
@@ -43556,6 +43541,7 @@
 ||poseidong.com
 ||posfree.com
 ||posge.com
+||posingflowers.com
 ||positivisten.com
 ||posn.net
 ||post183.net
@@ -45014,7 +45000,6 @@
 ||qqhuhu.com
 ||qqixk.com
 ||qqjay.com
-||qqje.com
 ||qqjia.com
 ||qqjjsj.com
 ||qqju.com
@@ -47050,7 +47035,6 @@
 ||sdgw.com
 ||sdgwy.org
 ||sdhangmoguan.com
-||sdhaode.com
 ||sdhdssd.com
 ||sdhk2008.com
 ||sdhoukang.com
@@ -50935,7 +50919,6 @@
 ||szslhssy.com
 ||szsmk.com
 ||szsq.net
-||szsti.net
 ||szsunlaser.com
 ||szswt.net
 ||szt365.com
@@ -52252,7 +52235,6 @@
 ||tjflora.com
 ||tjgangkouyiyuan.com
 ||tjgcs.com
-||tjgdjn.com
 ||tjgtgd.com
 ||tjhukou.com
 ||tjhyzyxy.com
@@ -57435,7 +57417,6 @@
 ||wutongwan.org
 ||wutongxiang.cc
 ||wutos.com
-||wutui.pro
 ||wutuojia.com
 ||wuuxiang.com
 ||wuweijob.com
@@ -61141,7 +61122,6 @@
 ||yikuaide.com
 ||yikuaiqu.com
 ||yikuns.com
-||yikuzy.com
 ||yilan.tv
 ||yilanvaas.com
 ||yile8.com
@@ -63800,7 +63780,6 @@
 ||zh30.com
 ||zh51home.com
 ||zhai14.com
-||zhai6.com
 ||zhaiba.com
 ||zhaidou.com
 ||zhaifu.cc
@@ -65384,6 +65363,7 @@
 ||zouzhenzhong.com
 ||zouzhiqiang.com
 ||zowoyoo.com
+||zoxun.com
 ||zoyoo.net
 ||zp.do
 ||zp0716.com
