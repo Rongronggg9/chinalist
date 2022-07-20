@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-07-19 02:19:51 UTC
+! Updated: 2022-07-20 02:03:13 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -5338,7 +5338,6 @@
 @@||64w.cc
 @@||651700.com
 @@||6528.com
-@@||654.com
 @@||654320.com
 @@||6543210.com
 @@||654321wan.com
@@ -8311,7 +8310,6 @@
 @@||akhtm.com
 @@||akhy.com
 @@||akinoheya.com
-@@||akjunshi.com
 @@||akkogear.com
 @@||akng.net
 @@||akniu.com
@@ -15474,7 +15472,6 @@
 @@||cloudserver01.com
 @@||cloudsgis.com
 @@||cloudsohu.net
-@@||cloudstack-china.org
 @@||cloudtcp.net
 @@||cloudtomicro.com
 @@||cloudtopo.com
@@ -16018,7 +16015,6 @@
 @@||cnonline.org
 @@||cnookr.com
 @@||cnool.net
-@@||cnophol.com
 @@||cnops.xyz
 @@||cnosr.com
 @@||cnoswiki.com
@@ -22209,7 +22205,6 @@
 @@||fengone.com
 @@||fengpengjun.com
 @@||fengpintech.com
-@@||fengqiyc.com
 @@||fengqu.com
 @@||fengread.com
 @@||fengshangweekly.com
@@ -22834,7 +22829,6 @@
 @@||fqpai.com
 @@||fqsszx.com
 @@||fqxs.org
-@@||fqzww.com
 @@||fr-odc.samsungapps.com
 @@||fr-trading.com
 @@||fr2007.com
@@ -23034,6 +23028,7 @@
 @@||fulinedu.com
 @@||fuling.com
 @@||fulingwx.com
+@@||fuliquan.com
 @@||fuliti.com
 @@||fuliw.net
 @@||fuljk.com
@@ -28584,7 +28579,6 @@
 @@||hulai.com
 @@||hulamao.com
 @@||hulanap.com
-@@||huliangongyu.com
 @@||hulianmaibo.com
 @@||hulinhong.com
 @@||huliqun.com
@@ -30451,7 +30445,6 @@
 @@||internbird.com
 @@||internet-dns.com
 @@||internet7.vip
-@@||internetcaff.com
 @@||internetke.com
 @@||internettrademark.com
 @@||internetworld.cloud
@@ -31757,7 +31750,6 @@
 @@||jianbing.com
 @@||jiancai.com
 @@||jianchacha.com
-@@||jianchajingmk.net
 @@||jianchihu.net
 @@||jiandaima.com
 @@||jiandan.net
@@ -37492,7 +37484,6 @@
 @@||luobo360.com
 @@||luobocai.com
 @@||luobotou.org
-@@||luobowin10.com
 @@||luobowin8.com
 @@||luoboxia.com
 @@||luochen.com
@@ -38292,7 +38283,6 @@
 @@||maro6.com
 @@||maroon91.com
 @@||marry5.com
-@@||marry80.com
 @@||marsfancy.com
 @@||marstor.com
 @@||marstv.com
@@ -42643,7 +42633,6 @@
 @@||papertime.vip
 @@||paperweekly.site
 @@||paperword.com
-@@||paperwrite.net
 @@||paperyy.com
 @@||papocket.com
 @@||paquapp.com
@@ -45064,7 +45053,6 @@
 @@||qqyouju.com
 @@||qqywf.com
 @@||qqyy.com
-@@||qqyyx.com
 @@||qqzby.net
 @@||qqzhi.com
 @@||qqzi.net
@@ -46807,7 +46795,6 @@
 @@||sccm.cc
 @@||sccnn.com
 @@||sccq.net
-@@||sccsfxdq.com
 @@||sccts.com
 @@||sccwz.com
 @@||scdbzzw.com
@@ -49865,7 +49852,6 @@
 @@||ssso.com
 @@||sst-ic.com
 @@||sst-sd.com
-@@||ssuu.cc
 @@||ssvob.com
 @@||sswchina.com
 @@||ssxf.net
@@ -51886,7 +51872,6 @@
 @@||tianfeiyu.com
 @@||tianfupic.com
 @@||tianfusoftwarepark.com
-@@||tianhaohz.com
 @@||tianhejiayi.com
 @@||tianhongdiaosu.com
 @@||tianhongsunshine.com
@@ -53852,7 +53837,6 @@
 @@||union178.com
 @@||union400.com
 @@||union555.com
-@@||unionclouds.net
 @@||unioncyber.net
 @@||unionli.com
 @@||unionpay.com
@@ -56889,6 +56873,7 @@
 @@||wolongimg.com
 @@||wolongyin.com
 @@||wolongyoule.com
+@@||wolongzywcdn.com
 @@||wolwo.ltd
 @@||wolwobiotech.com
 @@||womai.com
@@ -57331,7 +57316,6 @@
 @@||wukong.com
 @@||wukong.la
 @@||wukongapi.com
-@@||wukongchou995.com
 @@||wukongkf.com
 @@||wukonglicai.com
 @@||wukongphp.com
@@ -62884,7 +62868,6 @@
 @@||yushexuetang.com
 @@||yushin88.com
 @@||yushu5.com
-@@||yushuha.com
 @@||yushunews.com
 @@||yusi.com
 @@||yusi.tv
@@ -63782,7 +63765,6 @@
 @@||zhange8.com
 @@||zhangfensir.com
 @@||zhanggang.net
-@@||zhanggao.club
 @@||zhanggaoyuan.com
 @@||zhanggee.com
 @@||zhanghaijun.com
@@ -64514,6 +64496,7 @@
 @@||zhuangji.net
 @@||zhuangjiba.com
 @@||zhuangjiyuan.com
+@@||zhuangkou.com
 @@||zhuangku.com
 @@||zhuangpeitu.com
 @@||zhuangpin.com
