@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-08-08 01:57:36 UTC
+! Updated: 2022-08-09 02:08:58 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -146,7 +146,6 @@
 @@||021east.com
 @@||021fx.com
 @@||021gjhb.com
-@@||021hly.org
 @@||021ja.com
 @@||021jingwei.com
 @@||021jingwu.com
@@ -4678,7 +4677,6 @@
 @@||54up.net
 @@||54yt.net
 @@||54yuqing.com
-@@||54zm.com
 @@||55.cc
 @@||55.la
 @@||55015.com
@@ -4881,7 +4879,6 @@
 @@||58jurenqi.com
 @@||58kad.com
 @@||58kaifa.com
-@@||58kanshu.cc
 @@||58kuaipai.com
 @@||58kuku.com
 @@||58meizhuo.com
@@ -5886,6 +5883,7 @@
 @@||7dugo.com
 @@||7e.hk
 @@||7east.com
+@@||7ed.net
 @@||7edown.com
 @@||7fei.com
 @@||7fgame.com
@@ -5896,6 +5894,7 @@
 @@||7gz.com
 @@||7hcn.com
 @@||7help.net
+@@||7het3grhg.xyz
 @@||7ho.com
 @@||7hon.com
 @@||7huang.org
@@ -11746,6 +11745,7 @@
 @@||bom2buy.com
 @@||bomanair.com
 @@||bomin-china.com
+@@||bomman.com
 @@||bon-top.com
 @@||bon-wine.com
 @@||bondlady.com
@@ -12084,6 +12084,7 @@
 @@||buildface.com
 @@||buildhr.com
 @@||buildjob.net
+@@||buildwaterexpo.com
 @@||buimg.com
 @@||bujie.com
 @@||bukamanhua.com
@@ -15438,7 +15439,6 @@
 @@||cmbimg.com
 @@||cmbuy10086.com
 @@||cmbwinglungbank.com
-@@||cmc168.com
 @@||cmcc-ecs.com
 @@||cmcc.in
 @@||cmcm.com
@@ -17220,7 +17220,6 @@
 @@||cy2009.com
 @@||cy52.com
 @@||cy580.com
-@@||cy865.com
 @@||cy88.com
 @@||cy887.com
 @@||cyagen.com
@@ -18438,7 +18437,6 @@
 @@||dhygw488.com
 @@||dhyjaqa.com
 @@||dhyz.net
-@@||dhzw.cc
 @@||di3fang.com
 @@||di3fang.vip
 @@||diablohu.com
@@ -19576,6 +19574,7 @@
 @@||dswmt.com
 @@||dswzxh.com
 @@||dsxdn.com
+@@||dsxys.com
 @@||dsyjz0755.com
 @@||dszw.net
 @@||dtcash.com
@@ -21076,7 +21075,6 @@
 @@||esemseo.com
 @@||esensoft.com
 @@||esfimg.com
-@@||eshangxian.com
 @@||eshanyao.com
 @@||eshenan.com
 @@||eshenlin.com
@@ -22336,6 +22334,7 @@
 @@||fishapi.com
 @@||fishcn.com
 @@||fisherac.com
+@@||fishfay.com
 @@||fishing-sinkers.com
 @@||fishingbar.net
 @@||fishingjoy.com
@@ -23916,7 +23915,6 @@
 @@||ghs.net
 @@||ghsmpwalmart.com
 @@||ght.me
-@@||ghui.me
 @@||ghwgame.com
 @@||ghxi.com
 @@||ghxsw.com
@@ -27239,7 +27237,6 @@
 @@||hmltec.com
 @@||hmnst.com
 @@||hmoe.link
-@@||hmpic.xyz
 @@||hmplay.com
 @@||hmsce.org
 @@||hmsem.com
@@ -27807,7 +27804,6 @@
 @@||hs186.com
 @@||hs313.info
 @@||hs65.com
-@@||hs950.com
 @@||hsakyy.com
 @@||hsanhl.com
 @@||hsay.com
@@ -28828,6 +28824,7 @@
 @@||hyrainbow.com
 @@||hysdknb.com
 @@||hysec.com
+@@||hysemi-ic.com
 @@||hysteeltube.com
 @@||hyt368.com
 @@||hytcshare.com
@@ -30666,6 +30663,7 @@
 @@||issconline.com
 @@||issedu365.com
 @@||issjj.com
+@@||ist-zl.com
 @@||isthnew.com
 @@||istpei.com
 @@||istrongcloud.com
@@ -31310,7 +31308,6 @@
 @@||jdapi.com
 @@||jdb100.com
 @@||jdbbs.com
-@@||jdbbx.com
 @@||jdbpcb.com
 @@||jdbusiness.com
 @@||jdcache.com
@@ -36872,7 +36869,6 @@
 @@||loliyun.vip
 @@||loljy.com
 @@||lolkeng.com
-@@||lolmanhua.com
 @@||lolmax.com
 @@||lolmf.com
 @@||lolmz.com
@@ -37347,7 +37343,6 @@
 @@||luoohu.com
 @@||luooqi.com
 @@||luoqiu.com
-@@||luoqiu.info
 @@||luoqiuxs.com
 @@||luoqiuzw.com
 @@||luoqiuzww.com
@@ -37754,7 +37749,6 @@
 @@||madeqr.com
 @@||madio.net
 @@||madisonboom.com
-@@||madku.com
 @@||madmalls.com
 @@||madouka.com
 @@||madown.com
@@ -38449,6 +38443,7 @@
 @@||meijuba.com
 @@||meijucenter.com
 @@||meijufans.com
+@@||meijukan.com
 @@||meijuniao.com
 @@||meijuniao.net
 @@||meijuq.com
@@ -43015,7 +43010,6 @@
 @@||pinpaiv.com
 @@||pinshan.com
 @@||pinshiwen.com
-@@||pinshu.cc
 @@||pinshu.com
 @@||pinsilianzu1.com
 @@||pintour.com
@@ -45858,7 +45852,6 @@
 @@||rl-consult.com
 @@||rlair.net
 @@||rlbl888.com
-@@||rlhn.xyz
 @@||rlkj.com
 @@||rlkj.net
 @@||rlsofa.net
@@ -46259,6 +46252,7 @@
 @@||rxhui.com
 @@||rxian.com
 @@||rxjhbaby.com
+@@||rxjiasu.com
 @@||rxjt.co
 @@||rxjy.com
 @@||rxshc.com
@@ -47215,6 +47209,7 @@
 @@||sh-huifeng.com
 @@||sh-hywin.com
 @@||sh-investment.net
+@@||sh-kechen.com
 @@||sh-kr.net
 @@||sh-ryjx.com
 @@||sh-service.com
@@ -60046,7 +60041,6 @@
 @@||yago-mall.com
 @@||yahacode.com
 @@||yahaizi.com
-@@||yahei.net
 @@||yahoo001.com
 @@||yahotab.com
 @@||yahuhost.com
@@ -60823,7 +60817,6 @@
 @@||yileyunssp.com
 @@||yili.com
 @@||yilianmeiti.com
-@@||yilianqing.com
 @@||yilianyixue.com
 @@||yilibabyclub.com
 @@||yilihuo.com
@@ -61000,6 +60993,7 @@
 @@||yinyuemeitu.com
 @@||yinyuetai.com
 @@||yinyueyouxi.com
+@@||yinzhaowang.com
 @@||yinzhijie.com
 @@||yinzhizhu.com
 @@||yinzifang.com
@@ -61436,7 +61430,6 @@
 @@||ynyes.com
 @@||ynyp.com
 @@||ynzczs.com
-@@||ynzdhc.com
 @@||ynzg.org
 @@||ynzp.com
 @@||ynzy-tobacco.com
@@ -61892,7 +61885,6 @@
 @@||yoyotown.com
 @@||yoyou.com
 @@||yoyou.net
-@@||yoyound.com
 @@||yoytang.com
 @@||yozodcs.com
 @@||yozodoc.com
@@ -62400,7 +62392,6 @@
 @@||yunfancdn.net
 @@||yunfandns.com
 @@||yunfangtan.com
-@@||yunfannet.com
 @@||yunfei89.com
 @@||yunfutech.com
 @@||yungangbj.com
@@ -62692,7 +62683,6 @@
 @@||yx0599.com
 @@||yx090.com
 @@||yx10011.com
-@@||yx129.com
 @@||yx129.net
 @@||yx192.com
 @@||yx231.com
@@ -63401,7 +63391,6 @@
 @@||zgsydw.com
 @@||zgsynews.com
 @@||zgszrkdak.com
-@@||zgtcqw.com
 @@||zgtghccl.com
 @@||zgtianqi.com
 @@||zgtjq.com
@@ -63771,7 +63760,6 @@
 @@||zhezheai.com
 @@||zhezhekan.com
 @@||zhfc.com
-@@||zhfile.com
 @@||zhfund.com
 @@||zhgc.com
 @@||zhgjm.com
