@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-08-18 02:22:49 UTC
+! Updated: 2022-08-19 02:10:23 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -1666,7 +1666,6 @@
 @@||17yund.com
 @@||17yy.com
 @@||17zhaogong.com
-@@||17zhidao.com
 @@||17zhiliao.com
 @@||17zhuangxiu.com
 @@||17ziti.com
@@ -2420,7 +2419,6 @@
 @@||28kai.cc
 @@||28khy.com
 @@||28rv.com
-@@||28sn.com
 @@||28tui.com
 @@||28y.com
 @@||28y3.com
@@ -11445,6 +11443,7 @@
 @@||bjzyrxgs.com
 @@||bk41.net
 @@||bk5u.com
+@@||bkbyxa.com
 @@||bkclouds.cc
 @@||bkdou.com
 @@||bkill.net
@@ -14810,6 +14809,7 @@
 @@||chongwuxiang.com
 @@||chongya.com
 @@||chongyacdn.com
+@@||chongyejia.com
 @@||chongyitang.org
 @@||chongzhi.com
 @@||chonka.com
@@ -19579,7 +19579,6 @@
 @@||du175.com
 @@||du1du.org
 @@||du7.com
-@@||du7.org
 @@||du8.com
 @@||dualaid.com
 @@||duan.red
@@ -20386,6 +20385,7 @@
 @@||eddycjy.com
 @@||ede35.com
 @@||edgesrv.com
+@@||edgesrv.xyz
 @@||edhic.com
 @@||edianchi.com
 @@||edianshang.com
@@ -24262,6 +24262,7 @@
 @@||gongju5.com
 @@||gongjuji.net
 @@||gongjumi.com
+@@||gongkaocn.com
 @@||gongkaoleida.com
 @@||gongkong.com
 @@||gongkong001.com
@@ -29604,6 +29605,7 @@
 @@||igdzc.com
 @@||igea-un.org
 @@||igeak.com
+@@||igeciku.com
 @@||igeekbar.com
 @@||igeidao.com
 @@||igelou.com
@@ -30068,6 +30070,7 @@
 @@||imtmp.net
 @@||imtuan.com
 @@||imtvs.cc
+@@||imudgame.com
 @@||imuke.com
 @@||imuo.com
 @@||imushan.com
@@ -31018,6 +31021,7 @@
 @@||iyiyun.com
 @@||iyocloud.com
 @@||iyong.com
+@@||iyongpdf.com
 @@||iyooread.com
 @@||iyoowi.com
 @@||iyoucai.com
@@ -34172,7 +34176,6 @@
 @@||kiswo.com
 @@||kit-lee.me
 @@||kitstown.com
-@@||kiujq.com
 @@||kiwa-tech.com
 @@||kiwenlau.com
 @@||kiwisec.com
@@ -36433,7 +36436,6 @@
 @@||liugm.com
 @@||liuguofeng.com
 @@||liuhaolin.com
-@@||liuhu.net
 @@||liujiajia.me
 @@||liujiangblog.com
 @@||liujiasj.com
@@ -37033,6 +37035,7 @@
 @@||lpetl.com
 @@||lpllol.com
 @@||lply.net
+@@||lppoll.com
 @@||lppz.com
 @@||lpq1688.com
 @@||lprcx.com
@@ -39809,6 +39812,7 @@
 @@||muchlab.com
 @@||muchong.com
 @@||muchrank.com
+@@||mudgj.com
 @@||mudiao360.com
 @@||mudongguang.com
 @@||mudoudou.net
@@ -40245,6 +40249,7 @@
 @@||n3293.com
 @@||n3ko.co
 @@||n3sd.com
+@@||n4115.com
 @@||n423.com
 @@||n459.com
 @@||n5878.com
@@ -41966,7 +41971,6 @@
 @@||oss.so
 @@||osschina.com
 @@||ossrs.net
-@@||ostools.net
 @@||osvlabs.com
 @@||oswdj.com
 @@||oswhy.com
@@ -44526,7 +44530,6 @@
 @@||qjrc.com
 @@||qjren.com
 @@||qjsb88.com
-@@||qjshe.com
 @@||qjsmartech.com
 @@||qjtrip.com
 @@||qjwhzs.com
@@ -50134,7 +50137,6 @@
 @@||swgzs.com
 @@||swhysc.com
 @@||swift51.com
-@@||swifter.tips
 @@||swifthumb.com
 @@||swiftjava.com
 @@||swiftlet.net
@@ -52023,6 +52025,7 @@
 @@||tobaccobid.com
 @@||tobaccochina.com
 @@||toberp.com
+@@||tobetopone.com
 @@||tobnews.com
 @@||tobosu.com
 @@||tobosu.net
@@ -56302,6 +56305,7 @@
 @@||wjdiy.com
 @@||wjdiy.net
 @@||wjgslb.com
+@@||wjhh666.com
 @@||wjhouses.com
 @@||wjhtxx.com
 @@||wjiaxing.com
@@ -57564,6 +57568,7 @@
 @@||xcxd-inc.com
 @@||xcxs222.com
 @@||xcxs520.com
+@@||xcxvs.com
 @@||xcxwo.com
 @@||xcxx28.com
 @@||xcxzl.com
@@ -63560,6 +63565,7 @@
 @@||zhejiangmuseum.com
 @@||zhejiangqinghe.com
 @@||zhejie.com
+@@||zhejing.tech
 @@||zhekouo.com
 @@||zhelaoda.com
 @@||zheli.com
