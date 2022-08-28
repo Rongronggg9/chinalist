@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-08-27 02:21:25 UTC
+! Updated: 2022-08-28 02:28:43 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -7186,7 +7186,6 @@
 @@||9man.com
 @@||9mayi.com
 @@||9mbv.com
-@@||9mi.me
 @@||9miao.com
 @@||9miaoxueyuan.com
 @@||9mic.com
@@ -7485,7 +7484,6 @@
 @@||ad-cn.net
 @@||ad-gone.com
 @@||ad-goods.com
-@@||ad-mex.com
 @@||ad-safe.com
 @@||ad-survey.com
 @@||ad-young.com
@@ -7555,6 +7553,7 @@
 @@||admama.com
 @@||admamax.com
 @@||admasterto.com
+@@||admile.xyz
 @@||admin.edu.pl
 @@||admin10000.com
 @@||admin168.net
@@ -12163,7 +12162,6 @@
 @@||bxwst.com
 @@||bxwx.la
 @@||bxwx.tv
-@@||bxwx.us
 @@||bxwx520.com
 @@||bxxy.com
 @@||bxyuer.com
@@ -20514,7 +20512,6 @@
 @@||eff-soft.com
 @@||effapp.com
 @@||effecthub.com
-@@||effevo.com
 @@||efficient.hk
 @@||effirst.com
 @@||efivestar.com
@@ -22129,7 +22126,6 @@
 @@||ffxiv.co
 @@||ffxiv.tk
 @@||ffxiv.xin
-@@||ffyd8.com
 @@||ffyinxiang.com
 @@||fg.cc
 @@||fgeekcloud.com
@@ -24522,7 +24518,6 @@
 @@||gridsum.com
 @@||gridsumdissector.com
 @@||gridy.com
-@@||grieom.com
 @@||grikin.com
 @@||grinm.com
 @@||grirem.com
@@ -27877,7 +27872,6 @@
 @@||huaban.com
 @@||huabanimg.com
 @@||huabanpro.com
-@@||huabei369.com
 @@||huabeipay.com
 @@||huabian.com
 @@||huabo.net
@@ -31182,7 +31176,6 @@
 @@||jcmtxs.com
 @@||jcnano.com
 @@||jcnk120.com
-@@||jcoal.com
 @@||jcodecraeer.com
 @@||jcpeixun.com
 @@||jcqczb.com
@@ -32262,6 +32255,7 @@
 @@||jiweichengzhu.com
 @@||jiwu.com
 @@||jiwudai.com
+@@||jixia.ink
 @@||jixiangbaiwei.com
 @@||jixiangjili.com
 @@||jixiangna.com
@@ -32444,7 +32438,6 @@
 @@||jlwlyx.com
 @@||jlwubi.com
 @@||jlxfw.com
-@@||jlytjx.com
 @@||jlzkb.com
 @@||jlzsoft.com
 @@||jlzyz.com
@@ -40837,6 +40830,7 @@
 @@||niuqia.com
 @@||niuschools.com
 @@||niushe.com
+@@||niutk.com
 @@||niutoushe.com
 @@||niutrans.com
 @@||niutrip.com
@@ -41027,6 +41021,7 @@
 @@||nolovr.com
 @@||nomax.vip
 @@||nome.com
+@@||nonat.co
 @@||nonganxian.com
 @@||nongcun5.com
 @@||nongfen.com
@@ -42431,7 +42426,6 @@
 @@||pcwenti.com
 @@||pcwl.com
 @@||pcyangguangban.com
-@@||pczhuji.com
 @@||pd-sts.com
 @@||pd120.com
 @@||pd17.com
@@ -48103,6 +48097,7 @@
 @@||shuqistat.com
 @@||shuquge.com
 @@||shuqun.com
+@@||shuquta.com
 @@||shuqw.com
 @@||shuren100.com
 @@||shurenbang.net
@@ -49066,7 +49061,6 @@
 @@||songjiayang.com
 @@||songker.com
 @@||songlei.net
-@@||songluhome.com
 @@||songqili.net
 @@||songqinedu.com
 @@||songqinnet.com
@@ -50866,7 +50860,6 @@
 @@||taohuizhou.com
 @@||taohuochang.com
 @@||taohuren.com
-@@||taohwu.com
 @@||taoibao.net
 @@||taojiji.com
 @@||taojin6.com
@@ -51919,7 +51912,6 @@
 @@||tmhong.com
 @@||tmhvps.com
 @@||tmiep.org
-@@||tmigoods.com
 @@||tmisp.com
 @@||tmjob88.com
 @@||tmjypx.com
@@ -52831,6 +52823,7 @@
 @@||tuwenla.com
 @@||tuwenzhibo.com
 @@||tux.red
+@@||tuxi.com
 @@||tuxiaobei.com
 @@||tuxiu.com
 @@||tuya.com
@@ -54863,6 +54856,7 @@
 @@||wantong-tech.net
 @@||wantouzi.net
 @@||wantowan.com
+@@||wantquotes.net
 @@||wantrack-nj.com
 @@||wantshopping.ltd
 @@||wantumusic.com
@@ -56199,7 +56193,6 @@
 @@||withsccdn.com
 @@||withubit.org
 @@||withzz.com
-@@||witkey.com
 @@||witmart.net
 @@||witnew.net
 @@||witontek.com
@@ -56666,7 +56659,6 @@
 @@||wqcms.com
 @@||wqdian.com
 @@||wqdian.net
-@@||wqetrip.com
 @@||wqgp.com
 @@||wqhunqing.com
 @@||wqiis.com
@@ -58919,6 +58911,7 @@
 @@||xlm33.com
 @@||xlobo.com
 @@||xlpan.com
+@@||xlqzh.com
 @@||xlrocket.com
 @@||xlsemi.com
 @@||xlshou.com
@@ -62899,7 +62892,6 @@
 @@||zcmorefun.com
 @@||zcoa365.com
 @@||zcobrand.com
-@@||zcodc.com
 @@||zcom.com
 @@||zcoming.com
 @@||zcooler.com
