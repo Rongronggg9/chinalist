@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-09-11 02:28:21 UTC
+! Updated: 2022-09-12 02:32:19 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -11316,7 +11316,6 @@
 @@||bjwhds.com
 @@||bjwkzl.com
 @@||bjwsk.com
-@@||bjwsyy.com
 @@||bjwszyxy.com
 @@||bjwwhc.com
 @@||bjwxhl.com
@@ -34128,7 +34127,6 @@
 @@||kkk5.com
 @@||kkkd.com
 @@||kkkkba.com
-@@||kkkmh.com
 @@||kkkwww.com
 @@||kklishi.com
 @@||kklxj.com
@@ -40915,7 +40913,6 @@
 @@||nmzzlhwlkj.com
 @@||nn.com
 @@||nn12333.com
-@@||nn92.com
 @@||nncc626.com
 @@||nncj.com
 @@||nndims.com
@@ -57598,7 +57595,6 @@
 @@||xgsdk.com
 @@||xgslb.net
 @@||xgt2014.com
-@@||xgv5.com
 @@||xgwx.net
 @@||xgxedu.com
 @@||xgz.cc
@@ -61318,7 +61314,6 @@
 @@||youboy.com
 @@||youc.com
 @@||youcaizhushou.com
-@@||youcao.cc
 @@||youcash.com
 @@||youcha.net
 @@||youchedi.com
