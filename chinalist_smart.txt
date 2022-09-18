@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-09-17 02:22:21 UTC
+! Updated: 2022-09-18 02:39:14 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -3637,6 +3637,7 @@
 @@||5054399.net
 @@||505gg.com
 @@||505uu.com
+@@||5064.tw
 @@||5066.net
 @@||5068.com
 @@||5068yx.com
@@ -6746,7 +6747,6 @@
 @@||94qy.com
 @@||94rp.com
 @@||94te.com
-@@||94uv.com
 @@||94xy.com
 @@||94you.net
 @@||94ys.com
@@ -9954,7 +9954,6 @@
 @@||bao-cun.com
 @@||bao-fang.com
 @@||bao-hulu.com
-@@||bao-jian.net
 @@||bao100.com
 @@||bao12333.com
 @@||bao21.com
@@ -9963,7 +9962,6 @@
 @@||baobabnet.com
 @@||baobao.com
 @@||baobao001.com
-@@||baobao18.com
 @@||baobao88.com
 @@||baobaobang.com
 @@||baobaoshu.com
@@ -11128,7 +11126,6 @@
 @@||bjcta.net
 @@||bjcurio.com
 @@||bjcxdf.com
-@@||bjcxzx.com
 @@||bjcyzg.com
 @@||bjczxt.com
 @@||bjdachi.com
@@ -11480,7 +11477,6 @@
 @@||blyol.com
 @@||blyun.com
 @@||bm001.com
-@@||bm023.com
 @@||bm2088.com
 @@||bm724.com
 @@||bm777777.com
@@ -13781,7 +13777,6 @@
 @@||chengyuwb.com
 @@||chengzhongmugu.vip
 @@||chengzhongmugu.wang
-@@||chengzi520.com
 @@||chengzijianzhan.cc
 @@||chengzijianzhan.com
 @@||chengzivr.com
@@ -17428,7 +17423,6 @@
 @@||daixiaorui.com
 @@||daiyanbao.com
 @@||daiyanmama.com
-@@||daizhuzai.com
 @@||daizitouxiang.com
 @@||daji.com
 @@||dajiabao.com
@@ -17702,7 +17696,6 @@
 @@||datathinking.com
 @@||datathinking.net
 @@||datatist.com
-@@||dataunion.net
 @@||datayes.com
 @@||datazt.com
 @@||datebao.com
@@ -19012,7 +19005,6 @@
 @@||domp4.cc
 @@||domp4.com
 @@||domyshop.com
-@@||doname.com
 @@||donews.com
 @@||dong-shou.com
 @@||dong-xu.com
@@ -20785,7 +20777,6 @@
 @@||eoriver.com
 @@||eorzea.moe
 @@||eosantpool.com
-@@||eospark.com
 @@||eovas.net
 @@||ep-china.net
 @@||epaas.net
@@ -26543,7 +26534,6 @@
 @@||hexianrc.com
 @@||hexiaoxiang.com
 @@||hexicomtech.com
-@@||hexie168.com
 @@||hexilai.com
 @@||hexindai.com
 @@||hexinli.org
@@ -27467,7 +27457,6 @@
 @@||houkai.com
 @@||houpuwang.com
 @@||houqinbao.com
-@@||houqun.me
 @@||houqun.net
 @@||houquner.com
 @@||house086.com
@@ -28692,7 +28681,6 @@
 @@||hzdx.com
 @@||hzecsemir.com
 @@||hzeg.com
-@@||hzfangwang.com
 @@||hzfc.cc
 @@||hzfucai.net
 @@||hzgh.org
@@ -31573,7 +31561,6 @@
 @@||jiapuvip.com
 @@||jiaren.org
 @@||jiarenvip.com
-@@||jiarui.cc
 @@||jiasale.com
 @@||jiashuangkuaizi.com
 @@||jiashule.com
@@ -32700,7 +32687,6 @@
 @@||jsd.cc
 @@||jsdaima.com
 @@||jsdcly.com
-@@||jsddlzz.com
 @@||jsdthx.com
 @@||jsdujuan.com
 @@||jseepub.com
@@ -32781,7 +32767,6 @@
 @@||jsp51.com
 @@||jspang.com
 @@||jspatch.com
-@@||jspcn.net
 @@||jspeople.com
 @@||jspxcms.com
 @@||jsq001.com
@@ -33130,7 +33115,6 @@
 @@||jw100.net
 @@||jwappgc.com
 @@||jwbl.com
-@@||jwdedu.com
 @@||jwdili.com
 @@||jwdns.com
 @@||jwetech.com
@@ -38620,7 +38604,6 @@
 @@||michael-j.net
 @@||michaelapp.com
 @@||micheal.wang
-@@||michelam.com
 @@||michong.com
 @@||michplay.com
 @@||miclle.com
@@ -38972,7 +38955,6 @@
 @@||mjceo.com
 @@||mjh5.com
 @@||mjia.cc
-@@||mjj.edu.ge
 @@||mjjcn.com
 @@||mjjq.com
 @@||mjju.net
@@ -40181,7 +40163,6 @@
 @@||nanlebbs.com
 @@||nanlive.com
 @@||nanoer.net
-@@||nanopi.org
 @@||nanputuo.com
 @@||nanqi.org
 @@||nanrenbang.in
@@ -42543,7 +42524,6 @@
 @@||phdwu.com
 @@||phedu.net
 @@||phezzan.com
-@@||phida.net
 @@||philipswechat.com
 @@||phlexing.com
 @@||phnamedns.com
@@ -42833,7 +42813,6 @@
 @@||pipipifa.com
 @@||pipiti.com
 @@||pipix.com
-@@||pipiyys.com
 @@||pipsemi.com
 @@||piqs.com
 @@||piscesys.com
@@ -43003,7 +42982,6 @@
 @@||pobaby.net
 @@||pobasoft.com
 @@||pobiji001.com
-@@||poboo.com
 @@||pocketdigi.com
 @@||pocketuni.net
 @@||pocomagnetic.com
@@ -45020,7 +44998,6 @@
 @@||qy.net
 @@||qy266.com
 @@||qy6.com
-@@||qy6.net
 @@||qyaaaa.com
 @@||qybeiyong.com
 @@||qyc2008.com
@@ -47632,7 +47609,6 @@
 @@||shjh120.com
 @@||shjhjc.com
 @@||shjob.work
-@@||shjoycity.com
 @@||shjsit.com
 @@||shjt.net
 @@||shjxfc.com
@@ -50930,6 +50906,7 @@
 @@||tc199.net
 @@||tc9011.com
 @@||tc930.com
+@@||tccaijing.com
 @@||tccqb.com
 @@||tccxfw.com
 @@||tcdai.com
@@ -53136,7 +53113,6 @@
 @@||ucuuc.com
 @@||ucw.pub
 @@||ucweb.com
-@@||ucxinwen.com
 @@||ucying.com
 @@||uczhidao.com
 @@||ucziliao.com
@@ -55773,7 +55749,6 @@
 @@||whlkwy.com
 @@||whlongre.com
 @@||whlrhd.com
-@@||whlxhs.net
 @@||whly56.com
 @@||whlynk.com
 @@||whmama.com
@@ -58629,7 +58604,6 @@
 @@||xitouwang.com
 @@||xitu.io
 @@||xituan.com
-@@||xituju.com
 @@||xiu.com
 @@||xiu8.com
 @@||xiuai.com
@@ -59090,7 +59064,6 @@
 @@||xrwcn.com
 @@||xs-servers.com
 @@||xs.la
-@@||xs1h.com
 @@||xs222.tw
 @@||xs2500.com
 @@||xs3cnc.com
@@ -59636,7 +59609,6 @@
 @@||xyqka.com
 @@||xyrtv.com
 @@||xysb.com
-@@||xyshu8.net
 @@||xyssdzrmzf.com
 @@||xystatic.com
 @@||xystoy.com
@@ -61075,15 +61047,11 @@
 @@||ymrcw.vip
 @@||ymsteam.com
 @@||ymstj.xyz
-@@||ymsxq001.xyz
 @@||ymsxq002.pw
 @@||ymsxq003.pw
 @@||ymsxq004.pw
-@@||ymsxq005.xyz
 @@||ymsxq007.pw
 @@||ymsxq009.pw
-@@||ymsxq009.xyz
-@@||ymsxqcdn.xyz
 @@||ymt.com
 @@||ymt360.com
 @@||ymtc.com
@@ -61623,7 +61591,6 @@
 @@||ypk.cc
 @@||yplady.com
 @@||yplmzx.com
-@@||yppp.shop
 @@||ypppt.com
 @@||ypshengxian.com
 @@||ypstech.com
@@ -63123,6 +63090,7 @@
 @@||zgwgfw.com
 @@||zgwhfe.com
 @@||zgwhw.com
+@@||zgwlcsj.com
 @@||zgwt.co
 @@||zgwxbbs.com
 @@||zgxcfx.com
