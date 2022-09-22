@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-09-21 02:34:36 UTC
+! Updated: 2022-09-22 02:23:56 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -3707,7 +3707,6 @@
 ||5156rcw.com
 ||515app.com
 ||515car.com
-||515fa.com
 ||515ha.com
 ||515ppt.com
 ||51658042.com
@@ -5250,7 +5249,6 @@
 ||66163.com
 ||66168.net
 ||66173yx.com
-||661832.com
 ||662city.com
 ||662p.com
 ||6631.com
@@ -10905,6 +10903,7 @@
 ||biqudu.net
 ||biqudu.tv
 ||biqufu.com
+||biquge-app.com
 ||biquge.biz
 ||biquge.info
 ||biquge.la
@@ -15081,7 +15080,6 @@
 ||cjjjs.com
 ||cjjnff.com
 ||cjk3d.net
-||cjkcgs.com
 ||cjkhd.com
 ||cjkj.ink
 ||cjkypo.com
@@ -16608,6 +16606,7 @@
 ||crecu.com
 ||credibleglass.com
 ||credit-cras.com
+||credit100.com
 ||creditcn.com
 ||creditsailing.com
 ||creditxb.com
@@ -18421,7 +18420,6 @@
 ||diaoyu.com
 ||diaoyu123.com
 ||diaoyu365.com
-||diaoyubo.com
 ||diaoyula.com
 ||diaoyuren.com
 ||diaoyuwang.com
@@ -26153,6 +26151,7 @@
 ||hcl100.com
 ||hcmiraefund.com
 ||hcocoa.com
+||hcqixinhb.com
 ||hcshebao.com
 ||hcsilk.com
 ||hcsindex.org
@@ -27260,6 +27259,7 @@
 ||homecloud-lab.com
 ||homed.me
 ||homedo.com
+||homedt.net
 ||homeinframes.com
 ||homeinmists.com
 ||homeinns.com
@@ -28737,7 +28737,6 @@
 ||hzsgjj.com
 ||hzshudian.com
 ||hzstad88.com
-||hzsxn.com
 ||hzti.com
 ||hztosz.com
 ||hztraining.com
@@ -30823,7 +30822,6 @@
 ||iximo.com
 ||ixinglu.com
 ||ixingpan.com
-||ixinmanzhishe.com
 ||ixinqing.com
 ||ixintui.com
 ||ixinwei.com
@@ -31747,6 +31745,7 @@
 ||jimucake.com
 ||jimucc.com
 ||jimufund.com
+||jimuhezi.com
 ||jimujiazx.com
 ||jin10.com
 ||jin10x.com
@@ -38379,7 +38378,6 @@
 ||mengshihm.com
 ||mengso.com
 ||mengtian.com
-||mengtu.cc
 ||mengtuchuang.xyz
 ||mengtuiapp.com
 ||mengwuji.net
@@ -38919,6 +38917,7 @@
 ||mitiplus.com
 ||mittrchina.com
 ||miui.com
+||miuiver.com
 ||miutour.com
 ||miutrip.com
 ||miwifi.com
@@ -41093,6 +41092,7 @@
 ||ntwikis.com
 ||ntwzy.com
 ||ntxiru.com
+||ntyswlkj.com
 ||ntyy888.com
 ||ntzrj.com
 ||nu1l.com
@@ -41481,6 +41481,7 @@
 ||oliyi.com
 ||ollomall.com
 ||olmy8.com
+||olo4.com
 ||olymtech.com
 ||omacloud.com
 ||omayse.com
@@ -41736,7 +41737,6 @@
 ||orient-fund.com
 ||orient-hf.com
 ||orient-safety.com
-||orientalgame.com.tw
 ||orientalpearltower.com
 ||orientalwisdom.com
 ||orientcasa.com
@@ -42120,6 +42120,7 @@
 ||pangong88.com
 ||pangqiu.com
 ||pangshu.com
+||pangubox.com
 ||pangukj.com
 ||panguso.com
 ||pangxieke.com
@@ -43410,7 +43411,6 @@
 ||puwenlong.com
 ||puworld.com
 ||puyuecs.com
-||puyuehui.com
 ||puyurumen.com
 ||puzeyf.com
 ||pv001.net
@@ -45662,6 +45662,7 @@
 ||rockbrain.net
 ||rockemb.com
 ||rockerfm.com
+||rockflow.tech
 ||rockjitui.com
 ||rockmanlab.net
 ||rockru.com
@@ -46548,6 +46549,7 @@
 ||sdgw.com
 ||sdgwy.org
 ||sdhangmoguan.com
+||sdhbcl.com
 ||sdhdssd.com
 ||sdhk2008.com
 ||sdhoukang.com
@@ -50382,7 +50384,6 @@
 ||szqt.net
 ||szquanli.com
 ||szrcfw.com
-||szrlqy.com
 ||szrrjc.com
 ||szrtcpa.com
 ||szryc.com
@@ -51550,7 +51551,6 @@
 ||tiejiong.com
 ||tiejp.com
 ||tielemao.com
-||tielingcn.com
 ||tielu.org
 ||tiepishihu.com
 ||tiepishihu.hk
@@ -51815,6 +51815,7 @@
 ||tmdm.com
 ||tmeiju.com
 ||tmeissheng.com
+||tmgwdz.vip
 ||tmhong.com
 ||tmhvps.com
 ||tmiep.org
@@ -54101,6 +54102,7 @@
 ||viseator.com
 ||vishining.com
 ||visionbbs.com
+||visionchinashow.net
 ||visioncloudapi.com
 ||visionly.org
 ||visionsoar.com
@@ -54688,6 +54690,7 @@
 ||wangyajie.wang
 ||wangyanpiano.com
 ||wangye.com
+||wangyeyixia.com
 ||wangyin.com
 ||wangyou.com
 ||wangyou2.com
