@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-09-24 02:30:12 UTC
+! Updated: 2022-09-25 02:28:32 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -2144,7 +2144,6 @@
 ||22edu.com
 ||22ff.com
 ||22hd.com
-||22hyk.com
 ||22ja.com
 ||22k9.com
 ||22lianmeng.com
@@ -3488,7 +3487,6 @@
 ||44971.com
 ||44dt.com
 ||44england.com
-||44hyk.com
 ||44pd.com
 ||44pq.co
 ||44vs.com
@@ -4659,7 +4657,6 @@
 ||55hl.com
 ||55hl.net
 ||55home.com
-||55hyk.com
 ||55i8.com
 ||55idc.com
 ||55jisu.com
@@ -5949,7 +5946,6 @@
 ||8080i.com
 ||8081.net
 ||80881.com
-||808cdn.com
 ||808w.com
 ||8090.com
 ||8090.pk
@@ -7204,7 +7200,6 @@
 ||a1166.com
 ||a135.net
 ||a166.com
-||a1714.com
 ||a2.mzstatic.com
 ||a2048.com
 ||a21fs.com
@@ -8360,6 +8355,7 @@
 ||aliyunfuwuqi.com
 ||aliyunga0017.com
 ||aliyunga0018.com
+||aliyunga0019.com
 ||aliyungf.com
 ||aliyunhelp.com
 ||aliyunhn.com
@@ -12380,7 +12376,6 @@
 ||caihongto.com
 ||caihuaw.com
 ||caij100.com
-||caijing28.com
 ||caijing365.com
 ||caijingcaipiao22270.com
 ||caijingche.com
@@ -17211,7 +17206,6 @@
 ||czongyi.com
 ||czopen.com
 ||czpoly.com
-||czqfloor.com
 ||czrj.com
 ||czry888.com
 ||czsbtjx.com
@@ -18970,6 +18964,7 @@
 ||dogedoge.com
 ||dogfight360.com
 ||dogimg.com
+||doglg.com
 ||doglobal.net
 ||dogmr.com
 ||dogwhere.com
@@ -19325,7 +19320,6 @@
 ||drclvs.com
 ||drcuiyutao.com
 ||drdrq.com
-||dre8.com
 ||dream-loft.com
 ||dream.ren
 ||dream1986.com
@@ -19483,6 +19477,7 @@
 ||dudumeijia.com
 ||duduyu.net
 ||duelcn.com
+||dugoogle.com
 ||duguying.net
 ||duhao.net
 ||dui.ai
@@ -26001,7 +25996,6 @@
 ||hbjdxt.com
 ||hbjhc.com
 ||hbjhpx.com
-||hbjhyh.com
 ||hbjianzhuwang.com
 ||hbjimin.com
 ||hbjinnong.com
@@ -26662,7 +26656,6 @@
 ||hgzrc.com
 ||hh-gltd.com
 ||hh010.com
-||hh04.com
 ||hh1488.com
 ||hhailuo.com
 ||hhbg123.com
@@ -27245,6 +27238,7 @@
 ||hollycrm.com
 ||hollysys.com
 ||hollyuc.com
+||hollywant.com
 ||holoalpha.com
 ||holoem.com
 ||hologres.io
@@ -30929,7 +30923,6 @@
 ||izt6.com
 ||izt8.com
 ||iztwp.com
-||iztyy.com
 ||izuche.com
 ||izuchecdn.com
 ||izuiyou.com
@@ -34715,8 +34708,6 @@
 ||kuyun.com
 ||kuzhazha.com
 ||kuzhengame.com
-||kveaa.com
-||kvecc.com
 ||kveff.com
 ||kveii.com
 ||kvemm.com
@@ -40352,7 +40343,6 @@
 ||neeu.com
 ||negroupedu.org
 ||neigou.com
-||neihan8.com
 ||neihanshequ.com
 ||neisha.cc
 ||neitui.com
@@ -40603,6 +40593,7 @@
 ||nhbhpx.club
 ||nhdmd.com
 ||nhganggeban.com
+||nhhwhxh.com
 ||nhnexpo.com
 ||nhnsc.com
 ||nhnst.com
@@ -41108,7 +41099,6 @@
 ||nuan.io
 ||nuandao.com
 ||nuanjiayuan.com
-||nuanmaoer.com
 ||nuannuanzu.com
 ||nuanshi100.com
 ||nuanyuehanxing.com
@@ -41429,7 +41419,6 @@
 ||okex.win
 ||okeycar.com
 ||okfri.com
-||okgj.com
 ||okhimalayanzi.com
 ||okhqb.com
 ||okidc.com
@@ -41818,7 +41807,6 @@
 ||oswdj.com
 ||oswhy.com
 ||osx.cx
-||osyum.com
 ||osyunwei.com
 ||otcgd.com
 ||otcms.com
@@ -44105,7 +44093,6 @@
 ||qingfo.com
 ||qingfuwucdn.net
 ||qingfuyun.com
-||qingfuzaixian.com
 ||qinggl.com
 ||qingguo.com
 ||qinghe.tv
@@ -50666,6 +50653,7 @@
 ||tangmi.net
 ||tangobrowser.net
 ||tangongye.com
+||tangqingtuia1.com
 ||tangrenjv.com
 ||tangruiqian.com
 ||tangsanshu.com
@@ -51800,6 +51788,7 @@
 ||tlfw.net
 ||tlightsky.com
 ||tlinx.com
+||tlivepush.com
 ||tljcw.com
 ||tljob8001.com
 ||tlkzs.com
@@ -52409,7 +52398,6 @@
 ||tsyzm.com
 ||tsz.com
 ||tszckj.com
-||tszs360.com
 ||tszyzx.com
 ||tt-bike.com
 ||tt-ly.com
@@ -52447,7 +52435,6 @@
 ||ttkmj.org
 ||ttkuan.com
 ||ttkxh.com
-||ttkyy.net
 ||ttll.cc
 ||ttlsa.com
 ||ttmark.com
@@ -53011,7 +52998,6 @@
 ||u17.com
 ||u17i.com
 ||u17t.com
-||u193.com
 ||u21a.com
 ||u22e.com
 ||u2j2ha.com
@@ -55912,7 +55898,6 @@
 ||whzyblh.com
 ||whzydz.com
 ||whzyht.com
-||whzyy.net
 ||wiblog.net
 ||wicep.com
 ||wicp.net
@@ -58494,7 +58479,6 @@
 ||xinstall.com
 ||xinstatic.com
 ||xinsui.net
-||xintaileju.com
 ||xintaizhou.com
 ||xintheme.com
 ||xintiao100.com
@@ -64842,7 +64826,6 @@
 ||zssph.com
 ||zssxczxyey.com
 ||zstack.io
-||zstczx.com
 ||zstzs.com
 ||zsucai.com
 ||zsucai.net
