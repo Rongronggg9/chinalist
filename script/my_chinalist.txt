@@ -5,3 +5,4 @@ gov.cn
 58cdn.com.cn
 kcna.kp
 cloudfront.net
+cipunited.com
