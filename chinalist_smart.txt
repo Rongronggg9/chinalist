@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-10-10 02:25:59 UTC
+! Updated: 2022-10-11 02:20:54 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -661,7 +661,6 @@
 @@||0s8s.com
 @@||0sm.com
 @@||0x0.biz
-@@||0x0.ooo
 @@||0x100.club
 @@||0x3.me
 @@||0x5.me
@@ -3227,7 +3226,6 @@
 @@||3g2win.com
 @@||3g3h.org
 @@||3g567.com
-@@||3gcomet.com
 @@||3gdisk.com
 @@||3glasses.com
 @@||3gmimo.com
@@ -3735,7 +3733,6 @@
 @@||519.best
 @@||519397.com
 @@||51969.com
-@@||51985.net
 @@||5199.cc
 @@||5199.com
 @@||519rv.com
@@ -6003,6 +6000,7 @@
 @@||81toutiao.com
 @@||81tt.net
 @@||81xy.com
+@@||81xz.com
 @@||81yy.cc
 @@||81zw.com
 @@||81zw.us
@@ -6705,7 +6703,6 @@
 @@||94831.com
 @@||9495.com
 @@||949678.com
-@@||9499.net
 @@||94994.com
 @@||949949.com
 @@||94afx.com
@@ -9415,7 +9412,6 @@
 @@||avrvi.com
 @@||avrw.com
 @@||avtechcn.com
-@@||avtt0033.com
 @@||avtt830.com
 @@||aw-ol.com
 @@||aw.cc
@@ -11216,7 +11212,6 @@
 @@||bjrc.com
 @@||bjrcb.com
 @@||bjrdhx.com
-@@||bjrel.com
 @@||bjretech.com
 @@||bjreview.com
 @@||bjrhxp.com
@@ -13525,7 +13520,6 @@
 @@||channeleffect.com
 @@||channingsun.bid
 @@||chanpay.com
-@@||chanpin.biz
 @@||chanpin100.com
 @@||chanpinban.com
 @@||chanpindashi.com
@@ -14544,7 +14538,6 @@
 @@||chinazwds.com
 @@||chinazwds.org
 @@||chinazxt.com
-@@||chinazyjr.com
 @@||chinca.org
 @@||chindiaforum.com
 @@||chine-info.com
@@ -19685,6 +19678,7 @@
 @@||dxf5.com
 @@||dxf6.com
 @@||dxias.com
+@@||dxiazaicc.com
 @@||dxjs.com
 @@||dxlfile.com
 @@||dxlmdd.com
@@ -29737,7 +29731,6 @@
 @@||im577.com
 @@||im5i.com
 @@||im87.net
-@@||imac.hk
 @@||imaccn.com
 @@||imaegoo.com
 @@||imageaccelerate.com
@@ -31458,6 +31451,7 @@
 @@||jianjiaobuluo.com
 @@||jianjie8.com
 @@||jiankang.com
+@@||jiankang.org
 @@||jiankanghebei.com
 @@||jiankangju.com
 @@||jianke.cc
@@ -31726,6 +31720,7 @@
 @@||jiliguala.com
 @@||jiliguara.xyz
 @@||jilingwy.org
+@@||jilinoffcn.com
 @@||jilinpujiyiyuan.com
 @@||jilinwula.com
 @@||jiliyun.com
@@ -32871,6 +32866,7 @@
 @@||jucheng01.net
 @@||juchuangbio.com
 @@||judouapp.com
+@@||juduo.cc
 @@||juduoping.com
 @@||jue.so
 @@||jue1.com
@@ -42396,6 +42392,7 @@
 @@||pdim.gs
 @@||pdm.so
 @@||pdosgk.com
+@@||pdowncc.com
 @@||pdrcfw.com
 @@||pdreading.com
 @@||pdryx.com
@@ -47369,6 +47366,7 @@
 @@||shenghuozhe.net
 @@||shengjing360.com
 @@||shengjoy.com
+@@||shengjunshi.com
 @@||shengli.com
 @@||shengming.net
 @@||shengniuuz.com
@@ -54664,6 +54662,7 @@
 @@||wang1314.net
 @@||wanga.me
 @@||wangamela.com
+@@||wangan.com
 @@||wanganedu.com
 @@||wangbixi.com
 @@||wangcaio2o.com
@@ -56053,7 +56052,6 @@
 @@||win7china.com
 @@||win7en.com
 @@||win7qijian.com
-@@||win7qjb.com
 @@||win7sky.com
 @@||win7w.com
 @@||win7xzb.com
@@ -59559,6 +59557,7 @@
 @@||xwei.tv
 @@||xwhb.com
 @@||xwhodesign.com
+@@||xwie.com
 @@||xwjqr.com
 @@||xwjr.com
 @@||xwjy.org
@@ -61741,7 +61740,6 @@
 @@||yqmb001.com
 @@||yqmh.com
 @@||yqphh.com
-@@||yqptzx.com
 @@||yqsbz.com
 @@||yqtc.com
 @@||yqtxzm.com
@@ -64243,6 +64241,7 @@
 @@||ziewje.com
 @@||zifandiaosu.com
 @@||zifeiwuya.com
+@@||zifumao.com
 @@||zige365.com
 @@||zigecha.com
 @@||zigeer.com
@@ -64602,6 +64601,7 @@
 @@||zkxblog.com
 @@||zkxlkj.net
 @@||zkxww.com
+@@||zkyai.com
 @@||zkydib.com
 @@||zkyouxi.com
 @@||zkyxls.com
