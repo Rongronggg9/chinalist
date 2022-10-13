@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-10-12 02:33:10 UTC
+! Updated: 2022-10-13 02:25:48 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -1748,7 +1748,6 @@
 @@||198526.net
 @@||1985cd.com
 @@||1985t.com
-@@||1987.name
 @@||1988.tv
 @@||19888.tv
 @@||1988wp.com
@@ -2223,7 +2222,6 @@
 @@||23sk.com
 @@||23tgo.com
 @@||23txt.com
-@@||23us.cc
 @@||23us.la
 @@||23us.so
 @@||23us.tv
@@ -2484,7 +2482,6 @@
 @@||2xd.net
 @@||2xiazai.com
 @@||2y9y.com
-@@||2yuanma.com
 @@||2yuanyy.com
 @@||2yun.com
 @@||2yup.com
@@ -6414,7 +6411,6 @@
 @@||916m.com
 @@||917.com
 @@||9170.com
-@@||917118.com
 @@||917558.com
 @@||917ka.com
 @@||917st.com
@@ -10944,7 +10940,6 @@
 @@||biqwo.com
 @@||biransign.com
 @@||bird4d.com
-@@||birdbro.com
 @@||birdol.com
 @@||birdpush.com
 @@||birentech.com
@@ -11310,7 +11305,6 @@
 @@||bjzcth.com
 @@||bjzg.org
 @@||bjzghd.com
-@@||bjzgxr.net
 @@||bjzhishi.com
 @@||bjzhongyi.com
 @@||bjzjgyl.com
@@ -12338,7 +12332,6 @@
 @@||caigoushichang.com
 @@||caiguayun.com
 @@||caihang.com
-@@||caihao.com
 @@||caihcom.com
 @@||caihezi.com
 @@||caihong5g.com
@@ -13481,6 +13474,7 @@
 @@||changfon.com
 @@||changfubai.com
 @@||changhe.tech
+@@||changhong-network.com
 @@||changhong.com
 @@||changhongdianzi.com
 @@||changhongit.com
@@ -14642,7 +14636,6 @@
 @@||chnp2p.com
 @@||chnpac.com
 @@||chnpec.com
-@@||chnpic.net
 @@||chnppmuseum.com
 @@||chnroad.com
 @@||chnsuv.com
@@ -16629,7 +16622,6 @@
 @@||crystalcg.com
 @@||crystaledu.com
 @@||cryuantafund.com
-@@||cryy120.com
 @@||cs-air.com
 @@||cs-cjl.com
 @@||cs-show.com
@@ -17133,7 +17125,6 @@
 @@||cz365.com
 @@||cz8.com
 @@||cz89.com
-@@||czainuo.com
 @@||czb365.com
 @@||czbanbantong.com
 @@||czbank.com
@@ -18121,7 +18112,6 @@
 @@||dezhongmobi.com
 @@||dezhoudaily.com
 @@||dezhounuoda.com
-@@||dezhouqh.com
 @@||dezhuyun.com
 @@||df81.com
 @@||df9377.com
@@ -20577,6 +20567,7 @@
 @@||elong.net
 @@||elongshine.com
 @@||elongstatic.com
+@@||elontest.com
 @@||elpcon.com
 @@||elpwc.com
 @@||els001.com
@@ -22075,7 +22066,6 @@
 @@||fingertc.com
 @@||fingu.com
 @@||fingu.net
-@@||finlayliu.com
 @@||finndy.com
 @@||finogeeks.com
 @@||finshell-cib.com
@@ -26998,7 +26988,6 @@
 @@||hlytec.com
 @@||hlyy.in
 @@||hlzq.com
-@@||hlzsgw.com
 @@||hm-3223.net
 @@||hm120.com
 @@||hm16888.net
@@ -28671,6 +28660,7 @@
 @@||hzh1.com
 @@||hzhadx.com
 @@||hzhanbo.com
+@@||hzhengtong.com
 @@||hzhfzx.com
 @@||hzhike.com
 @@||hzhisoft.com
@@ -29810,6 +29800,7 @@
 @@||imgeek.org
 @@||imgets.com
 @@||imgii.com
+@@||imgkr.com
 @@||imglefeng.com
 @@||imglink.win
 @@||imgo.tv
@@ -33474,7 +33465,6 @@
 @@||kan.cc
 @@||kan0512.com
 @@||kan300.com
-@@||kan84.net
 @@||kanbaobei.com
 @@||kanbardata.com
 @@||kanbing.net
@@ -33573,7 +33563,6 @@
 @@||kaobeitu.com
 @@||kaocat.com
 @@||kaochong.com
-@@||kaoder.com
 @@||kaogua.com
 @@||kaojionline.com
 @@||kaola.com
@@ -38023,7 +38012,6 @@
 @@||mcake.com
 @@||mcarding.com
 @@||mcbbs.net
-@@||mccaee.com
 @@||mcchcdn.com
 @@||mcchina.com
 @@||mcchou.com
@@ -41601,7 +41589,6 @@
 @@||onmpw.com
 @@||ono-bbb.com
 @@||ononw.com
-@@||onqc.com
 @@||onszln.com
 @@||ontheroadstore.com
 @@||onthink.com
@@ -43711,7 +43698,6 @@
 @@||qgbtd.com
 @@||qgbzyzl.com
 @@||qgcyjq.org
-@@||qgdyc.net
 @@||qgdz222.com
 @@||qgenius.com
 @@||qgpx.com
@@ -44517,7 +44503,6 @@
 @@||qqbiaoqing.com
 @@||qqbiaoqing8.com
 @@||qqbibile.com
-@@||qqcedsrc.com
 @@||qqcf.com
 @@||qqcg.com
 @@||qqcjw.com
@@ -46002,7 +45987,6 @@
 @@||runsky.com
 @@||runtimeedu.com
 @@||runtimewh.com
-@@||runtonggroup.com
 @@||runtronic.com
 @@||runwise.co
 @@||runwith.cc
@@ -47888,7 +47872,6 @@
 @@||shuangkuai.co
 @@||shuangmei2008.com
 @@||shuangtao.com
-@@||shuangtv.net
 @@||shuangxian.com
 @@||shuangxinhui.com
 @@||shuangyingsx.com
@@ -50187,7 +50170,6 @@
 @@||syjzedu.com
 @@||sykong.com
 @@||sylixos.com
-@@||syltdj.com
 @@||symama.com
 @@||symtc.com
 @@||symuge.com
@@ -51953,7 +51935,6 @@
 @@||tok9.com
 @@||token-ad.com
 @@||tokenglish.com
-@@||tokenpocket.pro
 @@||tokensky.net
 @@||tokenworld.pro
 @@||tokimekiclub.org
@@ -53449,6 +53430,7 @@
 @@||unixfbi.com
 @@||unixhot.com
 @@||unixidc.com
+@@||unixs.org
 @@||unizai.com
 @@||unjmz.com
 @@||unjs.com
@@ -57687,7 +57669,6 @@
 @@||xhup.club
 @@||xhwhouse.com
 @@||xhxsw.com
-@@||xhxswz.com
 @@||xhxw.com
 @@||xhy.com
 @@||xhy998.com
@@ -60132,7 +60113,6 @@
 @@||ycloudvip.com
 @@||yclunwen.com
 @@||ycmbcd.com
-@@||ycnuli.com
 @@||ycoem.net
 @@||ycool.com
 @@||ycpack.net
@@ -63355,7 +63335,6 @@
 @@||zhaobeidaxiao.com
 @@||zhaobeijing.com
 @@||zhaobuxiu.com
-@@||zhaocaihr.com
 @@||zhaocait.com
 @@||zhaocaiyan.com
 @@||zhaochafa.com
@@ -65036,7 +65015,6 @@
 @@||zui88.com
 @@||zuiben.com
 @@||zuibook.com
-@@||zuichen.net
 @@||zuicool.com
 @@||zuidabao.com
 @@||zuidaima.com
