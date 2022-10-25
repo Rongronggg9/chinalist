@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-10-24 02:40:05 UTC
+! Updated: 2022-10-25 02:33:38 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -987,6 +987,7 @@
 @@||11job.net
 @@||11k.cc
 @@||11lx.com
+@@||11meigui.com
 @@||11pdf.com
 @@||11player.com
 @@||11qp94.com
@@ -2255,7 +2256,6 @@
 @@||250sy.cc
 @@||251633.com
 @@||2529.com
-@@||2529212.com
 @@||253.com
 @@||253952.com
 @@||253u.com
@@ -3457,7 +3457,6 @@
 @@||453600.net
 @@||45575.com
 @@||456.net
-@@||4567.tv
 @@||4567w.com
 @@||456ss.com
 @@||457.com
@@ -11413,7 +11412,6 @@
 @@||bluestar-pc.com
 @@||bluestep.cc
 @@||blw.moe
-@@||blyol.com
 @@||blyun.com
 @@||bm001.com
 @@||bm2088.com
@@ -17467,7 +17465,6 @@
 @@||danqi.com
 @@||danqingshaonian.com
 @@||danrenzheng.com
-@@||danseshu.com
 @@||danteng.me
 @@||dantuvc.com
 @@||danxia.com
@@ -18039,7 +18036,6 @@
 @@||devexel.com
 @@||devexpresscn.com
 @@||devio.org
-@@||devkang.com
 @@||devpss.com
 @@||devqinwei.com
 @@||devsiki.com
@@ -18400,7 +18396,6 @@
 @@||dig-gy.com
 @@||digcredit.com
 @@||digforfire.net
-@@||digforfire.org
 @@||digg58.com
 @@||digi-uniclick.net
 @@||digi-wo.com
@@ -20313,7 +20308,6 @@
 @@||ef-cdn.com
 @@||ef360.com
 @@||ef360.net
-@@||ef82.com
 @@||ef9377.com
 @@||efala.net
 @@||efang.tv
@@ -21898,7 +21892,6 @@
 @@||fffzgh.com
 @@||ffhre.com
 @@||ffis.me
-@@||ffjd1.com
 @@||ffmarket.com
 @@||ffmomola.com
 @@||ffmulu.com
@@ -26366,7 +26359,6 @@
 @@||hengancaifu.com
 @@||hengannet.com
 @@||hengbogroup.com
-@@||hengcaotang.com
 @@||hengchang6.com
 @@||hengdayun.com
 @@||hengdianfilm.com
@@ -32270,6 +32262,7 @@
 @@||jmlk.co
 @@||jmmuseum.com
 @@||jmonline.org
+@@||jmpcrash.com
 @@||jmqy.com
 @@||jmrsksj.org
 @@||jmsqw.com
@@ -35305,7 +35298,6 @@
 @@||leeyegy.com
 @@||leeyuoxs.com
 @@||lefeng.com
-@@||lefengmoving.com
 @@||lefinance.com
 @@||leftfm.com
 @@||leftlady.com
@@ -35492,7 +35484,6 @@
 @@||letuinet.com
 @@||letuknowit.com
 @@||letushu.com
-@@||letv-cdn.com
 @@||letv.com
 @@||letv8.com
 @@||letv8.net
@@ -44153,7 +44144,6 @@
 @@||qishu.tw
 @@||qishunbao.com
 @@||qisool.com
-@@||qisuu.la
 @@||qita.love
 @@||qitete.com
 @@||qiti88.com
@@ -52403,6 +52393,7 @@
 @@||ttsq6.net
 @@||ttstream.com
 @@||ttsz8.com
+@@||ttt.sh
 @@||tttarot.com
 @@||ttthing.com
 @@||tttuangou.net
@@ -52905,7 +52896,6 @@
 @@||tzdjzu.com
 @@||tzfdc.com
 @@||tzfeize.xyz
-@@||tzfile.com
 @@||tzfuke.com
 @@||tzgcjie.com
 @@||tzhubo.com
@@ -57775,7 +57765,6 @@
 @@||xiaoeknow.com
 @@||xiaoenai.com
 @@||xiaoeryi.com
-@@||xiaofangdeng.com
 @@||xiaofantian.com
 @@||xiaofeng.org
 @@||xiaogan.com
@@ -58091,7 +58080,6 @@
 @@||xidongv.com
 @@||xiduobaby.com
 @@||xie-jue-tui-xiao.com
-@@||xieat.com
 @@||xiebao18.com
 @@||xieboke.net
 @@||xiechao.org
@@ -60119,6 +60107,7 @@
 @@||yelanxiaoyu.com
 @@||yelinmall.com
 @@||yelixiali.com
+@@||yellowjm.com
 @@||yelook.com
 @@||yemablog.com
 @@||yemacaijing.com
@@ -61732,7 +61721,6 @@
 @@||yuancdn.com
 @@||yuancefund.com
 @@||yuanchengxiezuo.com
-@@||yuanchuangchi.com
 @@||yuandi.com
 @@||yuandiancredit.com
 @@||yuandongjixie.com
@@ -62220,7 +62208,6 @@
 @@||yunzz.net
 @@||yupiao.info
 @@||yupoo.com
-@@||yupsky.com
 @@||yupu.com
 @@||yuqianshu.com
 @@||yuqiaolong.com
@@ -63377,7 +63364,6 @@
 @@||zhenxiad.com
 @@||zhenxian.fm
 @@||zhenxingkuangchanpin.com
-@@||zhenyouhuo.com
 @@||zhenyouliao.com
 @@||zhenyouweb.com
 @@||zhenzanzixun.com
@@ -64776,6 +64762,7 @@
 @@||zsr.cc
 @@||zsso03.com
 @@||zssph.com
+@@||zssq8.com
 @@||zssxczxyey.com
 @@||zstack.io
 @@||zstzs.com
