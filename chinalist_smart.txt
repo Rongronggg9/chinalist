@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-10-26 02:07:48 UTC
+! Updated: 2022-10-27 02:04:49 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -6144,6 +6144,7 @@
 @@||880sy.com
 @@||880you.com
 @@||88106.com
+@@||88225233827.com
 @@||8825.com
 @@||8828dl.com
 @@||88303887.com
@@ -9311,7 +9312,6 @@
 @@||autochips.com
 @@||autodg.com
 @@||autodmp.com
-@@||autodry.net
 @@||autodwg.com
 @@||autoesd.com
 @@||autofull.net
@@ -17708,7 +17708,6 @@
 @@||dbccv.com
 @@||dbcdh.com
 @@||dbcsq.com
-@@||dbcxz1.com
 @@||dbcxz1.net
 @@||dbdna.com
 @@||dbfansub.com
@@ -17952,6 +17951,7 @@
 @@||demodashi.com
 @@||demogic.com
 @@||demohour.com
+@@||demon.tw
 @@||demonlee.tech
 @@||demoso.net
 @@||demososo.com
@@ -27614,6 +27614,7 @@
 @@||htmlplusplus.com
 @@||htmlsucai.com
 @@||htnice.com
+@@||htobl.com
 @@||htoo.vip
 @@||htpbc.com
 @@||htqyy.com
@@ -33380,6 +33381,7 @@
 @@||kangbaifoundation.com
 @@||kangbatv.com
 @@||kangbidz.com
+@@||kangcdn.com
 @@||kangchun.com
 @@||kangdajiuzhou.com
 @@||kangdaoai.com
@@ -38593,6 +38595,7 @@
 @@||mika123.com
 @@||mika18.com
 @@||mikannovel.com
+@@||mike-x.com
 @@||mikechen.cc
 @@||mikecrm.com
 @@||mikenn.com
@@ -39331,7 +39334,6 @@
 @@||moxfive.xyz
 @@||moxiai.com
 @@||moxian.com
-@@||moxiaofei.com
 @@||moxiaoqihuoguo.com
 @@||moxing.net
 @@||moxingyun.com
@@ -39858,7 +39860,6 @@
 @@||myrtb.net
 @@||myrunners.com
 @@||myruru.com
-@@||mysanco.com
 @@||myscore.org
 @@||mysemlife.com
 @@||myshow800.com
@@ -40213,6 +40214,7 @@
 @@||ndfsl.com
 @@||ndhys.com
 @@||ndmh.com
+@@||ndnslab.com
 @@||ndoo.net
 @@||ndscsoft.com
 @@||ndser.net
@@ -41384,6 +41386,7 @@
 @@||omlzz.com
 @@||ommoo.com
 @@||omni-pharma.com
+@@||omnibeautylux.com
 @@||omooo.net
 @@||omos88.com
 @@||omowork.com
@@ -42905,6 +42908,7 @@
 @@||polywuye.com
 @@||pomears.com
 @@||pomoho.com
+@@||pomowx.com
 @@||ponley.com
 @@||ponycool.com
 @@||ponytest.com
@@ -43822,7 +43826,6 @@
 @@||qichexin.com
 @@||qichezhan.net
 @@||qichuang.com
-@@||qichuangidc.com
 @@||qicn.net
 @@||qicolor.com
 @@||qicp.net
@@ -46331,6 +46334,7 @@
 @@||scjzy.net
 @@||sclf.org
 @@||scmccboss.com
+@@||scmchem.com
 @@||scmeye.com
 @@||scmor.com
 @@||scmroad.com
@@ -46849,7 +46853,6 @@
 @@||sgnongkang.com
 @@||sgou.com
 @@||sgshero.com
-@@||sgss8.com
 @@||sgsugou.com
 @@||sgsxw.com
 @@||sguo.com
@@ -57442,7 +57445,6 @@
 @@||xft123.com
 @@||xftclub.com
 @@||xfun233.com
-@@||xfwi.com
 @@||xfxb.net
 @@||xfyousheng.com
 @@||xfyun.com
@@ -57610,6 +57612,7 @@
 @@||xiangqu.com
 @@||xiangrikui.co
 @@||xiangrikui.com
+@@||xiangrikuijianzhan.com
 @@||xiangshang360.com
 @@||xiangshangban.com
 @@||xiangshanpark.com
@@ -59233,7 +59236,6 @@
 @@||xuexiaozhaopin.com
 @@||xuexibao.com
 @@||xuexigang.com
-@@||xuexijilu.com
 @@||xuexila.com
 @@||xuexili.com
 @@||xuexilinux.com
