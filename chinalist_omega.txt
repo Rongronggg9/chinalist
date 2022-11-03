@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-11-02 02:15:53 UTC
+! Updated: 2022-11-03 02:00:18 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -2553,7 +2553,6 @@
 ||318ek.com
 ||31966.net
 ||3198.com
-||3199.com
 ||319n.com
 ||31alu.com
 ||31bxg.com
@@ -4979,6 +4978,7 @@
 ||5kcrm.net
 ||5kda.com
 ||5khouse.com
+||5l4trd8ilk.com
 ||5lanren.com
 ||5lbw.com
 ||5lejob.com
@@ -5707,7 +5707,6 @@
 ||78gk.com
 ||78hr.com
 ||78oa.com
-||78pan.com
 ||78tp.com
 ||79.com
 ||79151879798.com
@@ -11473,6 +11472,7 @@
 ||bob-cardif.com
 ||bob-leasing.com
 ||bob2012.com
+||bob4885.com
 ||bobaow.com
 ||bobbns.com
 ||bobcfc.com
@@ -13000,6 +13000,7 @@
 ||cdncloud.org
 ||cdnclouds.net
 ||cdnczydwl.com
+||cdndd.net
 ||cdndm.com
 ||cdndm5.com
 ||cdndm5.net
@@ -13497,7 +13498,6 @@
 ||chaochaojin.com
 ||chaofan.com
 ||chaofan.wang
-||chaofan365.com
 ||chaofanaishangyu.com
 ||chaofanshuma.com
 ||chaofenxiang.vip
@@ -22691,6 +22691,7 @@
 ||fusroda.io
 ||fute.com
 ||futu5.com
+||futufin.com
 ||futuhk.com
 ||futuku.com
 ||futuniuniu.com
@@ -27324,6 +27325,7 @@
 ||hostker.com
 ||hostker.net
 ||hostkvm.com
+||hostmonit.com
 ||hostxen.com
 ||hostyun.com
 ||hotalk.com
@@ -34298,7 +34300,6 @@
 ||kscac.com
 ||kscdns.com
 ||ksdkcks.com
-||ksdlp.com
 ||ksdown.com
 ||ksdq0514.com
 ||ksense.com
@@ -36211,11 +36212,11 @@
 ||liugezhou.online
 ||liugj.com
 ||liugm.com
+||liugong.com
 ||liuguofeng.com
 ||liuhaolin.com
 ||liujiajia.me
 ||liujiangblog.com
-||liujiasj.com
 ||liujijun.com
 ||liujto.com
 ||liujunworld.com
@@ -39383,7 +39384,6 @@
 ||moxfive.xyz
 ||moxiai.com
 ||moxian.com
-||moxiaoqihuoguo.com
 ||moxing.net
 ||moxingyun.com
 ||moxiu.com
@@ -39577,7 +39577,6 @@
 ||mucfc.com
 ||muchangqing.com
 ||muchcloud.com
-||muchlab.com
 ||muchong.com
 ||muchrank.com
 ||mudgj.com
@@ -46055,7 +46054,6 @@
 ||safehoo.com
 ||safejmp.com
 ||safenext.com
-||safewiki.org
 ||sagetrc.com
 ||sagigame.net
 ||sagocloud.com
@@ -47793,7 +47791,6 @@
 ||shu163.com
 ||shuabuapp.com
 ||shuadanfu.com
-||shuai.win
 ||shuaibo.wang
 ||shuaigeshe.com
 ||shuaihuajun.com
@@ -49889,7 +49886,6 @@
 ||suyuening.com
 ||suyugame.com
 ||suyujoy.com
-||suyunbo.tv
 ||suyutech.com
 ||suzhenyi.com
 ||suzhou.cc
@@ -51315,7 +51311,6 @@
 ||ths8.com
 ||thseoer.com
 ||thstars.com
-||thstp.com
 ||thtfpc.com
 ||thumedialab.com
 ||thundercdn.net
@@ -52430,7 +52425,6 @@
 ||ttshengbei.com
 ||ttsmmwb.com
 ||ttsq.xyz
-||ttsq6.net
 ||ttstream.com
 ||ttsz8.com
 ||ttt.sh
@@ -56622,7 +56616,6 @@
 ||wshang.com
 ||wshangw.net
 ||wshenm.com
-||wshili.com
 ||wshost.cc
 ||wshoto.com
 ||wshtgame.com
@@ -57749,7 +57742,6 @@
 ||xiao-new.com
 ||xiao-sports.com
 ||xiao.lu
-||xiao6.tv
 ||xiao84.com
 ||xiao89.com
 ||xiaoa.name
@@ -59192,6 +59184,7 @@
 ||xuanke.com
 ||xuanlishi.com
 ||xuannaer.com
+||xuanqii.com
 ||xuanquge.com
 ||xuanqun.com
 ||xuanruanjian.com
@@ -60145,7 +60138,6 @@
 ||yeeyan.com
 ||yeeyan.org
 ||yeeyk.com
-||yeezhe.com
 ||yefu365.com
 ||yegame.com
 ||yegenyou.com
@@ -62883,6 +62875,7 @@
 ||zebred.com
 ||zechoriah.com
 ||zechunbengye.com
+||zeda1.com
 ||zedukm.com
 ||zeelis.com
 ||zeesin.com
@@ -64624,7 +64617,6 @@
 ||znyseo.com
 ||znyshurufa.com
 ||znznet.net
-||zo-l.net
 ||zoassetmanagement.com
 ||zocai.com
 ||zodiac.wang
