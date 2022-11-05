@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-11-04 02:05:15 UTC
+! Updated: 2022-11-05 01:58:30 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -5248,7 +5248,6 @@
 @@||669ye.com
 @@||66call.com
 @@||66cn.com
-@@||66diqiu.com
 @@||66ds.net
 @@||66house.com
 @@||66ip.com
@@ -6572,7 +6571,6 @@
 @@||9211.com
 @@||921686.com
 @@||921716.com
-@@||9217w.com
 @@||9217web.com
 @@||921lu.com
 @@||922000.com
@@ -6925,7 +6923,6 @@
 @@||999d.com
 @@||999dns.net
 @@||999inandon.com
-@@||999kan.com
 @@||999tea.com
 @@||999wx.com
 @@||999xy.net
@@ -13716,7 +13713,6 @@
 @@||chenplus.com
 @@||chenpot.com
 @@||chenruixuan.com
-@@||chenrunjinshu.com
 @@||chenshipin.com
 @@||chensonglin.net
 @@||chensuyang.com
@@ -14581,7 +14577,6 @@
 @@||chncpa.org
 @@||chncwds.com
 @@||chndesign.com
-@@||chndsnews.com
 @@||chndtb.com
 @@||chnews.net
 @@||chnfi.com
@@ -22975,7 +22970,6 @@
 @@||gamefm.com
 @@||gamefv.com
 @@||gamehome.tv
-@@||gamehui.com
 @@||gameinns.com
 @@||gameiy.com
 @@||gamejym.com
@@ -25857,7 +25851,6 @@
 @@||hbddrn.com
 @@||hbdfdh.com
 @@||hbdmia.com
-@@||hbdthy.com
 @@||hbdtjqj.com
 @@||hbdzcg.com
 @@||hbeducloud.com
@@ -31412,6 +31405,7 @@
 @@||jiantuku.com
 @@||jianwang360.com
 @@||jianweitv.com
+@@||jianwenapp.com
 @@||jianxin-tech.com
 @@||jianxinyun.com
 @@||jianxun.io
@@ -37518,7 +37512,6 @@
 @@||maimaimaiw.com
 @@||maimemo.com
 @@||maimemostatus.com
-@@||maimengjun.com
 @@||maimiaotech.com
 @@||maimn.com
 @@||maimowang.com
@@ -39153,6 +39146,7 @@
 @@||mofangyu.com
 @@||mofavideo.com
 @@||mofazhu.com
+@@||moffettai.com
 @@||mofile.com
 @@||mofishgames.com
 @@||mofoun.com
@@ -39764,7 +39758,6 @@
 @@||mycoss.net
 @@||mycoss.org
 @@||mycreate.net
-@@||mycrtb.com
 @@||mydadao.com
 @@||mydao.net
 @@||mydbfx.com
@@ -42700,7 +42693,6 @@
 @@||pinshu.com
 @@||pinsilianzu1.com
 @@||pinsilianzu3.com
-@@||pintour.com
 @@||pintu360.com
 @@||pintuan.com
 @@||pintuer.com
@@ -44405,7 +44397,6 @@
 @@||qq387.com
 @@||qq5.com
 @@||qq52o.me
-@@||qq545.com
 @@||qq5818.com
 @@||qq717.com
 @@||qq7c.com
@@ -48445,6 +48436,7 @@
 @@||sketchchina.com
 @@||sketchchina.net
 @@||sketchcn.com
+@@||sketchk.xyz
 @@||sketchupbar.com
 @@||sketchupbbs.com
 @@||skg.com
@@ -49639,6 +49631,7 @@
 @@||suizui.net
 @@||sujh.net
 @@||sujiaozhipin888.com
+@@||suki.club
 @@||sukimad.com
 @@||sukiu.net
 @@||sukkaw.com
@@ -51380,7 +51373,6 @@
 @@||tianqi.com
 @@||tianqi123.com
 @@||tianqi321.com
-@@||tianqi4.com
 @@||tianqi518.com
 @@||tianqiaojuyuan.com
 @@||tianqiaoyishuzhongxin.org
@@ -52973,6 +52965,7 @@
 @@||u9u9.com
 @@||u9wan.com
 @@||ua168.com
+@@||uahh.site
 @@||uami-global.org
 @@||uao-online.com
 @@||uao.so
@@ -61009,7 +61002,6 @@
 @@||ymd88.com
 @@||ymeme.com
 @@||ymexf.com
-@@||ymfhbcj.net
 @@||ymfile.com
 @@||ymfile01.com
 @@||ymgmno.com
@@ -63096,7 +63088,6 @@
 @@||zgyongxin.com
 @@||zgys.net
 @@||zgyssyxh.com
-@@||zgystsd.com
 @@||zgyxsw.org
 @@||zgyygl.com
 @@||zgzb.com
@@ -63395,7 +63386,6 @@
 @@||zhenimg.com
 @@||zhenjiang-marathon.com
 @@||zhenleishan.com
-@@||zhenlishen.com
 @@||zhenpin.com
 @@||zhenren.com
 @@||zhenrongbao.com
