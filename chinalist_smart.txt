@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-11-06 02:01:03 UTC
+! Updated: 2022-11-07 01:55:45 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -46,7 +46,6 @@
 @@||00817.com
 @@||0082tv.com
 @@||008321.com
-@@||00853.la
 @@||0086crane.com
 @@||0086l.com
 @@||0086org.com
@@ -923,7 +922,6 @@
 @@||114park.com
 @@||114photo.com
 @@||114piaowu.com
-@@||114pifa.com
 @@||114pinpai.com
 @@||114px.com
 @@||114qy.com
@@ -3476,6 +3474,7 @@
 @@||46z5j5.xyz
 @@||47365.com
 @@||4738.com
+@@||4743.uk
 @@||47473.com
 @@||474b.com
 @@||4765.com
@@ -6593,7 +6592,6 @@
 @@||92fox.com
 @@||92game.net
 @@||92hidc.net
-@@||92jiangbei.com
 @@||92kaifa.com
 @@||92kk.com
 @@||92le.com
@@ -8631,7 +8629,6 @@
 @@||antuni.com
 @@||antutu.com
 @@||antutu.net
-@@||antuzhi.com
 @@||antvr.com
 @@||antzk.com
 @@||anw.red
@@ -8891,7 +8888,6 @@
 @@||appicplay.com
 @@||appinn.com
 @@||appjiagu.com
-@@||appjzy.com
 @@||appkaifa.com
 @@||appkefu.com
 @@||appkg.com
@@ -9609,7 +9605,6 @@
 @@||baidudaquan.com
 @@||baidufe.com
 @@||baidufree.com
-@@||baidui.vip
 @@||baidulook.com
 @@||baidunongmin.com
 @@||baiduor.com
@@ -10201,7 +10196,6 @@
 @@||bdapark.com
 @@||bdatu.com
 @@||bdc-rays.com
-@@||bdcdnimg.com
 @@||bdchina.com
 @@||bdcloudapi.com
 @@||bdclouddns.com
@@ -13312,7 +13306,6 @@
 @@||cgplayer.com
 @@||cgplusplus.com
 @@||cgptwd.com
-@@||cgpx.org
 @@||cgris.net
 @@||cgsec.com
 @@||cgsfusion.com
@@ -16379,7 +16372,6 @@
 @@||cqjjnet.com
 @@||cqjnw.org
 @@||cqjob.com
-@@||cqjsxx.com
 @@||cqjy.com
 @@||cqkdtui1.com
 @@||cqkeb.com
@@ -16642,7 +16634,6 @@
 @@||csjyzq.com
 @@||cskefu.com
 @@||cskule.com
-@@||cskxjk.com
 @@||cslfans.com
 @@||cslou.com
 @@||cslyrc.com
@@ -18775,6 +18766,7 @@
 @@||dnsip.net
 @@||dnsis.net
 @@||dnsjia.com
+@@||dnslv.com
 @@||dnsmeasurement.com
 @@||dnsmsn.com
 @@||dnsng.net
@@ -19438,7 +19430,6 @@
 @@||duoente.net
 @@||duoerpharmacy.com
 @@||duofriend.com
-@@||duofull.com
 @@||duogouhui.com
 @@||duohou.net
 @@||duohui.co
@@ -20784,7 +20775,6 @@
 @@||esfimg.com
 @@||eshangle.com
 @@||eshanyao.com
-@@||eshenan.com
 @@||eshenlin.com
 @@||eshimin.com
 @@||eshiyun.info
@@ -25186,6 +25176,7 @@
 @@||haianedu.net
 @@||haianw.com
 @@||haibao.com
+@@||haibao123.xyz
 @@||haibaobaoxian.com
 @@||haibaoyl.com
 @@||haibaoyouxi.com
@@ -25722,7 +25713,6 @@
 @@||hapi123.net
 @@||hapimall.com
 @@||hapingapp.com
-@@||hapiweb.com
 @@||haplat.net
 @@||happigo.com
 @@||happy24uk.com
@@ -26032,6 +26022,7 @@
 @@||hcjsk120.com
 @@||hcl100.com
 @@||hcmiraefund.com
+@@||hcnamecdn.com
 @@||hcnamecdns.com
 @@||hcocoa.com
 @@||hcqixinhb.com
@@ -29186,7 +29177,6 @@
 @@||iduokan.net
 @@||iduvip.com
 @@||idwzx.com
-@@||idyjy.com
 @@||idyzs.com
 @@||idzcp.com
 @@||idzoom.com
@@ -31523,7 +31513,6 @@
 @@||jiefuku.com
 @@||jiegames.com
 @@||jiegeng.com
-@@||jiehuisoft.com
 @@||jiehun021.com
 @@||jiehun027.com
 @@||jiehunmishu.com
@@ -33182,7 +33171,6 @@
 @@||jz68888.com
 @@||jzb.com
 @@||jzbar.net
-@@||jzbbc.com
 @@||jzbdc.com
 @@||jzcbank.com
 @@||jzchou.com
@@ -35424,6 +35412,7 @@
 @@||lensuo.com
 @@||lenwoo.com
 @@||lenzhao.com
+@@||leo.moe
 @@||leo96.com
 @@||leoao-inc.com
 @@||leoao.com
@@ -36243,12 +36232,14 @@
 @@||liuyanzhao.com
 @@||liuyifei.cc
 @@||liuyingqiang.com
+@@||liuzaoqi.com
 @@||liuzhichao.com
 @@||liuzhixiang.com
 @@||liuzongyang.com
 @@||liuzuo.com
 @@||liuzy88.com
 @@||live-era.com
+@@||live-voip.com
 @@||live800.com
 @@||liveapp.ink
 @@||livechina.com
@@ -39262,7 +39253,6 @@
 @@||mopcn.com
 @@||mopei8.com
 @@||moper.me
-@@||mopiaoyao.com
 @@||mopicer.com
 @@||mopoint.com
 @@||mopsky.com
@@ -41162,7 +41152,6 @@
 @@||ocd120.com
 @@||oceanbase.com
 @@||oceanbot-steam.com
-@@||oceancnc.com
 @@||oceanengine.com
 @@||oceanlau.com
 @@||oceanol.com
@@ -43617,7 +43606,6 @@
 @@||qhdczzs.com
 @@||qhdfxkj.com
 @@||qhdgjj.com
-@@||qhdjcbj.com
 @@||qhdnews.com
 @@||qhdok.com
 @@||qhdren.com
@@ -43642,7 +43630,6 @@
 @@||qhmed.com
 @@||qhmsg.com
 @@||qhnews.com
-@@||qhnode.com
 @@||qhong.net
 @@||qhpcc.com
 @@||qhpk.net
@@ -47990,7 +47977,6 @@
 @@||shyuwl.com
 @@||shyuzhai.com
 @@||shywtb.com
-@@||shyxcm.com
 @@||shyxi5.com
 @@||shyxwz.com
 @@||shyy6688.com
@@ -50424,7 +50410,6 @@
 @@||t262.com
 @@||t2cn.com
 @@||t3315.com
-@@||t365777.com
 @@||t5.work
 @@||t56.net
 @@||t56jy.net
@@ -52256,6 +52241,7 @@
 @@||tryineapp.com
 @@||trylist.net
 @@||trymoka.com
+@@||tryqkj.com
 @@||tryurbest.com
 @@||tryxue.com
 @@||ts-cooling.com
@@ -52692,6 +52678,7 @@
 @@||tvblack.com
 @@||tvbwind.com
 @@||tvcbook.com
+@@||tvccc.org
 @@||tventry.com
 @@||tvfanqie.com
 @@||tvflnet.com
@@ -56588,6 +56575,7 @@
 @@||wsry18.xyz
 @@||wsssec.com
 @@||wstx.com
+@@||wsurl.cc
 @@||wsview.com
 @@||wswebcdn.com
 @@||wswebcdn.info
@@ -56718,6 +56706,7 @@
 @@||wujiexueyuan.com
 @@||wujiit.com
 @@||wujinimg.com
+@@||wujinkk.com
 @@||wujinpp.com
 @@||wujixiaoshuo.com
 @@||wukong.com
@@ -64054,6 +64043,7 @@
 @@||zhzyw.org
 @@||zhzzx.com
 @@||zi.com
+@@||zi5.cc
 @@||ziben365.com
 @@||ziboga.com
 @@||zicaitou.com
