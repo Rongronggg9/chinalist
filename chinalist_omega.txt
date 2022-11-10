@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-11-09 02:06:56 UTC
+! Updated: 2022-11-10 01:58:58 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -2355,7 +2355,6 @@
 ||289.com
 ||2898.com
 ||28beiduo.com
-||28hotel.com
 ||28ka.com
 ||28kai.cc
 ||28khy.com
@@ -7001,7 +7000,6 @@
 ||9chun.com
 ||9clive.com
 ||9conn.net
-||9cts.com
 ||9cwx.com
 ||9d19.com
 ||9d4d.com
@@ -12807,7 +12805,6 @@
 ||cctv1zhibo.com
 ||cctv4g.com
 ||cctv886.com
-||cctvcaizhi.com
 ||cctvcdn.net
 ||cctvcj.com
 ||cctvctpc.com
@@ -19082,6 +19079,7 @@
 ||douyin.com
 ||douyincdn.com
 ||douyinec.com
+||douyinliving.com
 ||douyinpic.com
 ||douyinstatic.com
 ||douyinvideo.net
@@ -19863,7 +19861,6 @@
 ||easeyedelivery.com
 ||easilysend.com
 ||easitcn.com
-||easiu.com
 ||eassos.com
 ||east.net
 ||eastall.com
@@ -24998,6 +24995,7 @@
 ||gzszgas.com
 ||gztaiyou.com
 ||gztcdj.com
+||gztclwx.net
 ||gztfgame.com
 ||gzthrc.com
 ||gztopkt.com
@@ -25529,7 +25527,6 @@
 ||haofajz.com
 ||haofanben.com
 ||haofang.net
-||haofang365.com
 ||haofang5.com
 ||haofangkankan.com
 ||haofenxiao.net
@@ -29587,7 +29584,6 @@
 ||iloveyou14.com
 ||iloveyouxi.com
 ||ilovezuan.com
-||iloxp.com
 ||ilsungf.com
 ||ilufan.com
 ||iluoy.com
@@ -31656,6 +31652,7 @@
 ||jindunfan.com
 ||jinduoduo.net
 ||jinenrunze.com
+||jinet.org
 ||jinfangka.com
 ||jinfantongyici.com
 ||jinfengkou.com
@@ -35963,7 +35960,6 @@
 ||linjin.net
 ||linjunet.com
 ||linjunlong.com
-||linjuyihao.com
 ||link27.com
 ||link2lib.com
 ||link2shops.com
@@ -38981,7 +38977,6 @@
 ||mmyfilm.com
 ||mmzh.com
 ||mn-soft.com
-||mn21.com
 ||mnancheng.com
 ||mnbvtgv.com
 ||mng0303.com
@@ -39325,6 +39320,7 @@
 ||movesee.com
 ||movesky.net
 ||moviemore.com
+||moviereviewtoday.com
 ||movit-tech.com
 ||mowan123.com
 ||mowowo.com
@@ -39418,6 +39414,7 @@
 ||ms6666111.com
 ||mscbsc.com
 ||mschcdn.com
+||mscodecloud.com
 ||mscto.com
 ||msddp.com
 ||msfpay.com
@@ -42554,6 +42551,7 @@
 ||pig4cloud.com
 ||pigai.org
 ||pigcms.com
+||pigji.com
 ||pigjian.com
 ||pigqq.com
 ||pigx.vip
@@ -49811,7 +49809,6 @@
 ||survivor99.com
 ||susong51.com
 ||susongbbs.com
-||sustc.us
 ||susudm.com
 ||suteidc.com
 ||sutuiapp.com
@@ -50295,7 +50292,6 @@
 ||szpxe.com
 ||szqcz.com
 ||szqf.org
-||szqgzx.com
 ||szqsq.com
 ||szqt.net
 ||szquanli.com
@@ -51020,7 +51016,6 @@
 ||tenddata.com
 ||tendyron.com
 ||tenganxinxi.com
-||tengattack.com
 ||tengbai-it.com
 ||tengbo.cc
 ||tengchu.com
@@ -53016,7 +53011,6 @@
 ||ucren.com
 ||ucss.ninja
 ||uctrac.com
-||uctxt.com
 ||ucun.tech
 ||ucuuc.com
 ||ucw.pub
@@ -53761,7 +53755,6 @@
 ||vcredit.com
 ||vcsint.com
 ||vdaye.com
-||vdfly.com
 ||vdian.com
 ||vdisk.me
 ||vdncache.com
@@ -57201,7 +57194,6 @@
 ||xazzs.com
 ||xb21cn.com
 ||xb2s.com
-||xb5.cc
 ||xbaofun.com
 ||xbaquge.com
 ||xbase.cloud
@@ -58354,7 +58346,6 @@
 ||xinluex.com
 ||xinluobo.com
 ||xinlvtu.com
-||xinm123.com
 ||xinmanduo.com
 ||xinmei6.com
 ||xinmeihu.com
@@ -62898,7 +62889,6 @@
 ||zgcahpw.com
 ||zgcbank.com
 ||zgcbb.com
-||zgcbzs.com
 ||zgcdiy.com
 ||zgchawang.com
 ||zgchrx.com
@@ -64212,7 +64202,6 @@
 ||zj31.net
 ||zj32.com
 ||zj339.com
-||zj93zp.com
 ||zj96596.com
 ||zjabank.com
 ||zjaf.net
