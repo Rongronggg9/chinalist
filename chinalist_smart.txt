@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-11-27 01:47:09 UTC
+! Updated: 2022-11-28 01:39:43 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -5168,6 +5168,7 @@
 @@||65650000.com
 @@||65677358625.com
 @@||65688qp.com
+@@||6571n.com
 @@||65875.com
 @@||65918.tw
 @@||659595.com
@@ -6197,6 +6198,7 @@
 @@||89274.st
 @@||89303.com
 @@||8961zx.com
+@@||897263tqs.com
 @@||8977567.com
 @@||8979.com
 @@||898.travel
@@ -6430,6 +6432,7 @@
 @@||91huayi.com
 @@||91huoke.com
 @@||91ios.com
+@@||91jbz.com
 @@||91jf.com
 @@||91jiabohui.com
 @@||91jiafang.com
@@ -7693,6 +7696,7 @@
 @@||aibaix.com
 @@||aibang.com
 @@||aibaov.com
+@@||aibe1e.cc
 @@||aibing.cc
 @@||aibo123.com
 @@||aibooks.cc
@@ -22513,7 +22517,6 @@
 @@||fuliapps.com
 @@||fuliba2020.net
 @@||fulibbs.com
-@@||fulibest.com
 @@||fulijd.com
 @@||fulimin.org
 @@||fulin.org
@@ -23491,7 +23494,6 @@
 @@||ghlearning.com
 @@||ghmba.com
 @@||ghmcchina.com
-@@||ghmp4.com
 @@||gho5.com
 @@||ghost008.com
 @@||ghost11.com
@@ -28637,6 +28639,7 @@
 @@||i5399.com
 @@||i5738.com
 @@||i5i6.net
+@@||i5jh6b.cc
 @@||i5mai.com
 @@||i66wan.com
 @@||i6879.com
@@ -37773,6 +37776,7 @@
 @@||mbabao.com
 @@||mbabycare.com
 @@||mbachina.com
+@@||mbadashi.com
 @@||mbajyz.com
 @@||mbalib.com
 @@||mbalunwen.net
@@ -40426,6 +40430,7 @@
 @@||nicolaszhao.com
 @@||niconiconi.cc
 @@||nicotine.vip
+@@||nicotv.me
 @@||nie.io
 @@||nielsenccdata.tv
 @@||nies.org
@@ -57745,6 +57750,7 @@
 @@||xiaoshituina.vip
 @@||xiaoshouhudong.com
 @@||xiaoshoukuaifa.com
+@@||xiaoshourc.com
 @@||xiaoshouyi.com
 @@||xiaoshu168.com
 @@||xiaoshujiang.com
@@ -58318,6 +58324,7 @@
 @@||xinzheng.cc
 @@||xinzhenkj.com
 @@||xinzhi.space
+@@||xinzzfsdfdslk333.com
 @@||xionganxinxi.com
 @@||xionganzhuce.com
 @@||xiongdayq.com
@@ -59429,6 +59436,7 @@
 @@||xyzggg.com
 @@||xyzkj.xyz
 @@||xyzmdzs.com
+@@||xyzop.com
 @@||xyzs.com
 @@||xyzsq.com
 @@||xyzvo.com
@@ -62974,7 +62982,6 @@
 @@||zhangu365.com
 @@||zhangweijie.net
 @@||zhangwenli.com
-@@||zhangxiaoyang.me
 @@||zhangxinhuichuan.com
 @@||zhangxinhulian.com
 @@||zhangxinxu.com
@@ -63018,6 +63025,7 @@
 @@||zhanyouyun.com
 @@||zhanzhang.net
 @@||zhao-meng.com
+@@||zhao-zupu.com
 @@||zhaoapple.com
 @@||zhaobeidaxiao.com
 @@||zhaobeijing.com
