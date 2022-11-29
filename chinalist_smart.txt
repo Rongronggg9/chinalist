@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-11-28 01:39:43 UTC
+! Updated: 2022-11-29 01:40:11 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -1015,6 +1015,7 @@
 @@||12226.com
 @@||12227.com
 @@||122cha.com
+@@||122law.com
 @@||122park.com
 @@||123-789.com
 @@||123-biyezheng.org
@@ -2158,7 +2159,6 @@
 @@||2345a.com
 @@||2345ac.com
 @@||2345cdn.net
-@@||2345daohang.com
 @@||2345download.com
 @@||2345ff.com
 @@||2345licai.com
@@ -19238,6 +19238,7 @@
 @@||dsxdn.com
 @@||dsxtv.pro
 @@||dsxys.com
+@@||dsxys.pro
 @@||dsyjz0755.com
 @@||dszw.net
 @@||dtcash.com
@@ -19752,7 +19753,6 @@
 @@||e4008.com
 @@||e4221.com
 @@||e48.xyz
-@@||e4asoft.com
 @@||e521.com
 @@||e5421.com
 @@||e546.net
@@ -26101,7 +26101,6 @@
 @@||hedaotang.net
 @@||hedgehogrock.com
 @@||heduibu.com
-@@||heduwang.com
 @@||heeeeeh.com
 @@||heehee.club
 @@||heemoo.com
@@ -30202,7 +30201,6 @@
 @@||ishanshan.com
 @@||ishansong.com
 @@||ishaohuang.com
-@@||ishare20.net
 @@||isharebest.com
 @@||isharepc.com
 @@||isheely.com
@@ -32131,6 +32129,7 @@
 @@||jlgyjj.com
 @@||jljbbs.com
 @@||jljgdj.org
+@@||jljob88.com
 @@||jlkj.cc
 @@||jllihua.com
 @@||jlmhw.com
@@ -32523,7 +32522,6 @@
 @@||jshqjt.com
 @@||jshrconsult.com
 @@||jshsoft.com
-@@||jshuabo.com
 @@||jshuachen.com
 @@||jshy.com
 @@||jshylm.com
@@ -34527,7 +34525,6 @@
 @@||kvov.org
 @@||kwaicdn.com
 @@||kwaigobuy.com
-@@||kwaisczway7r4tz7m8.com
 @@||kwaishop.com
 @@||kwaishouapp.com
 @@||kwaixiaodian.com
@@ -36679,7 +36676,6 @@
 @@||lqbyj.com
 @@||lqgcb.com
 @@||lqgrdj.com
-@@||lqhigo.com
 @@||lqhualang.com
 @@||lqjob88.com
 @@||lqpsj.com
@@ -37805,6 +37801,7 @@
 @@||mcake.com
 @@||mcarding.com
 @@||mcbbs.net
+@@||mcbeam.pro
 @@||mcchcdn.com
 @@||mcchina.com
 @@||mcchou.com
@@ -38064,6 +38061,7 @@
 @@||meisubq.com
 @@||meisupic.com
 @@||meitangdehulu.com
+@@||meitaotaoo.com
 @@||meitegou.com
 @@||meitianhui.com
 @@||meitibijia.com
@@ -38332,7 +38330,6 @@
 @@||mianxiangxue.com
 @@||mianyazulin.com
 @@||miao-lang.com
-@@||miao.su
 @@||miaobe.com
 @@||miaoche.com
 @@||miaodiyun.com
@@ -40902,6 +40899,7 @@
 @@||nunu8.com
 @@||nuobeiliao.com
 @@||nuobg.com
+@@||nuobz.com
 @@||nuodefund.com
 @@||nuoder.com
 @@||nuoha.vip
@@ -41124,7 +41122,6 @@
 @@||office26.com
 @@||officecdn.microsoft.com
 @@||officectrl.com
-@@||officedoyen.com
 @@||officeedit.com
 @@||officese.com
 @@||officesoftcn.com
@@ -41799,6 +41796,7 @@
 @@||padding.me
 @@||paddlepaddle.org
 @@||paddlewaver.com
+@@||pafwl.com
 @@||pageadmin.net
 @@||pagechoice.com
 @@||pagechoice.net
@@ -47175,6 +47173,7 @@
 @@||shenxianyu.cc
 @@||shenxingnet.com
 @@||shenyangoffice.com
+@@||shenyd.com
 @@||shenyecg.com
 @@||shenyehd.com
 @@||shenyou.tv
@@ -49727,7 +49726,6 @@
 @@||svmuu.com
 @@||svn999.com
 @@||svnbucket.com
-@@||svnfc.com
 @@||svnspot.com
 @@||svw-volkswagen.com
 @@||svwuc.com
@@ -53927,7 +53925,6 @@
 @@||vkemai.com
 @@||vksoft.com
 @@||vku6.com
-@@||vkvr.net
 @@||vlabstatic.com
 @@||vlan9.com
 @@||vland-official.com
@@ -55906,7 +55903,6 @@
 @@||wjdiy.net
 @@||wjgslb.com
 @@||wjhh666.com
-@@||wjhouses.com
 @@||wjhtxx.com
 @@||wjiaxing.com
 @@||wjika.com
@@ -56745,7 +56741,6 @@
 @@||www.vive.com
 @@||www.viveport.com
 @@||www.volvocars.com
-@@||www045789.com
 @@||www1.djicdn.com
 @@||www2.djicdn.com
 @@||www2011india.com
@@ -60671,6 +60666,7 @@
 @@||yizhanzx.com
 @@||yizhchan.com
 @@||yizhema.com
+@@||yizhengwx.com
 @@||yizhi-its.com
 @@||yizhibi.com
 @@||yizhibo.com
@@ -64165,7 +64161,6 @@
 @@||zjscs.com
 @@||zjshuo.com
 @@||zjsight.com
-@@||zjsjdjhq.tokyo
 @@||zjsr.com
 @@||zjstv.com
 @@||zjsxlt.com
