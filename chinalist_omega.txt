@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-12-20 01:24:18 UTC
+! Updated: 2022-12-22 01:24:25 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -1633,6 +1633,7 @@
 ||186688.com
 ||1873game.com
 ||187801.com
+||187997.com
 ||188.com
 ||188158.com
 ||188187.xyz
@@ -4551,6 +4552,7 @@
 ||556z.com
 ||557.net
 ||5577.com
+||5580866.cc
 ||5588.tv
 ||5599.com
 ||55dai.com
@@ -4687,6 +4689,7 @@
 ||5858.com
 ||58611.net
 ||5866.com
+||587tz079.cc
 ||5884.com
 ||5888.tv
 ||588991.com
@@ -4781,6 +4784,7 @@
 ||59490.com
 ||595818.com
 ||595led.com
+||595tz286.cc
 ||596fc.com
 ||597.com
 ||59706.com
@@ -5391,6 +5395,7 @@
 ||6xd.com
 ||6xigema.com
 ||6xw.com
+||6y6s066.com
 ||6yoo.com
 ||6yu6.com
 ||6yuexi.com
@@ -5967,6 +5972,7 @@
 ||84684.net
 ||8477.com
 ||848.com
+||8487x.com
 ||849959.com
 ||84dwc.com
 ||84fk.com
@@ -6850,7 +6856,9 @@
 ||9981seo.com
 ||9981ypk.com
 ||9982.com
+||99886aaa.com
 ||99887w.com
+||99888aaa.com
 ||998jk.com
 ||998jx.com
 ||9991.com
@@ -6860,6 +6868,7 @@
 ||999777.com
 ||9998.tv
 ||99988866.xyz
+||99998aaa.com
 ||99999net.net
 ||999ask.com
 ||999brain.com
@@ -12778,7 +12787,6 @@
 ||cdbybo.com
 ||cdccpit.org
 ||cdcgames.net
-||cdchsj.com
 ||cdchuandong.com
 ||cdcoslm.com
 ||cdcyts.com
@@ -16517,6 +16525,7 @@
 ||csiccq.com
 ||csicmakers.com
 ||csiea.net
+||csiteadmin.com
 ||csj309.vip
 ||csjcs.com
 ||csjplatform.com
@@ -26189,6 +26198,7 @@
 ||hengdulaw.com
 ||hengfujz.com
 ||hengjiafish.net
+||hengjiecdn.com
 ||hengjiecom.com
 ||hengqian.com
 ||hengqijy.com
@@ -28091,6 +28101,7 @@
 ||huomaow.com
 ||huomaqun.com
 ||huoming.com
+||huopinyuan.com
 ||huoqiuapp.com
 ||huosdk.com
 ||huoshan.cc
@@ -29594,6 +29605,7 @@
 ||imoduo.com
 ||imoe.me
 ||imoeer.com
+||imoeq.com
 ||imofan.com
 ||imoffice.com
 ||imolink.com
@@ -30448,6 +30460,7 @@
 ||iuni.com
 ||iuoooo.com
 ||iuplus.com
+||iusmob.com
 ||iuynfg.com
 ||iv06.com
 ||ivali.com
@@ -33768,6 +33781,7 @@
 ||kjzxtk.com
 ||kk.net
 ||kk169.com
+||kk1885.com
 ||kk2298.com
 ||kk30.com
 ||kk39w.com
@@ -34149,6 +34163,7 @@
 ||ku2048.net
 ||ku25.com
 ||ku3721.com
+||ku3c.shop
 ||ku6.com
 ||ku6.net
 ||ku6cdn.com
@@ -34213,6 +34228,7 @@
 ||kuaila.com
 ||kuaile-u.com
 ||kuaile800.com
+||kuailedo.com
 ||kuailelunwen.com
 ||kuailesh.com
 ||kuailetongyao.com
@@ -34459,6 +34475,7 @@
 ||kwx.gd
 ||kwxjh.net
 ||kx001.com
+||kx1158.com
 ||kx1d.com
 ||kx516.com
 ||kx7p.com
@@ -34511,7 +34528,6 @@
 ||kyjxy.com
 ||kylc.com
 ||kyleduo.com
-||kylienet.com
 ||kyligence.io
 ||kylin-os.com
 ||kylinlot.com
@@ -39788,6 +39804,7 @@
 ||naichabiao.com
 ||naifei.pro
 ||naigirl.com
+||naimal.com
 ||naimei.com
 ||nainiuapp.com
 ||naiping.net
@@ -40503,7 +40520,6 @@
 ||njxzwh.com
 ||njycwy.com
 ||njyingtaoya.com
-||njyongji.com
 ||njyydl.com
 ||njzb.net
 ||njzc025.com
@@ -44443,6 +44459,7 @@
 ||queji.tw
 ||queniubg.com
 ||queniucf.com
+||queniuck.com
 ||queniufm.com
 ||queniuso.com
 ||queniusy.com
@@ -45755,6 +45772,7 @@
 ||sact-digital.com
 ||sae-china.org
 ||saebbs.com
+||saen.com
 ||safecenter.com
 ||safehoo.com
 ||safejmp.com
@@ -53629,6 +53647,7 @@
 ||viday.org
 ||videaba.com
 ||video-study.com
+||video-voip.com
 ||videocc.net
 ||videohupu.com
 ||videoincloud.com
@@ -53911,6 +53930,7 @@
 ||vpsjie.com
 ||vpsjxw.com
 ||vpsmm.com
+||vpsno.com
 ||vpsoff.net
 ||vpsor.com
 ||vpsqb.com
@@ -53953,6 +53973,7 @@
 ||vshengsu.com
 ||vshouce.com
 ||vshuoshuo.com
+||vsjwtcdn.com
 ||vslai.com
 ||vsnoon.com
 ||vsnoon.net
@@ -54853,6 +54874,7 @@
 ||weipinchu.com
 ||weiping.com
 ||weipu.com
+||weipuhj.com
 ||weiq.com
 ||weiqi.cc
 ||weiqiaocy.com
@@ -59484,6 +59506,7 @@
 ||yanliu.org
 ||yanlutong.com
 ||yanmbjiage.com
+||yannaisi.com
 ||yannv.com
 ||yanoda.com
 ||yanpk.com
@@ -60672,8 +60695,6 @@
 ||ymraaa.com
 ||ymrcw.vip
 ||ymsteam.com
-||ymsxq007.pw
-||ymsxq009.pw
 ||ymt.com
 ||ymt360.com
 ||ymtc.com
@@ -62519,6 +62540,7 @@
 ||zentao.net
 ||zentaopm.com
 ||zeperd.com
+||zepp.com
 ||zeq366.net
 ||zerobreeze.com
 ||zerocollege.com
@@ -64909,6 +64931,7 @@
 ||zzpuke.com
 ||zzqklm.com
 ||zzqxs.com
+||zzqzz.com
 ||zzrbl.com
 ||zzrseng.com
 ||zzsf.com
