@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-12-30 01:25:07 UTC
+! Updated: 2023-01-01 01:43:38 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -2232,6 +2232,7 @@
 ||25838yn.com
 ||25847.com
 ||25863.com
+||2588qq.com
 ||25892.com
 ||258ch.com
 ||258fuwu.com
@@ -3326,7 +3327,6 @@
 ||40fenzhong.com
 ||40manhua.com
 ||40mdd.com
-||40ya.com
 ||41188.com
 ||411au.com
 ||4124.com
@@ -4671,6 +4671,7 @@
 ||5858.com
 ||58611.net
 ||5866.com
+||587343.com
 ||587tz079.cc
 ||5884.com
 ||5888.tv
@@ -7907,7 +7908,6 @@
 ||aiwanba.net
 ||aiwanpai.com
 ||aiwansc.com
-||aiwawa520.com
 ||aiwebsec.com
 ||aiwei365.net
 ||aiweibang.com
@@ -12081,7 +12081,6 @@
 ||c5game.com
 ||c6c.com
 ||c6n708.ren
-||c73160.com
 ||c75uw72.com
 ||c77c.com
 ||c7c8.com
@@ -14019,6 +14018,7 @@
 ||chinahazelnut.com
 ||chinahightech.com
 ||chinahighway.com
+||chinahiyou.com
 ||chinahkidc.net
 ||chinahlwyy.com
 ||chinahnjs.com
@@ -14861,6 +14861,7 @@
 ||cjienc.com
 ||cjiit.com
 ||cjjd04.com
+||cjjd06.com
 ||cjjd07.com
 ||cjjd08.com
 ||cjjhb.com
@@ -15558,7 +15559,6 @@
 ||cnndns.com
 ||cnnerv.com
 ||cnnetsec.com
-||cnnewss.com
 ||cnnfootballclub.com
 ||cnnmol.com
 ||cnnorip.org
@@ -16103,6 +16103,7 @@
 ||couplefish.com
 ||coupon996.com
 ||coursegraph.com
+||cousz-gd.com
 ||covcec.com
 ||coventrynv.com
 ||coverweb.cc
@@ -16239,6 +16240,7 @@
 ||cqhydraulic.com
 ||cqhyky.com
 ||cqindex.com
+||cqinstinct.com
 ||cqivip.com
 ||cqjbrc.com
 ||cqjet.com
@@ -18070,6 +18072,7 @@
 ||diandao.org
 ||diandaxia.com
 ||diandian.com
+||diandiannuo.com
 ||diandianshu.com
 ||diandianwaimai.com
 ||diandianys.com
@@ -18611,6 +18614,7 @@
 ||dns12345.com
 ||dns200.net
 ||dns2008.com
+||dns2023.com
 ||dns383.com
 ||dns567.com
 ||dns6132.com
@@ -19609,6 +19613,7 @@
 ||dzwww.net
 ||dzxwnews.com
 ||dzxxzy.com
+||dzy.link
 ||dzyqc.com
 ||dzyqh.com
 ||dzyule.com
@@ -22130,6 +22135,7 @@
 ||fookyik.com
 ||fooleap.org
 ||foooooot.com
+||footcdn.com
 ||fooww.com
 ||for-compass.com
 ||for-she.com
@@ -22695,7 +22701,6 @@
 ||g1c5.com
 ||g1d.net
 ||g1f5.com
-||g1yx.com
 ||g2.link
 ||g207.com
 ||g2g1.com
@@ -22730,6 +22735,7 @@
 ||gaclib.net
 ||gacmotor.com
 ||gacsofinco.com
+||gadscc.xyz
 ||gaeadata.com
 ||gaeamobile.net
 ||gafata.com
@@ -23160,6 +23166,7 @@
 ||gdwca.com
 ||gdwlgp.com
 ||gdwlife.com
+||gdxinya.com
 ||gdxxb.com
 ||gdyjs.com
 ||gdysdz.com
@@ -23307,6 +23314,7 @@
 ||gesep.com
 ||geshui.com
 ||geshui100.com
+||geshui99.com
 ||geshuiw.com
 ||gesuo.com
 ||get.vip
@@ -29526,9 +29534,11 @@
 ||img16888.com
 ||img4399.com
 ||img898.com
+||imgads.xyz
 ||imgcdc.com
 ||imgcdn2.com
 ||imgchr.com
+||imgds.xyz
 ||imgeek.org
 ||imgets.com
 ||imgii.com
@@ -37129,6 +37139,7 @@
 ||m937.com
 ||ma-china.com
 ||ma3office.com
+||ma3you.com
 ||maa.plus
 ||mabangerp.com
 ||mabibook.com
@@ -37613,7 +37624,6 @@
 ||maxreader.la
 ||maxreader.net
 ||maxscend.com
-||maxstv.com
 ||maxthon.com
 ||maxthonimg.com
 ||maxuscloud.com
@@ -38311,7 +38321,6 @@
 ||midust.com
 ||midway.run
 ||midwayjs.org
-||midymidy.com
 ||miecod.com
 ||miejw.com
 ||miemie.la
@@ -39168,6 +39177,7 @@
 ||mrdede.com
 ||mrentea.com
 ||mrevisa.com
+||mrflay.com
 ||mrhallacg.com
 ||mrjiang.com
 ||mrjjxw.com
@@ -41001,7 +41011,6 @@
 ||offerstrack.net
 ||office-cn.net
 ||office-peixun.com
-||office26.com
 ||officecdn.microsoft.com
 ||officectrl.com
 ||officeedit.com
@@ -42192,6 +42201,7 @@
 ||phonegap.me
 ||phonegap100.com
 ||phonekr.com
+||phonelinksoft.com
 ||phopic.com
 ||photo0086.com
 ||photo3050.com
@@ -43168,7 +43178,6 @@
 ||qbao.com
 ||qbaoting.com
 ||qbb6.com
-||qbdcc.com
 ||qbdgame.com
 ||qbeenslee.com
 ||qbitai.com
@@ -44430,12 +44439,14 @@
 ||queniubg.com
 ||queniucf.com
 ||queniuck.com
+||queniudns.com
 ||queniufm.com
 ||queniuhy.com
 ||queniukr.com
 ||queniuso.com
 ||queniusy.com
 ||queniuuf.com
+||queniuwx.com
 ||queqiaoba.com
 ||querylist.cc
 ||queshao.com
@@ -46407,7 +46418,6 @@
 ||seeyouyima.com
 ||seezy.com
 ||sefonsoft.com
-||sefyc.com
 ||segapi.com
 ||segmentfault.com
 ||segmentfault.net
@@ -52447,7 +52457,6 @@
 ||twd2.net
 ||twdm.net
 ||tweakcube.com
-||twfeq.com
 ||twguozao.com
 ||twh5.com
 ||twinkleunion.com
@@ -53808,7 +53817,6 @@
 ||vmoiver.com
 ||vmonkey.mobi
 ||vmovier.cc
-||vmovier.com
 ||vmoviercdn.com
 ||vmsky.com
 ||vmvps.com
@@ -55777,6 +55785,7 @@
 ||wkandian.com
 ||wkanx.com
 ||wkbins.com
+||wkbrowser.com
 ||wkcmall.com
 ||wkderp.com
 ||wkdty.com
@@ -56280,7 +56289,6 @@
 ||wstong.com
 ||wstx.com
 ||wsurl.cc
-||wsview.com
 ||wswebcdn.com
 ||wswebcdn.info
 ||wswebcdn.org
@@ -56420,6 +56428,7 @@
 ||wukonglicai.com
 ||wukongphp.com
 ||wukongrom.com
+||wukongsearch.com
 ||wukongshuo.com
 ||wukongtv.com
 ||wukongwenda.com
@@ -58579,7 +58588,6 @@
 ||xninja.org
 ||xnjcw.com
 ||xnjjob.com
-||xnjz.net
 ||xnlkj.com
 ||xnnpc.com
 ||xnongren.com
@@ -60802,6 +60810,7 @@
 ||yonyouscf.com
 ||yonyouup.com
 ||yoo-hn.com
+||yoo616.com
 ||yoodb.com
 ||yooek.com
 ||yooerjia.com
@@ -61945,6 +61954,7 @@
 ||ywxue.com
 ||ywxzz.com
 ||ywyanxing.com
+||ywyishi.com
 ||yx-g.com
 ||yx-life.com
 ||yx-s.com
@@ -64882,7 +64892,6 @@
 ||zzstep.com
 ||zzt9.com
 ||zztline.com
-||zztongyun.com
 ||zztxkj.com
 ||zztyscl.com
 ||zzvips.com
