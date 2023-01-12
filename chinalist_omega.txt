@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-01-11 01:27:20 UTC
+! Updated: 2023-01-12 01:34:40 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -19686,6 +19686,7 @@
 ||e2esoft.com
 ||e2say.com
 ||e360e.com
+||e360xs.com
 ||e365.org
 ||e365mall.com
 ||e3cloud.com
@@ -34338,6 +34339,7 @@
 ||kumankeji.net
 ||kumaoyun.com
 ||kumifeng.com
+||kunduo.com
 ||kunfpuz.com
 ||kungfucloud.com
 ||kungfuenglish.com
@@ -40233,7 +40235,6 @@
 ||nfyk.com
 ||nfzhouyi.com
 ||nfzmbrand.com
-||nfzplus.com
 ||ng-alain.com
 ||nga.wiki
 ||ngabbs.com
@@ -46113,6 +46114,7 @@
 ||scqiuchang.com
 ||scrcu.com
 ||scrdzf.com
+||scredcross.com
 ||scriptjc.com
 ||scrmtech.com
 ||scrsw.net
@@ -47211,6 +47213,7 @@
 ||shineyie.com
 ||shinianonline.com
 ||shiningmidas.com
+||shiningnew.com
 ||shinnytech.com
 ||shinsoukun.com
 ||shinycg.com
@@ -54555,7 +54558,6 @@
 ||wdszb.com
 ||wdtlfj.com
 ||wduw.com
-||wdw6.com
 ||wdw88.com
 ||wdxmzy.com
 ||wdxtub.com
@@ -58205,6 +58207,7 @@
 ||xitongwanjia.com
 ||xitongxz.net
 ||xitongzhijia.net
+||xitongzu.com
 ||xitouwang.com
 ||xitu.io
 ||xituan.com
@@ -58428,7 +58431,6 @@
 ||xltzgy.com
 ||xluos.com
 ||xlwxsw.com
-||xlxzikao.com
 ||xlylf.com
 ||xlyouxi.com
 ||xlys1904.com
@@ -60350,6 +60352,7 @@
 ||yishuzi.org
 ||yishuziti.com
 ||yisier.com
+||yisocms.com
 ||yisou.com
 ||yisouti.com
 ||yisouyifa.com
@@ -61941,6 +61944,7 @@
 ||yx-life.com
 ||yx-s.com
 ||yx-s.net
+||yx007.com
 ||yx0599.com
 ||yx090.com
 ||yx10011.com
@@ -63286,6 +63290,7 @@
 ||zhonganfengshang.com
 ||zhonganinfo.com
 ||zhongbaounion.com
+||zhongbenkeji.com
 ||zhongbingtongxin.com
 ||zhongbowenwu.com
 ||zhongboxinwen.com
