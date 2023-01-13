@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-01-12 01:34:40 UTC
+! Updated: 2023-01-13 01:35:56 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -3371,6 +3371,7 @@
 ||4355.com
 ||4366.com
 ||436675.com
+||4366pk.com
 ||4377.com
 ||4377info.com
 ||437zhifu.com
@@ -4257,6 +4258,7 @@
 ||52ai.com
 ||52aimo.com
 ||52ali88.com
+||52alipay.com
 ||52analysis.com
 ||52article.com
 ||52asus.com
@@ -4497,7 +4499,6 @@
 ||54hcz.com
 ||54heb.com
 ||54im.com
-||54jj.com
 ||54jkw.com
 ||54job.com
 ||54kefu.net
@@ -7790,7 +7791,6 @@
 ||ailete.com
 ||ailewan.com
 ||aili.com
-||ailianbang.com
 ||ailinglei.com
 ||ailinhao.com
 ||ailinux.net
@@ -11307,6 +11307,7 @@
 ||blueskystudy.com
 ||blueskyxn.com
 ||blueslc.tech
+||bluesoleil.com
 ||bluestar-pc.com
 ||bluestep.cc
 ||blw.moe
@@ -11488,7 +11489,6 @@
 ||books51.com
 ||bookschina.com
 ||bookshadow.com
-||bookshi.com
 ||bookshoptw.com
 ||bookshuku.com
 ||booksky.cc
@@ -14061,7 +14061,6 @@
 ||chinaiol.com
 ||chinaios.com
 ||chinaipmagazine.com
-||chinaipo.com
 ||chinaiprlaw.com
 ||chinairn.com
 ||chinairr.org
@@ -14949,6 +14948,7 @@
 ||clanzx.net
 ||claritywallpaper.com
 ||class01.com
+||classinpaas.com
 ||classmateer.com
 ||clayidols.com
 ||clb6.net
@@ -16929,7 +16929,6 @@
 ||cz-yk.com
 ||cz.cc
 ||cz2sc.com
-||cz365.com
 ||cz8.com
 ||cz89.com
 ||czb365.com
@@ -18865,6 +18864,7 @@
 ||door-expo.com
 ||dooreb.com
 ||doorhr.com
+||doorzo.net
 ||doowinfintec.com
 ||dopa.com
 ||dopic.net
@@ -19362,6 +19362,7 @@
 ||duotai.net
 ||duote.com
 ||duotegame.com
+||duoti181.shop
 ||duotoupiao.com
 ||duotuwang.com
 ||duouoo.com
@@ -23922,7 +23923,6 @@
 ||googleapps-cn.com
 ||googlebridge.com
 ||googleflights-cn.net
-||googlefonts.net
 ||googlenav.com
 ||googleoptimize-cn.com
 ||googleoptimize.com
@@ -30849,6 +30849,7 @@
 ||jdcloudcs.com
 ||jdcloudedge.com
 ||jdcloudnaming.net
+||jdcloudstatic.com
 ||jdcloudstatic.net
 ||jdcloudstatus.net
 ||jdcloudwaf.com
@@ -31497,6 +31498,7 @@
 ||jinbikan.com
 ||jinbilianmeng.com
 ||jinbitou.net
+||jinbuguo.com
 ||jincaicaiwu.com
 ||jinchanbest.com
 ||jinchuang.org
@@ -32032,7 +32034,6 @@
 ||jkgood.com
 ||jkhapp.com
 ||jkimg.net
-||jkjkjiankang.com
 ||jkjzt.com
 ||jkpan.cc
 ||jkpj.com
@@ -32451,7 +32452,6 @@
 ||jshsoft.com
 ||jshuachen.com
 ||jshy.com
-||jshylm.com
 ||jsielxo.com
 ||jsifaja.com
 ||jsimg.cc
@@ -33811,7 +33811,6 @@
 ||kknn.com
 ||kknss.com
 ||kkoot.com
-||kkr5.com
 ||kkredian.com
 ||kks.me
 ||kksmg.com
@@ -33993,6 +33992,7 @@
 ||koreaxing.com
 ||korimscdn.com
 ||korirl.com
+||korosensei.com
 ||kotei-info.com
 ||kotex-km.com
 ||koto.com
@@ -35552,6 +35552,7 @@
 ||licat.com
 ||lichangtai.com
 ||lichangtao.com
+||lichee.pro
 ||lichenglove.com
 ||lichengwu.net
 ||lichenjy.com
@@ -36547,7 +36548,6 @@
 ||lovestu.com
 ||loveteemo.com
 ||loveuav.com
-||loveunix.net
 ||lovev.com
 ||lovewith.me
 ||lovewj.info
@@ -38230,6 +38230,7 @@
 ||miaohealth.net
 ||miaokaikeji.com
 ||miaokaiyun.com
+||miaokee.com
 ||miaole1024.com
 ||miaomaicar.com
 ||miaomiaoxue.com
@@ -39902,6 +39903,7 @@
 ||nbahero.com
 ||nbahi.com
 ||nbahjx.com
+||nbaidai.com
 ||nball.cc
 ||nbaqmq.com
 ||nbayaobasketballclub.com
@@ -41743,6 +41745,7 @@
 ||pandadastudio.com
 ||pandafoundation.org
 ||pandahelp.vip
+||pandahome.org
 ||pandainc.cc
 ||pandaminer.com
 ||pandara.xyz
@@ -42217,7 +42220,6 @@
 ||phpcomposer.com
 ||phpconchina.com
 ||phpcoo.com
-||phpcto.org
 ||phpddt.com
 ||phpdr.net
 ||phpe.net
@@ -46288,7 +46290,6 @@
 ||sdwgyy.com
 ||sdwscgs.com
 ||sdx.microsoft.com
-||sdxczn.com
 ||sdxietong.com
 ||sdxinboao.com
 ||sdxitong.com
@@ -46514,7 +46515,6 @@
 ||seoxiaosai.com
 ||seoxuetang.com
 ||seoyu.net
-||seozhuanjia.com
 ||sepact.com
 ||sepri.com
 ||septinn.com
@@ -52547,6 +52547,7 @@
 ||tyi365.com
 ||tyjmmy.com
 ||tyjmqz.com
+||tykeji.vip
 ||tyksl.com
 ||tymcdn.com
 ||tyn.cc
@@ -53922,6 +53923,7 @@
 ||vrpowder.com
 ||vrrw.net
 ||vrsat.com
+||vrupup.com
 ||vrvlink.com
 ||vrvmanager.com
 ||vrwuhan.com
@@ -58348,7 +58350,6 @@
 ||xjltp.com
 ||xjlxw.com
 ||xjlz365.com
-||xjmglr.com
 ||xjmty.com
 ||xjmw.net
 ||xjpdf.com
@@ -58611,7 +58612,6 @@
 ||xp5.com
 ||xp6000.com
 ||xp666.com
-||xp74.com
 ||xp85.com
 ||xp868.com
 ||xp933.com
@@ -59870,6 +59870,7 @@
 ||ygwenxue.com
 ||ygwh.cc
 ||ygym.org
+||ygzt.net
 ||yh596.com
 ||yh598.com
 ||yh99.cc
@@ -62672,7 +62673,6 @@
 ||zgw.com
 ||zgweimeng.com
 ||zgwenku.com
-||zgwgfw.com
 ||zgwhfe.com
 ||zgwhw.com
 ||zgwlcsj.com
@@ -63909,6 +63909,7 @@
 ||zjjbtl.com
 ||zjjd.org
 ||zjjgcyz.com
+||zjjizhi.com
 ||zjjlvyou8264.com
 ||zjjr.com
 ||zjjsbank.com
