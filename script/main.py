@@ -1,10 +1,11 @@
 from __future__ import annotations
 from typing import NoReturn
 
-import requests
 import logging
 from datetime import datetime
 from functools import reduce
+from urllib.request import urlopen
+from http.client import HTTPResponse
 
 DAILY_CHINALIST_URL = 'https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt'
 DAILY_GFWLIST_URL = 'https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt'
@@ -17,11 +18,11 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 def get_online_list(url: str) -> list[str]:
     logging.info(f'Fetching online list... ({url})')
     try:
-        response = requests.get(url, timeout=10)
-        online_list = response.text.split()
+        response: HTTPResponse = urlopen(url, timeout=10)
+        online_list = response.read().decode('utf-8').split()
         logging.info(f'Fetched {len(online_list)} URLs.')
         return online_list
-    except requests.exceptions.ConnectionError:
+    except ConnectionError:
         logging.critical('Connection error.')
         exit(1)
 
