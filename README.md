@@ -1,6 +1,6 @@
 # chinalist
-![GitHub last commit](https://img.shields.io/github/last-commit/Rongronggg9/chinalist?label=updated)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Rongronggg9/chinalist/Update%20chinalist)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Rongronggg9/chinalist?label=updated)](https://github.com/Rongronggg9/chinalist/commits)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Rongronggg9/chinalist/update-chinalist.yml)](https://github.com/Rongronggg9/chinalist/actions/workflows/update-chinalist.yml)
 
 ## Usage
 ### [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
