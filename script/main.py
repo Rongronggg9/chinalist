@@ -47,15 +47,25 @@ def joint_list(*lists: list[str]) -> list[str]:
     return sorted(jointed_list)
 
 
-def filter_list(ori_list: list[str], gfwlist: list[str]) -> list[str]:
+def filter_list(ori_list: list[str], filter_out_list: list[str]) -> list[str]:
     logging.info('Filtering list...')
+    f_list = set(filter_out_list)
+    df_list = set('.' + f for f in f_list)
     filtered_list = list(
         filter(
-            lambda x: x not in gfwlist and all(not x.endswith('.' + y) for y in gfwlist),
+            lambda o: (
+                    o not in f_list
+                    and
+                    (
+                        o.count('.') <= 1  # TLD/2LD, shortcut
+                        or
+                        all(not o.endswith(d) for d in df_list)  # match subdomain
+                    )
+            ),
             ori_list
         )
     )
-    logging.info(f'Got {len(ori_list)} URLs to be filtered, {len(gfwlist)} URLs to be filtered out. '
+    logging.info(f'Got {len(ori_list)} URLs to be filtered, {len(filter_out_list)} URLs to be filtered out. '
                  f'After filtering, remain {len(filtered_list)} URLs.')
     return filtered_list
 
