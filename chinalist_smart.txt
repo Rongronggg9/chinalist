@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-01-27 01:35:12 UTC
+! Updated: 2023-01-28 01:27:29 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -2218,7 +2218,6 @@
 @@||2541.com
 @@||254game.com
 @@||255616.com
-@@||2556r.com
 @@||256app.com
 @@||25752.com
 @@||258288.com
@@ -13137,7 +13136,6 @@
 @@||cfogc.com
 @@||cfpa.pw
 @@||cfpsf.com
-@@||cfryny.com
 @@||cfsino.com
 @@||cfsl2017.com
 @@||cftea.com
@@ -25437,7 +25435,6 @@
 @@||haorc.com
 @@||haoread.com
 @@||haorencai.net
-@@||haorendao.com
 @@||haorooms.com
 @@||haoseals.com
 @@||haosenchina.com
@@ -27719,6 +27716,7 @@
 @@||huazhuanapp.com
 @@||huazhucorp.com
 @@||huazi55.xyz
+@@||huazirc.com
 @@||hubcyts.com
 @@||hubei-design.com
 @@||hubeibbs.net
@@ -32338,7 +32336,6 @@
 @@||jscdn.host
 @@||jsceou.com
 @@||jsche.net
-@@||jschengta.com
 @@||jschunxing.com
 @@||jscj.com
 @@||jsclearing.com
@@ -42655,7 +42652,6 @@
 @@||pp6.cc
 @@||pp63.com
 @@||pp66.cc
-@@||pp70.com
 @@||pp8.com
 @@||pp9l.com
 @@||ppaikd.com
@@ -43732,7 +43728,6 @@
 @@||qinzc.me
 @@||qinzhe.com
 @@||qinzhou8.com
-@@||qinzi7.com
 @@||qinzidna.com
 @@||qinziheng.com
 @@||qionghaif.com
@@ -50856,6 +50851,7 @@
 @@||thoughtworkers.org
 @@||thrbs.com
 @@||threadcn.com
+@@||threatbook.net
 @@||threegorgestours.com
 @@||threeol.com
 @@||threetong.com
@@ -51495,7 +51491,6 @@
 @@||tongyi.com
 @@||tongyidrying.com
 @@||tongyongji.net
-@@||tongyou188.com
 @@||tongyuanos.com
 @@||tongyue.com
 @@||tongzhuo100.com
@@ -56368,7 +56363,6 @@
 @@||wuximarathon.com
 @@||wuxin.info
 @@||wuxinban.com
-@@||wuxiqiangheng.com
 @@||wuxiwang.net
 @@||wuyang-honda.com
 @@||wuyangplatform.com
@@ -59178,6 +59172,7 @@
 @@||yageo.tech
 @@||yago-mall.com
 @@||yahacode.com
+@@||yahaha.net
 @@||yahaizi.com
 @@||yahoo001.com
 @@||yahotab.com
@@ -63224,7 +63219,6 @@
 @@||zhongwei-info.com
 @@||zhongweijy.com
 @@||zhongwenhexinqikan.com
-@@||zhongwenqing.com
 @@||zhongwucan.com
 @@||zhongxiangdichan.net
 @@||zhongxiaole.net
@@ -64052,7 +64046,6 @@
 @@||zongheng001.com
 @@||zonghengke.com
 @@||zonghengnews.com
-@@||zonglai.mobi
 @@||zongming.net
 @@||zongs365.com
 @@||zongshenmotor.com
