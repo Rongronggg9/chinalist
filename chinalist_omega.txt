@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-03-24 01:20:57 UTC
+! Updated: 2023-03-25 01:19:14 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -8803,6 +8803,7 @@
 ||aptenon.com
 ||apusic.com
 ||apxm.net
+||apxnlw.com
 ||aqara.com
 ||aqb.so
 ||aqbxcdn9.com
@@ -8888,6 +8889,7 @@
 ||armchina.com
 ||armsword.com
 ||armystar.com
+||armzl.com
 ||arnaz-on-co-jp.icu
 ||arocmag.com
 ||arongsoft.com
@@ -15608,6 +15610,7 @@
 ||cnxklm.com
 ||cnxnmy.com
 ||cnxuntu.com
+||cnxzm.com
 ||cnyanglao.com
 ||cnyicheng.com
 ||cnyings.com
@@ -16691,6 +16694,7 @@
 ||cxzw.com
 ||cy-cdn.com
 ||cy-email.com
+||cy-isp.net
 ||cy.com
 ||cy1990.com
 ||cy2009.com
@@ -17720,6 +17724,7 @@
 ||devzeng.com
 ||dewmobile.net
 ||dewu.com
+||dewu.net
 ||dewucdn.com
 ||dewumall.com
 ||dexian.mobi
@@ -18933,6 +18938,7 @@
 ||dripcar.com
 ||driverdevelop.com
 ||drivergenius.com
+||drivers.amd.com
 ||driverzeng.com
 ||drivethelife.com
 ||drli.group
@@ -19739,6 +19745,7 @@
 ||echinatobacco.com
 ||echo-isoftstone.com
 ||echo188.com
+||echodns.xyz
 ||echoing.tech
 ||echoteen.com
 ||echuandan.com
@@ -21572,6 +21579,7 @@
 ||fhycs.com
 ||fhyx.com
 ||fhyx.hk
+||fhyx.online
 ||fi1818.com
 ||fi94.com
 ||fiberhome.com
@@ -23171,6 +23179,7 @@
 ||ggemo.com
 ||ggerg.com
 ||ggeye.com
+||ggg868.com
 ||gggqa.com
 ||ggj88.com
 ||ggjrw.com
@@ -28786,6 +28795,7 @@
 ||iegee.net
 ||iegourl.com
 ||iejiu.com
+||ieltsabc.com
 ||ieltschn.com
 ||iemblog.com
 ||iemiq.com
@@ -34923,6 +34933,7 @@
 ||lerye.com
 ||leshanvc.com
 ||leshi123.cc
+||leshiguang.com
 ||leshou.com
 ||leshow.com
 ||leshu.com
@@ -42494,6 +42505,7 @@
 ||prolto.com
 ||promisingedu.com
 ||promoadx.com
+||pronax.tech
 ||propsad.com
 ||proresearch.org
 ||prositsole.com
@@ -46274,6 +46286,7 @@
 ||shangbaolai.com
 ||shangbiao.com
 ||shangbiao.store
+||shangbiaocheng.com
 ||shangboo.com
 ||shangbw.com
 ||shangc.net
@@ -49575,6 +49588,7 @@
 ||szpclab.com
 ||szpiao.com
 ||szpiaoyi.com
+||szpldq.net
 ||szpmi.org
 ||szpowerpms.com
 ||szputy.com
@@ -50600,6 +50614,7 @@
 ||tianmao.com
 ||tianmaying.com
 ||tianmidian.com
+||tianmu.mobi
 ||tianmupe.com
 ||tianmupr.com
 ||tiann90.com
@@ -55782,6 +55797,7 @@
 ||wsoversea.info
 ||wsq.cool
 ||wsqejt.com
+||wss.ink
 ||wsssec.com
 ||wstong.com
 ||wstx.com
@@ -55807,6 +55823,7 @@
 ||wtapi.com
 ||wtbds.com
 ||wtcxs.com
+||wtd56.com
 ||wtdex.com
 ||wtdms.com
 ||wting.info
@@ -57030,6 +57047,7 @@
 ||xiaomingming.org
 ||xiaomiqiu.com
 ||xiaomiquan.com
+||xiaomirom.com
 ||xiaomishu.com
 ||xiaomiwujiecao.com
 ||xiaomiyoupin.com
@@ -58137,6 +58155,7 @@
 ||xs.la
 ||xs123.net
 ||xs123.org
+||xs163.net
 ||xs2500.com
 ||xs3cnc.com
 ||xs52.com
@@ -61652,6 +61671,7 @@
 ||zaijiawan.com
 ||zailouxia.com
 ||zaiminglvsuo.com
+||zainan.cc
 ||zainanjing365.com
 ||zaisd.com
 ||zaitong.net
@@ -63958,6 +63978,7 @@
 ||zuosa.com
 ||zuoshangbao.com
 ||zuoshipin.com
+||zuoshouyisheng.com
 ||zuotishi.com
 ||zuotixia.com
 ||zuowen.com
