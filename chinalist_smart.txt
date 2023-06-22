@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-06-21 01:33:42 UTC
+! Updated: 2023-06-22 01:37:49 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-6.com
@@ -2484,7 +2484,6 @@
 @@||31myhome.com
 @@||31pump.com
 @@||31rent.com
-@@||31rzp.com
 @@||31seal.com
 @@||31sjjx.com
 @@||31spjx.com
@@ -6921,7 +6920,6 @@
 @@||9qu5.com
 @@||9rmb.com
 @@||9see.com
-@@||9simg.com
 @@||9skm.com
 @@||9sky.com
 @@||9sleep.org
@@ -7012,7 +7010,6 @@
 @@||aads-cng.net
 @@||aamachina.org
 @@||aap5.com
-@@||aaqqw.com
 @@||aardio.com
 @@||aaronlam.xyz
 @@||aaspt.net
@@ -8552,6 +8549,7 @@
 @@||aopayun.com
 @@||aoratec.com
 @@||aoscdn.com
+@@||aoscom.net
 @@||aosens.com
 @@||aoseo.com
 @@||aoserp.com
@@ -8829,7 +8827,6 @@
 @@||areader.com
 @@||arebz.com
 @@||arefly.com
-@@||arenacdn.com
 @@||ares.dl.playstation.net
 @@||arestech-sz.com
 @@||areweloongyet.com
@@ -10824,7 +10821,6 @@
 @@||bjcdc.org
 @@||bjcec.com
 @@||bjceis.com
-@@||bjcfzx.com
 @@||bjcgtrain.com
 @@||bjckkj.com
 @@||bjcls.net
@@ -11918,6 +11914,7 @@
 @@||c.team
 @@||c1042.com
 @@||c1ass.com
+@@||c1channel.com
 @@||c1s.com
 @@||c2h4.org
 @@||c360dn.com
@@ -15805,7 +15802,6 @@
 @@||congyicn.com
 @@||congzao.com
 @@||congzhi.com
-@@||connectingdeal.com
 @@||connector-systems.com
 @@||conoha.vip
 @@||conpak.com.hk
@@ -17049,7 +17045,6 @@
 @@||dameiweb.com
 @@||dameiyunduan.com
 @@||dameng.com
-@@||damengxiang.me
 @@||damingweb.com
 @@||damndigital.com
 @@||damotea.com
@@ -18690,7 +18685,6 @@
 @@||dora-control.cdnetworks.com
 @@||dora-family.com
 @@||dorapp.com
-@@||doraunion.com
 @@||dormforce.net
 @@||dorrr.com
 @@||doseeing.com
@@ -20360,7 +20354,6 @@
 @@||epoos.com
 @@||eprezi.com
 @@||eps114.com
-@@||epschool.net
 @@||epsonconnect.com
 @@||epstsoft.com
 @@||epub360.com
@@ -22679,7 +22672,6 @@
 @@||ganqi.net
 @@||ganso.net
 @@||gansuairport.com
-@@||gansunet.com
 @@||gansuyunshi.com
 @@||gantanhao.vip
 @@||ganxianw.com
@@ -24149,7 +24141,6 @@
 @@||guanliyun.com
 @@||guanmeikj.com
 @@||guanplus.com
-@@||guanqifeier.com
 @@||guanrenjiaoyu.com
 @@||guanshangyu.cc
 @@||guanshi.net
@@ -25929,7 +25920,6 @@
 @@||helong.info
 @@||help-hope.org
 @@||helperaddress.com
-@@||helplib.com
 @@||helpmeng.com
 @@||helpton.com
 @@||heluowenhua.net
@@ -27638,7 +27628,6 @@
 @@||huijitrans.com
 @@||huijiwiki.com
 @@||huijucn.com
-@@||huikouhuo.com
 @@||huila88.com
 @@||huilan.com
 @@||huilanyujia.com
@@ -27649,7 +27638,6 @@
 @@||huilm.com
 @@||huilog.com
 @@||huilongsen.com
-@@||huiluopang.com
 @@||huilvwang.com
 @@||huim.com
 @@||huimaiche.com
@@ -29102,7 +29090,6 @@
 @@||ijq.tv
 @@||ijsi.org
 @@||ijsp.net
-@@||ijtomh.com
 @@||ijuanshi.com
 @@||ijuer.com
 @@||ijuhepay.com
@@ -29280,7 +29267,6 @@
 @@||imeishike.com
 @@||imeitools.com
 @@||imeitou.com
-@@||imekaku.com
 @@||imeme.tv
 @@||imesong.com
 @@||imeyahair.com
@@ -30363,7 +30349,6 @@
 @@||izhangchu.com
 @@||izhangheng.com
 @@||izhaohe.com
-@@||izhaoo.com
 @@||izhaowo.com
 @@||izhenxin.com
 @@||izhihuicheng.net
@@ -31345,7 +31330,6 @@
 @@||jingyuelaw.com
 @@||jingyuxiaoban.com
 @@||jingyuyun.com
-@@||jingzhe.me
 @@||jingzhengu.com
 @@||jingzhusz.com
 @@||jinhe-energy.com
@@ -31355,7 +31339,6 @@
 @@||jinhongchina.com
 @@||jinhuatv.com
 @@||jinhuazhe.com
-@@||jinhuicorp.com
 @@||jinhusns.com
 @@||jinhutz.com
 @@||jinianbi.com
@@ -31369,7 +31352,6 @@
 @@||jinju8.com
 @@||jinjunmei.net
 @@||jinkan.org
-@@||jinke3d.com
 @@||jinkejoy.com
 @@||jinkex.com
 @@||jinkezhexin.com
@@ -31662,7 +31644,6 @@
 @@||jjapk.com
 @@||jjb-static.com
 @@||jjbang.com
-@@||jjbangbang.com
 @@||jjbank.net
 @@||jjbbs.com
 @@||jjbhn.com
@@ -32025,7 +32006,6 @@
 @@||jpghd.com
 @@||jphot.net
 @@||jpjc315.com
-@@||jpjww.com
 @@||jpkcnet.com
 @@||jpkix.com
 @@||jpmsg.com
@@ -32299,7 +32279,6 @@
 @@||ju81.cc
 @@||juandou.com
 @@||juangua.com
-@@||juanlaoda.com
 @@||juanpi.com
 @@||juanshangwang.com
 @@||juanta.com
@@ -32890,7 +32869,6 @@
 @@||kakadm.com
 @@||kakalili.com
 @@||kakamobi.com
-@@||kakatv1.com
 @@||kakucloud.com
 @@||kalading.com
 @@||kalazan.com
@@ -33297,7 +33275,6 @@
 @@||kf911.com
 @@||kfadx.tech
 @@||kfang.xin
-@@||kfc28.com
 @@||kfcdn.com
 @@||kfcms.com
 @@||kfd3sm2c.com
@@ -34620,7 +34597,6 @@
 @@||lawyershanghai.net
 @@||laxiao.com
 @@||layabox.com
-@@||layqnjl.com
 @@||laysky.com
 @@||layui-inc.com
 @@||layui.com
@@ -37737,7 +37713,6 @@
 @@||mengmax.fun
 @@||mengniang.tv
 @@||mengniu99.com
-@@||mengqianxun.net
 @@||mengqiuju.com
 @@||mengsang.com
 @@||mengso.com
@@ -38430,7 +38405,6 @@
 @@||mmimm.com
 @@||mmkkiivv.com
 @@||mmm.io
-@@||mmmiao.com
 @@||mmmmmmm.com
 @@||mmmtech.com
 @@||mmods.site
@@ -39134,6 +39108,7 @@
 @@||my3w.com
 @@||my419.com
 @@||my4399.com
+@@||my478.com
 @@||my51a.com
 @@||my5m.com
 @@||my5v.com
@@ -39416,7 +39391,6 @@
 @@||mzuimg.net
 @@||mzwu.com
 @@||mzxjzp.com
-@@||mzxvib.com
 @@||mzyfz.com
 @@||mzyun.ren
 @@||mzyunyin.com
@@ -40792,7 +40766,6 @@
 @@||oklx.com
 @@||okmart.com
 @@||okmeeting.com
-@@||okmjd.com
 @@||okmyapp.com
 @@||okng.com
 @@||okoer.com
@@ -49889,7 +49862,6 @@
 @@||taiyulink.com
 @@||taizibao.com
 @@||tajdny.com
-@@||takungae.com
 @@||takungpao.com
 @@||taladapp.com
 @@||talbrain.com
@@ -53585,7 +53557,6 @@
 @@||vsooncloud.com
 @@||vsoontech.com
 @@||vspk.com
-@@||vspk.net
 @@||vsppt.com
 @@||vsread.com
 @@||vstab.com
@@ -53964,7 +53935,6 @@
 @@||wangyuwang.com
 @@||wangzhan123.net
 @@||wangzhan360.com
-@@||wangzhan6.com
 @@||wangzhanbao.cc
 @@||wangzhanbianji.com
 @@||wangzhanchi.com
@@ -54069,6 +54039,7 @@
 @@||wanzhugs.com
 @@||wanzi.cc
 @@||wanzi.com
+@@||wanzia.com
 @@||wanzjhb.com
 @@||wanzuile.com
 @@||waoo.cc
@@ -54816,7 +54787,6 @@
 @@||wfjtjy.com
 @@||wfkouyaji.com
 @@||wflgjx.com
-@@||wfsdf.com
 @@||wfsysc.com
 @@||wfuyu.com
 @@||wfxyny.com
@@ -55120,7 +55090,6 @@
 @@||whysodiao.com
 @@||whysx.com
 @@||whyungu.com
-@@||whyxysp.com
 @@||whyyy.com
 @@||whzb.com
 @@||whzblawson.com
@@ -57419,7 +57388,6 @@
 @@||xiji.com
 @@||xijiangtv.com
 @@||xijing01.com
-@@||xiju.cc
 @@||xijucn.com
 @@||xikii.com
 @@||xiladaili.com
@@ -57731,7 +57699,6 @@
 @@||xinxuezx.com
 @@||xinxunwang.com
 @@||xinxunwei.com
-@@||xinyali.net
 @@||xinyan.com
 @@||xinyaoyao.com
 @@||xinyayk.com
@@ -61662,6 +61629,7 @@
 @@||yyfax.com
 @@||yyfdcw.com
 @@||yyfsb.com
+@@||yyfunning.com
 @@||yyg.com
 @@||yygjuu.club
 @@||yygold.com
@@ -62026,7 +61994,6 @@
 @@||zdomo.com
 @@||zdoz.net
 @@||zdpeanut.com
-@@||zdpvt.com
 @@||zdrcrx.com
 @@||zdrcw.com
 @@||zdsee.com
@@ -63276,7 +63243,6 @@
 @@||zhyyz.com
 @@||zhzjw.net
 @@||zhzyw.com
-@@||zhzyw.org
 @@||zhzzx.com
 @@||zi.com
 @@||zi5.cc
