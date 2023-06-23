@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-06-22 01:37:49 UTC
+! Updated: 2023-06-23 01:47:15 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -965,6 +965,7 @@
 ||121mai.com
 ||121mai0098.com
 ||121mu.com
+||121wty.com
 ||121xia.com
 ||1220609.cc
 ||122cha.com
@@ -5684,6 +5685,7 @@
 ||7yue.pro
 ||7yueji.com
 ||7yun.com
+||7yz.com
 ||7yzone.com
 ||7zgame.com
 ||7zhan.com
@@ -7920,7 +7922,6 @@
 ||al8l.com
 ||alabmed.com
 ||alaboshuiyan.com
-||alaccountant.com
 ||alacun.com
 ||aladdin-e.com
 ||aladdinnet.com
@@ -9448,7 +9449,6 @@
 ||baihong.com
 ||baihui.com
 ||baihui168.com
-||baihuikangjt.com
 ||baihuillq.com
 ||baihuoke.com
 ||baihuwang.com
@@ -10771,6 +10771,7 @@
 ||bizhicool.com
 ||bizhiquan.com
 ||bizhizj.com
+||bizhizu.com
 ||bizhongchou.com
 ||bizmoto.com
 ||biznewscn.com
@@ -13758,7 +13759,6 @@
 ||chinactv.com
 ||chinaculture.org
 ||chinacxjs.org
-||chinacyzf.org
 ||chinadafen.com
 ||chinadailyglobal.com
 ||chinadance.com
@@ -14704,6 +14704,8 @@
 ||cjjd06.com
 ||cjjd07.com
 ||cjjd08.com
+||cjjd15.com
+||cjjd18.com
 ||cjjhb.com
 ||cjjjs.com
 ||cjjnff.com
@@ -18432,7 +18434,6 @@
 ||dns200.net
 ||dns2008.com
 ||dns2023.com
-||dns383.com
 ||dns567.com
 ||dns6132.com
 ||dns6868.com
@@ -19631,7 +19632,6 @@
 ||easytrip.com
 ||easyzw.com
 ||eateapp.com
-||eaten.fun
 ||eaydu.com
 ||eayou.com
 ||eayuan.com
@@ -20340,6 +20340,7 @@
 ||epetpet.com
 ||epexpo-asia.com
 ||ephen.me
+||epian1.com
 ||epichust.com
 ||epinautomation.com
 ||epinduo.com
@@ -24030,6 +24031,7 @@
 ||gtm-a1b4.com
 ||gtm-a1b6.com
 ||gtm-a1b7.com
+||gtm-a1b8.com
 ||gtm-a2b2.com
 ||gtm-a2b3.com
 ||gtm-a2b4.com
@@ -24761,6 +24763,7 @@
 ||h6app.com
 ||h7ec.com
 ||h8jx.com
+||h9hash.com
 ||ha97.com
 ||haawking.com
 ||habadog.com
@@ -27466,7 +27469,6 @@
 ||huaweirom.com
 ||huaweisafedns.com
 ||huaweistatic.com
-||huaweisymantec.com
 ||huaweiuniversity.com
 ||huaweizdl.com
 ||huawenfanyi.com
@@ -27912,7 +27914,6 @@
 ||hutu.me
 ||hutui9.com
 ||hutuii.com
-||hutuoweb.com
 ||hutusi.com
 ||huuhoo.com
 ||huwaibbs.com
@@ -28838,7 +28839,6 @@
 ||ifabao.com
 ||ifabiao.com
 ||ifaclub.com
-||ifahao.com
 ||ifanbei.com
 ||ifangarden.com
 ||ifangka.com
@@ -29446,7 +29446,6 @@
 ||inetnoc.com
 ||inewhope.com
 ||inewoffice.com
-||inezha.com
 ||infarts.net
 ||infertilitybridge.com
 ||infineon-autoeco.com
@@ -29916,7 +29915,6 @@
 ||isoftstone.com
 ||isoo.cc
 ||isorange.com
-||isoshu.com
 ||isotoo.com
 ||isoucai.com
 ||isoyes.com
@@ -32821,6 +32819,7 @@
 ||kaihei.co
 ||kaihu51.com
 ||kaihuaeva.com
+||kaihual.com
 ||kaihuia.com
 ||kaijia.com
 ||kaikeba.com
@@ -33647,6 +33646,7 @@
 ||koolearn.com
 ||koolproxy.com
 ||koolyun.com
+||koomao.com
 ||koopass.com
 ||koorun.com
 ||kooshui.com
@@ -36769,7 +36769,6 @@
 ||lzhpo.com
 ||lzhygame.com
 ||lzjdbjc.com
-||lzjjdd.net
 ||lzjoy.com
 ||lzlj.com
 ||lzmoyin.com
@@ -37634,7 +37633,6 @@
 ||meitaotaoo.com
 ||meitegou.com
 ||meitianhui.com
-||meitong.org
 ||meitu.com
 ||meituan.com
 ||meituan.net
@@ -38050,7 +38048,6 @@
 ||mijisou.com
 ||mijwed.com
 ||mika123.com
-||mika18.com
 ||mikannovel.com
 ||mike-x.com
 ||mikechen.cc
@@ -39756,7 +39753,6 @@
 ||neusncp.com
 ||neusoft.com
 ||neutrontek.com
-||neuwill.com
 ||nev-battery.org
 ||new-mobi.com
 ||new-more.com
@@ -41780,6 +41776,7 @@
 ||peroperogames.com
 ||personpsy.org
 ||perspectivar.com
+||pescms.com
 ||pesiv.com
 ||pesyun.com
 ||pet86.com
@@ -44220,7 +44217,6 @@
 ||qutuiwa.com
 ||quumii.com
 ||quvisa.com
-||quw1234.icu
 ||quwaifu.com
 ||quwan.com
 ||quwan.fun
@@ -46466,6 +46462,7 @@
 ||shanyuankj.com
 ||shanzhen.com
 ||shanzhen.me
+||shanzhildq.com
 ||shanzhonglei.com
 ||shaoanlv007.com
 ||shaoerbc.org
@@ -46893,6 +46890,7 @@
 ||shiwan.com
 ||shiwangyun.com
 ||shiweisemi.com
+||shiwusmd.com
 ||shixian.com
 ||shixiaojin.com
 ||shixibiaozhi.com
@@ -48288,7 +48286,6 @@
 ||sooyuu.com
 ||soozhu.com
 ||sopandas.com
-||sopanxia.com
 ||soperson.com
 ||sophgo.com
 ||sophiatiles.com
@@ -48466,6 +48463,7 @@
 ||speednt.com
 ||speedpdf.com
 ||speedsz.net
+||speedtest.im
 ||speedws.info
 ||speedws.org
 ||speiyou.com
@@ -53368,6 +53366,7 @@
 ||vitagou.hk
 ||vitarn.com
 ||vitechliu.com
+||viterbi-tech.com
 ||vitian.vip
 ||vivantecorp.com
 ||vivcms.com
@@ -57742,7 +57741,6 @@
 ||xiqihe.com
 ||xiqingji.com
 ||xiqinrc.com
-||xiqqq.com
 ||xirang.com
 ||xirenxuan.com
 ||xisaiwang.com
@@ -57946,6 +57944,7 @@
 ||xk8090.com
 ||xk89.com
 ||xk9l.com
+||xkaxka.com
 ||xkb1.com
 ||xkbsw.com
 ||xkcd.in
@@ -58130,7 +58129,6 @@
 ||xn--glr604k.com
 ||xn--it-1r3f.com
 ||xn--jvrr72kgma408a.com
-||xn--n4yr07d.xn--6qq986b3xl
 ||xn--ntsp37j.net
 ||xn--nyqx2gbsm8u0b.com
 ||xn--nyw032beqlm2f.com
@@ -59780,7 +59778,6 @@
 ||yingtaosiyue.com
 ||yingtaoyun.com
 ||yinguobing.com
-||yingupuhui.com
 ||yingwangtech.net
 ||yingwenming.com
 ||yingworks.com
@@ -63968,7 +63965,6 @@
 ||ztch.ltd
 ||ztcia.com
 ||ztcnwy.com
-||ztdad.com
 ||zte.net
 ||ztedevice.com
 ||ztedevices.com
