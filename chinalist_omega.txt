@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-07-14 01:50:03 UTC
+! Updated: 2023-07-15 01:48:52 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -6114,7 +6114,6 @@
 ||8tupian.com
 ||8twan.com
 ||8u58.com
-||8uka.com
 ||8uyx.com
 ||8wan.com
 ||8win.net
@@ -8492,6 +8491,7 @@
 ||aocde.com
 ||aocdn.com
 ||aoch.com
+||aochengcdn.com
 ||aoclia.com
 ||aocslb.com
 ||aodabo.tech
@@ -41346,7 +41346,6 @@
 ||pancake.cdn-apple.com.akadns.net
 ||panchuang.net
 ||panda-home.com
-||panda321.com
 ||panda98.com
 ||pandadastudio.com
 ||pandafoundation.org
@@ -60952,6 +60951,7 @@
 ||yuebei.vip
 ||yuebingcheng.com
 ||yuebooemt.com
+||yuecdn.net
 ||yuecheng.com
 ||yuedaoec.com
 ||yuedisk.com
@@ -60992,6 +60992,7 @@
 ||yuesuoping.com
 ||yuetu.tech
 ||yuetutu.com
+||yuetuvip.com
 ||yuetuvip.net
 ||yuetx.cc
 ||yueweimusic.com
@@ -61403,7 +61404,6 @@
 ||yuzhulin.com
 ||yuzi.net
 ||yuzvf.com
-||yveqi.com
 ||yvv.in
 ||yvzfgigpiwmofux.com
 ||yw11.com
