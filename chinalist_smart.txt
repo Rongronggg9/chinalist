@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-08-02 01:16:07 UTC
+! Updated: 2023-08-03 01:17:32 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-6.com
@@ -15095,7 +15095,6 @@
 @@||cn.bing.net
 @@||cn.msi.com
 @@||cn.net
-@@||cn.pandora.net
 @@||cn.vc
 @@||cn.vu
 @@||cn.windowssearch.com
@@ -17169,6 +17168,7 @@
 @@||dangwan.com
 @@||dangzhi.com
 @@||dangzhi.net
+@@||dangzhu.net
 @@||danhua.org
 @@||danhuaer.com
 @@||daniao.org
@@ -23331,7 +23331,6 @@
 @@||ghatg.com
 @@||ghboke.com
 @@||ghgy.com
-@@||ghgy.net
 @@||ghibliwiki.org
 @@||ghjie.com
 @@||ghlawyer.net
@@ -29471,7 +29470,6 @@
 @@||imitui.com
 @@||imixpark.com
 @@||imjiayin.com
-@@||imkerwin.com
 @@||imkevinyang.com
 @@||imkira.com
 @@||imlaidian.com
@@ -30780,7 +30778,6 @@
 @@||jdzdeyy.com
 @@||jdzeduyun.com
 @@||jdzj.com
-@@||jdzjdz.com
 @@||jdzmc.com
 @@||jdzol.com
 @@||jdzol.net
@@ -51948,7 +51945,6 @@
 @@||tsyqb.com
 @@||tsyvps.com
 @@||tsyzm.com
-@@||tsz.com
 @@||tszckj.com
 @@||tszhjk.com
 @@||tszyzx.com
@@ -54017,6 +54013,7 @@
 @@||waf.cdnetworks.com
 @@||wafcn.com
 @@||wafunny.com
+@@||wafzi.com
 @@||waheaven.com
 @@||wahlap.com
 @@||wahongyu.com
@@ -54630,7 +54627,6 @@
 @@||weicaifu.com
 @@||weicewang.com
 @@||weichaishi.com
-@@||weichen.org
 @@||weicher-sz.com
 @@||weiclicai.com
 @@||weico.cc
