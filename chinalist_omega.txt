@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-08-25 01:07:05 UTC
+! Updated: 2023-08-26 01:04:15 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -6242,7 +6242,6 @@
 ||91fifa.com
 ||91fyt.com
 ||91game.com
-||91gaoding.com
 ||91goodschool.com
 ||91guzhi.com
 ||91haiju.com
@@ -6952,7 +6951,6 @@
 ||a632079.me
 ||a67dy.com
 ||a7.com
-||a745.xyz
 ||a8.com
 ||a8f947.com
 ||a8tg.com
@@ -10613,7 +10611,6 @@
 ||biquge.la
 ||biquge.vip
 ||biquge11.com
-||biquge5200.cc
 ||biquge5200.com
 ||biquge8.com
 ||biquge9.cc
@@ -12508,7 +12505,6 @@
 ||ccrgt.com
 ||ccrjw.com
 ||ccschy.com
-||ccshao.com
 ||ccshenghuo.com
 ||ccsph.com
 ||ccssmm.com
@@ -18736,7 +18732,6 @@
 ||doumpaq.com
 ||doupai.cc
 ||doupir.com
-||doupobook.com
 ||doupocangqiong1.com
 ||douqi.com
 ||douquyyds.com
@@ -20614,7 +20609,6 @@
 ||evfchina.com
 ||evget.com
 ||evhui.com
-||evideocloud.net
 ||evideostb.com
 ||evilbinary.org
 ||evileyesaint.com
@@ -29212,7 +29206,6 @@
 ||images.apple.com
 ||images.apple.com.akadns.net
 ||images.apple.com.edgekey.net.globalredir.akadns.net
-||images.benchmarkemail.com
 ||images.samsung.com
 ||imageter.com
 ||imagetotxt.com
@@ -30976,7 +30969,6 @@
 ||jiasale.com
 ||jiashuangkuaizi.com
 ||jiashule.com
-||jiasn.com
 ||jiasu.work
 ||jiasuba.com
 ||jiasubook.com
@@ -32551,7 +32543,6 @@
 ||jxexpressway.com
 ||jxg1.com
 ||jxgdw.com
-||jxggcm.com
 ||jxgxbd.com
 ||jxhyshiye.com
 ||jxiaolan.com
@@ -32838,7 +32829,6 @@
 ||kaiygame.com
 ||kaiyuan.me
 ||kaiyuangroup.cc
-||kaiyuanhi.com
 ||kaiyuanhotels.com
 ||kaiyun.com
 ||kajicam.com
@@ -34342,6 +34332,7 @@
 ||landscapecn.com
 ||landtu.com
 ||landui.com
+||landunxiaofang.com
 ||landzestate.com
 ||lanecn.com
 ||lanfanapp.com
@@ -40020,7 +40011,6 @@
 ||nipic.com
 ||nishuoa.com
 ||nitaitag.com
-||nitianxieshen.com
 ||nitutu.com
 ||niu-ba.com
 ||niu.com
@@ -42402,7 +42392,6 @@
 ||pp66.cc
 ||pp8.com
 ||pp9l.com
-||ppaikd.com
 ||ppbizon.com
 ||ppcall.com
 ||ppchuguan.com
@@ -59749,7 +59738,6 @@
 ||yingshe.com
 ||yingsheng.com
 ||yingshevip.com
-||yingshixiaoshuo.com
 ||yingshiyou.com
 ||yingsoo.com
 ||yingsun.net
@@ -60733,6 +60721,7 @@
 ||ypgyyq.com
 ||yph-shop.com
 ||yphuifu.com
+||ypiao.com
 ||ypicw.com
 ||ypjiameng.com
 ||ypk.cc
@@ -61317,6 +61306,7 @@
 ||yunsiya.com
 ||yunsom.com
 ||yunsong.com
+||yunsou168.com
 ||yunstu.net
 ||yunsuan.org
 ||yunsuanzi.com
@@ -63051,6 +63041,7 @@
 ||zhuayoukong.com
 ||zhuazi.com
 ||zhubai.love
+||zhubai.pub
 ||zhubaijia.com
 ||zhubajie.com
 ||zhubajie.la
