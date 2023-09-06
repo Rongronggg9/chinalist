@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-09-05 01:06:06 UTC
+! Updated: 2023-09-06 01:07:17 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -2459,7 +2459,6 @@
 ||31xj.com
 ||31xs.com
 ||31xs.net
-||31xs.org
 ||31yarn.com
 ||31yj.com
 ||31zscl.com
@@ -6772,6 +6771,7 @@
 ||99zihua.com
 ||99zuowen.com
 ||99zzw.com
+||9a9.net
 ||9ailai.com
 ||9aimai.com
 ||9air.com
@@ -6936,6 +6936,7 @@
 ||a9188.com
 ||a9377j.com
 ||a963.com
+||a9market.com
 ||a9vg.com
 ||aa-ab.com
 ||aa152.com
@@ -8901,7 +8902,6 @@
 ||askk.cc
 ||asklib.com
 ||asklicai.com
-||askmamaz.com
 ||askpanda.cc
 ||askququ.com
 ||asktao.com
@@ -14661,7 +14661,6 @@
 ||cjnis.com
 ||cjol.com
 ||cjolimg.com
-||cjq112.com
 ||cjrcsc.com
 ||cjs-lwh.love
 ||cjsc.com
@@ -19823,6 +19822,7 @@
 ||eduwo.com
 ||eduwx.com
 ||eduxiao.com
+||eduxiji.net
 ||eduyf.com
 ||eduyo.com
 ||eduzhai.net
@@ -21711,6 +21711,7 @@
 ||fl5.co
 ||flachina.com
 ||flacro.me
+||flamecdn.com
 ||flamesky.org
 ||flamingcold.com
 ||flan1688.com
@@ -23451,7 +23452,6 @@
 ||godic.net
 ||godida.com
 ||godiy8.com
-||godns.site
 ||godo.pub
 ||godoor.com
 ||godruoyi.com
@@ -25379,7 +25379,6 @@
 ||hbcydlqc.com
 ||hbdangyang.com
 ||hbddrn.com
-||hbdfdh.com
 ||hbdmia.com
 ||hbdtjqj.com
 ||hbdx-kdyy.com
@@ -28918,6 +28917,7 @@
 ||ihongpan.com
 ||ihongqiqu.com
 ||ihou.com
+||ihowguide.com
 ||ihr360.com
 ||ihrscloud.com
 ||ihuaben.com
@@ -28962,7 +28962,6 @@
 ||iii80.com
 ||iiiimg.com
 ||iiijk.com
-||iiilab.com
 ||iiiview.net
 ||iikeji.com
 ||iikuzhan.com
@@ -29854,7 +29853,6 @@
 ||isvjd.com
 ||isvup.com
 ||iswifting.com
-||iswitch.app
 ||isyour.love
 ||it-bound.com
 ||it-crazy.net
@@ -30362,6 +30360,7 @@
 ||jbdown.com
 ||jbedu.org
 ||jbelf.com
+||jbjc.org
 ||jbryun.com
 ||jbxy.com
 ||jbzj.com
@@ -30555,7 +30554,6 @@
 ||jeffjade.com
 ||jeffreyitstudio.com
 ||jeffstudio.net
-||jegms.com
 ||jegotrip.com
 ||jehudf.com
 ||jelleybrown.com
@@ -31502,7 +31500,6 @@
 ||jiuzhuanzhuan.com
 ||jiuzungame.com
 ||jiwa123.com
-||jiwanjiwan.com
 ||jiweichengzhu.com
 ||jiweixin168.com
 ||jiwu.com
@@ -31688,7 +31685,6 @@
 ||jltchina.com
 ||jltyjxzz.com
 ||jlusz.com
-||jlwubi.com
 ||jlxfw.com
 ||jlzkb.com
 ||jlzsoft.com
@@ -33960,7 +33956,6 @@
 ||kutianxia.com
 ||kutj.com
 ||kutongji.com
-||kutoo8.com
 ||kutuan.com
 ||kuuke.com
 ||kuwan8.com
@@ -36349,7 +36344,6 @@
 ||lunchong.com
 ||lundao.pub
 ||lunkuokeji.com
-||lunwenchachong.org
 ||lunwendj.com
 ||lunwenschool.com
 ||lunwenstudy.com
@@ -40402,6 +40396,7 @@
 ||nxtianshangb.com
 ||nxwly.com
 ||nxyqs.com
+||nxyqs.net
 ||ny-yy.com
 ||ny83.com
 ||nya.ink
@@ -40938,7 +40933,6 @@
 ||orgnitu.net
 ||oriemac.com
 ||orient-fund.com
-||orient-hf.com
 ||orient-safety.com
 ||orientalpearltower.com
 ||orientalwisdom.com
@@ -61503,7 +61497,6 @@
 ||yywz123.com
 ||yywzw.com
 ||yyx168.com
-||yyxt.com
 ||yyxtao.com
 ||yyxwzx.com
 ||yyxx100.com
@@ -62283,7 +62276,6 @@
 ||zhaoyangxueyuan.com
 ||zhaoyaojd.com
 ||zhaoyasai.com
-||zhaoyinan.net
 ||zhaoyingtian.com
 ||zhaoyinqian.com
 ||zhaoyo.com
