@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-09-11 01:08:45 UTC
+! Updated: 2023-09-12 01:05:45 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-6.com
@@ -4255,7 +4255,6 @@
 @@||52solution.com
 @@||52souji.net
 @@||52souluo.com
-@@||52soutu.com
 @@||52survey.com
 @@||52svip.cc
 @@||52svn.com
@@ -11679,6 +11678,7 @@
 @@||bx58.com
 @@||bxb2b.com
 @@||bxcc.vip
+@@||bxcqd.com
 @@||bxdaka.com
 @@||bxdlkj.com
 @@||bxemln.com
@@ -29642,7 +29642,6 @@
 @@||ipuu.net
 @@||ipv4.host
 @@||ipv6dns.com
-@@||ipyker.com
 @@||ipyy.com
 @@||iq123.com
 @@||iqalliance.org
@@ -32727,6 +32726,7 @@
 @@||kaiyuan.me
 @@||kaiyuangroup.cc
 @@||kaiyuanhotels.com
+@@||kaiyuanweilaikeji.com
 @@||kaiyun.com
 @@||kajicam.com
 @@||kaka.com
@@ -37083,7 +37083,6 @@
 @@||markmall.com
 @@||markmiao.com
 @@||marknum.com
-@@||markonreview.com
 @@||markorchem.com
 @@||marksmile.com
 @@||marmot-cloud.com
@@ -41255,7 +41254,6 @@
 @@||pandatv.com
 @@||pandoe.com
 @@||pandolia.net
-@@||pandownload.com
 @@||panduoduo.net
 @@||panduoduo.online
 @@||panewslab.com
@@ -45070,6 +45068,7 @@
 @@||ruixunidc.com
 @@||ruixunidc.net
 @@||ruiyang-ra.com
+@@||ruiyuanobserve.com
 @@||ruiyunit.com
 @@||ruizong-gz.com
 @@||rujiazg.com
@@ -51364,7 +51363,6 @@
 @@||tripbaba.com
 @@||tripbe.com
 @@||triphr.com
-@@||triple7photography.com
 @@||triplexservice.com
 @@||tripodeck.com
 @@||tripsanxia.net
@@ -54919,7 +54917,6 @@
 @@||whzydz.com
 @@||whzyht.com
 @@||wi799.com
-@@||wiblog.net
 @@||wicep.com
 @@||wicp.net
 @@||wicp.vip
@@ -60145,6 +60142,7 @@
 @@||yongsy.com
 @@||yongtu.net
 @@||yongxinby.com
+@@||yongxinji.com
 @@||yongxintex.com
 @@||yongzhentang.com
 @@||yonho.com
@@ -61731,6 +61729,7 @@
 @@||zcsbbs.com
 @@||zcskj.com
 @@||zctl.net
+@@||zctpt.com
 @@||zctx.com
 @@||zcwlsc.com
 @@||zcwxjx.com
@@ -61754,6 +61753,7 @@
 @@||zdexe.com
 @@||zdface.com
 @@||zdfx.net
+@@||zdgzc.com
 @@||zdh168.com
 @@||zdhaitao.com
 @@||zdhaitao.net
