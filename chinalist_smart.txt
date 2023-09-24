@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-09-23 01:06:02 UTC
+! Updated: 2023-09-24 01:11:37 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-6.com
@@ -141,7 +141,6 @@
 @@||022sunny.com
 @@||022v.com
 @@||023086.com
-@@||02345678.com
 @@||023buy.com
 @@||023cq.cc
 @@||023dir.com
@@ -558,7 +557,6 @@
 @@||0917.com
 @@||0917e.com
 @@||0919123.com
-@@||091danbao.club
 @@||093.com
 @@||0937js.com
 @@||0938net.com
@@ -868,7 +866,6 @@
 @@||1156.com
 @@||1156dns.com
 @@||115800.com
-@@||1158pk.com
 @@||115cdn.net
 @@||115img.com
 @@||115jk.com
@@ -1455,7 +1452,6 @@
 @@||17kouyu.com
 @@||17kuxun.com
 @@||17kxgame.com
-@@||17kxs8.com
 @@||17lele.net
 @@||17lewan.net
 @@||17liuxue.com
@@ -3583,7 +3579,6 @@
 @@||51changdu.xyz
 @@||51changxie.com
 @@||51chaoban.com
-@@||51chongdian.net
 @@||51chost.com
 @@||51chuli.com
 @@||51cir.com
@@ -9181,7 +9176,6 @@
 @@||azurew.com
 @@||azureyun.com
 @@||azycjd.com
-@@||azyx.com
 @@||azz.net
 @@||b-chem.com
 @@||b-eurochina.com
@@ -10496,7 +10490,6 @@
 @@||binglingtech.com
 @@||binglixue.com
 @@||bingo321.com
-@@||bingofresh.com
 @@||bingqipu.net
 @@||bingsin.com
 @@||bingtuannet.com
@@ -14364,7 +14357,6 @@
 @@||chunjingtech.com
 @@||chunmi.com
 @@||chunmiaosh.com
-@@||chunqiuwang.com
 @@||chunquff.com
 @@||chunshuitang.com
 @@||chunshuizhijia.com
@@ -14750,7 +14742,6 @@
 @@||clouddns.vip
 @@||clouddream.net
 @@||cloudflare-cn.com
-@@||cloudflare520.com
 @@||cloudfront.net
 @@||cloudgap.net
 @@||cloudgfw.com
@@ -15911,7 +15902,6 @@
 @@||cqcp.net
 @@||cqcqcq.com
 @@||cqcsic.com
-@@||cqcsrc.com
 @@||cqcy.com
 @@||cqdai.com
 @@||cqdailynews.com
@@ -20662,7 +20652,6 @@
 @@||ezcname.com
 @@||ezcpt.com
 @@||ezcun.com
-@@||ezdcw.com
 @@||ezdnscenter.com
 @@||ezeroshop.com
 @@||ezgckg.com
@@ -26077,7 +26066,6 @@
 @@||hifime.net
 @@||hifini.com
 @@||hifiok.com
-@@||hifishes.com
 @@||hifishuo.com
 @@||hifiveai.com
 @@||hifly.mobi
@@ -30924,7 +30912,6 @@
 @@||jieyougx.com
 @@||jieyoujob.com
 @@||jieyue.net
-@@||jiez238.com
 @@||jifang360.com
 @@||jifang365.com
 @@||jifangcheng.com
@@ -34966,7 +34953,6 @@
 @@||liao98.com
 @@||liaocheng.cc
 @@||liaochuo.com
-@@||liaocy.net
 @@||liaogu.com
 @@||liaogx.com
 @@||liaojieju.com
@@ -37720,7 +37706,6 @@
 @@||microlensyh.com
 @@||microlz.com
 @@||microrui.net
-@@||microsoft-yuncdn.com
 @@||microstern.com
 @@||microvcard.com
 @@||microvirt.com
@@ -41880,7 +41865,6 @@
 @@||pjtt445.xyz
 @@||pk052.com
 @@||pk106.com
-@@||pk111.mom
 @@||pk1xia.com
 @@||pk2234.com
 @@||pk361.com
@@ -45815,7 +45799,6 @@
 @@||sends.cc
 @@||senenwood.com
 @@||senfengg.com
-@@||sengguo.com
 @@||senguo.cc
 @@||senguo.com
 @@||sengxian.com
@@ -47004,7 +46987,6 @@
 @@||shunshunliuxue.com
 @@||shunvzhi.com
 @@||shunwang.com
-@@||shuo6.com
 @@||shuo66.com
 @@||shuoba.org
 @@||shuobao.com
@@ -50451,7 +50433,6 @@
 @@||tianxiaxinyong.com
 @@||tianxiaydslfd.com
 @@||tianxin100.vip
-@@||tianxinfan.com
 @@||tianxing.com
 @@||tianxinsuye.com
 @@||tianya.com
@@ -56339,6 +56320,7 @@
 @@||xdxialingying.com
 @@||xdxmwang.com
 @@||xdxx.ink
+@@||xed.plus
 @@||xedaojia.com
 @@||xedaojia.net
 @@||xeeee.net
@@ -58127,14 +58109,12 @@
 @@||xuetu.net
 @@||xuetuwuyou.com
 @@||xueui.com
-@@||xueuisheji.com
 @@||xuewangshang.com
 @@||xuewangzhan.com
 @@||xuewangzhan.net
 @@||xuewei360.com
 @@||xuexb.com
 @@||xuexi.la
-@@||xuexi1234567.com
 @@||xuexi365.com
 @@||xuexi637.com
 @@||xuexiaodaquan.com
@@ -61887,7 +61867,6 @@
 @@||zgxue.com
 @@||zgxyzx.net
 @@||zgycgc.com
-@@||zgycsc.com
 @@||zgyeda.com
 @@||zgyey.com
 @@||zgygsy.com
@@ -63900,7 +63879,6 @@
 @@||zyccc.com
 @@||zycits.com
 @@||zycmfw.com
-@@||zycsc.com
 @@||zyctd.com
 @@||zycultura.com
 @@||zye.cc
