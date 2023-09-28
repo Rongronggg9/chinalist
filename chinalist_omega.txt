@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-09-27 01:08:37 UTC
+! Updated: 2023-09-28 01:08:09 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -3472,7 +3472,6 @@
 ||51511.com
 ||515158.com
 ||5151app.com
-||5151doc.com
 ||5151sc.com
 ||5153.com
 ||51555.net
@@ -16307,6 +16306,7 @@
 ||ctfmall.com
 ||ctfo.com
 ||ctfund.com
+||ctg75.com
 ||ctghealthy.com
 ||ctghr.com
 ||cthhmu.com
@@ -25492,6 +25492,7 @@
 ||hd199.com
 ||hd199.net
 ||hd3p.com
+||hdarea.club
 ||hdavchina.com
 ||hdb.com
 ||hdbaichuan.com
@@ -32352,6 +32353,7 @@
 ||jxscct.com
 ||jxsgfzx.com
 ||jxshangyou.com
+||jxsjgjt.com
 ||jxslsyy.com
 ||jxsrfdc.com
 ||jxsxdp.com
@@ -33973,7 +33975,6 @@
 ||lactec.net
 ||ladiyoga.com
 ||ladjzs.com
-||ladouban.com
 ||lady177.com
 ||lady361.com
 ||lady8844.com
@@ -36250,6 +36251,7 @@
 ||luxe.co
 ||luxee.com
 ||luxemon.com
+||luxiangdong.com
 ||luxianpo.com
 ||luxiao.com
 ||luxiwang.com
@@ -37944,7 +37946,6 @@
 ||miquapp.com
 ||mir4399.com
 ||miraclevision.net
-||mirari.cc
 ||mirgaga.net
 ||mirmzhy.com
 ||misaka.center
@@ -41001,7 +41002,6 @@
 ||p2peye.com
 ||p2peye.net
 ||p2pjd.com
-||p2pjj.com
 ||p2psearcher.org
 ||p2psearchers.com
 ||p2ptouhang.com
@@ -42559,7 +42559,6 @@
 ||qctsw.com
 ||qcwan.com
 ||qcwdpt.com
-||qcwhw.com
 ||qcwhxx.com
 ||qcwlpay.com
 ||qcwlseo.com
@@ -49003,7 +49002,6 @@
 ||sxtvs.com
 ||sxtybook.com
 ||sxuyr2nx.com
-||sxvt58.com
 ||sxwbs.com
 ||sxwpyx.com
 ||sxwrsa.org
@@ -52837,7 +52835,6 @@
 ||vicp.net
 ||vicrab.com
 ||vicsdf.com
-||victoriaturk.com
 ||vida-bio.com
 ||vidarsoft.com
 ||viday.org
@@ -53352,7 +53349,6 @@
 ||waha.cc
 ||waheaven.com
 ||wahlap.com
-||wahongyu.com
 ||waibao123.com
 ||waibao12333.com
 ||waibaodashi.com
@@ -57328,6 +57324,7 @@
 ||xiongzhangad.com
 ||xipushuju.net
 ||xiqb.com
+||xiqianyangyi.com
 ||xiqihe.com
 ||xiqingji.com
 ||xiqinrc.com
@@ -60626,7 +60623,6 @@
 ||yuetutu.com
 ||yuetuvip.com
 ||yuetuvip.net
-||yuetx.cc
 ||yueweimusic.com
 ||yuewen.com
 ||yuexing.com
@@ -60904,6 +60900,7 @@
 ||yunsuan.org
 ||yunsuanzi.com
 ||yunsuo.com
+||yunsuo.xyz
 ||yuntaigo.com
 ||yuntask.com
 ||yuntemai.com
