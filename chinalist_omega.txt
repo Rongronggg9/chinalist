@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-10-04 01:10:12 UTC
+! Updated: 2023-10-05 01:08:48 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -631,6 +631,7 @@
 ||1000phone.com
 ||1000phone.net
 ||1000plan.org
+||1000qoi.com
 ||1000thinktank.com
 ||1000tuan.com
 ||1000uc.com
@@ -3277,7 +3278,6 @@
 ||45win.com
 ||45xie.com
 ||45yx.com
-||462546.com
 ||46412.com
 ||46466.me
 ||465676.tv
@@ -5959,7 +5959,6 @@
 ||8bb8b.com
 ||8bcd9.com
 ||8bears.com
-||8bit.xin
 ||8btc-ops.com
 ||8btc.com
 ||8btm.com
@@ -6754,6 +6753,7 @@
 ||9host.org
 ||9hou.com
 ||9ht.com
+||9huadian.net
 ||9icode.net
 ||9icy.com
 ||9idudu.com
@@ -12249,6 +12249,7 @@
 ||ccchz.com
 ||cccitu.com
 ||cccity.cc
+||cccm-em120.com
 ||cccmat.com
 ||cccnec.com
 ||cccollector.com
@@ -13194,7 +13195,6 @@
 ||chemcyber.com
 ||chemdrug.com
 ||chemicalbook.com
-||chemishu.com
 ||chemm.com
 ||chemmade.com
 ||chemnet.com
@@ -14833,6 +14833,7 @@
 ||cmt7.com
 ||cmtdi.com
 ||cmtech.net
+||cmtopdr.com
 ||cmtrq.com
 ||cmu1h.com
 ||cmuliang.com
@@ -15224,7 +15225,6 @@
 ||cnobol.com
 ||cnoic.com
 ||cnoil.com
-||cnol.cc
 ||cnolnic.com
 ||cnolnic.net
 ||cnonline.org
@@ -17882,7 +17882,6 @@
 ||digiwin.com
 ||digiwork.com
 ||digod.com
-||digpage.com
 ||digu.com
 ||digu365.com
 ||digua.com
@@ -27717,6 +27716,7 @@
 ||hwclouds.com
 ||hwclouds.mobi
 ||hwclouds.net
+||hwcpb.com
 ||hwcrazy.com
 ||hwehs.com
 ||hweimall.com
@@ -28506,7 +28506,6 @@
 ||idouzi.com
 ||idoyun.com
 ||idqqimg.com
-||idreamschool.com
 ||idreamsky.com
 ||idreamsoft.com
 ||idrools.com
@@ -29791,7 +29790,6 @@
 ||itjspx.com
 ||itjuzi.com
 ||itkoudai.com
-||itlsc.com
 ||itlu.org
 ||itmanbu.com
 ||itmastergame.com
@@ -29969,7 +29967,6 @@
 ||iwopop.com
 ||iwordnet.com
 ||iwordshow.com
-||iworm.net
 ||iwpai.com
 ||iwshang.com
 ||iwshuma.com
@@ -31761,7 +31758,6 @@
 ||jrecchina.com
 ||jrexam.com
 ||jrgang.com
-||jrhdg.com
 ||jrj.com
 ||jrjhg.com
 ||jrjingshan.com
@@ -38227,7 +38223,6 @@
 ||mohu.org
 ||moihu.com
 ||moimg.net
-||moioi.com
 ||moith.com
 ||moji.com
 ||moji001.com
@@ -38287,7 +38282,6 @@
 ||monsterlin.com
 ||montage-tech.com
 ||monternet.com
-||monthdate.com
 ||montnets.com
 ||monv.com
 ||monxin.com
@@ -39077,6 +39071,7 @@
 ||naimei.com
 ||nainiuapp.com
 ||naiping.net
+||naisiw.com
 ||naitang.com
 ||naiveblue.com
 ||najiaoluo.com
@@ -43066,7 +43061,6 @@
 ||qingzhouaote.com
 ||qingzhouip.com
 ||qingzhu.co
-||qiniao.com
 ||qiniu.com
 ||qiniu.in
 ||qiniu.io
@@ -44037,6 +44031,7 @@
 ||ramboplay.com
 ||ramostear.com
 ||ran10.com
+||random-online.com
 ||ranfenghd.com
 ||rangercd.com
 ||rangnihaokan.com
@@ -48970,6 +48965,7 @@
 ||sykong.com
 ||sylixos.com
 ||sylnst.com
+||sylnyx.com
 ||symama.com
 ||symtc.com
 ||symuge.com
@@ -49541,6 +49537,7 @@
 ||tao616.com
 ||tao800.com
 ||tao8090.com
+||taoa.com
 ||taobao-img.com
 ||taobao.com
 ||taobao.cz
@@ -49874,7 +49871,6 @@
 ||tehui001.com
 ||tehuituan.com
 ||tejiabei.com
-||tejiaquan.com
 ||tejiawang.com
 ||tel-id.com
 ||tel139.com
@@ -51792,7 +51788,6 @@
 ||u58.com
 ||u5wan.com
 ||u69cn.com
-||u6u.com
 ||u77.com
 ||u7u9.com
 ||u8sy.com
@@ -59192,6 +59187,7 @@
 ||ying-ji.com
 ||yingbar.com
 ||yingbei365.com
+||yingbio.com
 ||yingbishufa.com
 ||yingcankeji.com
 ||yingchaozhibo.com
