@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-10-17 01:09:20 UTC
+! Updated: 2023-10-18 01:09:07 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-6.com
@@ -5710,7 +5710,6 @@
 @@||83edu.net
 @@||83h87d.com
 @@||84.vc
-@@||8403b1f.com
 @@||8421.com
 @@||84399.com
 @@||844a.com
@@ -8109,7 +8108,6 @@
 @@||amobbs.com
 @@||amoe.cc
 @@||amoere.com
-@@||ampc8.com
 @@||ampcn.com
 @@||amplesky.com
 @@||ampmake.com
@@ -8519,7 +8517,6 @@
 @@||apowo.com
 @@||apowogame.com
 @@||apoyl.com
-@@||app-123.com
 @@||app-measurement-cn.com
 @@||app-measurement.com
 @@||app-router.com
@@ -36794,6 +36791,7 @@
 @@||marioin.com
 @@||markdown.xyz
 @@||markdream.com
+@@||marketingconv.com
 @@||marketreportchina.com
 @@||markhoo.com
 @@||markiapp.com
@@ -49127,7 +49125,6 @@
 @@||szsmk.com
 @@||szsnking.com
 @@||szsq.net
-@@||szssjg.com
 @@||szsunlaser.com
 @@||sztaijier.com
 @@||sztalent.org
@@ -49348,7 +49345,6 @@
 @@||tandjx.com
 @@||tang-lei.com
 @@||tang.su
-@@||tang8.com
 @@||tangdaoya.com
 @@||tangdou.com
 @@||tangdouimg.com
@@ -60481,7 +60477,6 @@
 @@||yuncdndun.com
 @@||yunceng.com
 @@||yuncheng.com
-@@||yunchong-powder.com
 @@||yunchou.com
 @@||yuncii.com
 @@||yuncode.net
