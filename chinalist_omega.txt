@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-11-22 01:15:04 UTC
+! Updated: 2023-11-23 01:12:10 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -34728,7 +34728,6 @@
 ||liliyago.com
 ||lilosrv.com
 ||lilvb.com
-||lily-collection.com
 ||lilysamericandiner.com
 ||lilysgame.com
 ||limaoqiu.com
@@ -58715,7 +58714,6 @@
 ||yinhe.com
 ||yinheyuedu.com
 ||yinhu.com
-||yinhuadm.cc
 ||yini.org
 ||yinjiaji.com
 ||yinjietd.com
