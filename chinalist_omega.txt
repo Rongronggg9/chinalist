@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-01-08 01:13:52 UTC
+! Updated: 2024-01-09 01:13:41 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -2412,6 +2412,7 @@
 ||3322.cc
 ||3322.net
 ||3322.org
+||33226163.xyz
 ||3323.com
 ||3323399.com
 ||332831.com
@@ -3804,6 +3805,7 @@
 ||51uyi.com
 ||51vimeo.com
 ||51vip.biz
+||51voa.com
 ||51vs.com
 ||51vv.com
 ||51vv2.com
@@ -4455,7 +4457,6 @@
 ||591wy.com
 ||591yhw.com
 ||5923d.com
-||592sy.com
 ||592zn.com
 ||59313313.com
 ||59370.com
@@ -12797,7 +12798,6 @@
 ||chanway.net
 ||chanwind.com
 ||chanxuehezuo.com
-||chanyeren.com
 ||chanzhi.org
 ||chanzuimei.com
 ||chao-fan.com
@@ -16329,7 +16329,6 @@
 ||czyxba.com
 ||czzsw.com
 ||czzy-edu.com
-||czzy88.com
 ||d-controls.com
 ||d-ctrip.com
 ||d-heaven.com
@@ -33504,7 +33503,6 @@
 ||languangdy.com
 ||langya.org
 ||langyabang.com
-||langyuseo.com
 ||langzi.fun
 ||lanh.love
 ||lanhaicaijing.com
@@ -59357,7 +59355,6 @@
 ||yte1.com
 ||yteng.net
 ||ytesting.com
-||ytet.org
 ||ytfuzhen.com
 ||ytghnb.com
 ||ythouse.com
@@ -61434,6 +61431,7 @@
 ||zhtmid.com
 ||zhu23.work
 ||zhu360.com
+||zhuaidei.com
 ||zhuainiu.com
 ||zhuan16.com
 ||zhuanfa.net
