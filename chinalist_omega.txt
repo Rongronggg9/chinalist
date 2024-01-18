@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-01-17 01:14:08 UTC
+! Updated: 2024-01-18 01:13:25 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -3112,7 +3112,6 @@
 ||407wan.com
 ||4080517.com
 ||4080so.com
-||409874.com
 ||40fenzhong.com
 ||40manhua.com
 ||40maoaa.com
@@ -5382,7 +5381,6 @@
 ||7kww.net
 ||7kzw.com
 ||7littlemen.com
-||7liwu.com
 ||7lk.com
 ||7lw.com
 ||7mah2.com
@@ -9878,7 +9876,6 @@
 ||bendiw.cc
 ||bendizhidao.com
 ||benduo.net
-||benellimotor.com
 ||bengbeng.com
 ||bengden.com
 ||bengfa.biz
@@ -20096,7 +20093,6 @@
 ||evcard.vip
 ||evdays.com
 ||eve.moe
-||eventdove.com
 ||everbaas.com
 ||everdns.com
 ||evereasycom.com
@@ -22289,7 +22285,6 @@
 ||gcimg.net
 ||gcjc.com
 ||gcjr.com
-||gcjx123.com
 ||gcl-et.com
 ||gcloudcs.com
 ||gcloudgbs.com
@@ -26699,6 +26694,7 @@
 ||huaimi.com
 ||huain.com
 ||huainanhai.com
+||huainannet.com
 ||huainanren.net
 ||huainet.com
 ||huaisimida.com
@@ -30052,7 +30048,6 @@
 ||jfrogchina.com
 ||jfshare.com
 ||jfstatic.com
-||jfuwu.com
 ||jfwypay.com
 ||jfydgame.com
 ||jfyiyao.com
@@ -30919,7 +30914,6 @@
 ||jiuzhinews.com
 ||jiuzhuanzhuan.com
 ||jiuzungame.com
-||jiwa123.com
 ||jiweichengzhu.com
 ||jiweixin168.com
 ||jiwu.com
@@ -31870,14 +31864,12 @@
 ||jxexpressway.com
 ||jxg1.com
 ||jxgdw.com
-||jxgxbd.com
 ||jxhyshiye.com
 ||jxiaolan.com
 ||jxicloud.com
 ||jximage.com
 ||jxjdgy.com
 ||jxjee.com
-||jxjhkq.com
 ||jxjia.net
 ||jxjob.net
 ||jxjyzy.com
@@ -33146,7 +33138,6 @@
 ||kuaile800.com
 ||kuailedo.com
 ||kuailelunwen.com
-||kuailesh.com
 ||kuailetongyao.com
 ||kuailexs.com
 ||kuailezu.com
@@ -33562,7 +33553,6 @@
 ||laiyetxt.com
 ||laiyifen.com
 ||laiyouxi.com
-||laiyunad.com
 ||laizee.com
 ||laizhouba.net
 ||laizi.net
@@ -34617,6 +34607,7 @@
 ||liliyago.com
 ||lilosrv.com
 ||lilvb.com
+||lilygo.cc
 ||lilysamericandiner.com
 ||lilysgame.com
 ||limaoqiu.com
@@ -34901,7 +34892,6 @@
 ||litten.me
 ||little-sun.com
 ||littleboy.net
-||littleee.com
 ||littlefoxgroup.com
 ||littlehero.xyz
 ||littleroost.net
@@ -38020,6 +38010,7 @@
 ||msits.com
 ||mskjf.com
 ||mslzz.com
+||msm.moe
 ||msmartlife.com
 ||msmbjp.com
 ||mspharm.com
@@ -38146,7 +38137,6 @@
 ||muryi.net
 ||muselab-tech.com
 ||mushafa.net
-||mushroomchina.com
 ||music.apple.com
 ||music4x.com
 ||musicalpc.com
@@ -40571,7 +40561,6 @@
 ||paopaozd.com
 ||paovn.com
 ||paoxq.com
-||paoxue.com
 ||paoying.net
 ||papa21.com
 ||papa91.com
@@ -44836,7 +44825,6 @@
 ||sddh.online
 ||sddrsji.com
 ||sddzrljx.com
-||sde6.com
 ||sdebank.com
 ||sdeca.org
 ||sdecloud.com
@@ -51203,7 +51191,6 @@
 ||ubssdic.com
 ||ubtrobot.com
 ||ubuntukylin.com
-||ubuntukylin.org
 ||ubuntuqa.com
 ||ubuuk.com
 ||uc-union.com
@@ -52005,6 +51992,7 @@
 ||veervr.tv
 ||veeteam.com
 ||veevlink.com
+||vegslb.com
 ||veikei.com
 ||veilytech.com
 ||veinbase.com
@@ -52026,7 +52014,6 @@
 ||verdareto.com
 ||verisilicon.com
 ||verisyno.com
-||veritrans-link.com
 ||verodillan.com
 ||vertuonline.com
 ||veryapex.com
@@ -53864,7 +53851,6 @@
 ||whoolala.com
 ||whooyan.com
 ||whosedrop.com
-||whozen.com
 ||whpantosoft.com
 ||whpanva.com
 ||whplmd.com
@@ -55738,7 +55724,6 @@
 ||xiangyiai.com
 ||xiangyujiankang.com
 ||xiangyukj.com
-||xiangyun.so
 ||xiangyunseo.com
 ||xiangzhan.com
 ||xiangzhiren.com
@@ -62373,7 +62358,6 @@
 ||zmtquan.com
 ||zmufivehospital.com
 ||zmumu.com
-||zmwbf.com
 ||zmwo.com
 ||zmwxxcx.com
 ||zmxiazai.com
