@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-01-22 01:17:02 UTC
+! Updated: 2024-01-23 01:15:04 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -979,7 +979,6 @@
 ||125.la
 ||12530.com
 ||12580.com
-||12580.net
 ||12580.tv
 ||12580study.com
 ||125edu.com
@@ -1104,7 +1103,6 @@
 ||13yx.com
 ||140414.com
 ||1415926.com
-||1415926.mobi
 ||14294.com
 ||14498.com
 ||1451cn.com
@@ -18651,6 +18649,7 @@
 ||duobei.com
 ||duobeiyun.net
 ||duobiji.com
+||duocaish.com
 ||duocaitou.com
 ||duochang.cc
 ||duodaa.com
@@ -21278,7 +21277,6 @@
 ||fl365.com
 ||fl5.co
 ||flachina.com
-||flacro.me
 ||flamecdn.com
 ||flamesky.org
 ||flamingcold.com
@@ -29978,7 +29976,6 @@
 ||jdedu.net
 ||jdemall.com
 ||jdfcloud.com
-||jdfhq.com
 ||jdfschool.com
 ||jdgogo.com
 ||jdgslb.com
@@ -39133,7 +39130,6 @@
 ||niceimg.net
 ||niceisp.com
 ||nicekid.com
-||nicekodi.xyz
 ||nicelabel.cc
 ||nicelinks.site
 ||niceloo.com
@@ -41778,6 +41774,7 @@
 ||puh3.com
 ||puhuacapital.com
 ||puhuahui.com
+||puidc.com
 ||puiedu.com
 ||pujia8.com
 ||pujiaba.com
@@ -44435,7 +44432,6 @@
 ||rzok.net
 ||rzspx.com
 ||rzszp.com
-||rzwssy.com
 ||rzx.me
 ||rzzyfw.com
 ||s-02.com
@@ -46412,6 +46408,7 @@
 ||shyihuoh.com
 ||shykx.com
 ||shykz123456.com
+||shyojin.com
 ||shyonghui.xyz
 ||shyongzeng.com
 ||shyouai.com
@@ -47246,6 +47243,7 @@
 ||sokutu.com
 ||solarbe.com
 ||solaridc.com
+||soldeazy.com
 ||soldierstory-toys.com
 ||soleilneon.com
 ||solepic.com
@@ -59177,6 +59175,7 @@
 ||yongheyinian.com
 ||yonghongtech.com
 ||yonghuivip.com
+||yongjindl.com
 ||yongkao.com
 ||yongqianbao.com
 ||yongqiaonews.com
