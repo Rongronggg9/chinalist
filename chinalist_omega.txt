@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-01-23 01:15:04 UTC
+! Updated: 2024-01-25 01:15:14 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -492,6 +492,7 @@
 ||07890.com
 ||0791look.com
 ||0791quanquan.com
+||07928888.xyz
 ||0792jj.net
 ||0792u.com
 ||079768.com
@@ -1097,7 +1098,6 @@
 ||13cr.com
 ||13ejob.com
 ||13gm.com
-||13hangpifa.com
 ||13ww.net
 ||13xiaoshuoa.com
 ||13yx.com
@@ -4706,7 +4706,6 @@
 ||608.vip
 ||608082.com
 ||6080d.com
-||6080j.com
 ||609999.xyz
 ||60dj.com
 ||60eee.net
@@ -8437,7 +8436,6 @@
 ||appnode.com
 ||appotronics.com
 ||apppoo.com
-||apprcn.com
 ||appresource.net
 ||apps.apple.com
 ||apps.mzstatic.com
@@ -13484,7 +13482,6 @@
 ||chinagoldcoin.net
 ||chinagoldgroup.com
 ||chinagongcheng.com
-||chinagov.pw
 ||chinagp.net
 ||chinagps.cc
 ||chinagrid.net
@@ -16252,7 +16249,6 @@
 ||cxw.com
 ||cxwl.com
 ||cxwyf.net
-||cxwyg.net
 ||cxxjs.com
 ||cxy521.com
 ||cxy61.com
@@ -16624,7 +16620,6 @@
 ||dalianiso.com
 ||daliansky.net
 ||daliapp.net
-||dalinggong.com
 ||dalipan.com
 ||dalongkeji.com
 ||dalongyun.com
@@ -18180,7 +18175,6 @@
 ||dongfengtrucks.com
 ||dongfund.com
 ||dongge.com
-||donggua.com
 ||donghaifunds.com
 ||donghao.org
 ||donghui.tech
@@ -19736,7 +19730,6 @@
 ||emcsosin.com
 ||emea.cdnetworks.com
 ||emeixs.com
-||emen.ltd
 ||emepu.com
 ||emilhk.com
 ||emjob.com
@@ -21008,6 +21001,7 @@
 ||feotech.com
 ||fequan.com
 ||ferlie.net
+||ferlytc.com
 ||fersese.com
 ||fescoadecco.com
 ||fescogroup.com
@@ -22305,7 +22299,6 @@
 ||gc-zb.com
 ||gc1616.com
 ||gc39.com
-||gc600.com
 ||gccdn.net
 ||gcchina.com
 ||gccmgw.com
@@ -23002,7 +22995,6 @@
 ||godiy8.com
 ||godo.pub
 ||godoor.com
-||godruoyi.com
 ||godsheepteam.com
 ||godsignal.com
 ||godweiyang.com
@@ -23958,7 +23950,6 @@
 ||gycode.com
 ||gydongli.com
 ||gyersf.com
-||gygl.com
 ||gyguohua.com
 ||gyhj.org
 ||gyip.net
@@ -24382,7 +24373,6 @@
 ||haitaoit.com
 ||haitaoj.com
 ||haitaolab.com
-||haitaopd.com
 ||haitaoqq.com
 ||haitaotong.com
 ||haitaozu.org
@@ -28600,6 +28590,7 @@
 ||iloli.bid
 ||ilongre.com
 ||ilongterm.com
+||ilove.bf
 ||iloveanan.com
 ||ilovefishc.com
 ||iloveyou14.com
@@ -29430,6 +29421,7 @@
 ||iteer.net
 ||itek-training.com
 ||itellyou.com
+||itellyou.pub
 ||itensoft.com
 ||iter168.com
 ||itest.info
@@ -29683,6 +29675,7 @@
 ||ixpub.net
 ||ixs.la
 ||ixsch.com
+||ixudao.com
 ||ixueshu.com
 ||ixueyi.com
 ||ixueyi.net
@@ -33243,7 +33236,6 @@
 ||kuaizy.com
 ||kuajing.com
 ||kuajing.hk
-||kuajingbiji.com
 ||kuajingyan.com
 ||kuakao.com
 ||kuakao.net
@@ -35094,7 +35086,6 @@
 ||liyujn.com
 ||lizaike.com
 ||lizhaoblog.com
-||lizhaoxiang.com
 ||lizhehaozhongyi.com
 ||lizhenwang.com
 ||lizhi.com
@@ -35197,7 +35188,6 @@
 ||lmlym.com
 ||lmm8.com
 ||lmnsaas.com
-||lms.im
 ||lmsail.com
 ||lmth2013.com
 ||lmtw.com
@@ -36162,6 +36152,7 @@
 ||magentochina.org
 ||magewell.com
 ||magi.com
+||magic-school.com
 ||magicax.com
 ||magicdata.io
 ||magicleaders.com
@@ -37539,6 +37530,7 @@
 ||mkzhou.com
 ||mkzoo.com
 ||ml-kq.com
+||ml.cdn-apple.com
 ||mlairport.com
 ||mlgj.com
 ||mlibaba.com
@@ -38320,7 +38312,6 @@
 ||myanmarembassy.com
 ||myantu.com
 ||myapp.com
-||myapp.ltd
 ||myaqsh.com
 ||myarowanas.com
 ||myauth.us
@@ -39039,6 +39030,7 @@
 ||nexmoe.com
 ||nexon.to
 ||nextclass.club
+||nextclass.com
 ||nextday.im
 ||nextjoy.com
 ||nexto2o.com
@@ -41153,6 +41145,7 @@
 ||pinganyun.com
 ||pinganzhengyang.com
 ||pingcap.com
+||pingcode.com
 ||pingcode.tech
 ||pingcoo.com
 ||pingfangx.com
@@ -41951,7 +41944,6 @@
 ||qbxz.com
 ||qc-hr.com
 ||qc178.com
-||qc188.com
 ||qc6.com
 ||qcc.com
 ||qcc.qualcomm.com
@@ -44010,7 +44002,6 @@
 ||rmzt.com
 ||rmzxb.com
 ||rn-hswh.com
-||rnbqvet.com
 ||rnfengwo.com
 ||rngtest.com
 ||rnhqxh.com
@@ -52059,6 +52050,7 @@
 ||vdnsv.com
 ||vdolady.com
 ||vdongchina.com
+||vdyoo.com
 ||ve70.com
 ||vearne.cc
 ||vecentek.com
@@ -52442,7 +52434,6 @@
 ||voovlive.com
 ||voovmeeting.com
 ||vortexfun.com
-||vote8.cc
 ||vote8.com
 ||voycn.com
 ||voyooo.com
@@ -54674,7 +54665,6 @@
 ||wps-office.net
 ||wpscdn.com
 ||wpsdns.com
-||wpsep.com
 ||wpsgo.com
 ||wpsmail.net
 ||wpsoffice.com
@@ -54977,7 +54967,6 @@
 ||wutanyuhuatan.com
 ||wutep.com
 ||wutianqi.com
-||wutongbao123.xyz
 ||wutongguo.com
 ||wutongtec.com
 ||wutongxiang.cc
@@ -55148,7 +55137,6 @@
 ||wxjx123.com
 ||wxkj666.com
 ||wxkjwlw.com
-||wxkol.com
 ||wxlagame.com
 ||wxlongre.com
 ||wxmama.com
@@ -55439,7 +55427,6 @@
 ||xbpz9.com
 ||xbrl-cn.org
 ||xbrother.com
-||xbspace.com
 ||xbuwrp.sbs
 ||xbwbh.com
 ||xbwebyun.com
@@ -55986,6 +55973,7 @@
 ||xiaolangtt.com
 ||xiaolantiao.com
 ||xiaoleidm.com
+||xiaoleimob.com
 ||xiaoliangkou.com
 ||xiaoliebian.com
 ||xiaoligushihui.com
@@ -56175,6 +56163,7 @@
 ||xiaozuan8.com
 ||xiaozujian.com
 ||xiaozuowen.net
+||xiaozusun.top
 ||xiappt.com
 ||xiaqunfeng.cc
 ||xiarenzhuxin.com
@@ -57080,7 +57069,6 @@
 ||xp9365.com
 ||xpaper.com
 ||xpaper.net
-||xpaper.vip
 ||xpccdn.com
 ||xpcha.com
 ||xpdf.net
@@ -57840,7 +57828,6 @@
 ||yangwangauto.com
 ||yangwc.com
 ||yangxiang.com
-||yangxiangming.com
 ||yangxikun.com
 ||yangxingzhen.com
 ||yangyangad.com
@@ -58534,7 +58521,6 @@
 ||yimengmusic.com
 ||yimenonline.com
 ||yimenseo.net
-||yimenyun.net
 ||yimian.xyz
 ||yimianmian.com
 ||yimiaozhongdemeng.com
