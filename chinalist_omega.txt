@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-02-08 01:07:05 UTC
+! Updated: 2024-02-09 01:07:12 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -6404,7 +6404,6 @@
 ||987.com
 ||9873.com
 ||987app.com
-||987jx.net
 ||987you.com
 ||98809.com
 ||988272.com
@@ -12436,6 +12435,7 @@
 ||cdnhwckfz116.com
 ||cdnhwckon103.com
 ||cdnhwclxu105.com
+||cdnhwcohm19.com
 ||cdnhwcprh113.com
 ||cdnhwctnm107.com
 ||cdnhwcupf06.com
@@ -15650,7 +15650,6 @@
 ||cqbnedu.com
 ||cqbnrc.com
 ||cqbntv.com
-||cqbyer.net
 ||cqbys.com
 ||cqcaee.com
 ||cqcatr.com
@@ -16845,7 +16844,6 @@
 ||data5u.com
 ||data777.com
 ||data985.com
-||datacachelocation.com
 ||datacaciques.com
 ||datacname.com
 ||datadragon.net
@@ -17791,7 +17789,6 @@
 ||div.io
 ||divcss5.com
 ||divepai.com
-||divetgallery.com
 ||diving-fish.com
 ||diwork.com
 ||dixintong.com
@@ -18170,7 +18167,6 @@
 ||domengle.com
 ||dominoh.com
 ||domobcdn.com
-||domolo.com
 ||domp4.cc
 ||domyshop.com
 ||donews.com
@@ -29655,7 +29651,6 @@
 ||iucars.com
 ||iucdn.com
 ||iuctrip.com
-||iudodo.com
 ||iufida.com
 ||iuinns.com
 ||iuni.com
@@ -33957,7 +33952,6 @@
 ||laserfair.com
 ||lashou.com
 ||lastdream.net
-||lasy.site
 ||lategege.com
 ||latepost.com
 ||latexstudio.net
@@ -35676,7 +35670,6 @@
 ||lsfyw.net
 ||lsg3.com
 ||lsgrandtheatre.com
-||lsgsgs.com
 ||lsgw.com
 ||lsgzn.com
 ||lsh-cat.com
@@ -48763,7 +48756,6 @@
 ||szlilun.com
 ||szline9.com
 ||szlingsheng.com
-||szlips.com
 ||szlos.com
 ||szlottery.org
 ||szltech.com
@@ -52609,6 +52601,7 @@
 ||vpssir.com
 ||vpsss.net
 ||vpszh.com
+||vqlai.com
 ||vqs.com
 ||vqu.show
 ||vqudo.com
@@ -56771,7 +56764,6 @@
 ||xishuai.com
 ||xishuai.net
 ||xishuashuatuan.com
-||xisj.com
 ||xitaoinfo.com
 ||xitek.com
 ||xitek.net
@@ -57254,7 +57246,6 @@
 ||xqnmz.com
 ||xqsbw.com
 ||xqship.com
-||xqtesting.com
 ||xqyk024.com
 ||xqypay.com
 ||xrcch.com
@@ -57327,7 +57318,6 @@
 ||xsstomy.com
 ||xssz.net
 ||xsteach.com
-||xsthmy.com
 ||xsti.net
 ||xstqj.com
 ||xstx.info
@@ -57638,7 +57628,6 @@
 ||xwjr.com
 ||xwjy.org
 ||xwkjcms.com
-||xwko.com
 ||xwlunwen.com
 ||xwlxw.com
 ||xwtex.com
