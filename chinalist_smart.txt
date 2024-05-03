@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-05-02 01:10:46 UTC
+! Updated: 2024-05-03 01:14:21 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-6.com
@@ -689,6 +689,7 @@
 @@||100-tong.com
 @@||100.com
 @@||100.me
+@@||100.travel
 @@||1000.com
 @@||10000.com
 @@||10000.sh
@@ -791,7 +792,6 @@
 @@||100weidu.com
 @@||100wen.com
 @@||100wsanguo.com
-@@||100x100w.com
 @@||100xgj.com
 @@||100xhs.com
 @@||100xiao.com
@@ -7231,7 +7231,6 @@
 @@||99wj.com
 @@||99wuxian.com
 @@||99xr.com
-@@||99xsh.com
 @@||99xueshu.com
 @@||99youmeng.com
 @@||99ys.com
@@ -13758,7 +13757,6 @@
 @@||ccpc360.com
 @@||ccpgssd.com
 @@||ccpit-academy.org
-@@||ccpit-henan.org
 @@||ccpit-sichuan.org
 @@||ccpit-sx.org
 @@||ccpit-tga.org
@@ -16185,7 +16183,6 @@
 @@||city12580.com
 @@||city199.com
 @@||city8.com
-@@||city84.com
 @@||citygf.com
 @@||cityhui.com
 @@||citylinker.com
@@ -17076,7 +17073,6 @@
 @@||cnqd.net
 @@||cnqiang.com
 @@||cnqichun.com
-@@||cnqjc.com
 @@||cnqjw.com
 @@||cnqr.org
 @@||cnquanjing.com
@@ -23493,7 +23489,6 @@
 @@||fatbobman.com
 @@||fatedier.com
 @@||fatiao.pro
-@@||fatjio.xyz
 @@||fatvg.com
 @@||faussefrance.com
 @@||faussemontrerolex.com
@@ -25548,7 +25543,6 @@
 @@||gdwxyf.com
 @@||gdxfl.com
 @@||gdxindun.com
-@@||gdxinya.com
 @@||gdxmsx.com
 @@||gdxscode.com
 @@||gdxxb.com
@@ -47658,7 +47652,6 @@
 @@||plusgantt.com
 @@||plusplustu.com
 @@||plutuspay.com
-@@||pluvet.com
 @@||plycd.com
 @@||plyz.net
 @@||pm-summit.org
@@ -47991,7 +47984,6 @@
 @@||printhome.com
 @@||printidea.art
 @@||printlake.com
-@@||prior24.com
 @@||privateadx.com
 @@||privatess.win
 @@||privspace.net
