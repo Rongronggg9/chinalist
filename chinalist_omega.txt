@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-05-28 01:14:29 UTC
+! Updated: 2024-05-29 01:17:51 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -1381,6 +1381,7 @@
 ||1688la.com
 ||1688na.com
 ||1688s.com
+||1688ts4.com
 ||1688tsw.com
 ||1688zhuce.com
 ||16898.cc
@@ -2623,7 +2624,6 @@
 ||31byq.com
 ||31bzjx.com
 ||31cg.com
-||31chaxun.com
 ||31doc.com
 ||31expo.com
 ||31fabu.com
@@ -4367,7 +4367,6 @@
 ||520740.com
 ||520810.xyz
 ||52091w.com
-||520990.com
 ||520cc.com
 ||520cfc.com
 ||520chs.com
@@ -4736,6 +4735,7 @@
 ||555bb999ww.com
 ||555dy.fun
 ||555dyy1.com
+||555edu.net
 ||555yst.com
 ||555zw.com
 ||5566.net
@@ -5218,7 +5218,6 @@
 ||5zzbets.com
 ||5zzu.com
 ||6-china.com
-||600052.com
 ||6000feet.com
 ||600280.com
 ||600895.com
@@ -6690,7 +6689,6 @@
 ||91liangcai.com
 ||91listen.com
 ||91lx.com
-||91lxs.com
 ||91maibiao.com
 ||91maker.com
 ||91mariadb.com
@@ -6705,6 +6703,7 @@
 ||91php.com
 ||91pic.org
 ||91pkpk.com
+||91post.com
 ||91q.com
 ||91quce.com
 ||91rjz.com
@@ -6777,6 +6776,7 @@
 ||91yxbox.com
 ||91yxl.com
 ||91zhiwang.com
+||91zhongkao.com
 ||91zxw.com
 ||92.net
 ||921.com
@@ -7663,7 +7663,6 @@
 ||ad-survey.com
 ||ad-young.com
 ||ad110.com
-||ad12345.com
 ||ad321.cc
 ||ad5.com
 ||ad518.com
@@ -10432,6 +10431,7 @@
 ||baizhiedu.com
 ||baizhu.cc
 ||baizihaoping.com
+||baizlink.com
 ||bajiebofang.com
 ||bajiecaiji.com
 ||bajiehechuang.com
@@ -12843,6 +12843,7 @@
 ||burningvocabulary.com
 ||burongyi.com
 ||bus365.com
+||bus6e.com
 ||bus84.com
 ||busbaoche.com
 ||bushangban.com
@@ -17255,6 +17256,7 @@
 ||cnxnmy.com
 ||cnxos.com
 ||cnxuntu.com
+||cnxyk.com
 ||cnxzm.com
 ||cnyanglao.com
 ||cnyings.com
@@ -17524,7 +17526,6 @@
 ||contentchina.com
 ||contentchina.net
 ||contentstore.htcvive.com
-||contiez.com
 ||controlinai.com
 ||conuo.com
 ||convergemob.com
@@ -17733,7 +17734,6 @@
 ||cpubbs.com
 ||cpvjob.com
 ||cpython.org
-||cpzjzx.com
 ||cq-ct.tech
 ||cq-rongjia.com
 ||cq-wnl.com
@@ -17897,7 +17897,6 @@
 ||cqxayl.com
 ||cqxcx.net
 ||cqxdfpr.com
-||cqxds.com
 ||cqxh120.com
 ||cqxiehe.com
 ||cqxingyun.com
@@ -19044,7 +19043,6 @@
 ||daoguo.com
 ||daohang4.com
 ||daohang88.com
-||daohangmao.net
 ||daohangtx.com
 ||daohui.net
 ||daohuo.shop
@@ -21080,7 +21078,6 @@
 ||drv.tw
 ||drvi.net
 ||drvsky.com
-||ds-360.com
 ||ds123456.com
 ||ds5f.com
 ||dsb.ink
@@ -23951,6 +23948,7 @@
 ||fequan.com
 ||ferlie.net
 ||ferlytc.com
+||ferro-alloys.com
 ||fersese.com
 ||fescoadecco.com
 ||fescogroup.com
@@ -24288,6 +24286,7 @@
 ||flower33.com
 ||flowerknows.co
 ||flowever.net
+||flowlbkj.com
 ||flowportal.com
 ||flpsz.com
 ||flstudiochina.com
@@ -29022,7 +29021,6 @@
 ||hebeijd.com
 ||hebeinongzi.com
 ||hebeisaixin.com
-||hebeiyunxi.com
 ||hebeizhouji.com
 ||hebeizuqiu.net
 ||hebgtjt.com
@@ -29968,6 +29966,7 @@
 ||hnaiya.com
 ||hnangel.com
 ||hnapay.com
+||hnartces857.live
 ||hnaues.com
 ||hnayg.com
 ||hnbaili.net
@@ -30090,6 +30089,7 @@
 ||hnredcross.com
 ||hnrich.net
 ||hnrmb.com
+||hnrmtjg.com
 ||hnrpc.com
 ||hnrsks.com
 ||hnrszhjc.com
@@ -32413,6 +32413,7 @@
 ||id6.me
 ||ida-a.org
 ||idachu.com
+||idacn.org
 ||idadt.com
 ||idafen.com
 ||idailycar.com
@@ -32504,7 +32505,6 @@
 ||ideng.com
 ||idesktopcal.com
 ||idevz.org
-||idfenxiang.com
 ||idgvc.com
 ||idianchou.com
 ||idianfa.com
@@ -34739,6 +34739,7 @@
 ||jhgujia.com
 ||jhltsl.com
 ||jhm2012.com
+||jhmnew.com
 ||jhnsh.com
 ||jhnsyh.com
 ||jhonge.net
@@ -36729,6 +36730,8 @@
 ||just4fun.site
 ||just998.com
 ||justalkcloud.com
+||justbbs.org
+||justbbs0.com
 ||justbilt.com
 ||justbon.com
 ||justep.com
@@ -37008,6 +37011,7 @@
 ||jyzzx.com
 ||jz-cert.com
 ||jz-hy.com
+||jz-ins.com
 ||jz-job.com
 ||jz0045.com
 ||jz08.com
@@ -39203,7 +39207,6 @@
 ||lc044.love
 ||lc1001.com
 ||lc123.net
-||lc77.com
 ||lc787.com
 ||lcatgame.com
 ||lcbdf.net
@@ -41418,7 +41421,6 @@
 ||lvse.com
 ||lvsenbao.com
 ||lvseyouxue.com
-||lvshi567.com
 ||lvshidaxia.com
 ||lvshiguan.com
 ||lvshiminglu.com
@@ -41476,6 +41478,7 @@
 ||lwork.com
 ||lwrcb.com
 ||lwsay.com
+||lwshuku.info
 ||lwtylqx.com
 ||lwxgds.com
 ||lwxs9.com
@@ -43744,7 +43747,6 @@
 ||mojitest.com
 ||mojocube.com
 ||mokahr.com
-||mokalady.com
 ||mokaoba.com
 ||mokatyper.com
 ||mokayuedu.com
@@ -47558,7 +47560,6 @@
 ||piaget-hello.com
 ||piakw.xyz
 ||pianohl.com
-||pianona.com
 ||pianoun.com
 ||piantou.net
 ||pianyit.com
@@ -47918,6 +47919,7 @@
 ||plrsw.com
 ||plsadx.com
 ||plsfybjy.com
+||plumcrk.com
 ||pluosi.com
 ||plures.net
 ||plus.dji.com
@@ -49390,7 +49392,6 @@
 ||qishengliang.com
 ||qishixitong.com
 ||qishixunmei.com
-||qishu.co
 ||qishu.tw
 ||qishu.vip
 ||qishui.com
@@ -49989,7 +49990,6 @@
 ||quegame.com
 ||quegui.run
 ||queji.tw
-||quelingfei.com
 ||queniuaa.com
 ||queniuak.com
 ||queniubg.com
@@ -50082,6 +50082,7 @@
 ||qumaiyao.com
 ||qumifeng.com
 ||qumingdashi.com
+||quminglemei.com
 ||qumingxing.com
 ||qumitech.com
 ||qun-net.com
@@ -50937,6 +50938,7 @@
 ||rizhao9.com
 ||rizhaociming.com
 ||rizhaokjg.com
+||rizhaosteel.com
 ||rizhiyi.com
 ||rizhuti.com
 ||rj-bai.com
@@ -53969,7 +53971,6 @@
 ||sibida.net
 ||siboda-nb.com
 ||sibuzyn.com
-||sicangart.com
 ||sicent.com
 ||sicheng.net
 ||sicher-elevator.com
@@ -56265,6 +56266,7 @@
 ||sydaxxw.com
 ||sydcch.com
 ||sydcdjt.com
+||sydfty.com
 ||sydimg.com
 ||sydjwl.com
 ||sydw8.com
@@ -57952,6 +57954,7 @@
 ||tielu.org
 ||tiepishihu.com
 ||tiequangame.com
+||tieshuwang.net
 ||tietie.la
 ||tietuku.com
 ||tieweishi.com
@@ -59299,7 +59302,6 @@
 ||tv0001.com
 ||tv002.com
 ||tv189.com
-||tv432.com
 ||tv6u8m.com
 ||tvandnet.com
 ||tvapk.com
@@ -61978,7 +61980,6 @@
 ||weilaizhaiju.com
 ||weilaizhushou.com
 ||weilan27.com
-||weilanhaian.com
 ||weilanliuxue.com
 ||weilansu.com
 ||weilanwl.com
@@ -63333,6 +63334,7 @@
 ||woqifoundation.com
 ||woqu.com
 ||woquyun.com
+||wor2d1.com
 ||word666.com
 ||wordlm.com
 ||wordpress.la
@@ -63421,7 +63423,6 @@
 ||woyaozhan.com
 ||woying.com
 ||woyoo.com
-||woyou.cool
 ||woyouche.com
 ||woyouquan.net
 ||wozaijia.com
@@ -67073,7 +67074,6 @@
 ||yalongsi.com
 ||yalqq8976.com
 ||yamaijia.net
-||yameijie.com
 ||yameisj.com
 ||yamibo.com
 ||yan678.com
@@ -69293,6 +69293,7 @@
 ||ysok.net
 ||ysoow.com
 ||ysplay.com
+||ysrencai.com
 ||ysrh.com
 ||yssp88.com
 ||ysstech.com
