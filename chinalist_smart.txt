@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-08-15 01:17:10 UTC
+! Updated: 2024-08-16 01:21:02 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-6.com
@@ -5066,6 +5066,7 @@
 @@||54seaman.com
 @@||54sh.com
 @@||54traveler.com
+@@||54tup.com
 @@||54tusi.com
 @@||54watch.com
 @@||54xiaoshuo.com
@@ -38856,6 +38857,7 @@
 @@||ictcsr.org
 @@||ictdns.fun
 @@||ictdns.store
+@@||ictdns.tech
 @@||ictehi.com
 @@||ictest8.com
 @@||icthb.com
@@ -81430,6 +81432,7 @@
 @@||youcaiyun.com
 @@||youcaizhushou.com
 @@||youcan-agritech.com
+@@||youcareyk.com
 @@||youcash.com
 @@||youcha.net
 @@||youche.com
