@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2025-01-15 01:35:29 UTC
+! Updated: 2025-01-16 01:34:48 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0.zone
@@ -1956,7 +1956,6 @@
 ||188yd.com
 ||189002.com
 ||1892139.com
-||18935689292.com
 ||18937777777.com
 ||18999666.xyz
 ||189cha.com
@@ -6637,7 +6636,6 @@
 ||77hd.com
 ||77hudong.com
 ||77itv.com
-||77kp.co
 ||77l.com
 ||77lux.com
 ||77mh.app
@@ -8952,7 +8950,6 @@
 ||aesucai.com
 ||aet21.com
 ||aevit.xyz
-||aexpb8.tokyo
 ||aexpec.com
 ||af36.com
 ||af360.com
@@ -39147,7 +39144,6 @@
 ||hrloo.com
 ||hrm100.com
 ||hrmarket.net
-||hrmooc.com
 ||hrmtgroup.com
 ||hroot.co
 ||hroot.com
@@ -40562,7 +40558,6 @@
 ||hxys.com
 ||hxytea.com
 ||hxytw.com
-||hxyw.net
 ||hxyxt.com
 ||hxyyad.com
 ||hxyyw.com
@@ -44263,7 +44258,6 @@
 ||jiakaobaodian.com
 ||jiakaodashi.com
 ||jiakaokemuyi.com
-||jialada.com
 ||jialanling.com
 ||jialaxin.cc
 ||jialebao.cc
@@ -53994,7 +53988,6 @@
 ||me361.com
 ||me4399.com
 ||meadin.com
-||meadowhiker.com
 ||meazhi.com
 ||meb.com
 ||mebo.com
@@ -54443,7 +54436,6 @@
 ||meten.com
 ||meteni.com
 ||metenk12.com
-||meterchina.com
 ||meteric.com
 ||metersbonwe.com
 ||metin520.com
@@ -61634,7 +61626,6 @@
 ||puzzles100.com
 ||pv001.net
 ||pv138.com
-||pv4b.com
 ||pvc-diban.net
 ||pvc123.com
 ||pvcliping.com
@@ -65240,7 +65231,6 @@
 ||rtyxpt.com
 ||rtyy.com
 ||rtyykj.com
-||ru4.com
 ||ru5sq.com
 ||ruan.cloud
 ||ruancan.com
@@ -69617,7 +69607,6 @@
 ||snsfun.cc
 ||snsfun.com
 ||snsggzy.com
-||snshopf79.site
 ||snsii.com
 ||snsnb.com
 ||snsqw.com
@@ -72667,7 +72656,6 @@
 ||tc9011.com
 ||tc930.com
 ||tccxfw.com
-||tcdai.com
 ||tcdaogui.cyou
 ||tcdinfo.com
 ||tcdnlive.com
@@ -74450,7 +74438,6 @@
 ||toyota-nanning.com
 ||toyoures.com
 ||toyoutesting.com
-||toys.show
 ||toysir.com
 ||toysol.com
 ||tozzger.info
@@ -79003,7 +78990,6 @@
 ||whgjzt.com
 ||whgk.com
 ||whgmbwg.com
-||whgmxy.com
 ||whgszx.com
 ||whgtgh.com
 ||whguanshan.com
@@ -83747,7 +83733,6 @@
 ||xnwan.com
 ||xnwatch.com
 ||xnwmw.com
-||xnwsc.com
 ||xny365.com
 ||xnyauto.com
 ||xnye.net
@@ -89845,7 +89830,6 @@
 ||zhaibian.com
 ||zhaidou.com
 ||zhaihai.com
-||zhaiiker.com
 ||zhaikexueyuan.com
 ||zhaimansky.com
 ||zhainanba.net
