@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2025-03-16 01:48:30 UTC
+! Updated: 2025-03-17 01:46:05 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0.zone
@@ -22131,7 +22131,6 @@
 ||cqrcb.com
 ||cqrcdsc.com
 ||cqrfym.com
-||cqrjx.com
 ||cqrm.com
 ||cqrmb.com
 ||cqsckj02.com
@@ -47397,7 +47396,6 @@
 ||jjjaaa.com
 ||jjjllk.com
 ||jjjpv.com
-||jjjx9.com
 ||jjkeq.com
 ||jjkjnet.com
 ||jjkk.org
@@ -48297,6 +48295,7 @@
 ||jswebcall.com
 ||jsweixiu.com
 ||jswel.com
+||jswenjin.com
 ||jswjkj.net
 ||jswmw.com
 ||jswonderful.com
@@ -51294,7 +51293,6 @@
 ||lacaoshi.com
 ||lacesar.com
 ||lacocrea.com
-||lacyw.com
 ||ladiyoga.com
 ||ladjzs.com
 ||lady177.com
@@ -78510,7 +78508,6 @@
 ||tzsti.com
 ||tzsucai.com
 ||tzswatch.com
-||tzswll.com
 ||tztrzjt.com
 ||tztusi.com
 ||tzujian.com
@@ -79912,6 +79909,7 @@
 ||viewstock.com
 ||viewtool.com
 ||viewtrans.com
+||vifaka.com
 ||vigtm-meeting-tencent.com
 ||viigee.com
 ||viisan.com
