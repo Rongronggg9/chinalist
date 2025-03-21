@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2025-03-20 01:42:48 UTC
+! Updated: 2025-03-21 01:44:44 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0.zone
@@ -1534,6 +1534,7 @@
 ||15kuaixiu.com
 ||15lu.com
 ||15ms.com
+||15re.com
 ||15scsc.com
 ||15tianqi.com
 ||15xdd.com
@@ -9066,6 +9067,7 @@
 ||ace-info.com
 ||ace-pow.com
 ||ace-rubber.com
+||ace113.com
 ||acejoy.com
 ||acelamicro.com
 ||aceoo.com
@@ -20830,7 +20832,6 @@
 ||cmpay.com
 ||cmpe360.com
 ||cmpedu.com
-||cmqxysg.com
 ||cmread.com
 ||cmri.cc
 ||cms1924.org
@@ -24483,6 +24484,7 @@
 ||delilegal.com
 ||delin-sh.com
 ||delinklab.com
+||delipu.cc
 ||delishi.com
 ||deliworld.com
 ||delixi-electric.com
@@ -25667,7 +25669,6 @@
 ||dmzlpf.com
 ||dmzx.com
 ||dmzzbjb.net
-||dn-diy.com
 ||dn.com
 ||dn23.com
 ||dn580.com
@@ -33758,7 +33759,6 @@
 ||gozap.com
 ||gozongroup.com
 ||gp-tm.com
-||gp123.cc
 ||gp1903.com
 ||gp1907.com
 ||gp241.com
@@ -38662,7 +38662,6 @@
 ||hcschengtou.com
 ||hcsd123.com
 ||hcsdhgjzx.com
-||hcshebao.com
 ||hcsilk.com
 ||hcsjddc.com
 ||hcsound.com
@@ -40914,6 +40913,7 @@
 ||hpccube.com
 ||hpcssc.com
 ||hpeft.com
+||hpgamestream.com
 ||hpglw.com
 ||hph123.com
 ||hphuishou.com
@@ -44526,6 +44526,7 @@
 ||init-s01st-lb.push-apple.com.akadns.net
 ||init-s01st.push.apple.com
 ||init.ess.apple.com
+||initff.com
 ||initialview.com
 ||initpp.com
 ||initroot.com
@@ -55244,7 +55245,6 @@
 ||lwfengji.net
 ||lwfjmj.com
 ||lwfmzh.com
-||lwgfwz.com
 ||lwgsw.com
 ||lwguitar.com
 ||lwhouse.com
@@ -62131,6 +62131,7 @@
 ||omeet.cc
 ||omegatravel.net
 ||omegaxyz.com
+||omen.com
 ||omgxy.com
 ||omheth.com
 ||omiaozu.com
@@ -64260,7 +64261,6 @@
 ||popziti.com
 ||porlockz.com
 ||porquesifiestas.com
-||porschesky.com
 ||portalcdn.cdnetworks.com
 ||ports-intl.com
 ||portsgmt.com
@@ -82537,6 +82537,7 @@
 ||weisyun.com
 ||weitehui.com
 ||weitiaozhuan.com
+||weitietl.com
 ||weitiewang.com
 ||weitip.com
 ||weitoupiao.com
@@ -91974,7 +91975,6 @@
 ||youyi-game.com
 ||youyi800.com
 ||youyigame.com
-||youyiggg.com
 ||youyijifen.com
 ||youyijiu.com
 ||youyiqi.com
@@ -92198,7 +92198,6 @@
 ||ysext.com
 ||ysfog.com
 ||ysgang.com
-||ysgc.cc
 ||ysgfood.com
 ||ysghh.com
 ||ysgtg.com
@@ -93792,6 +93791,7 @@
 ||zbgscm.com
 ||zbhot.com
 ||zbhouse.com
+||zbhuafx.com
 ||zbicg.com
 ||zbieo.com
 ||zbii.com
