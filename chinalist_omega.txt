@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2025-05-13 01:53:12 UTC
+! Updated: 2025-05-18 01:58:47 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0.zone
@@ -65012,7 +65012,6 @@
 ||ldkqyy.com
 ||ldmap.net
 ||ldmnq.com
-||ldplayer.net
 ||ldqiztr.com
 ||ldqxn.com
 ||ldrcw.com
