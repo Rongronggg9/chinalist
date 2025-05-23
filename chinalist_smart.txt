@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2025-05-22 01:52:59 UTC
+! Updated: 2025-05-23 01:52:49 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0.zone
@@ -4079,6 +4079,7 @@
 @@||365355157.com
 @@||36543.com
 @@||365500.com
+@@||3656.com
 @@||365639355.com
 @@||36578.com
 @@||365960.com
@@ -54403,6 +54404,7 @@
 @@||ijunhai.com
 @@||ijunxun.com
 @@||ijuzhong.com
+@@||ijxuitr.com
 @@||ijycnd.com
 @@||ijzhang.com
 @@||ik123.com
@@ -62547,6 +62549,7 @@
 @@||kingdraw.com
 @@||kingdun.net
 @@||kingexplorer.com
+@@||kingfu-china.com
 @@||kingfulai.com
 @@||kinggoo.com
 @@||kinggrid.com
@@ -77984,6 +77987,7 @@
 @@||pbiso.com
 @@||pbkrs.com
 @@||pblie.com
+@@||pbqdhty.com
 @@||pbrcw.net
 @@||pbsvpn.com
 @@||pbtcw.com
@@ -92888,6 +92892,7 @@
 @@||sxbdf.com
 @@||sxbest.com
 @@||sxbjedu.com
+@@||sxbpa.com
 @@||sxbuszp.com
 @@||sxbychem.com
 @@||sxcahosp.com
@@ -107279,6 +107284,7 @@
 @@||xiaxs.la
 @@||xiayige.org
 @@||xiayijian.com
+@@||xiayixing.com
 @@||xiayx.com
 @@||xiazai.live
 @@||xiazai126.com
@@ -113899,6 +113905,7 @@
 @@||youxiake.com
 @@||youxiake.net
 @@||youxiamotors.com
+@@||youxiangclub.com
 @@||youxiangyx.com
 @@||youxiaoad.com
 @@||youxiaoge.com
