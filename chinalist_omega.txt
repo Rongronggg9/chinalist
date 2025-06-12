@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2025-06-09 02:01:10 UTC
+! Updated: 2025-06-12 01:55:07 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0.zone
@@ -66054,7 +66054,6 @@
 ||lingtool.com
 ||lingtu.com
 ||lingtuan.com
-||lingualeo.com
 ||lingumob.com
 ||linguoguang.com
 ||lingw.net
