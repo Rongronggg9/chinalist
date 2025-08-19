@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2025-08-07 02:08:19 UTC
+! Updated: 2025-08-19 01:52:40 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0.zone
@@ -37260,7 +37260,6 @@
 @@||furielec.com
 @@||furniture-channel.com
 @@||furongedu.com
-@@||furrybar.com
 @@||furrychina.com
 @@||furuijiaju.vip
 @@||furuise.com
