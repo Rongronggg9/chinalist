@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2025-08-19 01:52:40 UTC
+! Updated: 2025-08-22 01:49:48 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0.zone
@@ -54623,7 +54623,6 @@
 ||itiankong.net
 ||itianliao.com
 ||itiexue.net
-||itiger.com
 ||itigergrowth.com
 ||itigergrowtha.com
 ||itigerup.com
