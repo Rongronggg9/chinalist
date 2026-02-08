@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2026-02-06 02:31:57 UTC
+! Updated: 2026-02-08 02:54:31 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0.xn--czrs0t
@@ -63416,6 +63416,7 @@
 @@||liugongam.com
 @@||liugonggroup.com
 @@||liuguofeng.com
+@@||liuhanyu.com
 @@||liuhaolin.com
 @@||liuhubang.com
 @@||liujiagd.com
@@ -69559,6 +69560,7 @@
 @@||myshou.com
 @@||myshow800.com
 @@||myshown.com
+@@||mysinablog.com
 @@||mysinamail.com
 @@||mysipo.com
 @@||mysiteres.com
