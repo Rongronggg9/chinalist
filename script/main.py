@@ -2,7 +2,7 @@ from __future__ import annotations
 from typing import NoReturn
 
 import logging
-from datetime import datetime
+from datetime import datetime, UTC
 from functools import reduce
 from urllib.request import urlopen
 from http.client import HTTPResponse
@@ -73,7 +73,7 @@ def filter_list(ori_list: list[str], filter_out_list: list[str]) -> list[str]:
 
 def update_txt(new_list: list[str], path: str) -> NoReturn:
     logging.info(f'Updating {path}...')
-    with open(path, 'w') as file:
+    with open(path, 'w', newline='\n') as file:
         file.write('\n'.join(new_list))
 
 
@@ -92,7 +92,7 @@ def main():
         logging.info('No update.')
         return
 
-    info = f'[AutoProxy 0.2.9]\n! Updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")}'
+    info = f'[AutoProxy 0.2.9]\n! Updated: {datetime.now(UTC).strftime("%Y-%m-%d %H:%M:%S UTC")}'
     omega_list = [info, '! This chinalist only works with SwitchyOmega.',
                   '! For other versions, please check https://github.com/Rongronggg9/chinalist']
     smart_list = [info, '! This chinalist is expected to be used on SmartProxy.',
