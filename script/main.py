@@ -2,7 +2,7 @@ from __future__ import annotations
 from typing import NoReturn
 
 import logging
-from datetime import datetime
+from datetime import datetime, UTC
 from functools import reduce
 from urllib.request import urlopen
 from http.client import HTTPResponse
@@ -73,7 +73,7 @@ def filter_list(ori_list: list[str], filter_out_list: list[str]) -> list[str]:
 
 def update_txt(new_list: list[str], path: str) -> NoReturn:
     logging.info(f'Updating {path}...')
-    with open(path, 'w') as file:
+    with open(path, 'w', newline='\n') as file:
         file.write('\n'.join(new_list))
 
 
@@ -92,17 +92,22 @@ def main():
         logging.info('No update.')
         return
 
-    info = f'[AutoProxy 0.2.9]\n! Updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")}'
+    timestr = datetime.now(UTC).strftime("%Y-%m-%d %H:%M:%S UTC")
+    info = f'[AutoProxy 0.2.9]\n! Updated: {timestr}'
     omega_list = [info, '! This chinalist only works with SwitchyOmega.',
                   '! For other versions, please check https://github.com/Rongronggg9/chinalist']
     smart_list = [info, '! This chinalist is expected to be used on SmartProxy.',
                   '! For other versions, please check https://github.com/Rongronggg9/chinalist']
+    rpz_list = ['; https://github.com/Rongronggg9/chinalist', f'; Updated at {timestr}']
     for url in jointed_list:
         omega_list.append(f'||{url}')
         smart_list.append(f'@@||{url}')
+        rpz_list.append('\t'.join([url, '600', 'IN', 'CNAME', '.']))
+        rpz_list.append('\t'.join([f'*.{url}', '600', 'IN', 'CNAME', '.']))
 
     update_txt(omega_list, 'chinalist_omega.txt')
     update_txt(smart_list, 'chinalist_smart.txt')
+    update_txt(rpz_list, 'chinalist.rpz')
     update_txt(jointed_list, 'chinalist_plain.txt')
 
     logging.info('Update finished.')
