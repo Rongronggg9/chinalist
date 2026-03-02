@@ -92,17 +92,22 @@ def main():
         logging.info('No update.')
         return
 
-    info = f'[AutoProxy 0.2.9]\n! Updated: {datetime.now(UTC).strftime("%Y-%m-%d %H:%M:%S UTC")}'
+    timestr = datetime.now(UTC).strftime("%Y-%m-%d %H:%M:%S UTC")
+    info = f'[AutoProxy 0.2.9]\n! Updated: {timestr}'
     omega_list = [info, '! This chinalist only works with SwitchyOmega.',
                   '! For other versions, please check https://github.com/Rongronggg9/chinalist']
     smart_list = [info, '! This chinalist is expected to be used on SmartProxy.',
                   '! For other versions, please check https://github.com/Rongronggg9/chinalist']
+    rpz_list = ['; https://github.com/Rongronggg9/chinalist', f'; Updated at {timestr}']
     for url in jointed_list:
         omega_list.append(f'||{url}')
         smart_list.append(f'@@||{url}')
+        rpz_list.append('\t'.join([url, '600', 'IN', 'CNAME', '.']))
+        rpz_list.append('\t'.join([f'*.{url}', '600', 'IN', 'CNAME', '.']))
 
     update_txt(omega_list, 'chinalist_omega.txt')
     update_txt(smart_list, 'chinalist_smart.txt')
+    update_txt(rpz_list, 'chinalist.rpz')
     update_txt(jointed_list, 'chinalist_plain.txt')
 
     logging.info('Update finished.')

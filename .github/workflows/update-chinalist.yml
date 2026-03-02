@@ -42,3 +42,4 @@ jobs:
         run: |
           wget -q -O - https://purge.jsdelivr.net/gh/Rongronggg9/chinalist@latest/chinalist_smart.txt
           wget -q -O - https://purge.jsdelivr.net/gh/Rongronggg9/chinalist@latest/chinalist_omega.txt
+          wget -q -O - https://purge.jsdelivr.net/gh/Rongronggg9/chinalist@latest/chinalist.rpz
