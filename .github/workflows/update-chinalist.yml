@@ -20,10 +20,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up PyPy 3.9
+      - name: Set up PyPy 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: pypy-3.9
+          python-version: pypy-3.11
 
       - name: Update
         run: |
