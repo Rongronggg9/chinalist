@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2026-03-09 02:36:17 UTC
+! Updated: 2026-03-20 02:31:39 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0.xn--czrs0t
@@ -74665,7 +74665,6 @@
 ||okki.com
 ||okktee.com
 ||oklaapp.com
-||oklink.com
 ||oklinklink.com
 ||okmao.com
 ||okmart.com
