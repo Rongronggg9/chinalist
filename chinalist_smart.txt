@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2026-04-13 03:25:18 UTC
+! Updated: 2026-04-15 02:54:52 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0.xn--czrs0t
@@ -11774,6 +11774,7 @@
 @@||ailvxing.com
 @@||aim-ec.com
 @@||aimaker.space
+@@||aimap.com
 @@||aimatech.com
 @@||aimatrix.ai
 @@||aimcx.com
@@ -17441,6 +17442,7 @@
 @@||bjfqy.com
 @@||bjfriendshiphotel.com
 @@||bjfsali.com
+@@||bjftfy.com
 @@||bjfzst.com
 @@||bjgas.com
 @@||bjgasgh.com
@@ -21354,6 +21356,7 @@
 @@||cetgps.com
 @@||cethik.com
 @@||cetkmh.com
+@@||cetsteam.com
 @@||cetzig.com
 @@||ceultimate.com
 @@||ceve-market.org
@@ -35052,6 +35055,7 @@
 @@||evpartner.com
 @@||evpowergroup.com
 @@||evtcn.com
+@@||evtrust.com
 @@||evyy.net
 @@||evzhidao.com
 @@||evznl.org
@@ -37005,6 +37009,7 @@
 @@||fk100.com
 @@||fkask.net
 @@||fkblog.org
+@@||fkbuff.com
 @@||fkcaijing.com
 @@||fkdex.com
 @@||fkdmg.com
@@ -48108,6 +48113,7 @@
 @@||hivictor.net
 @@||hiwafer.com
 @@||hiwaysemi.com
+@@||hiwayslaw.com
 @@||hiwbb.com
 @@||hiwechats.com
 @@||hiweixiu.com
@@ -59856,6 +59862,7 @@
 @@||jxxdxy.com
 @@||jxxhdn.com
 @@||jxxhsd.com
+@@||jxxinzhe.com
 @@||jxxnyqc.com
 @@||jxxs.net
 @@||jxycqy.com
@@ -92986,6 +92993,7 @@
 @@||tencentcloudclub.com
 @@||tencentcloudcore.com
 @@||tencentcloudcr.com
+@@||tencentcloudcs.com
 @@||tencentcloudga.com
 @@||tencentcloudga001.com
 @@||tencentcloudga001.net
