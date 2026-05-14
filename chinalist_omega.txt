@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2026-05-13 03:49:29 UTC
+! Updated: 2026-05-14 03:49:03 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0.xn--czrs0t
@@ -1662,10 +1662,8 @@
 ||120askimages.com
 ||120bid.com
 ||120btc.com
-||120cihui.com
 ||120fd.com
 ||120it.com
-||120jg.com
 ||120jhccz.com
 ||120jinyi.com
 ||120jxxh.com
@@ -8572,7 +8570,6 @@
 ||84ktv.com
 ||84ny.com
 ||84zcb.com
-||850088.com
 ||850718.xyz
 ||85229666.com
 ||85253000.com
@@ -11688,7 +11685,6 @@
 ||aiyo99.com
 ||aiyong.work
 ||aiyongaiwan.com
-||aiyou.com
 ||aiyoumi.com
 ||aiyouxi.com
 ||aiyouzj.com
@@ -11938,7 +11934,6 @@
 ||alikunlun.com
 ||alikunlun.net
 ||alili.tech
-||aliliying.com
 ||aliloan.com
 ||aliluya.com
 ||alimama.com
@@ -16110,7 +16105,6 @@
 ||bi8brp.com
 ||bianbao.net
 ||bianbu.xyz
-||biancheng.net
 ||biancui.com
 ||biandangroup.com
 ||biandiantong.com
@@ -16939,7 +16933,6 @@
 ||bjjchf.com
 ||bjjdwx.com
 ||bjjfsd.com
-||bjjgyy.com
 ||bjjhhft.com
 ||bjjhhn.com
 ||bjjhsw.com
@@ -20152,7 +20145,6 @@
 ||cdn-cn4.apple-mapkit.com
 ||cdn-gw-dv.net
 ||cdn-gw-dv.vip
-||cdn-hotels.com
 ||cdn-hz.skypixel.com
 ||cdn-light-cms-cn.skypixel.com
 ||cdn-speed.com
@@ -24908,7 +24900,6 @@
 ||cnside.com
 ||cnsihai.com
 ||cnsikao.com
-||cnsilkworm.com
 ||cnsimeng.com
 ||cnsimin.com
 ||cnsiwu.com
@@ -28138,7 +28129,6 @@
 ||daniujiaoyu.com
 ||daniushiwan.com
 ||daniuwangxiao.com
-||danji100.com
 ||danji8.com
 ||danji9.com
 ||danjiang.com
@@ -30551,7 +30541,6 @@
 ||domob-inc.com
 ||domobcdn.com
 ||domor.net
-||domp4.cc
 ||domp4.net
 ||dondonwenda.com
 ||done-home.com
@@ -35186,7 +35175,6 @@
 ||fenghenever.com
 ||fenghong.tech
 ||fenghua001.com
-||fenghuangcanyin.com
 ||fenghuangxs.com
 ||fenghui-motor.com
 ||fenghuidongman.com
@@ -39047,7 +39035,6 @@
 ||glb6.com
 ||glbaishen.com
 ||glbdns.com
-||glblkq.com
 ||glby118.com
 ||glbyhotel.com
 ||glbyjdjt.com
@@ -40210,7 +40197,6 @@
 ||gsxgw.com
 ||gsxservice.com
 ||gsxtj.com
-||gsyc.icu
 ||gsydxzyy.com
 ||gsysportwear.com
 ||gsyth.com
@@ -44411,7 +44397,6 @@
 ||haoshuyou.net
 ||haoshuyun.com
 ||haositone.com
-||haosix.com
 ||haoso.com
 ||haosou.com
 ||haosou.net
@@ -53148,7 +53133,6 @@
 ||iway-tech.com
 ||iwebad.com
 ||iwebchoice.com
-||iwecan.net
 ||iweek.ly
 ||iweekapi.com
 ||iweidu.net
@@ -56437,7 +56421,6 @@
 ||jrs-live-score.com
 ||jrs-live-z.com
 ||jrs-watch-live.com
-||jrs-yc-hupu.com
 ||jrss.com
 ||jrszw.com
 ||jrteck.com
@@ -58430,7 +58413,6 @@
 ||kaolafm.net
 ||kaom.net
 ||kaomeiyuan.com
-||kaonaw.com
 ||kaonenyi.com
 ||kaopu001.com
 ||kaopubao.com
@@ -58921,7 +58903,6 @@
 ||kfqizhongji.com
 ||kfsddj.com
 ||kfskxy.com
-||kfvcca.com
 ||kfw001.com
 ||kfzdh.com
 ||kfzhinan.com
@@ -60067,7 +60048,6 @@
 ||kumiao.vip
 ||kumifeng.com
 ||kun-pharm.com
-||kun66.xyz
 ||kunchuang.com
 ||kunduo.com
 ||kungfucloud.com
@@ -63314,7 +63294,6 @@
 ||longjunjiayuan.com
 ||longk.com
 ||longkui.site
-||longkunjituan.com
 ||longkuntech.com
 ||longlijituan.com
 ||longlingas.com
@@ -64983,7 +64962,6 @@
 ||maimemo.com
 ||maimemostatus.com
 ||maimiaotech.com
-||mainaffyn-dev.com
 ||maindown4399.com
 ||maine1688.com
 ||mainlandip.com
@@ -67824,7 +67802,6 @@
 ||mou.ge
 ||mou.ren
 ||mouldbbs.com
-||mouldnews.com
 ||moulem.com
 ||moumi.com
 ||mounriver.com
@@ -71570,7 +71547,6 @@
 ||nyhpyq.com
 ||nyjy-china.com
 ||nylingshang.com
-||nync.com
 ||nypd520.com
 ||nyrmyy.com
 ||nysenba.com
@@ -72354,7 +72330,6 @@
 ||opwill.com
 ||opython.com
 ||oqss.com
-||oqwizd.com
 ||or-sun.com
 ||oraev.com
 ||orafl.com
@@ -74357,7 +74332,6 @@
 ||poploli.com
 ||popmart.com
 ||popmartfans.cc
-||popmtstyle.com
 ||popoffices.com
 ||popoho.com
 ||popoim.com
@@ -86779,7 +86753,6 @@
 ||superpb.com
 ||superpowercn.com
 ||superqq.com
-||superrrai77.com
 ||supers.ltd
 ||supersharket.com
 ||supersocket.net
@@ -91521,7 +91494,6 @@
 ||touwho.com
 ||touxiang8.com
 ||touxiang88.com
-||touxiangkong.com
 ||touying.com
 ||touzhijia.com
 ||touzi.com
@@ -93948,7 +93920,6 @@
 ||vanform.com
 ||vangelinu.com
 ||vangotech.com
-||vanguardstars.com
 ||vanjee.net
 ||vanjoin.com
 ||vankang.com
@@ -95632,7 +95603,6 @@
 ||wasucnc.com
 ||watch-space.com
 ||watch-top.net
-||watch1905.com
 ||watch4s.com
 ||watchadmin.com
 ||watchdios.com
@@ -98295,7 +98265,6 @@
 ||wsclsb.net
 ||wscn.net
 ||wscncdn.com
-||wscont2.apps.microsoft.com
 ||wscp.shop
 ||wscrm.net
 ||wscso.com
@@ -98838,7 +98807,6 @@
 ||www.samsung.com
 ||www.skypixel.com
 ||www.st.com
-||www.uz0.xyz
 ||www.vive.com
 ||www.viveport.com
 ||www.volvocars.com
@@ -100404,7 +100372,6 @@
 ||xiaohucloud.com
 ||xiaohufev.com
 ||xiaohulu.com
-||xiaohun.net
 ||xiaohuochai.cc
 ||xiaohuochai.site
 ||xiaohuohu.com
@@ -105205,7 +105172,6 @@
 ||yindudigital.com
 ||yindui.net
 ||yindunjituan.com
-||yinduzx.com
 ||yineitong.com
 ||yinengjituan.net
 ||yinengkt.com
@@ -106435,7 +106401,6 @@
 ||youfanx.com
 ||youfengbio.com
 ||youfubao.vip
-||youfujc.com
 ||youfunlab.com
 ||youfutongxinag.org
 ||youfuyoucai.com
@@ -107776,7 +107741,6 @@
 ||yunnancoffee.org
 ||yunnandns.com
 ||yunnanjun.com
-||yunnanlong.com
 ||yunnanuu.com
 ||yunnao.com
 ||yunneidongli.com
@@ -109622,7 +109586,6 @@
 ||zhangkc.com
 ||zhangketong.com
 ||zhangkongapp.com
-||zhangku.com
 ||zhangle.com
 ||zhangleglobal.com
 ||zhanglinfeng09.com
@@ -110840,7 +110803,6 @@
 ||zhubo123.com
 ||zhuboqiang.com
 ||zhuceshenzhengongsi.com
-||zhuceyou.com
 ||zhuchao.cc
 ||zhucheng.com
 ||zhuchengdc.com
