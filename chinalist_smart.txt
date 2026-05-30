@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2026-05-28 04:01:25 UTC
+! Updated: 2026-05-30 03:51:00 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0.xn--czrs0t
@@ -13300,7 +13300,6 @@
 @@||aryasec.com
 @@||as-doll.com
 @@||as-hitech.com
-@@||as.mr
 @@||as16.com
 @@||as3f.com
 @@||as5.com
