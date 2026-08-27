@@ -1,5 +1,5 @@
 ; https://github.com/Rongronggg9/chinalist
-; Updated at 2026-08-26 01:36:31 UTC
+; Updated at 2026-08-27 08:26:42 UTC
 0.xn--czrs0t	600	IN	CNAME	.
 *.0.xn--czrs0t	600	IN	CNAME	.
 0.xn--unup4y	600	IN	CNAME	.
@@ -2540,6 +2540,8 @@
 *.1010sh.com	600	IN	CNAME	.
 1010t.com	600	IN	CNAME	.
 *.1010t.com	600	IN	CNAME	.
+101212.com	600	IN	CNAME	.
+*.101212.com	600	IN	CNAME	.
 101505.com	600	IN	CNAME	.
 *.101505.com	600	IN	CNAME	.
 10155.com	600	IN	CNAME	.
@@ -3026,6 +3028,8 @@
 *.120sun.com	600	IN	CNAME	.
 120x.net	600	IN	CNAME	.
 *.120x.net	600	IN	CNAME	.
+121034.com	600	IN	CNAME	.
+*.121034.com	600	IN	CNAME	.
 121121.net	600	IN	CNAME	.
 *.121121.net	600	IN	CNAME	.
 1212.com	600	IN	CNAME	.
@@ -3112,6 +3116,8 @@
 *.123294.com	600	IN	CNAME	.
 123295.com	600	IN	CNAME	.
 *.123295.com	600	IN	CNAME	.
+123312.com	600	IN	CNAME	.
+*.123312.com	600	IN	CNAME	.
 12333.com	600	IN	CNAME	.
 *.12333.com	600	IN	CNAME	.
 12333.org	600	IN	CNAME	.
@@ -3862,6 +3868,8 @@
 *.163qiyukf.com	600	IN	CNAME	.
 163wh.com	600	IN	CNAME	.
 *.163wh.com	600	IN	CNAME	.
+163you.net	600	IN	CNAME	.
+*.163you.net	600	IN	CNAME	.
 163yu.com	600	IN	CNAME	.
 *.163yu.com	600	IN	CNAME	.
 163yun.com	600	IN	CNAME	.
@@ -3912,6 +3920,8 @@
 *.16757.com	600	IN	CNAME	.
 16768.com	600	IN	CNAME	.
 *.16768.com	600	IN	CNAME	.
+168.com	600	IN	CNAME	.
+*.168.com	600	IN	CNAME	.
 168.xn--vhquv	600	IN	CNAME	.
 *.168.xn--vhquv	600	IN	CNAME	.
 16816.com	600	IN	CNAME	.
@@ -4042,6 +4052,8 @@
 *.16game.net	600	IN	CNAME	.
 16hyt.com	600	IN	CNAME	.
 *.16hyt.com	600	IN	CNAME	.
+16ik.com	600	IN	CNAME	.
+*.16ik.com	600	IN	CNAME	.
 16lao.com	600	IN	CNAME	.
 *.16lao.com	600	IN	CNAME	.
 16p.com	600	IN	CNAME	.
@@ -5090,6 +5102,8 @@
 *.1cloudsp.com	600	IN	CNAME	.
 1cno.com	600	IN	CNAME	.
 *.1cno.com	600	IN	CNAME	.
+1cxb.com	600	IN	CNAME	.
+*.1cxb.com	600	IN	CNAME	.
 1d0b8b3d1800debe.com	600	IN	CNAME	.
 *.1d0b8b3d1800debe.com	600	IN	CNAME	.
 1d1d100.com	600	IN	CNAME	.
@@ -5192,6 +5206,8 @@
 *.1k2k.com	600	IN	CNAME	.
 1ka123.com	600	IN	CNAME	.
 *.1ka123.com	600	IN	CNAME	.
+1kanshu.cc	600	IN	CNAME	.
+*.1kanshu.cc	600	IN	CNAME	.
 1kapp.com	600	IN	CNAME	.
 *.1kapp.com	600	IN	CNAME	.
 1kcx.hk	600	IN	CNAME	.
@@ -5922,6 +5938,8 @@
 *.2288.org	600	IN	CNAME	.
 2288116ab4.shop	600	IN	CNAME	.
 *.2288116ab4.shop	600	IN	CNAME	.
+2288job.com	600	IN	CNAME	.
+*.2288job.com	600	IN	CNAME	.
 228job.com	600	IN	CNAME	.
 *.228job.com	600	IN	CNAME	.
 228tuchuang.com	600	IN	CNAME	.
@@ -6194,6 +6212,8 @@
 *.24money.com	600	IN	CNAME	.
 24om.com	600	IN	CNAME	.
 *.24om.com	600	IN	CNAME	.
+24pay.sbs	600	IN	CNAME	.
+*.24pay.sbs	600	IN	CNAME	.
 24th.com	600	IN	CNAME	.
 *.24th.com	600	IN	CNAME	.
 24timemap.com	600	IN	CNAME	.
@@ -6772,6 +6792,8 @@
 *.2p.com	600	IN	CNAME	.
 2pcdn.com	600	IN	CNAME	.
 *.2pcdn.com	600	IN	CNAME	.
+2ppt.com	600	IN	CNAME	.
+*.2ppt.com	600	IN	CNAME	.
 2q10.com	600	IN	CNAME	.
 *.2q10.com	600	IN	CNAME	.
 2qsc.com	600	IN	CNAME	.
@@ -9206,6 +9228,8 @@
 *.4009.com	600	IN	CNAME	.
 4009515151.com	600	IN	CNAME	.
 *.4009515151.com	600	IN	CNAME	.
+400980.com	600	IN	CNAME	.
+*.400980.com	600	IN	CNAME	.
 4009991000.com	600	IN	CNAME	.
 *.4009991000.com	600	IN	CNAME	.
 4009997658.com	600	IN	CNAME	.
@@ -9238,6 +9262,8 @@
 *.402faka.com	600	IN	CNAME	.
 404886.com	600	IN	CNAME	.
 *.404886.com	600	IN	CNAME	.
+404k.vip	600	IN	CNAME	.
+*.404k.vip	600	IN	CNAME	.
 404mzk.com	600	IN	CNAME	.
 *.404mzk.com	600	IN	CNAME	.
 404wan.com	600	IN	CNAME	.
@@ -9818,6 +9844,8 @@
 *.4c37ebc131010.beer	600	IN	CNAME	.
 4c43edd99cd8bb40.com	600	IN	CNAME	.
 *.4c43edd99cd8bb40.com	600	IN	CNAME	.
+4c44.com	600	IN	CNAME	.
+*.4c44.com	600	IN	CNAME	.
 4c4866d8179d6f70.com	600	IN	CNAME	.
 *.4c4866d8179d6f70.com	600	IN	CNAME	.
 4c55033b91010.beer	600	IN	CNAME	.
@@ -10800,6 +10828,8 @@
 *.51junde.com	600	IN	CNAME	.
 51junshi.com	600	IN	CNAME	.
 *.51junshi.com	600	IN	CNAME	.
+51kandianshi.com	600	IN	CNAME	.
+*.51kandianshi.com	600	IN	CNAME	.
 51kanmanhua.com	600	IN	CNAME	.
 *.51kanmanhua.com	600	IN	CNAME	.
 51kanong.com	600	IN	CNAME	.
@@ -10858,6 +10888,8 @@
 *.51link.com	600	IN	CNAME	.
 51liucheng.com	600	IN	CNAME	.
 *.51liucheng.com	600	IN	CNAME	.
+51livetv.com	600	IN	CNAME	.
+*.51livetv.com	600	IN	CNAME	.
 51losangeles.com	600	IN	CNAME	.
 *.51losangeles.com	600	IN	CNAME	.
 51lxrc.com	600	IN	CNAME	.
@@ -10960,6 +10992,8 @@
 *.51pinwei.com	600	IN	CNAME	.
 51pla.com	600	IN	CNAME	.
 *.51pla.com	600	IN	CNAME	.
+51poca.com	600	IN	CNAME	.
+*.51poca.com	600	IN	CNAME	.
 51pocket.com	600	IN	CNAME	.
 *.51pocket.com	600	IN	CNAME	.
 51pocket.net	600	IN	CNAME	.
@@ -11204,6 +11238,8 @@
 *.51uc.com	600	IN	CNAME	.
 51ukf.com	600	IN	CNAME	.
 *.51ukf.com	600	IN	CNAME	.
+51usz.com	600	IN	CNAME	.
+*.51usz.com	600	IN	CNAME	.
 51vhost.net	600	IN	CNAME	.
 *.51vhost.net	600	IN	CNAME	.
 51vimeo.com	600	IN	CNAME	.
@@ -11502,6 +11538,8 @@
 *.520zc.com	600	IN	CNAME	.
 520zg.net	600	IN	CNAME	.
 *.520zg.net	600	IN	CNAME	.
+521000.com	600	IN	CNAME	.
+*.521000.com	600	IN	CNAME	.
 5210601.com	600	IN	CNAME	.
 *.5210601.com	600	IN	CNAME	.
 52112.com	600	IN	CNAME	.
@@ -11912,6 +11950,8 @@
 *.52shipping.com	600	IN	CNAME	.
 52shuw.cc	600	IN	CNAME	.
 *.52shuw.cc	600	IN	CNAME	.
+52shuwang.com	600	IN	CNAME	.
+*.52shuwang.com	600	IN	CNAME	.
 52shuxue.com	600	IN	CNAME	.
 *.52shuxue.com	600	IN	CNAME	.
 52solution.com	600	IN	CNAME	.
@@ -12012,6 +12052,8 @@
 *.52youpiao.com	600	IN	CNAME	.
 52youtu.com	600	IN	CNAME	.
 *.52youtu.com	600	IN	CNAME	.
+52youzai.com	600	IN	CNAME	.
+*.52youzai.com	600	IN	CNAME	.
 52yq.com	600	IN	CNAME	.
 *.52yq.com	600	IN	CNAME	.
 52yushi.com	600	IN	CNAME	.
@@ -12586,6 +12628,8 @@
 *.56tj.com	600	IN	CNAME	.
 56tv.org	600	IN	CNAME	.
 *.56tv.org	600	IN	CNAME	.
+56tvc.com	600	IN	CNAME	.
+*.56tvc.com	600	IN	CNAME	.
 56uu.com	600	IN	CNAME	.
 *.56uu.com	600	IN	CNAME	.
 56xiniao.com	600	IN	CNAME	.
@@ -14760,6 +14804,8 @@
 *.6z6z.com	600	IN	CNAME	.
 6ze.net	600	IN	CNAME	.
 *.6ze.net	600	IN	CNAME	.
+6zhentan.com	600	IN	CNAME	.
+*.6zhentan.com	600	IN	CNAME	.
 6ziz.com	600	IN	CNAME	.
 *.6ziz.com	600	IN	CNAME	.
 6zu.com	600	IN	CNAME	.
@@ -15198,6 +15244,8 @@
 *.75n474.com	600	IN	CNAME	.
 75pk.com	600	IN	CNAME	.
 *.75pk.com	600	IN	CNAME	.
+75txt.com	600	IN	CNAME	.
+*.75txt.com	600	IN	CNAME	.
 75ww.com	600	IN	CNAME	.
 *.75ww.com	600	IN	CNAME	.
 76120.org	600	IN	CNAME	.
@@ -15744,6 +15792,8 @@
 *.7juju.com	600	IN	CNAME	.
 7k35.com	600	IN	CNAME	.
 *.7k35.com	600	IN	CNAME	.
+7k6k.com	600	IN	CNAME	.
+*.7k6k.com	600	IN	CNAME	.
 7k7k.com	600	IN	CNAME	.
 *.7k7k.com	600	IN	CNAME	.
 7k8k.com	600	IN	CNAME	.
@@ -15802,6 +15852,8 @@
 *.7r7z.com	600	IN	CNAME	.
 7rdao.com	600	IN	CNAME	.
 *.7rdao.com	600	IN	CNAME	.
+7risha.com	600	IN	CNAME	.
+*.7risha.com	600	IN	CNAME	.
 7road.com	600	IN	CNAME	.
 *.7road.com	600	IN	CNAME	.
 7road.net	600	IN	CNAME	.
@@ -15824,6 +15876,8 @@
 *.7su.com	600	IN	CNAME	.
 7syc.com	600	IN	CNAME	.
 *.7syc.com	600	IN	CNAME	.
+7syun.com	600	IN	CNAME	.
+*.7syun.com	600	IN	CNAME	.
 7t9.com	600	IN	CNAME	.
 *.7t9.com	600	IN	CNAME	.
 7tenet.net	600	IN	CNAME	.
@@ -16292,6 +16346,8 @@
 *.8329607.com	600	IN	CNAME	.
 833006.net	600	IN	CNAME	.
 *.833006.net	600	IN	CNAME	.
+83335888.com	600	IN	CNAME	.
+*.83335888.com	600	IN	CNAME	.
 8333dhz.com	600	IN	CNAME	.
 *.8333dhz.com	600	IN	CNAME	.
 8336.com	600	IN	CNAME	.
@@ -16508,6 +16564,8 @@
 *.86hk.vip	600	IN	CNAME	.
 86hr.com	600	IN	CNAME	.
 *.86hr.com	600	IN	CNAME	.
+86huoche.com	600	IN	CNAME	.
+*.86huoche.com	600	IN	CNAME	.
 86jg.com	600	IN	CNAME	.
 *.86jg.com	600	IN	CNAME	.
 86joy.com	600	IN	CNAME	.
@@ -16532,6 +16590,8 @@
 *.86pla.com	600	IN	CNAME	.
 86pm25.com	600	IN	CNAME	.
 *.86pm25.com	600	IN	CNAME	.
+86ps.com	600	IN	CNAME	.
+*.86ps.com	600	IN	CNAME	.
 86ps.net	600	IN	CNAME	.
 *.86ps.net	600	IN	CNAME	.
 86sb.com	600	IN	CNAME	.
@@ -17160,6 +17220,8 @@
 *.8wq.com	600	IN	CNAME	.
 8wss.com	600	IN	CNAME	.
 *.8wss.com	600	IN	CNAME	.
+8x14khzwmi.com	600	IN	CNAME	.
+*.8x14khzwmi.com	600	IN	CNAME	.
 8x5vviy4r2.com	600	IN	CNAME	.
 *.8x5vviy4r2.com	600	IN	CNAME	.
 8x6x.com	600	IN	CNAME	.
@@ -18382,6 +18444,8 @@
 *.96sir.com	600	IN	CNAME	.
 96weixin.com	600	IN	CNAME	.
 *.96weixin.com	600	IN	CNAME	.
+96xz.com	600	IN	CNAME	.
+*.96xz.com	600	IN	CNAME	.
 96yx.com	600	IN	CNAME	.
 *.96yx.com	600	IN	CNAME	.
 96zxue.com	600	IN	CNAME	.
@@ -18564,6 +18628,8 @@
 *.988878.com	600	IN	CNAME	.
 98892.com	600	IN	CNAME	.
 *.98892.com	600	IN	CNAME	.
+988dns.com	600	IN	CNAME	.
+*.988dns.com	600	IN	CNAME	.
 988sl.com	600	IN	CNAME	.
 *.988sl.com	600	IN	CNAME	.
 9891.com	600	IN	CNAME	.
@@ -18650,6 +18716,8 @@
 *.9911yx.com	600	IN	CNAME	.
 9917.com	600	IN	CNAME	.
 *.9917.com	600	IN	CNAME	.
+9917wan.com	600	IN	CNAME	.
+*.9917wan.com	600	IN	CNAME	.
 9918.tv	600	IN	CNAME	.
 *.9918.tv	600	IN	CNAME	.
 99193.com	600	IN	CNAME	.
@@ -19284,6 +19352,8 @@
 *.9yao.com	600	IN	CNAME	.
 9yaocn.com	600	IN	CNAME	.
 *.9yaocn.com	600	IN	CNAME	.
+9yaoyao.com	600	IN	CNAME	.
+*.9yaoyao.com	600	IN	CNAME	.
 9yc.com	600	IN	CNAME	.
 *.9yc.com	600	IN	CNAME	.
 9ye.com	600	IN	CNAME	.
@@ -19444,6 +19514,8 @@ a61cee76f4df41b1.com	600	IN	CNAME	.
 *.a61cee76f4df41b1.com	600	IN	CNAME	.
 a6562752811032.beer	600	IN	CNAME	.
 *.a6562752811032.beer	600	IN	CNAME	.
+a6api.com	600	IN	CNAME	.
+*.a6api.com	600	IN	CNAME	.
 a6h8.com	600	IN	CNAME	.
 *.a6h8.com	600	IN	CNAME	.
 a6ksw.net	600	IN	CNAME	.
@@ -19544,6 +19616,8 @@ aaayu.com	600	IN	CNAME	.
 *.aaayu.com	600	IN	CNAME	.
 aaayun.com	600	IN	CNAME	.
 *.aaayun.com	600	IN	CNAME	.
+aabb.com	600	IN	CNAME	.
+*.aabb.com	600	IN	CNAME	.
 aabqn.com	600	IN	CNAME	.
 *.aabqn.com	600	IN	CNAME	.
 aac3442de07869c0.com	600	IN	CNAME	.
@@ -19624,6 +19698,8 @@ abaa.cc	600	IN	CNAME	.
 *.abaa.cc	600	IN	CNAME	.
 abacaipu.com	600	IN	CNAME	.
 *.abacaipu.com	600	IN	CNAME	.
+abachem.com	600	IN	CNAME	.
+*.abachem.com	600	IN	CNAME	.
 abackup.com	600	IN	CNAME	.
 *.abackup.com	600	IN	CNAME	.
 abaizx.com	600	IN	CNAME	.
@@ -19886,6 +19962,8 @@ accesspath.com	600	IN	CNAME	.
 *.accesspath.com	600	IN	CNAME	.
 accgame.com	600	IN	CNAME	.
 *.accgame.com	600	IN	CNAME	.
+accio-ai.com	600	IN	CNAME	.
+*.accio-ai.com	600	IN	CNAME	.
 accio.ai	600	IN	CNAME	.
 *.accio.ai	600	IN	CNAME	.
 accio.com	600	IN	CNAME	.
@@ -19986,6 +20064,8 @@ acg6.com	600	IN	CNAME	.
 *.acg6.com	600	IN	CNAME	.
 acgdb.com	600	IN	CNAME	.
 *.acgdb.com	600	IN	CNAME	.
+acgdraw.com	600	IN	CNAME	.
+*.acgdraw.com	600	IN	CNAME	.
 acggit.com	600	IN	CNAME	.
 *.acggit.com	600	IN	CNAME	.
 acgist.com	600	IN	CNAME	.
@@ -20214,6 +20294,8 @@ adbiding.com	600	IN	CNAME	.
 *.adbiding.com	600	IN	CNAME	.
 adbkwai.com	600	IN	CNAME	.
 *.adbkwai.com	600	IN	CNAME	.
+adbrkwai.com	600	IN	CNAME	.
+*.adbrkwai.com	600	IN	CNAME	.
 adbvllc.cfd	600	IN	CNAME	.
 *.adbvllc.cfd	600	IN	CNAME	.
 adbxb.com	600	IN	CNAME	.
@@ -20282,6 +20364,8 @@ adglim.com	600	IN	CNAME	.
 *.adglim.com	600	IN	CNAME	.
 adgomob.com	600	IN	CNAME	.
 *.adgomob.com	600	IN	CNAME	.
+adgooda.com	600	IN	CNAME	.
+*.adgooda.com	600	IN	CNAME	.
 adguardprivate.com	600	IN	CNAME	.
 *.adguardprivate.com	600	IN	CNAME	.
 adhei.com	600	IN	CNAME	.
@@ -20390,6 +20474,8 @@ adnyg.com	600	IN	CNAME	.
 *.adnyg.com	600	IN	CNAME	.
 adobe-tool.com	600	IN	CNAME	.
 *.adobe-tool.com	600	IN	CNAME	.
+adobeacp.com	600	IN	CNAME	.
+*.adobeacp.com	600	IN	CNAME	.
 adobeae.com	600	IN	CNAME	.
 *.adobeae.com	600	IN	CNAME	.
 adobeedu.com	600	IN	CNAME	.
@@ -20822,6 +20908,8 @@ agenge.com	600	IN	CNAME	.
 *.agenge.com	600	IN	CNAME	.
 agenow.com	600	IN	CNAME	.
 *.agenow.com	600	IN	CNAME	.
+agentscope.io	600	IN	CNAME	.
+*.agentscope.io	600	IN	CNAME	.
 agentyun.com	600	IN	CNAME	.
 *.agentyun.com	600	IN	CNAME	.
 agentzh.org	600	IN	CNAME	.
@@ -21046,6 +21134,8 @@ ahhcbiotech.com	600	IN	CNAME	.
 *.ahhcbiotech.com	600	IN	CNAME	.
 ahhdb.com	600	IN	CNAME	.
 *.ahhdb.com	600	IN	CNAME	.
+ahhfangde.com	600	IN	CNAME	.
+*.ahhfangde.com	600	IN	CNAME	.
 ahhkedu.com	600	IN	CNAME	.
 *.ahhkedu.com	600	IN	CNAME	.
 ahhnsz.net	600	IN	CNAME	.
@@ -21234,12 +21324,16 @@ ahteacher.com	600	IN	CNAME	.
 *.ahteacher.com	600	IN	CNAME	.
 ahtelit.com	600	IN	CNAME	.
 *.ahtelit.com	600	IN	CNAME	.
+ahtkg.com	600	IN	CNAME	.
+*.ahtkg.com	600	IN	CNAME	.
 ahtlbyby.com	600	IN	CNAME	.
 *.ahtlbyby.com	600	IN	CNAME	.
 ahtongyuan.com	600	IN	CNAME	.
 *.ahtongyuan.com	600	IN	CNAME	.
 ahtrq.com	600	IN	CNAME	.
 *.ahtrq.com	600	IN	CNAME	.
+ahtxxh.com	600	IN	CNAME	.
+*.ahtxxh.com	600	IN	CNAME	.
 ahtxyyjt.com	600	IN	CNAME	.
 *.ahtxyyjt.com	600	IN	CNAME	.
 ahtypg.com	600	IN	CNAME	.
@@ -21670,6 +21764,8 @@ aifenlei.com	600	IN	CNAME	.
 *.aifenlei.com	600	IN	CNAME	.
 aifooler.com	600	IN	CNAME	.
 *.aifooler.com	600	IN	CNAME	.
+aifortmix.com	600	IN	CNAME	.
+*.aifortmix.com	600	IN	CNAME	.
 aifoxtech.com	600	IN	CNAME	.
 *.aifoxtech.com	600	IN	CNAME	.
 aifu10.com	600	IN	CNAME	.
@@ -22432,6 +22528,8 @@ aixyy.com	600	IN	CNAME	.
 *.aixyy.com	600	IN	CNAME	.
 aixzu.com	600	IN	CNAME	.
 *.aixzu.com	600	IN	CNAME	.
+aixzzs.com	600	IN	CNAME	.
+*.aixzzs.com	600	IN	CNAME	.
 aiya.live	600	IN	CNAME	.
 *.aiya.live	600	IN	CNAME	.
 aiya8.com	600	IN	CNAME	.
@@ -24452,6 +24550,8 @@ antwork.link	600	IN	CNAME	.
 *.antwork.link	600	IN	CNAME	.
 antyikangih.com	600	IN	CNAME	.
 *.antyikangih.com	600	IN	CNAME	.
+anvnjmc.com	600	IN	CNAME	.
+*.anvnjmc.com	600	IN	CNAME	.
 anw.red	600	IN	CNAME	.
 *.anw.red	600	IN	CNAME	.
 anweilan.com	600	IN	CNAME	.
@@ -24876,6 +24976,8 @@ aozhanls.com	600	IN	CNAME	.
 *.aozhanls.com	600	IN	CNAME	.
 ap-china.com	600	IN	CNAME	.
 *.ap-china.com	600	IN	CNAME	.
+ap-leasing.com	600	IN	CNAME	.
+*.ap-leasing.com	600	IN	CNAME	.
 ap1983.com	600	IN	CNAME	.
 *.ap1983.com	600	IN	CNAME	.
 ap88.com	600	IN	CNAME	.
@@ -24966,6 +25068,8 @@ api-vod-qcloud.com	600	IN	CNAME	.
 *.api-vod-qcloud.com	600	IN	CNAME	.
 api.anythinktech.com	600	IN	CNAME	.
 *.api.anythinktech.com	600	IN	CNAME	.
+api.blipsandchitz.me	600	IN	CNAME	.
+*.api.blipsandchitz.me	600	IN	CNAME	.
 api.cnno1.uds.lenovo.com	600	IN	CNAME	.
 *.api.cnno1.uds.lenovo.com	600	IN	CNAME	.
 api.djiservice.org	600	IN	CNAME	.
@@ -25672,6 +25776,8 @@ arrowwardrobe.com	600	IN	CNAME	.
 *.arrowwardrobe.com	600	IN	CNAME	.
 ars-china.com	600	IN	CNAME	.
 *.ars-china.com	600	IN	CNAME	.
+arshow.com	600	IN	CNAME	.
+*.arshow.com	600	IN	CNAME	.
 arswp.com	600	IN	CNAME	.
 *.arswp.com	600	IN	CNAME	.
 art-ba-ba.com	600	IN	CNAME	.
@@ -26590,6 +26696,8 @@ autophagy.net	600	IN	CNAME	.
 *.autophagy.net	600	IN	CNAME	.
 autoqingdao.com	600	IN	CNAME	.
 *.autoqingdao.com	600	IN	CNAME	.
+autosemo.com	600	IN	CNAME	.
+*.autosemo.com	600	IN	CNAME	.
 autosey.com	600	IN	CNAME	.
 *.autosey.com	600	IN	CNAME	.
 autoshafa.com	600	IN	CNAME	.
@@ -26600,6 +26708,8 @@ autosmt.net	600	IN	CNAME	.
 *.autosmt.net	600	IN	CNAME	.
 autostreets.com	600	IN	CNAME	.
 *.autostreets.com	600	IN	CNAME	.
+autothink.space	600	IN	CNAME	.
+*.autothink.space	600	IN	CNAME	.
 autothinker.net	600	IN	CNAME	.
 *.autothinker.net	600	IN	CNAME	.
 autounicom.com	600	IN	CNAME	.
@@ -27248,6 +27358,8 @@ aysbxxh.com	600	IN	CNAME	.
 *.aysbxxh.com	600	IN	CNAME	.
 ayseyy.com	600	IN	CNAME	.
 *.ayseyy.com	600	IN	CNAME	.
+ayshl.com	600	IN	CNAME	.
+*.ayshl.com	600	IN	CNAME	.
 ayshq.com	600	IN	CNAME	.
 *.ayshq.com	600	IN	CNAME	.
 aysjyjjh.com	600	IN	CNAME	.
@@ -27576,6 +27688,8 @@ b9bdc7d62dfb0e5e.com	600	IN	CNAME	.
 *.b9bdc7d62dfb0e5e.com	600	IN	CNAME	.
 b9noqayb1s.work	600	IN	CNAME	.
 *.b9noqayb1s.work	600	IN	CNAME	.
+ba-hospital.com	600	IN	CNAME	.
+*.ba-hospital.com	600	IN	CNAME	.
 ba08e2f96f675d22.com	600	IN	CNAME	.
 *.ba08e2f96f675d22.com	600	IN	CNAME	.
 ba1400.com	600	IN	CNAME	.
@@ -28024,6 +28138,8 @@ baijiahulian.com	600	IN	CNAME	.
 *.baijiahulian.com	600	IN	CNAME	.
 baijiantest.com	600	IN	CNAME	.
 *.baijiantest.com	600	IN	CNAME	.
+baijiao.org	600	IN	CNAME	.
+*.baijiao.org	600	IN	CNAME	.
 baijiasheping.com	600	IN	CNAME	.
 *.baijiasheping.com	600	IN	CNAME	.
 baijiaxingwang.com	600	IN	CNAME	.
@@ -28090,6 +28206,8 @@ bailepin.com	600	IN	CNAME	.
 *.bailepin.com	600	IN	CNAME	.
 bailiaijia.com	600	IN	CNAME	.
 *.bailiaijia.com	600	IN	CNAME	.
+bailiana.com	600	IN	CNAME	.
+*.bailiana.com	600	IN	CNAME	.
 bailiangroup.com	600	IN	CNAME	.
 *.bailiangroup.com	600	IN	CNAME	.
 bailiann.com	600	IN	CNAME	.
@@ -28388,6 +28506,8 @@ baizhanke.com	600	IN	CNAME	.
 *.baizhanke.com	600	IN	CNAME	.
 baizhanlive.com	600	IN	CNAME	.
 *.baizhanlive.com	600	IN	CNAME	.
+baizhi.cloud	600	IN	CNAME	.
+*.baizhi.cloud	600	IN	CNAME	.
 baizhouniao.com	600	IN	CNAME	.
 *.baizhouniao.com	600	IN	CNAME	.
 baizhu.cc	600	IN	CNAME	.
@@ -28396,6 +28516,8 @@ baizlink.com	600	IN	CNAME	.
 *.baizlink.com	600	IN	CNAME	.
 bajasaechina.com	600	IN	CNAME	.
 *.bajasaechina.com	600	IN	CNAME	.
+bajie.la	600	IN	CNAME	.
+*.bajie.la	600	IN	CNAME	.
 bajie1.com	600	IN	CNAME	.
 *.bajie1.com	600	IN	CNAME	.
 bajiexinxi.net	600	IN	CNAME	.
@@ -29228,6 +29350,8 @@ battleofballs.com	600	IN	CNAME	.
 *.battleofballs.com	600	IN	CNAME	.
 batupian.net	600	IN	CNAME	.
 *.batupian.net	600	IN	CNAME	.
+baudashiner.com	600	IN	CNAME	.
+*.baudashiner.com	600	IN	CNAME	.
 baufortune.com	600	IN	CNAME	.
 *.baufortune.com	600	IN	CNAME	.
 bauschlombchina.com	600	IN	CNAME	.
@@ -29684,6 +29808,8 @@ bdactivity.com	600	IN	CNAME	.
 *.bdactivity.com	600	IN	CNAME	.
 bdaenviro.com	600	IN	CNAME	.
 *.bdaenviro.com	600	IN	CNAME	.
+bdagh.com	600	IN	CNAME	.
+*.bdagh.com	600	IN	CNAME	.
 bdajob.com	600	IN	CNAME	.
 *.bdajob.com	600	IN	CNAME	.
 bdall.com	600	IN	CNAME	.
@@ -30210,6 +30336,8 @@ beijingrc.net	600	IN	CNAME	.
 *.beijingrc.net	600	IN	CNAME	.
 beijingtaixie.com	600	IN	CNAME	.
 *.beijingtaixie.com	600	IN	CNAME	.
+beijingtianqi114.com	600	IN	CNAME	.
+*.beijingtianqi114.com	600	IN	CNAME	.
 beijingtrucks.com	600	IN	CNAME	.
 *.beijingtrucks.com	600	IN	CNAME	.
 beijingwatch.com	600	IN	CNAME	.
@@ -30416,6 +30544,8 @@ benduo.net	600	IN	CNAME	.
 *.benduo.net	600	IN	CNAME	.
 benewake.com	600	IN	CNAME	.
 *.benewake.com	600	IN	CNAME	.
+benfeijd.com	600	IN	CNAME	.
+*.benfeijd.com	600	IN	CNAME	.
 benfuip.com	600	IN	CNAME	.
 *.benfuip.com	600	IN	CNAME	.
 bengbeng.com	600	IN	CNAME	.
@@ -30528,6 +30658,8 @@ berchina.com	600	IN	CNAME	.
 *.berchina.com	600	IN	CNAME	.
 berens-china.com	600	IN	CNAME	.
 *.berens-china.com	600	IN	CNAME	.
+beretmall.com	600	IN	CNAME	.
+*.beretmall.com	600	IN	CNAME	.
 berfen.com	600	IN	CNAME	.
 *.berfen.com	600	IN	CNAME	.
 bergerda.com	600	IN	CNAME	.
@@ -31486,6 +31618,8 @@ bigemao.com	600	IN	CNAME	.
 *.bigemao.com	600	IN	CNAME	.
 bigemap.com	600	IN	CNAME	.
 *.bigemap.com	600	IN	CNAME	.
+bigemap.net	600	IN	CNAME	.
+*.bigemap.net	600	IN	CNAME	.
 bigerdata.com	600	IN	CNAME	.
 *.bigerdata.com	600	IN	CNAME	.
 bigerwall.com	600	IN	CNAME	.
@@ -31642,6 +31776,8 @@ bilibilipay.com	600	IN	CNAME	.
 *.bilibilipay.com	600	IN	CNAME	.
 bilibiliq.com	600	IN	CNAME	.
 *.bilibiliq.com	600	IN	CNAME	.
+bilibilitoy.com	600	IN	CNAME	.
+*.bilibilitoy.com	600	IN	CNAME	.
 bilicdn1.com	600	IN	CNAME	.
 *.bilicdn1.com	600	IN	CNAME	.
 bilicdn2.com	600	IN	CNAME	.
@@ -34740,6 +34876,8 @@ boway.com	600	IN	CNAME	.
 *.boway.com	600	IN	CNAME	.
 boweifeng.com	600	IN	CNAME	.
 *.boweifeng.com	600	IN	CNAME	.
+bowenkj.com	600	IN	CNAME	.
+*.bowenkj.com	600	IN	CNAME	.
 bowerp.com	600	IN	CNAME	.
 *.bowerp.com	600	IN	CNAME	.
 bowok.com	600	IN	CNAME	.
@@ -35226,6 +35364,8 @@ bssfy.com	600	IN	CNAME	.
 *.bssfy.com	600	IN	CNAME	.
 bssgnkyy.com	600	IN	CNAME	.
 *.bssgnkyy.com	600	IN	CNAME	.
+bsstar.net	600	IN	CNAME	.
+*.bsstar.net	600	IN	CNAME	.
 bst-lab.com	600	IN	CNAME	.
 *.bst-lab.com	600	IN	CNAME	.
 bstatics.com	600	IN	CNAME	.
@@ -35410,6 +35550,8 @@ bttzy.com	600	IN	CNAME	.
 *.bttzy.com	600	IN	CNAME	.
 btv.org	600	IN	CNAME	.
 *.btv.org	600	IN	CNAME	.
+btv2011.com	600	IN	CNAME	.
+*.btv2011.com	600	IN	CNAME	.
 btvcloud.com	600	IN	CNAME	.
 *.btvcloud.com	600	IN	CNAME	.
 btwater.com	600	IN	CNAME	.
@@ -35584,6 +35726,8 @@ bullvet.net	600	IN	CNAME	.
 *.bullvet.net	600	IN	CNAME	.
 buluanmai.com	600	IN	CNAME	.
 *.buluanmai.com	600	IN	CNAME	.
+buluken.com	600	IN	CNAME	.
+*.buluken.com	600	IN	CNAME	.
 bumenkeji.com	600	IN	CNAME	.
 *.bumenkeji.com	600	IN	CNAME	.
 bumiu.com	600	IN	CNAME	.
@@ -35666,6 +35810,8 @@ buy-copi888.com	600	IN	CNAME	.
 *.buy-copi888.com	600	IN	CNAME	.
 buy0596.com	600	IN	CNAME	.
 *.buy0596.com	600	IN	CNAME	.
+buyang.com	600	IN	CNAME	.
+*.buyang.com	600	IN	CNAME	.
 buyanshufa.com	600	IN	CNAME	.
 *.buyanshufa.com	600	IN	CNAME	.
 buyaocha.com	600	IN	CNAME	.
@@ -36466,6 +36612,8 @@ c-lodop.com	600	IN	CNAME	.
 *.c-lodop.com	600	IN	CNAME	.
 c-markaudio.com	600	IN	CNAME	.
 *.c-markaudio.com	600	IN	CNAME	.
+c-nbh.com	600	IN	CNAME	.
+*.c-nbh.com	600	IN	CNAME	.
 c-nin.com	600	IN	CNAME	.
 *.c-nin.com	600	IN	CNAME	.
 c-ps.net	600	IN	CNAME	.
@@ -36700,6 +36848,8 @@ c9o8nlanfm.work	600	IN	CNAME	.
 *.c9o8nlanfm.work	600	IN	CNAME	.
 ca-aicc.com	600	IN	CNAME	.
 *.ca-aicc.com	600	IN	CNAME	.
+ca-sinfusi.com	600	IN	CNAME	.
+*.ca-sinfusi.com	600	IN	CNAME	.
 ca-sme.org	600	IN	CNAME	.
 *.ca-sme.org	600	IN	CNAME	.
 ca-smefs.com	600	IN	CNAME	.
@@ -37562,6 +37712,8 @@ capsuleshanghai.com	600	IN	CNAME	.
 *.capsuleshanghai.com	600	IN	CNAME	.
 captain-cro.com	600	IN	CNAME	.
 *.captain-cro.com	600	IN	CNAME	.
+captainbi.com	600	IN	CNAME	.
+*.captainbi.com	600	IN	CNAME	.
 capturetheflag.fun	600	IN	CNAME	.
 *.capturetheflag.fun	600	IN	CNAME	.
 capvision.com	600	IN	CNAME	.
@@ -37638,6 +37790,8 @@ careersky.org	600	IN	CNAME	.
 *.careersky.org	600	IN	CNAME	.
 carefiber.work	600	IN	CNAME	.
 *.carefiber.work	600	IN	CNAME	.
+careforbaby.com	600	IN	CNAME	.
+*.careforbaby.com	600	IN	CNAME	.
 careked.com	600	IN	CNAME	.
 *.careked.com	600	IN	CNAME	.
 carelifefood.com	600	IN	CNAME	.
@@ -37878,6 +38032,8 @@ catv.net	600	IN	CNAME	.
 *.catv.net	600	IN	CNAME	.
 catv114.com	600	IN	CNAME	.
 *.catv114.com	600	IN	CNAME	.
+catv888.com	600	IN	CNAME	.
+*.catv888.com	600	IN	CNAME	.
 catweiqi.com	600	IN	CNAME	.
 *.catweiqi.com	600	IN	CNAME	.
 catyun.cc	600	IN	CNAME	.
@@ -38024,6 +38180,8 @@ cbnweek.com	600	IN	CNAME	.
 *.cbnweek.com	600	IN	CNAME	.
 cbquan.com	600	IN	CNAME	.
 *.cbquan.com	600	IN	CNAME	.
+cbrcw.com	600	IN	CNAME	.
+*.cbrcw.com	600	IN	CNAME	.
 cbsrc.com	600	IN	CNAME	.
 *.cbsrc.com	600	IN	CNAME	.
 cbtgc.com	600	IN	CNAME	.
@@ -38614,6 +38772,8 @@ ccsedqrmyy.com	600	IN	CNAME	.
 *.ccsedqrmyy.com	600	IN	CNAME	.
 ccsfuchan.com	600	IN	CNAME	.
 *.ccsfuchan.com	600	IN	CNAME	.
+ccsjhbj.com	600	IN	CNAME	.
+*.ccsjhbj.com	600	IN	CNAME	.
 ccskqyy.com	600	IN	CNAME	.
 *.ccskqyy.com	600	IN	CNAME	.
 ccsngqyy.com	600	IN	CNAME	.
@@ -38750,6 +38910,8 @@ ccwcw.com	600	IN	CNAME	.
 *.ccwcw.com	600	IN	CNAME	.
 ccwcyw.com	600	IN	CNAME	.
 *.ccwcyw.com	600	IN	CNAME	.
+ccwhz.com	600	IN	CNAME	.
+*.ccwhz.com	600	IN	CNAME	.
 ccwifi.cc	600	IN	CNAME	.
 *.ccwifi.cc	600	IN	CNAME	.
 ccwl.net	600	IN	CNAME	.
@@ -39312,6 +39474,8 @@ cdnhwc1.com	600	IN	CNAME	.
 *.cdnhwc1.com	600	IN	CNAME	.
 cdnhwc10.com	600	IN	CNAME	.
 *.cdnhwc10.com	600	IN	CNAME	.
+cdnhwc15.com	600	IN	CNAME	.
+*.cdnhwc15.com	600	IN	CNAME	.
 cdnhwc2.com	600	IN	CNAME	.
 *.cdnhwc2.com	600	IN	CNAME	.
 cdnhwc3.com	600	IN	CNAME	.
@@ -39514,6 +39678,8 @@ cdqss.com	600	IN	CNAME	.
 *.cdqss.com	600	IN	CNAME	.
 cdqszz.com	600	IN	CNAME	.
 *.cdqszz.com	600	IN	CNAME	.
+cdqz.net	600	IN	CNAME	.
+*.cdqz.net	600	IN	CNAME	.
 cdrbs.net	600	IN	CNAME	.
 *.cdrbs.net	600	IN	CNAME	.
 cdrcb.com	600	IN	CNAME	.
@@ -39628,6 +39794,8 @@ cdvisor.com	600	IN	CNAME	.
 *.cdvisor.com	600	IN	CNAME	.
 cdxdyy.com	600	IN	CNAME	.
 *.cdxdyy.com	600	IN	CNAME	.
+cdxnfk.com	600	IN	CNAME	.
+*.cdxnfk.com	600	IN	CNAME	.
 cdxrdz.com	600	IN	CNAME	.
 *.cdxrdz.com	600	IN	CNAME	.
 cdxsxbx.com	600	IN	CNAME	.
@@ -40292,6 +40460,8 @@ cfsbcn.com	600	IN	CNAME	.
 *.cfsbcn.com	600	IN	CNAME	.
 cfscar.com	600	IN	CNAME	.
 *.cfscar.com	600	IN	CNAME	.
+cfscrm.com	600	IN	CNAME	.
+*.cfscrm.com	600	IN	CNAME	.
 cfsggjt.com	600	IN	CNAME	.
 *.cfsggjt.com	600	IN	CNAME	.
 cfsino.com	600	IN	CNAME	.
@@ -40476,6 +40646,8 @@ cgsfusion.com	600	IN	CNAME	.
 *.cgsfusion.com	600	IN	CNAME	.
 cgsoft.net	600	IN	CNAME	.
 *.cgsoft.net	600	IN	CNAME	.
+cgt48.com	600	IN	CNAME	.
+*.cgt48.com	600	IN	CNAME	.
 cgtblog.com	600	IN	CNAME	.
 *.cgtblog.com	600	IN	CNAME	.
 cgtn.com	600	IN	CNAME	.
@@ -40634,6 +40806,8 @@ chaincar.com	600	IN	CNAME	.
 *.chaincar.com	600	IN	CNAME	.
 chaincatcher.com	600	IN	CNAME	.
 *.chaincatcher.com	600	IN	CNAME	.
+chaindd.net	600	IN	CNAME	.
+*.chaindd.net	600	IN	CNAME	.
 chainedbox.com	600	IN	CNAME	.
 *.chainedbox.com	600	IN	CNAME	.
 chainknow.com	600	IN	CNAME	.
@@ -40970,6 +41144,8 @@ chaofanshuma.com	600	IN	CNAME	.
 *.chaofanshuma.com	600	IN	CNAME	.
 chaofantian.com	600	IN	CNAME	.
 *.chaofantian.com	600	IN	CNAME	.
+chaofayin.com	600	IN	CNAME	.
+*.chaofayin.com	600	IN	CNAME	.
 chaoge.press	600	IN	CNAME	.
 *.chaoge.press	600	IN	CNAME	.
 chaogejiaoyu.com	600	IN	CNAME	.
@@ -41544,6 +41720,8 @@ chengmei.games	600	IN	CNAME	.
 *.chengmei.games	600	IN	CNAME	.
 chengmeiyouxuan.com	600	IN	CNAME	.
 *.chengmeiyouxuan.com	600	IN	CNAME	.
+chengpan.com	600	IN	CNAME	.
+*.chengpan.com	600	IN	CNAME	.
 chengpeiquan.com	600	IN	CNAME	.
 *.chengpeiquan.com	600	IN	CNAME	.
 chengrang.com	600	IN	CNAME	.
@@ -41586,6 +41764,8 @@ chengxua.com	600	IN	CNAME	.
 *.chengxua.com	600	IN	CNAME	.
 chengxuan.com	600	IN	CNAME	.
 *.chengxuan.com	600	IN	CNAME	.
+chengxuweb.com	600	IN	CNAME	.
+*.chengxuweb.com	600	IN	CNAME	.
 chengyangyang.com	600	IN	CNAME	.
 *.chengyangyang.com	600	IN	CNAME	.
 chengye-capital.com	600	IN	CNAME	.
@@ -42694,6 +42874,8 @@ chinacapg.com	600	IN	CNAME	.
 *.chinacapg.com	600	IN	CNAME	.
 chinacarbide.com	600	IN	CNAME	.
 *.chinacarbide.com	600	IN	CNAME	.
+chinacaring.com	600	IN	CNAME	.
+*.chinacaring.com	600	IN	CNAME	.
 chinacars.com	600	IN	CNAME	.
 *.chinacars.com	600	IN	CNAME	.
 chinacasa.org	600	IN	CNAME	.
@@ -43264,6 +43446,8 @@ chinaiia.org	600	IN	CNAME	.
 *.chinaiia.org	600	IN	CNAME	.
 chinaiiss.org	600	IN	CNAME	.
 *.chinaiiss.org	600	IN	CNAME	.
+chinaims.org	600	IN	CNAME	.
+*.chinaims.org	600	IN	CNAME	.
 chinainfoseek.com	600	IN	CNAME	.
 *.chinainfoseek.com	600	IN	CNAME	.
 chinainout.com	600	IN	CNAME	.
@@ -44914,6 +45098,8 @@ chuanshanjia.work	600	IN	CNAME	.
 *.chuanshanjia.work	600	IN	CNAME	.
 chuanshanqundao.com	600	IN	CNAME	.
 *.chuanshanqundao.com	600	IN	CNAME	.
+chuansinfo.com	600	IN	CNAME	.
+*.chuansinfo.com	600	IN	CNAME	.
 chuantec.com	600	IN	CNAME	.
 *.chuantec.com	600	IN	CNAME	.
 chuantiegroup.com	600	IN	CNAME	.
@@ -44954,6 +45140,8 @@ chufw.com	600	IN	CNAME	.
 *.chufw.com	600	IN	CNAME	.
 chuge8.com	600	IN	CNAME	.
 *.chuge8.com	600	IN	CNAME	.
+chuguansmart.com	600	IN	CNAME	.
+*.chuguansmart.com	600	IN	CNAME	.
 chuguo.tech	600	IN	CNAME	.
 *.chuguo.tech	600	IN	CNAME	.
 chuguohao.com	600	IN	CNAME	.
@@ -45258,6 +45446,8 @@ ciding.cc	600	IN	CNAME	.
 *.ciding.cc	600	IN	CNAME	.
 cidschina.com	600	IN	CNAME	.
 *.cidschina.com	600	IN	CNAME	.
+cidu.net	600	IN	CNAME	.
+*.cidu.net	600	IN	CNAME	.
 ciduw.com	600	IN	CNAME	.
 *.ciduw.com	600	IN	CNAME	.
 cie-lgr.com	600	IN	CNAME	.
@@ -45278,6 +45468,8 @@ ciedata.com	600	IN	CNAME	.
 *.ciedata.com	600	IN	CNAME	.
 cieet.com	600	IN	CNAME	.
 *.cieet.com	600	IN	CNAME	.
+ciefc.com	600	IN	CNAME	.
+*.ciefc.com	600	IN	CNAME	.
 ciepe.com	600	IN	CNAME	.
 *.ciepe.com	600	IN	CNAME	.
 cietac-hb.org	600	IN	CNAME	.
@@ -45426,6 +45618,8 @@ cineplexsn.com	600	IN	CNAME	.
 *.cineplexsn.com	600	IN	CNAME	.
 cingta.com	600	IN	CNAME	.
 *.cingta.com	600	IN	CNAME	.
+ciniaoppt.com	600	IN	CNAME	.
+*.ciniaoppt.com	600	IN	CNAME	.
 cinic.com	600	IN	CNAME	.
 *.cinic.com	600	IN	CNAME	.
 cinsee.com	600	IN	CNAME	.
@@ -45822,6 +46016,8 @@ cjol.com	600	IN	CNAME	.
 *.cjol.com	600	IN	CNAME	.
 cjs-lwh.love	600	IN	CNAME	.
 *.cjs-lwh.love	600	IN	CNAME	.
+cjs001.com	600	IN	CNAME	.
+*.cjs001.com	600	IN	CNAME	.
 cjsc.com	600	IN	CNAME	.
 *.cjsc.com	600	IN	CNAME	.
 cjsgegs.com	600	IN	CNAME	.
@@ -46024,6 +46220,8 @@ classcms.com	600	IN	CNAME	.
 *.classcms.com	600	IN	CNAME	.
 classic023.com	600	IN	CNAME	.
 *.classic023.com	600	IN	CNAME	.
+classin.com	600	IN	CNAME	.
+*.classin.com	600	IN	CNAME	.
 classinpaas.com	600	IN	CNAME	.
 *.classinpaas.com	600	IN	CNAME	.
 classmateer.com	600	IN	CNAME	.
@@ -46098,6 +46296,8 @@ clevercn.net	600	IN	CNAME	.
 *.clevercn.net	600	IN	CNAME	.
 cleveroom.com	600	IN	CNAME	.
 *.cleveroom.com	600	IN	CNAME	.
+cleverschool.com	600	IN	CNAME	.
+*.cleverschool.com	600	IN	CNAME	.
 clewm.net	600	IN	CNAME	.
 *.clewm.net	600	IN	CNAME	.
 clfcgc.com	600	IN	CNAME	.
@@ -47054,6 +47254,8 @@ cn-natural.com	600	IN	CNAME	.
 *.cn-natural.com	600	IN	CNAME	.
 cn-only.com	600	IN	CNAME	.
 *.cn-only.com	600	IN	CNAME	.
+cn-orient.com	600	IN	CNAME	.
+*.cn-orient.com	600	IN	CNAME	.
 cn-otaproxy-sdc.blurdev.com	600	IN	CNAME	.
 *.cn-otaproxy-sdc.blurdev.com	600	IN	CNAME	.
 cn-psy.com	600	IN	CNAME	.
@@ -47252,6 +47454,8 @@ cnb.space	600	IN	CNAME	.
 *.cnb.space	600	IN	CNAME	.
 cnbabylon.com	600	IN	CNAME	.
 *.cnbabylon.com	600	IN	CNAME	.
+cnbaiyin.com	600	IN	CNAME	.
+*.cnbaiyin.com	600	IN	CNAME	.
 cnball.net	600	IN	CNAME	.
 *.cnball.net	600	IN	CNAME	.
 cnbanbao.com	600	IN	CNAME	.
@@ -48970,6 +49174,8 @@ code-abc.com	600	IN	CNAME	.
 *.code-abc.com	600	IN	CNAME	.
 code-by.org	600	IN	CNAME	.
 *.code-by.org	600	IN	CNAME	.
+code-relay.com	600	IN	CNAME	.
+*.code-relay.com	600	IN	CNAME	.
 code222.com	600	IN	CNAME	.
 *.code222.com	600	IN	CNAME	.
 code369.com	600	IN	CNAME	.
@@ -50108,6 +50314,8 @@ cpwlx.com	600	IN	CNAME	.
 *.cpwlx.com	600	IN	CNAME	.
 cpwnews.com	600	IN	CNAME	.
 *.cpwnews.com	600	IN	CNAME	.
+cpwxw.net	600	IN	CNAME	.
+*.cpwxw.net	600	IN	CNAME	.
 cpwzb.com	600	IN	CNAME	.
 *.cpwzb.com	600	IN	CNAME	.
 cpzls.com	600	IN	CNAME	.
@@ -51484,6 +51692,8 @@ crbeverage.com	600	IN	CNAME	.
 *.crbeverage.com	600	IN	CNAME	.
 crbiopharm.com	600	IN	CNAME	.
 *.crbiopharm.com	600	IN	CNAME	.
+crbybosh.com	600	IN	CNAME	.
+*.crbybosh.com	600	IN	CNAME	.
 crc-bj.com	600	IN	CNAME	.
 *.crc-bj.com	600	IN	CNAME	.
 crc.com.hk	600	IN	CNAME	.
@@ -51522,6 +51732,8 @@ crct.com	600	IN	CNAME	.
 *.crct.com	600	IN	CNAME	.
 crctrust.com	600	IN	CNAME	.
 *.crctrust.com	600	IN	CNAME	.
+crdietitian.org	600	IN	CNAME	.
+*.crdietitian.org	600	IN	CNAME	.
 cre.net	600	IN	CNAME	.
 *.cre.net	600	IN	CNAME	.
 cread.com	600	IN	CNAME	.
@@ -51700,6 +51912,8 @@ crmyy.com	600	IN	CNAME	.
 *.crmyy.com	600	IN	CNAME	.
 crnews.net	600	IN	CNAME	.
 *.crnews.net	600	IN	CNAME	.
+crntt.com	600	IN	CNAME	.
+*.crntt.com	600	IN	CNAME	.
 crodigy.com	600	IN	CNAME	.
 *.crodigy.com	600	IN	CNAME	.
 crodigynat.com	600	IN	CNAME	.
@@ -51742,6 +51956,8 @@ crracelve.com	600	IN	CNAME	.
 *.crracelve.com	600	IN	CNAME	.
 crrcgc.cc	600	IN	CNAME	.
 *.crrcgc.cc	600	IN	CNAME	.
+crrcgo.cc	600	IN	CNAME	.
+*.crrcgo.cc	600	IN	CNAME	.
 crs811.com	600	IN	CNAME	.
 *.crs811.com	600	IN	CNAME	.
 crsc.cc	600	IN	CNAME	.
@@ -51966,6 +52182,8 @@ csgcyy.com	600	IN	CNAME	.
 *.csgcyy.com	600	IN	CNAME	.
 csgfjc.com	600	IN	CNAME	.
 *.csgfjc.com	600	IN	CNAME	.
+csgholding.com	600	IN	CNAME	.
+*.csgholding.com	600	IN	CNAME	.
 csghy.com	600	IN	CNAME	.
 *.csghy.com	600	IN	CNAME	.
 csgjhzzx.com	600	IN	CNAME	.
@@ -52172,6 +52390,8 @@ cspruc.com	600	IN	CNAME	.
 *.cspruc.com	600	IN	CNAME	.
 csptia.org	600	IN	CNAME	.
 *.csptia.org	600	IN	CNAME	.
+csqaq.com	600	IN	CNAME	.
+*.csqaq.com	600	IN	CNAME	.
 csqsg.com	600	IN	CNAME	.
 *.csqsg.com	600	IN	CNAME	.
 csrcare.com	600	IN	CNAME	.
@@ -52354,6 +52574,8 @@ csy17.com	600	IN	CNAME	.
 *.csy17.com	600	IN	CNAME	.
 csyamei.com	600	IN	CNAME	.
 *.csyamei.com	600	IN	CNAME	.
+csydkj.com	600	IN	CNAME	.
+*.csydkj.com	600	IN	CNAME	.
 csyestar.com	600	IN	CNAME	.
 *.csyestar.com	600	IN	CNAME	.
 csykgs.com	600	IN	CNAME	.
@@ -53802,6 +54024,8 @@ czyuxing.com	600	IN	CNAME	.
 *.czyuxing.com	600	IN	CNAME	.
 czyxba.com	600	IN	CNAME	.
 *.czyxba.com	600	IN	CNAME	.
+czyzd.com	600	IN	CNAME	.
+*.czyzd.com	600	IN	CNAME	.
 czzqp.com	600	IN	CNAME	.
 *.czzqp.com	600	IN	CNAME	.
 czzsw.com	600	IN	CNAME	.
@@ -53964,6 +54188,8 @@ d4cd5439c1009.beer	600	IN	CNAME	.
 *.d4cd5439c1009.beer	600	IN	CNAME	.
 d4ctech.com	600	IN	CNAME	.
 *.d4ctech.com	600	IN	CNAME	.
+d5168.com	600	IN	CNAME	.
+*.d5168.com	600	IN	CNAME	.
 d54a00143de85b64.com	600	IN	CNAME	.
 *.d54a00143de85b64.com	600	IN	CNAME	.
 d56c84cfb4a786f7.com	600	IN	CNAME	.
@@ -54416,6 +54642,10 @@ daishangqian.com	600	IN	CNAME	.
 *.daishangqian.com	600	IN	CNAME	.
 daishanmarathon.com	600	IN	CNAME	.
 *.daishanmarathon.com	600	IN	CNAME	.
+daishi-edu.net	600	IN	CNAME	.
+*.daishi-edu.net	600	IN	CNAME	.
+daishi-jy.com	600	IN	CNAME	.
+*.daishi-jy.com	600	IN	CNAME	.
 daishu.com	600	IN	CNAME	.
 *.daishu.com	600	IN	CNAME	.
 daishucha.com	600	IN	CNAME	.
@@ -54650,6 +54880,8 @@ damo-academy.com	600	IN	CNAME	.
 *.damo-academy.com	600	IN	CNAME	.
 damodel.com	600	IN	CNAME	.
 *.damodel.com	600	IN	CNAME	.
+damon-group.com	600	IN	CNAME	.
+*.damon-group.com	600	IN	CNAME	.
 damonroller.com	600	IN	CNAME	.
 *.damonroller.com	600	IN	CNAME	.
 damotu.com	600	IN	CNAME	.
@@ -54868,6 +55100,8 @@ danxin.net	600	IN	CNAME	.
 *.danxin.net	600	IN	CNAME	.
 danyang.com	600	IN	CNAME	.
 *.danyang.com	600	IN	CNAME	.
+danyue.site	600	IN	CNAME	.
+*.danyue.site	600	IN	CNAME	.
 danzhaoedu.com	600	IN	CNAME	.
 *.danzhaoedu.com	600	IN	CNAME	.
 danzhou8.com	600	IN	CNAME	.
@@ -55576,6 +55810,8 @@ dazhonghr.com	600	IN	CNAME	.
 *.dazhonghr.com	600	IN	CNAME	.
 dazhongkanche.com	600	IN	CNAME	.
 *.dazhongkanche.com	600	IN	CNAME	.
+dazhongyi.cc	600	IN	CNAME	.
+*.dazhongyi.cc	600	IN	CNAME	.
 dazhoumzj.com	600	IN	CNAME	.
 *.dazhoumzj.com	600	IN	CNAME	.
 dazhoushan.com	600	IN	CNAME	.
@@ -55802,6 +56038,8 @@ dcqsq.com	600	IN	CNAME	.
 *.dcqsq.com	600	IN	CNAME	.
 dcsapi.com	600	IN	CNAME	.
 *.dcsapi.com	600	IN	CNAME	.
+dcshfu.com	600	IN	CNAME	.
+*.dcshfu.com	600	IN	CNAME	.
 dcshow.com	600	IN	CNAME	.
 *.dcshow.com	600	IN	CNAME	.
 dcsjw.com	600	IN	CNAME	.
@@ -56570,6 +56808,8 @@ dentistshow.com	600	IN	CNAME	.
 *.dentistshow.com	600	IN	CNAME	.
 denza.cloud	600	IN	CNAME	.
 *.denza.cloud	600	IN	CNAME	.
+denza.com	600	IN	CNAME	.
+*.denza.com	600	IN	CNAME	.
 denzacloud.com	600	IN	CNAME	.
 *.denzacloud.com	600	IN	CNAME	.
 deosen.com	600	IN	CNAME	.
@@ -58192,6 +58432,8 @@ dingyue-ele.com	600	IN	CNAME	.
 *.dingyue-ele.com	600	IN	CNAME	.
 dingyueads.com	600	IN	CNAME	.
 *.dingyueads.com	600	IN	CNAME	.
+dingyunwl.com	600	IN	CNAME	.
+*.dingyunwl.com	600	IN	CNAME	.
 dingzhijl.com	600	IN	CNAME	.
 *.dingzhijl.com	600	IN	CNAME	.
 dingzhiyou.org	600	IN	CNAME	.
@@ -58236,6 +58478,8 @@ dir001.com	600	IN	CNAME	.
 *.dir001.com	600	IN	CNAME	.
 dir28.com	600	IN	CNAME	.
 *.dir28.com	600	IN	CNAME	.
+dircleaner.com	600	IN	CNAME	.
+*.dircleaner.com	600	IN	CNAME	.
 directorfeng.com	600	IN	CNAME	.
 *.directorfeng.com	600	IN	CNAME	.
 directui.com	600	IN	CNAME	.
@@ -58952,6 +59196,8 @@ dnbbn.com	600	IN	CNAME	.
 *.dnbbn.com	600	IN	CNAME	.
 dnbbs.com	600	IN	CNAME	.
 *.dnbbs.com	600	IN	CNAME	.
+dnbiz.com	600	IN	CNAME	.
+*.dnbiz.com	600	IN	CNAME	.
 dncable.com	600	IN	CNAME	.
 *.dncable.com	600	IN	CNAME	.
 dndc.cloud	600	IN	CNAME	.
@@ -59318,6 +59564,8 @@ doccamera.com	600	IN	CNAME	.
 *.doccamera.com	600	IN	CNAME	.
 docer.com	600	IN	CNAME	.
 *.docer.com	600	IN	CNAME	.
+docin.com	600	IN	CNAME	.
+*.docin.com	600	IN	CNAME	.
 dockerinfo.net	600	IN	CNAME	.
 *.dockerinfo.net	600	IN	CNAME	.
 dockerone.com	600	IN	CNAME	.
@@ -60700,6 +60948,8 @@ dseman.com	600	IN	CNAME	.
 *.dseman.com	600	IN	CNAME	.
 dser.com	600	IN	CNAME	.
 *.dser.com	600	IN	CNAME	.
+dsers.com	600	IN	CNAME	.
+*.dsers.com	600	IN	CNAME	.
 dsfdy.com	600	IN	CNAME	.
 *.dsfdy.com	600	IN	CNAME	.
 dsfjh.vip	600	IN	CNAME	.
@@ -60718,6 +60968,8 @@ dshltech.com	600	IN	CNAME	.
 *.dshltech.com	600	IN	CNAME	.
 dshrc.com	600	IN	CNAME	.
 *.dshrc.com	600	IN	CNAME	.
+dsjpt.net	600	IN	CNAME	.
+*.dsjpt.net	600	IN	CNAME	.
 dsjt.com	600	IN	CNAME	.
 *.dsjt.com	600	IN	CNAME	.
 dskb.co	600	IN	CNAME	.
@@ -60868,6 +61120,8 @@ dtmuban.com	600	IN	CNAME	.
 *.dtmuban.com	600	IN	CNAME	.
 dtnews.net	600	IN	CNAME	.
 *.dtnews.net	600	IN	CNAME	.
+dtpower.com	600	IN	CNAME	.
+*.dtpower.com	600	IN	CNAME	.
 dtq.com	600	IN	CNAME	.
 *.dtq.com	600	IN	CNAME	.
 dtrcb.com	600	IN	CNAME	.
@@ -61574,6 +61828,8 @@ dwgszc.com	600	IN	CNAME	.
 *.dwgszc.com	600	IN	CNAME	.
 dwgwatch.com	600	IN	CNAME	.
 *.dwgwatch.com	600	IN	CNAME	.
+dwhy.net	600	IN	CNAME	.
+*.dwhy.net	600	IN	CNAME	.
 dwidc.com	600	IN	CNAME	.
 *.dwidc.com	600	IN	CNAME	.
 dwinput.com	600	IN	CNAME	.
@@ -61642,6 +61898,8 @@ dxdl1688.com	600	IN	CNAME	.
 *.dxdl1688.com	600	IN	CNAME	.
 dxdlw.com	600	IN	CNAME	.
 *.dxdlw.com	600	IN	CNAME	.
+dxdstar.com	600	IN	CNAME	.
+*.dxdstar.com	600	IN	CNAME	.
 dxe520.com	600	IN	CNAME	.
 *.dxe520.com	600	IN	CNAME	.
 dxecs.com	600	IN	CNAME	.
@@ -61934,6 +62192,8 @@ dytt789.com	600	IN	CNAME	.
 *.dytt789.com	600	IN	CNAME	.
 dytt7899.com	600	IN	CNAME	.
 *.dytt7899.com	600	IN	CNAME	.
+dytt8.com	600	IN	CNAME	.
+*.dytt8.com	600	IN	CNAME	.
 dytt8.net	600	IN	CNAME	.
 *.dytt8.net	600	IN	CNAME	.
 dytt89.com	600	IN	CNAME	.
@@ -62936,6 +63196,8 @@ ebancom.com	600	IN	CNAME	.
 *.ebancom.com	600	IN	CNAME	.
 ebangchina.com	600	IN	CNAME	.
 *.ebangchina.com	600	IN	CNAME	.
+ebangkj.com	600	IN	CNAME	.
+*.ebangkj.com	600	IN	CNAME	.
 ebank96518.com	600	IN	CNAME	.
 *.ebank96518.com	600	IN	CNAME	.
 ebanma.com	600	IN	CNAME	.
@@ -63140,6 +63402,8 @@ ecerdns.com	600	IN	CNAME	.
 *.ecerdns.com	600	IN	CNAME	.
 ecerimg.com	600	IN	CNAME	.
 *.ecerimg.com	600	IN	CNAME	.
+eceshi.com	600	IN	CNAME	.
+*.eceshi.com	600	IN	CNAME	.
 ecf-gov.com	600	IN	CNAME	.
 *.ecf-gov.com	600	IN	CNAME	.
 ecgci.com	600	IN	CNAME	.
@@ -64128,6 +64392,8 @@ eidtokencloud.com	600	IN	CNAME	.
 *.eidtokencloud.com	600	IN	CNAME	.
 eifini.com	600	IN	CNAME	.
 *.eifini.com	600	IN	CNAME	.
+eifleasing.com	600	IN	CNAME	.
+*.eifleasing.com	600	IN	CNAME	.
 eightbridge.com	600	IN	CNAME	.
 *.eightbridge.com	600	IN	CNAME	.
 eightedu.com	600	IN	CNAME	.
@@ -64942,6 +65208,8 @@ envisionagents.com	600	IN	CNAME	.
 *.envisionagents.com	600	IN	CNAME	.
 envisioncn.com	600	IN	CNAME	.
 *.envisioncn.com	600	IN	CNAME	.
+envtoday.com	600	IN	CNAME	.
+*.envtoday.com	600	IN	CNAME	.
 enwing-tech.com	600	IN	CNAME	.
 *.enwing-tech.com	600	IN	CNAME	.
 enxicled.com	600	IN	CNAME	.
@@ -65396,6 +65664,8 @@ eryanet.com	600	IN	CNAME	.
 *.eryanet.com	600	IN	CNAME	.
 eryi.org	600	IN	CNAME	.
 *.eryi.org	600	IN	CNAME	.
+eryinote.com	600	IN	CNAME	.
+*.eryinote.com	600	IN	CNAME	.
 eryyutu.com	600	IN	CNAME	.
 *.eryyutu.com	600	IN	CNAME	.
 es-soccer.com	600	IN	CNAME	.
@@ -65934,6 +66204,8 @@ eve.moe	600	IN	CNAME	.
 *.eve.moe	600	IN	CNAME	.
 evebattery.com	600	IN	CNAME	.
 *.evebattery.com	600	IN	CNAME	.
+eveclerdx.com	600	IN	CNAME	.
+*.eveclerdx.com	600	IN	CNAME	.
 evefashion.com	600	IN	CNAME	.
 *.evefashion.com	600	IN	CNAME	.
 evening.me	600	IN	CNAME	.
@@ -67128,6 +67400,8 @@ fangdacarbon.com	600	IN	CNAME	.
 *.fangdacarbon.com	600	IN	CNAME	.
 fangdaijisuanqi.com	600	IN	CNAME	.
 *.fangdaijisuanqi.com	600	IN	CNAME	.
+fangdailixi.com	600	IN	CNAME	.
+*.fangdailixi.com	600	IN	CNAME	.
 fangdalaw.box.lenovo.com	600	IN	CNAME	.
 *.fangdalaw.box.lenovo.com	600	IN	CNAME	.
 fangdaquan.com	600	IN	CNAME	.
@@ -67766,6 +68040,8 @@ fb4bc82f71019.beer	600	IN	CNAME	.
 *.fb4bc82f71019.beer	600	IN	CNAME	.
 fb56.com	600	IN	CNAME	.
 *.fb56.com	600	IN	CNAME	.
+fb71ef91e1014.beer	600	IN	CNAME	.
+*.fb71ef91e1014.beer	600	IN	CNAME	.
 fbaichuan.com	600	IN	CNAME	.
 *.fbaichuan.com	600	IN	CNAME	.
 fbank.com	600	IN	CNAME	.
@@ -68554,6 +68830,8 @@ fengcms.com	600	IN	CNAME	.
 *.fengcms.com	600	IN	CNAME	.
 fengcx.com	600	IN	CNAME	.
 *.fengcx.com	600	IN	CNAME	.
+fengda.me	600	IN	CNAME	.
+*.fengda.me	600	IN	CNAME	.
 fengdu.com	600	IN	CNAME	.
 *.fengdu.com	600	IN	CNAME	.
 fengdu365.com	600	IN	CNAME	.
@@ -68778,6 +69056,8 @@ fenmitech.com	600	IN	CNAME	.
 *.fenmitech.com	600	IN	CNAME	.
 fennessy.hk	600	IN	CNAME	.
 *.fennessy.hk	600	IN	CNAME	.
+fenno.ai	600	IN	CNAME	.
+*.fenno.ai	600	IN	CNAME	.
 fenqile.com	600	IN	CNAME	.
 *.fenqile.com	600	IN	CNAME	.
 fenqix.com	600	IN	CNAME	.
@@ -68910,6 +69190,8 @@ ffeeii.com	600	IN	CNAME	.
 *.ffeeii.com	600	IN	CNAME	.
 ffepower.com	600	IN	CNAME	.
 *.ffepower.com	600	IN	CNAME	.
+fffff.games	600	IN	CNAME	.
+*.fffff.games	600	IN	CNAME	.
 fffont.com	600	IN	CNAME	.
 *.fffont.com	600	IN	CNAME	.
 ffhome.com	600	IN	CNAME	.
@@ -69454,6 +69736,8 @@ fj96336.com	600	IN	CNAME	.
 *.fj96336.com	600	IN	CNAME	.
 fj987.com	600	IN	CNAME	.
 *.fj987.com	600	IN	CNAME	.
+fjadd.com	600	IN	CNAME	.
+*.fjadd.com	600	IN	CNAME	.
 fjbcjt.com	600	IN	CNAME	.
 *.fjbcjt.com	600	IN	CNAME	.
 fjbdex.com	600	IN	CNAME	.
@@ -69626,6 +69910,8 @@ fjmzw.com	600	IN	CNAME	.
 *.fjmzw.com	600	IN	CNAME	.
 fjmzx.com	600	IN	CNAME	.
 *.fjmzx.com	600	IN	CNAME	.
+fjndqx.com	600	IN	CNAME	.
+*.fjndqx.com	600	IN	CNAME	.
 fjndwb.com	600	IN	CNAME	.
 *.fjndwb.com	600	IN	CNAME	.
 fjnet.com	600	IN	CNAME	.
@@ -69724,6 +70010,8 @@ fjwjgs.com	600	IN	CNAME	.
 *.fjwjgs.com	600	IN	CNAME	.
 fjwr.xyz	600	IN	CNAME	.
 *.fjwr.xyz	600	IN	CNAME	.
+fjwyw.com	600	IN	CNAME	.
+*.fjwyw.com	600	IN	CNAME	.
 fjwzjt.com	600	IN	CNAME	.
 *.fjwzjt.com	600	IN	CNAME	.
 fjxfgroup.com	600	IN	CNAME	.
@@ -71006,6 +71294,8 @@ frp-ski.com	600	IN	CNAME	.
 *.frp-ski.com	600	IN	CNAME	.
 frpapp.com	600	IN	CNAME	.
 *.frpapp.com	600	IN	CNAME	.
+frrcw.com	600	IN	CNAME	.
+*.frrcw.com	600	IN	CNAME	.
 frt.ltd	600	IN	CNAME	.
 *.frt.ltd	600	IN	CNAME	.
 frtgraphite.com	600	IN	CNAME	.
@@ -71758,6 +72048,8 @@ fuwahgroup.com	600	IN	CNAME	.
 *.fuwahgroup.com	600	IN	CNAME	.
 fuwai.com	600	IN	CNAME	.
 *.fuwai.com	600	IN	CNAME	.
+fuwaihospital.org	600	IN	CNAME	.
+*.fuwaihospital.org	600	IN	CNAME	.
 fuwaliuxue.com	600	IN	CNAME	.
 *.fuwaliuxue.com	600	IN	CNAME	.
 fuwei.com	600	IN	CNAME	.
@@ -71830,6 +72122,8 @@ fuyiou.com	600	IN	CNAME	.
 *.fuyiou.com	600	IN	CNAME	.
 fuyiwang.net	600	IN	CNAME	.
 *.fuyiwang.net	600	IN	CNAME	.
+fuyizk.com	600	IN	CNAME	.
+*.fuyizk.com	600	IN	CNAME	.
 fuyou.online	600	IN	CNAME	.
 *.fuyou.online	600	IN	CNAME	.
 fuyou888.com	600	IN	CNAME	.
@@ -72140,6 +72434,8 @@ fygroup.com	600	IN	CNAME	.
 *.fygroup.com	600	IN	CNAME	.
 fygsoft.com	600	IN	CNAME	.
 *.fygsoft.com	600	IN	CNAME	.
+fyhbxh.com	600	IN	CNAME	.
+*.fyhbxh.com	600	IN	CNAME	.
 fyjl.org	600	IN	CNAME	.
 *.fyjl.org	600	IN	CNAME	.
 fyjsz.net	600	IN	CNAME	.
@@ -73166,6 +73462,8 @@ gaolihanjie.com	600	IN	CNAME	.
 *.gaolihanjie.com	600	IN	CNAME	.
 gaolouimg.com	600	IN	CNAME	.
 *.gaolouimg.com	600	IN	CNAME	.
+gaomaipharma.com	600	IN	CNAME	.
+*.gaomaipharma.com	600	IN	CNAME	.
 gaomeif.com	600	IN	CNAME	.
 *.gaomeif.com	600	IN	CNAME	.
 gaomeluo.com	600	IN	CNAME	.
@@ -73490,6 +73788,8 @@ gcl-perovskite.com	600	IN	CNAME	.
 *.gcl-perovskite.com	600	IN	CNAME	.
 gcl-power.com	600	IN	CNAME	.
 *.gcl-power.com	600	IN	CNAME	.
+gclawyer.net	600	IN	CNAME	.
+*.gclawyer.net	600	IN	CNAME	.
 gcld.net	600	IN	CNAME	.
 *.gcld.net	600	IN	CNAME	.
 gclhgc.com	600	IN	CNAME	.
@@ -73876,6 +74176,8 @@ gdguozhi.com	600	IN	CNAME	.
 *.gdguozhi.com	600	IN	CNAME	.
 gdgwyw.com	600	IN	CNAME	.
 *.gdgwyw.com	600	IN	CNAME	.
+gdgxw.com	600	IN	CNAME	.
+*.gdgxw.com	600	IN	CNAME	.
 gdgxxbw.com	600	IN	CNAME	.
 *.gdgxxbw.com	600	IN	CNAME	.
 gdgzhengzhou.com	600	IN	CNAME	.
@@ -74806,6 +75108,8 @@ gejsg.com	600	IN	CNAME	.
 *.gejsg.com	600	IN	CNAME	.
 gelaha.com	600	IN	CNAME	.
 *.gelaha.com	600	IN	CNAME	.
+gelaiyun.net	600	IN	CNAME	.
+*.gelaiyun.net	600	IN	CNAME	.
 gelicang.net	600	IN	CNAME	.
 *.gelicang.net	600	IN	CNAME	.
 geline.net	600	IN	CNAME	.
@@ -77230,6 +77534,8 @@ gongju.com	600	IN	CNAME	.
 *.gongju.com	600	IN	CNAME	.
 gongju5.com	600	IN	CNAME	.
 *.gongju5.com	600	IN	CNAME	.
+gongjucha.com	600	IN	CNAME	.
+*.gongjucha.com	600	IN	CNAME	.
 gongjux.com	600	IN	CNAME	.
 *.gongjux.com	600	IN	CNAME	.
 gongkaohub.com	600	IN	CNAME	.
@@ -78372,6 +78678,8 @@ gsp85-cn-ssl.ls.apple.com	600	IN	CNAME	.
 *.gsp85-cn-ssl.ls.apple.com	600	IN	CNAME	.
 gspaceteam.com	600	IN	CNAME	.
 *.gspaceteam.com	600	IN	CNAME	.
+gspe11-2-cn-ssl.ls.apple.com	600	IN	CNAME	.
+*.gspe11-2-cn-ssl.ls.apple.com	600	IN	CNAME	.
 gspe19-2-cn-ssl.ls-apple.com.akadns.net	600	IN	CNAME	.
 *.gspe19-2-cn-ssl.ls-apple.com.akadns.net	600	IN	CNAME	.
 gspe19-2-cn-ssl.ls.apple.com	600	IN	CNAME	.
@@ -79054,6 +79362,8 @@ guanlannet.com	600	IN	CNAME	.
 *.guanlannet.com	600	IN	CNAME	.
 guanli360.com	600	IN	CNAME	.
 *.guanli360.com	600	IN	CNAME	.
+guanlingms.com	600	IN	CNAME	.
+*.guanlingms.com	600	IN	CNAME	.
 guanlixi.com	600	IN	CNAME	.
 *.guanlixi.com	600	IN	CNAME	.
 guanliyun.com	600	IN	CNAME	.
@@ -79764,6 +80074,8 @@ guozhuangxincai.com	600	IN	CNAME	.
 *.guozhuangxincai.com	600	IN	CNAME	.
 guoziyx.com	600	IN	CNAME	.
 *.guoziyx.com	600	IN	CNAME	.
+guozunlaw.com	600	IN	CNAME	.
+*.guozunlaw.com	600	IN	CNAME	.
 gupang.com	600	IN	CNAME	.
 *.gupang.com	600	IN	CNAME	.
 gupaoedu.com	600	IN	CNAME	.
@@ -79818,6 +80130,8 @@ gushiji.cc	600	IN	CNAME	.
 *.gushiji.cc	600	IN	CNAME	.
 gushiju.net	600	IN	CNAME	.
 *.gushiju.net	600	IN	CNAME	.
+gusiwen.com	600	IN	CNAME	.
+*.gusiwen.com	600	IN	CNAME	.
 gusspro.com	600	IN	CNAME	.
 *.gusspro.com	600	IN	CNAME	.
 gusucaishui.com	600	IN	CNAME	.
@@ -83490,6 +83804,8 @@ gydongli.com	600	IN	CNAME	.
 *.gydongli.com	600	IN	CNAME	.
 gyedu.net	600	IN	CNAME	.
 *.gyedu.net	600	IN	CNAME	.
+gyey.com	600	IN	CNAME	.
+*.gyey.com	600	IN	CNAME	.
 gyfensuiji.com	600	IN	CNAME	.
 *.gyfensuiji.com	600	IN	CNAME	.
 gyfwyy.com	600	IN	CNAME	.
@@ -83724,6 +84040,8 @@ gz111.com	600	IN	CNAME	.
 *.gz111.com	600	IN	CNAME	.
 gz121.com	600	IN	CNAME	.
 *.gz121.com	600	IN	CNAME	.
+gz163rsw.com	600	IN	CNAME	.
+*.gz163rsw.com	600	IN	CNAME	.
 gz1hua.com	600	IN	CNAME	.
 *.gz1hua.com	600	IN	CNAME	.
 gz304.com	600	IN	CNAME	.
@@ -84242,6 +84560,8 @@ gzliyuanhb.com	600	IN	CNAME	.
 *.gzliyuanhb.com	600	IN	CNAME	.
 gzlnholdings.com	600	IN	CNAME	.
 *.gzlnholdings.com	600	IN	CNAME	.
+gzlrck.com	600	IN	CNAME	.
+*.gzlrck.com	600	IN	CNAME	.
 gzlsgy.com	600	IN	CNAME	.
 *.gzlsgy.com	600	IN	CNAME	.
 gzlt.net	600	IN	CNAME	.
@@ -84632,6 +84952,8 @@ gzvalex.com	600	IN	CNAME	.
 *.gzvalex.com	600	IN	CNAME	.
 gzvstc.net	600	IN	CNAME	.
 *.gzvstc.net	600	IN	CNAME	.
+gzvti.com	600	IN	CNAME	.
+*.gzvti.com	600	IN	CNAME	.
 gzw.net	600	IN	CNAME	.
 *.gzw.net	600	IN	CNAME	.
 gzwanbao.com	600	IN	CNAME	.
@@ -85284,6 +85606,8 @@ haigugroup.com	600	IN	CNAME	.
 *.haigugroup.com	600	IN	CNAME	.
 haigui001.com	600	IN	CNAME	.
 *.haigui001.com	600	IN	CNAME	.
+haihengwuye.com	600	IN	CNAME	.
+*.haihengwuye.com	600	IN	CNAME	.
 haihepharma.com	600	IN	CNAME	.
 *.haihepharma.com	600	IN	CNAME	.
 haihetour.com	600	IN	CNAME	.
@@ -85720,6 +86044,8 @@ halfrost.com	600	IN	CNAME	.
 *.halfrost.com	600	IN	CNAME	.
 haligame.com	600	IN	CNAME	.
 *.haligame.com	600	IN	CNAME	.
+haling.com	600	IN	CNAME	.
+*.haling.com	600	IN	CNAME	.
 halixun.com	600	IN	CNAME	.
 *.halixun.com	600	IN	CNAME	.
 haljl.com	600	IN	CNAME	.
@@ -86168,6 +86494,8 @@ hanzhonggas.com	600	IN	CNAME	.
 *.hanzhonggas.com	600	IN	CNAME	.
 hanzhoulaser.com	600	IN	CNAME	.
 *.hanzhoulaser.com	600	IN	CNAME	.
+hanzier.com	600	IN	CNAME	.
+*.hanzier.com	600	IN	CNAME	.
 hanzify.org	600	IN	CNAME	.
 *.hanzify.org	600	IN	CNAME	.
 hanziguan.com	600	IN	CNAME	.
@@ -86376,6 +86704,8 @@ haofangkankan.com	600	IN	CNAME	.
 *.haofangkankan.com	600	IN	CNAME	.
 haofangyu999.com	600	IN	CNAME	.
 *.haofangyu999.com	600	IN	CNAME	.
+haofanhuoban.com	600	IN	CNAME	.
+*.haofanhuoban.com	600	IN	CNAME	.
 haofeng-group.com	600	IN	CNAME	.
 *.haofeng-group.com	600	IN	CNAME	.
 haofenshu.com	600	IN	CNAME	.
@@ -86444,6 +86774,8 @@ haojiaolian.com	600	IN	CNAME	.
 *.haojiaolian.com	600	IN	CNAME	.
 haojie.work	600	IN	CNAME	.
 *.haojie.work	600	IN	CNAME	.
+haojieyun.com	600	IN	CNAME	.
+*.haojieyun.com	600	IN	CNAME	.
 haojing.org	600	IN	CNAME	.
 *.haojing.org	600	IN	CNAME	.
 haojit.com	600	IN	CNAME	.
@@ -86570,6 +86902,8 @@ haooyuan.com	600	IN	CNAME	.
 *.haooyuan.com	600	IN	CNAME	.
 haopeixun.com	600	IN	CNAME	.
 *.haopeixun.com	600	IN	CNAME	.
+haopx123.com	600	IN	CNAME	.
+*.haopx123.com	600	IN	CNAME	.
 haoqiao.com	600	IN	CNAME	.
 *.haoqiao.com	600	IN	CNAME	.
 haoqikan.com	600	IN	CNAME	.
@@ -88846,6 +89180,8 @@ helianhealth.com	600	IN	CNAME	.
 *.helianhealth.com	600	IN	CNAME	.
 helianwap.com	600	IN	CNAME	.
 *.helianwap.com	600	IN	CNAME	.
+helib.net	600	IN	CNAME	.
+*.helib.net	600	IN	CNAME	.
 helichina.com	600	IN	CNAME	.
 *.helichina.com	600	IN	CNAME	.
 heliforklift.com	600	IN	CNAME	.
@@ -89064,6 +89400,8 @@ heng-f.com	600	IN	CNAME	.
 *.heng-f.com	600	IN	CNAME	.
 hengan-instruments.com	600	IN	CNAME	.
 *.hengan-instruments.com	600	IN	CNAME	.
+hengan.com	600	IN	CNAME	.
+*.hengan.com	600	IN	CNAME	.
 hengansl.com	600	IN	CNAME	.
 *.hengansl.com	600	IN	CNAME	.
 hengaodebj.com	600	IN	CNAME	.
@@ -89134,6 +89472,8 @@ hengliguoji.com	600	IN	CNAME	.
 *.hengliguoji.com	600	IN	CNAME	.
 henglihotels.com	600	IN	CNAME	.
 *.henglihotels.com	600	IN	CNAME	.
+hengluelaw.com	600	IN	CNAME	.
+*.hengluelaw.com	600	IN	CNAME	.
 hengluopanshi.xyz	600	IN	CNAME	.
 *.hengluopanshi.xyz	600	IN	CNAME	.
 hengqian.com	600	IN	CNAME	.
@@ -89184,6 +89524,8 @@ hengxucapital.com	600	IN	CNAME	.
 *.hengxucapital.com	600	IN	CNAME	.
 hengxueedu.com	600	IN	CNAME	.
 *.hengxueedu.com	600	IN	CNAME	.
+hengxunguoji.com	600	IN	CNAME	.
+*.hengxunguoji.com	600	IN	CNAME	.
 hengyagongshui.com	600	IN	CNAME	.
 *.hengyagongshui.com	600	IN	CNAME	.
 hengyan.com	600	IN	CNAME	.
@@ -89650,6 +89992,8 @@ hfhm.com	600	IN	CNAME	.
 *.hfhm.com	600	IN	CNAME	.
 hfhouse.com	600	IN	CNAME	.
 *.hfhouse.com	600	IN	CNAME	.
+hfhs8x.info	600	IN	CNAME	.
+*.hfhs8x.info	600	IN	CNAME	.
 hfhuamei.com	600	IN	CNAME	.
 *.hfhuamei.com	600	IN	CNAME	.
 hfi-health.com	600	IN	CNAME	.
@@ -89720,8 +90064,12 @@ hfrsggff.com	600	IN	CNAME	.
 *.hfrsggff.com	600	IN	CNAME	.
 hfsava.com	600	IN	CNAME	.
 *.hfsava.com	600	IN	CNAME	.
+hfsczx.net	600	IN	CNAME	.
+*.hfsczx.net	600	IN	CNAME	.
 hfshec.com	600	IN	CNAME	.
 *.hfshec.com	600	IN	CNAME	.
+hfshz.com	600	IN	CNAME	.
+*.hfshz.com	600	IN	CNAME	.
 hfsia.com	600	IN	CNAME	.
 *.hfsia.com	600	IN	CNAME	.
 hfsid.com	600	IN	CNAME	.
@@ -89766,6 +90114,8 @@ hfyyhyxh.com	600	IN	CNAME	.
 *.hfyyhyxh.com	600	IN	CNAME	.
 hfyylcy.com	600	IN	CNAME	.
 *.hfyylcy.com	600	IN	CNAME	.
+hfyz.net	600	IN	CNAME	.
+*.hfyz.net	600	IN	CNAME	.
 hfzfzlw.com	600	IN	CNAME	.
 *.hfzfzlw.com	600	IN	CNAME	.
 hfzhengxu.com	600	IN	CNAME	.
@@ -90204,6 +90554,8 @@ hicsharp.com	600	IN	CNAME	.
 *.hicsharp.com	600	IN	CNAME	.
 hicss.net	600	IN	CNAME	.
 *.hicss.net	600	IN	CNAME	.
+hicustom.com	600	IN	CNAME	.
+*.hicustom.com	600	IN	CNAME	.
 hiczp.com	600	IN	CNAME	.
 *.hiczp.com	600	IN	CNAME	.
 hidery.com	600	IN	CNAME	.
@@ -90716,6 +91068,8 @@ hizyy.com	600	IN	CNAME	.
 *.hizyy.com	600	IN	CNAME	.
 hj-bits.com	600	IN	CNAME	.
 *.hj-bits.com	600	IN	CNAME	.
+hj-hospital.com	600	IN	CNAME	.
+*.hj-hospital.com	600	IN	CNAME	.
 hj-ienergy.com	600	IN	CNAME	.
 *.hj-ienergy.com	600	IN	CNAME	.
 hj-mail.com	600	IN	CNAME	.
@@ -90754,6 +91108,8 @@ hjd111.shop	600	IN	CNAME	.
 *.hjd111.shop	600	IN	CNAME	.
 hjd123.com	600	IN	CNAME	.
 *.hjd123.com	600	IN	CNAME	.
+hjdang.com	600	IN	CNAME	.
+*.hjdang.com	600	IN	CNAME	.
 hjdhdduekcdie.com	600	IN	CNAME	.
 *.hjdhdduekcdie.com	600	IN	CNAME	.
 hjdict.com	600	IN	CNAME	.
@@ -91084,6 +91440,8 @@ hldhuanbao.com	600	IN	CNAME	.
 *.hldhuanbao.com	600	IN	CNAME	.
 hldjob.com	600	IN	CNAME	.
 *.hldjob.com	600	IN	CNAME	.
+hldlchina.com	600	IN	CNAME	.
+*.hldlchina.com	600	IN	CNAME	.
 hldmzg.com	600	IN	CNAME	.
 *.hldmzg.com	600	IN	CNAME	.
 hldnews.com	600	IN	CNAME	.
@@ -91220,6 +91578,8 @@ hlxsz.com	600	IN	CNAME	.
 *.hlxsz.com	600	IN	CNAME	.
 hlxy.com	600	IN	CNAME	.
 *.hlxy.com	600	IN	CNAME	.
+hlxy.net	600	IN	CNAME	.
+*.hlxy.net	600	IN	CNAME	.
 hly.com	600	IN	CNAME	.
 *.hly.com	600	IN	CNAME	.
 hlybar.com	600	IN	CNAME	.
@@ -91486,6 +91846,8 @@ hndfbg.com	600	IN	CNAME	.
 *.hndfbg.com	600	IN	CNAME	.
 hndfsrmyy.com	600	IN	CNAME	.
 *.hndfsrmyy.com	600	IN	CNAME	.
+hndfzx.com	600	IN	CNAME	.
+*.hndfzx.com	600	IN	CNAME	.
 hndgxh.com	600	IN	CNAME	.
 *.hndgxh.com	600	IN	CNAME	.
 hndhsyjt.com	600	IN	CNAME	.
@@ -91612,6 +91974,8 @@ hnhp.com	600	IN	CNAME	.
 *.hnhp.com	600	IN	CNAME	.
 hnhsjt.com	600	IN	CNAME	.
 *.hnhsjt.com	600	IN	CNAME	.
+hnhspc.com	600	IN	CNAME	.
+*.hnhspc.com	600	IN	CNAME	.
 hnht56.com	600	IN	CNAME	.
 *.hnht56.com	600	IN	CNAME	.
 hnhtdg.com	600	IN	CNAME	.
@@ -91674,6 +92038,8 @@ hnjshzy.com	600	IN	CNAME	.
 *.hnjshzy.com	600	IN	CNAME	.
 hnjsrcw.com	600	IN	CNAME	.
 *.hnjsrcw.com	600	IN	CNAME	.
+hnjsxy.com	600	IN	CNAME	.
+*.hnjsxy.com	600	IN	CNAME	.
 hnjtcl.com	600	IN	CNAME	.
 *.hnjtcl.com	600	IN	CNAME	.
 hnjttz.com	600	IN	CNAME	.
@@ -91886,6 +92252,8 @@ hnsjlh.com	600	IN	CNAME	.
 *.hnsjlh.com	600	IN	CNAME	.
 hnsjrd.com	600	IN	CNAME	.
 *.hnsjrd.com	600	IN	CNAME	.
+hnskl.org	600	IN	CNAME	.
+*.hnskl.org	600	IN	CNAME	.
 hnsktc.com	600	IN	CNAME	.
 *.hnsktc.com	600	IN	CNAME	.
 hnskxy.com	600	IN	CNAME	.
@@ -92110,6 +92478,8 @@ hnyydg.com	600	IN	CNAME	.
 *.hnyydg.com	600	IN	CNAME	.
 hnyygroup.com	600	IN	CNAME	.
 *.hnyygroup.com	600	IN	CNAME	.
+hnyytech.com	600	IN	CNAME	.
+*.hnyytech.com	600	IN	CNAME	.
 hnyyws.com	600	IN	CNAME	.
 *.hnyyws.com	600	IN	CNAME	.
 hnyyxj.com	600	IN	CNAME	.
@@ -92196,6 +92566,8 @@ hnzzms.com	600	IN	CNAME	.
 *.hnzzms.com	600	IN	CNAME	.
 hnzzrc.com	600	IN	CNAME	.
 *.hnzzrc.com	600	IN	CNAME	.
+hoaihe.store	600	IN	CNAME	.
+*.hoaihe.store	600	IN	CNAME	.
 hoau.net	600	IN	CNAME	.
 *.hoau.net	600	IN	CNAME	.
 hobalab.com	600	IN	CNAME	.
@@ -92230,6 +92602,8 @@ hogacn.com	600	IN	CNAME	.
 *.hogacn.com	600	IN	CNAME	.
 hogasky.com	600	IN	CNAME	.
 *.hogasky.com	600	IN	CNAME	.
+hogci.com	600	IN	CNAME	.
+*.hogci.com	600	IN	CNAME	.
 hogesoft.com	600	IN	CNAME	.
 *.hogesoft.com	600	IN	CNAME	.
 hogon17.com	600	IN	CNAME	.
@@ -92622,6 +92996,8 @@ hongshn.xyz	600	IN	CNAME	.
 *.hongshn.xyz	600	IN	CNAME	.
 hongshu.com	600	IN	CNAME	.
 *.hongshu.com	600	IN	CNAME	.
+hongshu18.com	600	IN	CNAME	.
+*.hongshu18.com	600	IN	CNAME	.
 hongshunet.com	600	IN	CNAME	.
 *.hongshunet.com	600	IN	CNAME	.
 hongshunth.com	600	IN	CNAME	.
@@ -92832,6 +93208,8 @@ hooshun.com	600	IN	CNAME	.
 *.hooshun.com	600	IN	CNAME	.
 hoosuntec.com	600	IN	CNAME	.
 *.hoosuntec.com	600	IN	CNAME	.
+hootnews.site	600	IN	CNAME	.
+*.hootnews.site	600	IN	CNAME	.
 hooya.hk	600	IN	CNAME	.
 *.hooya.hk	600	IN	CNAME	.
 hooyagroup.com	600	IN	CNAME	.
@@ -93730,6 +94108,8 @@ hsgjj.com	600	IN	CNAME	.
 *.hsgjj.com	600	IN	CNAME	.
 hsgjysj.com	600	IN	CNAME	.
 *.hsgjysj.com	600	IN	CNAME	.
+hsgtour.net	600	IN	CNAME	.
+*.hsgtour.net	600	IN	CNAME	.
 hshan.com	600	IN	CNAME	.
 *.hshan.com	600	IN	CNAME	.
 hshdyw.com	600	IN	CNAME	.
@@ -93790,6 +94170,8 @@ hsnewsnet.com	600	IN	CNAME	.
 *.hsnewsnet.com	600	IN	CNAME	.
 hsoow.com	600	IN	CNAME	.
 *.hsoow.com	600	IN	CNAME	.
+hspdz.com	600	IN	CNAME	.
+*.hspdz.com	600	IN	CNAME	.
 hspharm.com	600	IN	CNAME	.
 *.hspharm.com	600	IN	CNAME	.
 hspm.net	600	IN	CNAME	.
@@ -95266,6 +95648,8 @@ huazhu.com	600	IN	CNAME	.
 *.huazhu.com	600	IN	CNAME	.
 huazhuanapp.com	600	IN	CNAME	.
 *.huazhuanapp.com	600	IN	CNAME	.
+huazhuangshi.net	600	IN	CNAME	.
+*.huazhuangshi.net	600	IN	CNAME	.
 huazhucorp.com	600	IN	CNAME	.
 *.huazhucorp.com	600	IN	CNAME	.
 huazirc.com	600	IN	CNAME	.
@@ -96062,6 +96446,8 @@ hummcars.com	600	IN	CNAME	.
 *.hummcars.com	600	IN	CNAME	.
 hunaen.com	600	IN	CNAME	.
 *.hunaen.com	600	IN	CNAME	.
+hunan-bank.com	600	IN	CNAME	.
+*.hunan-bank.com	600	IN	CNAME	.
 hunan-changda.com	600	IN	CNAME	.
 *.hunan-changda.com	600	IN	CNAME	.
 hunan-huasheng.com	600	IN	CNAME	.
@@ -96074,6 +96460,8 @@ hunancatv.com	600	IN	CNAME	.
 *.hunancatv.com	600	IN	CNAME	.
 hunaneu.com	600	IN	CNAME	.
 *.hunaneu.com	600	IN	CNAME	.
+hunanfapaiwang.com	600	IN	CNAME	.
+*.hunanfapaiwang.com	600	IN	CNAME	.
 hunangaozhi.com	600	IN	CNAME	.
 *.hunangaozhi.com	600	IN	CNAME	.
 hunangy.com	600	IN	CNAME	.
@@ -97102,6 +97490,8 @@ hy5553.com	600	IN	CNAME	.
 *.hy5553.com	600	IN	CNAME	.
 hy563.com	600	IN	CNAME	.
 *.hy563.com	600	IN	CNAME	.
+hy57.com	600	IN	CNAME	.
+*.hy57.com	600	IN	CNAME	.
 hy576.com	600	IN	CNAME	.
 *.hy576.com	600	IN	CNAME	.
 hy628.com	600	IN	CNAME	.
@@ -97256,6 +97646,8 @@ hyjhgy.com	600	IN	CNAME	.
 *.hyjhgy.com	600	IN	CNAME	.
 hyjnpx.com	600	IN	CNAME	.
 *.hyjnpx.com	600	IN	CNAME	.
+hyjsxy.com	600	IN	CNAME	.
+*.hyjsxy.com	600	IN	CNAME	.
 hyjxmx.com	600	IN	CNAME	.
 *.hyjxmx.com	600	IN	CNAME	.
 hykang.com	600	IN	CNAME	.
@@ -97482,6 +97874,8 @@ hz-kedi.com	600	IN	CNAME	.
 *.hz-kedi.com	600	IN	CNAME	.
 hz-moon.com	600	IN	CNAME	.
 *.hz-moon.com	600	IN	CNAME	.
+hz-oa.com	600	IN	CNAME	.
+*.hz-oa.com	600	IN	CNAME	.
 hz-pharm.com	600	IN	CNAME	.
 *.hz-pharm.com	600	IN	CNAME	.
 hz-polar.com	600	IN	CNAME	.
@@ -97512,6 +97906,8 @@ hz3ds.com	600	IN	CNAME	.
 *.hz3ds.com	600	IN	CNAME	.
 hz3y.com	600	IN	CNAME	.
 *.hz3y.com	600	IN	CNAME	.
+hz3yy.com	600	IN	CNAME	.
+*.hz3yy.com	600	IN	CNAME	.
 hz66.com	600	IN	CNAME	.
 *.hz66.com	600	IN	CNAME	.
 hz6z.com	600	IN	CNAME	.
@@ -97692,6 +98088,8 @@ hzepd.com	600	IN	CNAME	.
 *.hzepd.com	600	IN	CNAME	.
 hzeyun.com	600	IN	CNAME	.
 *.hzeyun.com	600	IN	CNAME	.
+hzfanews.com	600	IN	CNAME	.
+*.hzfanews.com	600	IN	CNAME	.
 hzfc.cc	600	IN	CNAME	.
 *.hzfc.cc	600	IN	CNAME	.
 hzfc365.com	600	IN	CNAME	.
@@ -98260,6 +98658,8 @@ hzxinglong-ip.com	600	IN	CNAME	.
 *.hzxinglong-ip.com	600	IN	CNAME	.
 hzxiyuege.com	600	IN	CNAME	.
 *.hzxiyuege.com	600	IN	CNAME	.
+hzxjhs.com	600	IN	CNAME	.
+*.hzxjhs.com	600	IN	CNAME	.
 hzxqf.com	600	IN	CNAME	.
 *.hzxqf.com	600	IN	CNAME	.
 hzxsjgxx.com	600	IN	CNAME	.
@@ -98320,6 +98720,8 @@ hzyzxx.net	600	IN	CNAME	.
 *.hzyzxx.net	600	IN	CNAME	.
 hzzbco.com	600	IN	CNAME	.
 *.hzzbco.com	600	IN	CNAME	.
+hzzbhb.com	600	IN	CNAME	.
+*.hzzbhb.com	600	IN	CNAME	.
 hzzckg.com	600	IN	CNAME	.
 *.hzzckg.com	600	IN	CNAME	.
 hzzfcm.com	600	IN	CNAME	.
@@ -98872,6 +99274,8 @@ ibmfwqdl.com	600	IN	CNAME	.
 *.ibmfwqdl.com	600	IN	CNAME	.
 ibmwclub.com	600	IN	CNAME	.
 *.ibmwclub.com	600	IN	CNAME	.
+ibnjl.shop	600	IN	CNAME	.
+*.ibnjl.shop	600	IN	CNAME	.
 ibodao.com	600	IN	CNAME	.
 *.ibodao.com	600	IN	CNAME	.
 ibodyhome.com	600	IN	CNAME	.
@@ -98982,6 +99386,8 @@ icardfinancial.com	600	IN	CNAME	.
 *.icardfinancial.com	600	IN	CNAME	.
 icaredbd.com	600	IN	CNAME	.
 *.icaredbd.com	600	IN	CNAME	.
+icarstory.com	600	IN	CNAME	.
+*.icarstory.com	600	IN	CNAME	.
 icasiso.com	600	IN	CNAME	.
 *.icasiso.com	600	IN	CNAME	.
 icastlewar.com	600	IN	CNAME	.
@@ -99156,6 +99562,8 @@ ichaotao.com	600	IN	CNAME	.
 *.ichaotao.com	600	IN	CNAME	.
 ichaotu.com	600	IN	CNAME	.
 *.ichaotu.com	600	IN	CNAME	.
+icharityngo.com	600	IN	CNAME	.
+*.icharityngo.com	600	IN	CNAME	.
 ichat800.com	600	IN	CNAME	.
 *.ichat800.com	600	IN	CNAME	.
 ichatcn.com	600	IN	CNAME	.
@@ -99496,6 +99904,8 @@ idatawz.com	600	IN	CNAME	.
 *.idatawz.com	600	IN	CNAME	.
 idayer.com	600	IN	CNAME	.
 *.idayer.com	600	IN	CNAME	.
+idazhe.net	600	IN	CNAME	.
+*.idazhe.net	600	IN	CNAME	.
 idbhost.com	600	IN	CNAME	.
 *.idbhost.com	600	IN	CNAME	.
 idc-icp.com	600	IN	CNAME	.
@@ -101488,6 +101898,8 @@ ind4.net	600	IN	CNAME	.
 *.ind4.net	600	IN	CNAME	.
 ind9ed.com	600	IN	CNAME	.
 *.ind9ed.com	600	IN	CNAME	.
+indeedpower.com	600	IN	CNAME	.
+*.indeedpower.com	600	IN	CNAME	.
 indetek-lab.com	600	IN	CNAME	.
 *.indetek-lab.com	600	IN	CNAME	.
 indexea.com	600	IN	CNAME	.
@@ -101610,6 +102022,8 @@ infoobs.com	600	IN	CNAME	.
 *.infoobs.com	600	IN	CNAME	.
 infoqstatic.com	600	IN	CNAME	.
 *.infoqstatic.com	600	IN	CNAME	.
+inforamz.com	600	IN	CNAME	.
+*.inforamz.com	600	IN	CNAME	.
 inforbus.com	600	IN	CNAME	.
 *.inforbus.com	600	IN	CNAME	.
 inforeenviro.com	600	IN	CNAME	.
@@ -101792,6 +102206,8 @@ inlandschool.com	600	IN	CNAME	.
 *.inlandschool.com	600	IN	CNAME	.
 inlaylink.com	600	IN	CNAME	.
 *.inlaylink.com	600	IN	CNAME	.
+inlaylink.net	600	IN	CNAME	.
+*.inlaylink.net	600	IN	CNAME	.
 inlishui.com	600	IN	CNAME	.
 *.inlishui.com	600	IN	CNAME	.
 inliuzhou.com	600	IN	CNAME	.
@@ -101886,6 +102302,8 @@ inoteexpress.com	600	IN	CNAME	.
 *.inoteexpress.com	600	IN	CNAME	.
 inovance-automotive.com	600	IN	CNAME	.
 *.inovance-automotive.com	600	IN	CNAME	.
+inovance.com	600	IN	CNAME	.
+*.inovance.com	600	IN	CNAME	.
 inovogen.com	600	IN	CNAME	.
 *.inovogen.com	600	IN	CNAME	.
 inovppg.com	600	IN	CNAME	.
@@ -102072,6 +102490,8 @@ intsig.com	600	IN	CNAME	.
 *.intsig.com	600	IN	CNAME	.
 intsig.net	600	IN	CNAME	.
 *.intsig.net	600	IN	CNAME	.
+intvolunteer.com	600	IN	CNAME	.
+*.intvolunteer.com	600	IN	CNAME	.
 intwho.com	600	IN	CNAME	.
 *.intwho.com	600	IN	CNAME	.
 intwing.com	600	IN	CNAME	.
@@ -102490,6 +102910,8 @@ iposeidoncdn.com	600	IN	CNAME	.
 *.iposeidoncdn.com	600	IN	CNAME	.
 iposeidongame.com	600	IN	CNAME	.
 *.iposeidongame.com	600	IN	CNAME	.
+iposl.com	600	IN	CNAME	.
+*.iposl.com	600	IN	CNAME	.
 ipostalcode.com	600	IN	CNAME	.
 *.ipostalcode.com	600	IN	CNAME	.
 ipple.net	600	IN	CNAME	.
@@ -102666,6 +103088,8 @@ iqupdate.com	600	IN	CNAME	.
 *.iqupdate.com	600	IN	CNAME	.
 iqxedu.com	600	IN	CNAME	.
 *.iqxedu.com	600	IN	CNAME	.
+ir56.com	600	IN	CNAME	.
+*.ir56.com	600	IN	CNAME	.
 irain.in	600	IN	CNAME	.
 *.irain.in	600	IN	CNAME	.
 irainone.com	600	IN	CNAME	.
@@ -102896,6 +103320,8 @@ ishangtong.com	600	IN	CNAME	.
 *.ishangtong.com	600	IN	CNAME	.
 ishangu.com	600	IN	CNAME	.
 *.ishangu.com	600	IN	CNAME	.
+ishanin.com	600	IN	CNAME	.
+*.ishanin.com	600	IN	CNAME	.
 ishansong.com	600	IN	CNAME	.
 *.ishansong.com	600	IN	CNAME	.
 ishaohuang.com	600	IN	CNAME	.
@@ -103424,6 +103850,8 @@ itmind.net	600	IN	CNAME	.
 *.itmind.net	600	IN	CNAME	.
 itmoocs.com	600	IN	CNAME	.
 *.itmoocs.com	600	IN	CNAME	.
+itmop.com	600	IN	CNAME	.
+*.itmop.com	600	IN	CNAME	.
 itmuch.com	600	IN	CNAME	.
 *.itmuch.com	600	IN	CNAME	.
 itmuke.com	600	IN	CNAME	.
@@ -106384,6 +106812,8 @@ jiaoyin.com	600	IN	CNAME	.
 *.jiaoyin.com	600	IN	CNAME	.
 jiaoyixia.com	600	IN	CNAME	.
 *.jiaoyixia.com	600	IN	CNAME	.
+jiaoyiyou.com	600	IN	CNAME	.
+*.jiaoyiyou.com	600	IN	CNAME	.
 jiaoyizhu.com	600	IN	CNAME	.
 *.jiaoyizhu.com	600	IN	CNAME	.
 jiaoyu361.com	600	IN	CNAME	.
@@ -107094,6 +107524,8 @@ jinan-marathon.com	600	IN	CNAME	.
 *.jinan-marathon.com	600	IN	CNAME	.
 jinan7.com	600	IN	CNAME	.
 *.jinan7.com	600	IN	CNAME	.
+jinangov.com	600	IN	CNAME	.
+*.jinangov.com	600	IN	CNAME	.
 jinanhaofang.com	600	IN	CNAME	.
 *.jinanhaofang.com	600	IN	CNAME	.
 jinanhualian.com	600	IN	CNAME	.
@@ -107164,6 +107596,8 @@ jindati.com	600	IN	CNAME	.
 *.jindati.com	600	IN	CNAME	.
 jinde-logistics.com	600	IN	CNAME	.
 *.jinde-logistics.com	600	IN	CNAME	.
+jindianzi.net	600	IN	CNAME	.
+*.jindianzi.net	600	IN	CNAME	.
 jindidata.com	600	IN	CNAME	.
 *.jindidata.com	600	IN	CNAME	.
 jindidq.com	600	IN	CNAME	.
@@ -107786,6 +108220,8 @@ jinrirm.com	600	IN	CNAME	.
 *.jinrirm.com	600	IN	CNAME	.
 jinrishici.com	600	IN	CNAME	.
 *.jinrishici.com	600	IN	CNAME	.
+jinrishuiyinxiangji.com	600	IN	CNAME	.
+*.jinrishuiyinxiangji.com	600	IN	CNAME	.
 jinritemai-inc.com	600	IN	CNAME	.
 *.jinritemai-inc.com	600	IN	CNAME	.
 jinritemai.com	600	IN	CNAME	.
@@ -107850,6 +108286,8 @@ jinshanmz.com	600	IN	CNAME	.
 *.jinshanmz.com	600	IN	CNAME	.
 jinshasitemuseum.com	600	IN	CNAME	.
 *.jinshasitemuseum.com	600	IN	CNAME	.
+jinshaxuexiao.com	600	IN	CNAME	.
+*.jinshaxuexiao.com	600	IN	CNAME	.
 jinshengceramics.com	600	IN	CNAME	.
 *.jinshengceramics.com	600	IN	CNAME	.
 jinshengtang.net	600	IN	CNAME	.
@@ -107948,6 +108386,8 @@ jinyaco.com	600	IN	CNAME	.
 *.jinyaco.com	600	IN	CNAME	.
 jinyafu.com	600	IN	CNAME	.
 *.jinyafu.com	600	IN	CNAME	.
+jinyedaojia.com	600	IN	CNAME	.
+*.jinyedaojia.com	600	IN	CNAME	.
 jinyici.com	600	IN	CNAME	.
 *.jinyici.com	600	IN	CNAME	.
 jinyidun.com	600	IN	CNAME	.
@@ -107980,6 +108420,8 @@ jinyunweb.com	600	IN	CNAME	.
 *.jinyunweb.com	600	IN	CNAME	.
 jinyuzd.cc	600	IN	CNAME	.
 *.jinyuzd.cc	600	IN	CNAME	.
+jinzanzan.com	600	IN	CNAME	.
+*.jinzanzan.com	600	IN	CNAME	.
 jinzhao.me	600	IN	CNAME	.
 *.jinzhao.me	600	IN	CNAME	.
 jinzheled.com	600	IN	CNAME	.
@@ -108578,6 +109020,8 @@ jiyoujia.com	600	IN	CNAME	.
 *.jiyoujia.com	600	IN	CNAME	.
 jiyouwang.com	600	IN	CNAME	.
 *.jiyouwang.com	600	IN	CNAME	.
+jiyuanmall.com	600	IN	CNAME	.
+*.jiyuanmall.com	600	IN	CNAME	.
 jiyuantour.com	600	IN	CNAME	.
 *.jiyuantour.com	600	IN	CNAME	.
 jiyue-auto.com	600	IN	CNAME	.
@@ -108912,6 +109356,8 @@ jklughj.work	600	IN	CNAME	.
 *.jklughj.work	600	IN	CNAME	.
 jknanotech.com	600	IN	CNAME	.
 *.jknanotech.com	600	IN	CNAME	.
+jknuo.net	600	IN	CNAME	.
+*.jknuo.net	600	IN	CNAME	.
 jkouu.com	600	IN	CNAME	.
 *.jkouu.com	600	IN	CNAME	.
 jkpan.cc	600	IN	CNAME	.
@@ -109548,6 +109994,8 @@ jnyyjt.com	600	IN	CNAME	.
 *.jnyyjt.com	600	IN	CNAME	.
 jnzhuoxin.com	600	IN	CNAME	.
 *.jnzhuoxin.com	600	IN	CNAME	.
+jnzk.net	600	IN	CNAME	.
+*.jnzk.net	600	IN	CNAME	.
 jnzl.com	600	IN	CNAME	.
 *.jnzl.com	600	IN	CNAME	.
 jnzongchi.com	600	IN	CNAME	.
@@ -112398,6 +112846,10 @@ jvgnwn.sbs	600	IN	CNAME	.
 *.jvgnwn.sbs	600	IN	CNAME	.
 jvmai.com	600	IN	CNAME	.
 *.jvmai.com	600	IN	CNAME	.
+jvmcc.com	600	IN	CNAME	.
+*.jvmcc.com	600	IN	CNAME	.
+jvmee.com	600	IN	CNAME	.
+*.jvmee.com	600	IN	CNAME	.
 jvniubi.com	600	IN	CNAME	.
 *.jvniubi.com	600	IN	CNAME	.
 jvrong.com	600	IN	CNAME	.
@@ -112892,6 +113344,8 @@ jxzl.cc	600	IN	CNAME	.
 *.jxzl.cc	600	IN	CNAME	.
 jxzyx.com	600	IN	CNAME	.
 *.jxzyx.com	600	IN	CNAME	.
+jy-heju.com	600	IN	CNAME	.
+*.jy-heju.com	600	IN	CNAME	.
 jy-leasing.com	600	IN	CNAME	.
 *.jy-leasing.com	600	IN	CNAME	.
 jy-sz.net	600	IN	CNAME	.
@@ -113108,6 +113562,8 @@ jysyzk.com	600	IN	CNAME	.
 *.jysyzk.com	600	IN	CNAME	.
 jysyzx.net	600	IN	CNAME	.
 *.jysyzx.net	600	IN	CNAME	.
+jyszyl.com	600	IN	CNAME	.
+*.jyszyl.com	600	IN	CNAME	.
 jytaier.com	600	IN	CNAME	.
 *.jytaier.com	600	IN	CNAME	.
 jytcdq.com	600	IN	CNAME	.
@@ -113262,6 +113718,8 @@ jzmlzy.com	600	IN	CNAME	.
 *.jzmlzy.com	600	IN	CNAME	.
 jzmob.com	600	IN	CNAME	.
 *.jzmob.com	600	IN	CNAME	.
+jzmsg.com	600	IN	CNAME	.
+*.jzmsg.com	600	IN	CNAME	.
 jzmt.net	600	IN	CNAME	.
 *.jzmt.net	600	IN	CNAME	.
 jznygf.com	600	IN	CNAME	.
@@ -113572,6 +114030,8 @@ kaijia-smt.com	600	IN	CNAME	.
 *.kaijia-smt.com	600	IN	CNAME	.
 kaijia.com	600	IN	CNAME	.
 *.kaijia.com	600	IN	CNAME	.
+kaijiacloud.com	600	IN	CNAME	.
+*.kaijiacloud.com	600	IN	CNAME	.
 kaijiage.com	600	IN	CNAME	.
 *.kaijiage.com	600	IN	CNAME	.
 kaijiejinrong.com	600	IN	CNAME	.
@@ -115736,6 +116196,8 @@ kkj2.com	600	IN	CNAME	.
 *.kkj2.com	600	IN	CNAME	.
 kkjiaofei.com	600	IN	CNAME	.
 *.kkjiaofei.com	600	IN	CNAME	.
+kkjishu.com	600	IN	CNAME	.
+*.kkjishu.com	600	IN	CNAME	.
 kkk5.com	600	IN	CNAME	.
 *.kkk5.com	600	IN	CNAME	.
 kkkwww.com	600	IN	CNAME	.
@@ -115888,6 +116350,8 @@ km8z.net	600	IN	CNAME	.
 *.km8z.net	600	IN	CNAME	.
 kmail.com	600	IN	CNAME	.
 *.kmail.com	600	IN	CNAME	.
+kmaosmart.com	600	IN	CNAME	.
+*.kmaosmart.com	600	IN	CNAME	.
 kmaoxx.com	600	IN	CNAME	.
 *.kmaoxx.com	600	IN	CNAME	.
 kmapp.net	600	IN	CNAME	.
@@ -115936,6 +116400,8 @@ kmhwtz.com	600	IN	CNAME	.
 *.kmhwtz.com	600	IN	CNAME	.
 kmjt.net	600	IN	CNAME	.
 *.kmjt.net	600	IN	CNAME	.
+kmksy.com	600	IN	CNAME	.
+*.kmksy.com	600	IN	CNAME	.
 kmlcl.com	600	IN	CNAME	.
 *.kmlcl.com	600	IN	CNAME	.
 kmlhh.com	600	IN	CNAME	.
@@ -116336,6 +116802,8 @@ koudaionline.com	600	IN	CNAME	.
 *.koudaionline.com	600	IN	CNAME	.
 koudaionline.net	600	IN	CNAME	.
 *.koudaionline.net	600	IN	CNAME	.
+koudaistory.com	600	IN	CNAME	.
+*.koudaistory.com	600	IN	CNAME	.
 koudaitiku.com	600	IN	CNAME	.
 *.koudaitiku.com	600	IN	CNAME	.
 koudaitong.com	600	IN	CNAME	.
@@ -116492,6 +116960,8 @@ kridol.com	600	IN	CNAME	.
 *.kridol.com	600	IN	CNAME	.
 kriszhang.com	600	IN	CNAME	.
 *.kriszhang.com	600	IN	CNAME	.
+krohnechina.com	600	IN	CNAME	.
+*.krohnechina.com	600	IN	CNAME	.
 krones-group.com	600	IN	CNAME	.
 *.krones-group.com	600	IN	CNAME	.
 krones.com	600	IN	CNAME	.
@@ -116646,6 +117116,8 @@ ksria.com	600	IN	CNAME	.
 *.ksria.com	600	IN	CNAME	.
 ksrmtzx.com	600	IN	CNAME	.
 *.ksrmtzx.com	600	IN	CNAME	.
+ksrmyy.com	600	IN	CNAME	.
+*.ksrmyy.com	600	IN	CNAME	.
 ksrmyy.org	600	IN	CNAME	.
 *.ksrmyy.org	600	IN	CNAME	.
 ksrsy.com	600	IN	CNAME	.
@@ -117560,6 +118032,8 @@ kuxiaozhu.com	600	IN	CNAME	.
 *.kuxiaozhu.com	600	IN	CNAME	.
 kuxiuktv.com	600	IN	CNAME	.
 *.kuxiuktv.com	600	IN	CNAME	.
+kuxsw.com	600	IN	CNAME	.
+*.kuxsw.com	600	IN	CNAME	.
 kuxueedu.com	600	IN	CNAME	.
 *.kuxueedu.com	600	IN	CNAME	.
 kuyh.com	600	IN	CNAME	.
@@ -117898,6 +118372,8 @@ kyy6.com	600	IN	CNAME	.
 *.kyy6.com	600	IN	CNAME	.
 kyzhpt.com	600	IN	CNAME	.
 *.kyzhpt.com	600	IN	CNAME	.
+kyzhwater.com	600	IN	CNAME	.
+*.kyzhwater.com	600	IN	CNAME	.
 kyzs.com	600	IN	CNAME	.
 *.kyzs.com	600	IN	CNAME	.
 kz.cc	600	IN	CNAME	.
@@ -118648,6 +119124,8 @@ lanxum.com	600	IN	CNAME	.
 *.lanxum.com	600	IN	CNAME	.
 lanyaa.com	600	IN	CNAME	.
 *.lanyaa.com	600	IN	CNAME	.
+lanyikeji.asia	600	IN	CNAME	.
+*.lanyikeji.asia	600	IN	CNAME	.
 lanying.site	600	IN	CNAME	.
 *.lanying.site	600	IN	CNAME	.
 lanyingwang.com	600	IN	CNAME	.
@@ -118764,6 +119242,8 @@ laoevisa.gov.la	600	IN	CNAME	.
 *.laoevisa.gov.la	600	IN	CNAME	.
 laofengwei.com	600	IN	CNAME	.
 *.laofengwei.com	600	IN	CNAME	.
+laofengxiang.com	600	IN	CNAME	.
+*.laofengxiang.com	600	IN	CNAME	.
 laofu.online	600	IN	CNAME	.
 *.laofu.online	600	IN	CNAME	.
 laoge.xyz	600	IN	CNAME	.
@@ -119284,6 +119764,8 @@ lccyy.com	600	IN	CNAME	.
 *.lccyy.com	600	IN	CNAME	.
 lccz.com	600	IN	CNAME	.
 *.lccz.com	600	IN	CNAME	.
+lcdfans.com	600	IN	CNAME	.
+*.lcdfans.com	600	IN	CNAME	.
 lcdhome.net	600	IN	CNAME	.
 *.lcdhome.net	600	IN	CNAME	.
 lcdtz.com	600	IN	CNAME	.
@@ -120284,6 +120766,8 @@ letao.com	600	IN	CNAME	.
 *.letao.com	600	IN	CNAME	.
 letaoedu.com	600	IN	CNAME	.
 *.letaoedu.com	600	IN	CNAME	.
+letaohuo.com	600	IN	CNAME	.
+*.letaohuo.com	600	IN	CNAME	.
 letaoren.com	600	IN	CNAME	.
 *.letaoren.com	600	IN	CNAME	.
 letbonchina.com	600	IN	CNAME	.
@@ -121732,6 +122216,8 @@ lingmeng888.com	600	IN	CNAME	.
 *.lingmeng888.com	600	IN	CNAME	.
 lingmovie.com	600	IN	CNAME	.
 *.lingmovie.com	600	IN	CNAME	.
+lingnanlv.com	600	IN	CNAME	.
+*.lingnanlv.com	600	IN	CNAME	.
 lingnanpass.com	600	IN	CNAME	.
 *.lingnanpass.com	600	IN	CNAME	.
 lingo-ace.com	600	IN	CNAME	.
@@ -122118,6 +122604,8 @@ linux-code.com	600	IN	CNAME	.
 *.linux-code.com	600	IN	CNAME	.
 linux-ren.org	600	IN	CNAME	.
 *.linux-ren.org	600	IN	CNAME	.
+linux.sb	600	IN	CNAME	.
+*.linux.sb	600	IN	CNAME	.
 linux.zone	600	IN	CNAME	.
 *.linux.zone	600	IN	CNAME	.
 linux178.com	600	IN	CNAME	.
@@ -122314,6 +122802,8 @@ listary.net	600	IN	CNAME	.
 *.listary.net	600	IN	CNAME	.
 listarypro.com	600	IN	CNAME	.
 *.listarypro.com	600	IN	CNAME	.
+listenai.com	600	IN	CNAME	.
+*.listenai.com	600	IN	CNAME	.
 listeneer.com	600	IN	CNAME	.
 *.listeneer.com	600	IN	CNAME	.
 listeningo.com	600	IN	CNAME	.
@@ -122928,6 +123418,8 @@ ljk.cc	600	IN	CNAME	.
 *.ljk.cc	600	IN	CNAME	.
 ljkangyang.com	600	IN	CNAME	.
 *.ljkangyang.com	600	IN	CNAME	.
+ljkfdx.com	600	IN	CNAME	.
+*.ljkfdx.com	600	IN	CNAME	.
 ljlcd.com	600	IN	CNAME	.
 *.ljlcd.com	600	IN	CNAME	.
 ljlmdns.com	600	IN	CNAME	.
@@ -123462,6 +123954,8 @@ logisticstech.com	600	IN	CNAME	.
 *.logisticstech.com	600	IN	CNAME	.
 logo-emblem.com	600	IN	CNAME	.
 *.logo-emblem.com	600	IN	CNAME	.
+logo123.com	600	IN	CNAME	.
+*.logo123.com	600	IN	CNAME	.
 logo123.net	600	IN	CNAME	.
 *.logo123.net	600	IN	CNAME	.
 logo2008.net	600	IN	CNAME	.
@@ -123974,6 +124468,8 @@ lotianshangx.com	600	IN	CNAME	.
 *.lotianshangx.com	600	IN	CNAME	.
 lotlab.org	600	IN	CNAME	.
 *.lotlab.org	600	IN	CNAME	.
+lotour.cc	600	IN	CNAME	.
+*.lotour.cc	600	IN	CNAME	.
 lotour.com	600	IN	CNAME	.
 *.lotour.com	600	IN	CNAME	.
 lotour.net	600	IN	CNAME	.
@@ -124740,6 +125236,8 @@ luckycoffee.com	600	IN	CNAME	.
 *.luckycoffee.com	600	IN	CNAME	.
 luckyop.com	600	IN	CNAME	.
 *.luckyop.com	600	IN	CNAME	.
+luckyuyin.com	600	IN	CNAME	.
+*.luckyuyin.com	600	IN	CNAME	.
 luckyxp.net	600	IN	CNAME	.
 *.luckyxp.net	600	IN	CNAME	.
 lucode.net	600	IN	CNAME	.
@@ -125054,6 +125552,8 @@ luoying66.com	600	IN	CNAME	.
 *.luoying66.com	600	IN	CNAME	.
 luoyingsh.com	600	IN	CNAME	.
 *.luoyingsh.com	600	IN	CNAME	.
+luozhinet.com	600	IN	CNAME	.
+*.luozhinet.com	600	IN	CNAME	.
 luozhiyun.com	600	IN	CNAME	.
 *.luozhiyun.com	600	IN	CNAME	.
 luozhongxu.com	600	IN	CNAME	.
@@ -125562,6 +126062,8 @@ lxny.vip	600	IN	CNAME	.
 *.lxny.vip	600	IN	CNAME	.
 lxq7t234u.shop	600	IN	CNAME	.
 *.lxq7t234u.shop	600	IN	CNAME	.
+lxqrmyy.com	600	IN	CNAME	.
+*.lxqrmyy.com	600	IN	CNAME	.
 lxrcsc.com	600	IN	CNAME	.
 *.lxrcsc.com	600	IN	CNAME	.
 lxsales.com	600	IN	CNAME	.
@@ -126706,6 +127208,8 @@ madaomall.com	600	IN	CNAME	.
 *.madaomall.com	600	IN	CNAME	.
 madboxi.com	600	IN	CNAME	.
 *.madboxi.com	600	IN	CNAME	.
+made-in-china.com	600	IN	CNAME	.
+*.made-in-china.com	600	IN	CNAME	.
 madefuns.com	600	IN	CNAME	.
 *.madefuns.com	600	IN	CNAME	.
 madeinchinastone.com	600	IN	CNAME	.
@@ -127276,6 +127780,8 @@ mangafuna.xyz	600	IN	CNAME	.
 *.mangafuna.xyz	600	IN	CNAME	.
 manganesenanhai.com	600	IN	CNAME	.
 *.manganesenanhai.com	600	IN	CNAME	.
+mangdream.com	600	IN	CNAME	.
+*.mangdream.com	600	IN	CNAME	.
 mangg.com	600	IN	CNAME	.
 *.mangg.com	600	IN	CNAME	.
 mangguo168.com	600	IN	CNAME	.
@@ -128162,6 +128668,8 @@ mbsifu.com	600	IN	CNAME	.
 *.mbsifu.com	600	IN	CNAME	.
 mbti16cc.com	600	IN	CNAME	.
 *.mbti16cc.com	600	IN	CNAME	.
+mbtics.com	600	IN	CNAME	.
+*.mbtics.com	600	IN	CNAME	.
 mbtools.work	600	IN	CNAME	.
 *.mbtools.work	600	IN	CNAME	.
 mbwxzx.hk	600	IN	CNAME	.
@@ -128194,6 +128702,8 @@ mc9y.net	600	IN	CNAME	.
 *.mc9y.net	600	IN	CNAME	.
 mcake.com	600	IN	CNAME	.
 *.mcake.com	600	IN	CNAME	.
+mcar.vip	600	IN	CNAME	.
+*.mcar.vip	600	IN	CNAME	.
 mcbaas.work	600	IN	CNAME	.
 *.mcbaas.work	600	IN	CNAME	.
 mcbang.com	600	IN	CNAME	.
@@ -130162,12 +130672,18 @@ microxiang.com	600	IN	CNAME	.
 *.microxiang.com	600	IN	CNAME	.
 microyan.com	600	IN	CNAME	.
 *.microyan.com	600	IN	CNAME	.
+microzl.com	600	IN	CNAME	.
+*.microzl.com	600	IN	CNAME	.
 microzuji.com	600	IN	CNAME	.
 *.microzuji.com	600	IN	CNAME	.
+micstatic.com	600	IN	CNAME	.
+*.micstatic.com	600	IN	CNAME	.
 mictormedical.com	600	IN	CNAME	.
 *.mictormedical.com	600	IN	CNAME	.
 micu.hk	600	IN	CNAME	.
 *.micu.hk	600	IN	CNAME	.
+micun.com	600	IN	CNAME	.
+*.micun.com	600	IN	CNAME	.
 micw.com	600	IN	CNAME	.
 *.micw.com	600	IN	CNAME	.
 micyjz.com	600	IN	CNAME	.
@@ -130262,6 +130778,8 @@ mieseng.com	600	IN	CNAME	.
 *.mieseng.com	600	IN	CNAME	.
 mifacelive.com	600	IN	CNAME	.
 *.mifacelive.com	600	IN	CNAME	.
+mifan.cc	600	IN	CNAME	.
+*.mifan.cc	600	IN	CNAME	.
 mifan365.com	600	IN	CNAME	.
 *.mifan365.com	600	IN	CNAME	.
 mifangba.com	600	IN	CNAME	.
@@ -133254,6 +133772,8 @@ musetransfer.com	600	IN	CNAME	.
 *.musetransfer.com	600	IN	CNAME	.
 mushafa.net	600	IN	CNAME	.
 *.mushafa.net	600	IN	CNAME	.
+mushroommarket.net	600	IN	CNAME	.
+*.mushroommarket.net	600	IN	CNAME	.
 music.apple.com	600	IN	CNAME	.
 *.music.apple.com	600	IN	CNAME	.
 music4x.com	600	IN	CNAME	.
@@ -134254,6 +134774,8 @@ mywll.com	600	IN	CNAME	.
 *.mywll.com	600	IN	CNAME	.
 myworld6.com	600	IN	CNAME	.
 *.myworld6.com	600	IN	CNAME	.
+mywuwu.com	600	IN	CNAME	.
+*.mywuwu.com	600	IN	CNAME	.
 myxxts.club	600	IN	CNAME	.
 *.myxxts.club	600	IN	CNAME	.
 myxxts.com	600	IN	CNAME	.
@@ -134456,6 +134978,8 @@ na.ci	600	IN	CNAME	.
 *.na.ci	600	IN	CNAME	.
 naaln.com	600	IN	CNAME	.
 *.naaln.com	600	IN	CNAME	.
+nabel.cc	600	IN	CNAME	.
+*.nabel.cc	600	IN	CNAME	.
 nabluemedia.com	600	IN	CNAME	.
 *.nabluemedia.com	600	IN	CNAME	.
 naboyi.com	600	IN	CNAME	.
@@ -135340,6 +135864,8 @@ nciyuan.com	600	IN	CNAME	.
 *.nciyuan.com	600	IN	CNAME	.
 ncjrailway.com	600	IN	CNAME	.
 *.ncjrailway.com	600	IN	CNAME	.
+ncjsyy.com	600	IN	CNAME	.
+*.ncjsyy.com	600	IN	CNAME	.
 nclqq.com	600	IN	CNAME	.
 *.nclqq.com	600	IN	CNAME	.
 ncmbio.com	600	IN	CNAME	.
@@ -135480,6 +136006,8 @@ ndszgb.com	600	IN	CNAME	.
 *.ndszgb.com	600	IN	CNAME	.
 nduoa.com	600	IN	CNAME	.
 *.nduoa.com	600	IN	CNAME	.
+nduoshousi.com	600	IN	CNAME	.
+*.nduoshousi.com	600	IN	CNAME	.
 nduotuan.com	600	IN	CNAME	.
 *.nduotuan.com	600	IN	CNAME	.
 ndvfxyvj.sbs	600	IN	CNAME	.
@@ -136442,6 +136970,8 @@ niaobulashi.com	600	IN	CNAME	.
 *.niaobulashi.com	600	IN	CNAME	.
 niaocms.com	600	IN	CNAME	.
 *.niaocms.com	600	IN	CNAME	.
+niaogebiji.com	600	IN	CNAME	.
+*.niaogebiji.com	600	IN	CNAME	.
 niaola.com	600	IN	CNAME	.
 *.niaola.com	600	IN	CNAME	.
 niaoquan.fun	600	IN	CNAME	.
@@ -136850,6 +137380,8 @@ niutrans.com	600	IN	CNAME	.
 *.niutrans.com	600	IN	CNAME	.
 niuwk.com	600	IN	CNAME	.
 *.niuwk.com	600	IN	CNAME	.
+niuwoai.com	600	IN	CNAME	.
+*.niuwoai.com	600	IN	CNAME	.
 niuxgame77.com	600	IN	CNAME	.
 *.niuxgame77.com	600	IN	CNAME	.
 niuxiaoer.net	600	IN	CNAME	.
@@ -136898,6 +137430,8 @@ nj-bl.com	600	IN	CNAME	.
 *.nj-bl.com	600	IN	CNAME	.
 nj-bw.com	600	IN	CNAME	.
 *.nj-bw.com	600	IN	CNAME	.
+nj-cgp.com	600	IN	CNAME	.
+*.nj-cgp.com	600	IN	CNAME	.
 nj-chishun.com	600	IN	CNAME	.
 *.nj-chishun.com	600	IN	CNAME	.
 nj-control.com	600	IN	CNAME	.
@@ -137302,6 +137836,8 @@ njjianguo.com	600	IN	CNAME	.
 *.njjianguo.com	600	IN	CNAME	.
 njjiantian.com	600	IN	CNAME	.
 *.njjiantian.com	600	IN	CNAME	.
+njjiejuwx.com	600	IN	CNAME	.
+*.njjiejuwx.com	600	IN	CNAME	.
 njjienuo.com	600	IN	CNAME	.
 *.njjienuo.com	600	IN	CNAME	.
 njjifei.com	600	IN	CNAME	.
@@ -137742,6 +138278,8 @@ njxlhd.com	600	IN	CNAME	.
 *.njxlhd.com	600	IN	CNAME	.
 njxlxx.com	600	IN	CNAME	.
 *.njxlxx.com	600	IN	CNAME	.
+njxmeng.com	600	IN	CNAME	.
+*.njxmeng.com	600	IN	CNAME	.
 njxnjt.com	600	IN	CNAME	.
 *.njxnjt.com	600	IN	CNAME	.
 njxty.com	600	IN	CNAME	.
@@ -137920,6 +138458,8 @@ nlttms.com	600	IN	CNAME	.
 *.nlttms.com	600	IN	CNAME	.
 nlxn.com	600	IN	CNAME	.
 *.nlxn.com	600	IN	CNAME	.
+nlyd.club	600	IN	CNAME	.
+*.nlyd.club	600	IN	CNAME	.
 nlypx.com	600	IN	CNAME	.
 *.nlypx.com	600	IN	CNAME	.
 nlyzzzxrmyy.com	600	IN	CNAME	.
@@ -138828,6 +139368,8 @@ nongyelu.com	600	IN	CNAME	.
 *.nongyelu.com	600	IN	CNAME	.
 nongyemen.com	600	IN	CNAME	.
 *.nongyemen.com	600	IN	CNAME	.
+nongyeplus.com	600	IN	CNAME	.
+*.nongyeplus.com	600	IN	CNAME	.
 nongyie.com	600	IN	CNAME	.
 *.nongyie.com	600	IN	CNAME	.
 nonobank.com	600	IN	CNAME	.
@@ -138926,6 +139468,8 @@ northtimes.com	600	IN	CNAME	.
 *.northtimes.com	600	IN	CNAME	.
 nosec.org	600	IN	CNAME	.
 *.nosec.org	600	IN	CNAME	.
+nosetime.com	600	IN	CNAME	.
+*.nosetime.com	600	IN	CNAME	.
 nosoul99.com	600	IN	CNAME	.
 *.nosoul99.com	600	IN	CNAME	.
 nossmoke.com	600	IN	CNAME	.
@@ -139488,6 +140032,8 @@ nullice.com	600	IN	CNAME	.
 *.nullice.com	600	IN	CNAME	.
 nullno.com	600	IN	CNAME	.
 *.nullno.com	600	IN	CNAME	.
+nulviw.com	600	IN	CNAME	.
+*.nulviw.com	600	IN	CNAME	.
 num1dns.com	600	IN	CNAME	.
 *.num1dns.com	600	IN	CNAME	.
 num2020.com	600	IN	CNAME	.
@@ -139628,6 +140174,8 @@ nvshuyun.com	600	IN	CNAME	.
 *.nvshuyun.com	600	IN	CNAME	.
 nvsip.com	600	IN	CNAME	.
 *.nvsip.com	600	IN	CNAME	.
+nvwalive.com	600	IN	CNAME	.
+*.nvwalive.com	600	IN	CNAME	.
 nvwu.com	600	IN	CNAME	.
 *.nvwu.com	600	IN	CNAME	.
 nvzhanshen.com	600	IN	CNAME	.
@@ -139946,6 +140494,8 @@ oahelp.com	600	IN	CNAME	.
 *.oahelp.com	600	IN	CNAME	.
 oahelp.net	600	IN	CNAME	.
 *.oahelp.net	600	IN	CNAME	.
+oai.sb	600	IN	CNAME	.
+*.oai.sb	600	IN	CNAME	.
 oait360.com	600	IN	CNAME	.
 *.oait360.com	600	IN	CNAME	.
 oak-amc.com	600	IN	CNAME	.
@@ -140254,6 +140804,8 @@ officemkt.download.prss.microsoft.com	600	IN	CNAME	.
 *.officemkt.download.prss.microsoft.com	600	IN	CNAME	.
 officemktuat.download.prss.microsoft.com	600	IN	CNAME	.
 *.officemktuat.download.prss.microsoft.com	600	IN	CNAME	.
+offices163.com	600	IN	CNAME	.
+*.offices163.com	600	IN	CNAME	.
 officese.com	600	IN	CNAME	.
 *.officese.com	600	IN	CNAME	.
 officesoftcn.com	600	IN	CNAME	.
@@ -140594,6 +141146,8 @@ oliveryang.net	600	IN	CNAME	.
 *.oliveryang.net	600	IN	CNAME	.
 ollomall.com	600	IN	CNAME	.
 *.ollomall.com	600	IN	CNAME	.
+olo-home.com	600	IN	CNAME	.
+*.olo-home.com	600	IN	CNAME	.
 olo4.com	600	IN	CNAME	.
 *.olo4.com	600	IN	CNAME	.
 olokitchen.com	600	IN	CNAME	.
@@ -140604,6 +141158,8 @@ olxd.com	600	IN	CNAME	.
 *.olxd.com	600	IN	CNAME	.
 olympicmuseum-nj.org	600	IN	CNAME	.
 *.olympicmuseum-nj.org	600	IN	CNAME	.
+olympuschina.com	600	IN	CNAME	.
+*.olympuschina.com	600	IN	CNAME	.
 olymtech.com	600	IN	CNAME	.
 *.olymtech.com	600	IN	CNAME	.
 olymvax.com	600	IN	CNAME	.
@@ -141116,6 +141672,8 @@ openbayes.com	600	IN	CNAME	.
 *.openbayes.com	600	IN	CNAME	.
 openbcs.com	600	IN	CNAME	.
 *.openbcs.com	600	IN	CNAME	.
+openbitfun.com	600	IN	CNAME	.
+*.openbitfun.com	600	IN	CNAME	.
 opencas.org	600	IN	CNAME	.
 *.opencas.org	600	IN	CNAME	.
 opencitybrain.org	600	IN	CNAME	.
@@ -141140,6 +141698,8 @@ openeuler.org	600	IN	CNAME	.
 *.openeuler.org	600	IN	CNAME	.
 openeuler.sh	600	IN	CNAME	.
 *.openeuler.sh	600	IN	CNAME	.
+openevai.com	600	IN	CNAME	.
+*.openevai.com	600	IN	CNAME	.
 openew.com	600	IN	CNAME	.
 *.openew.com	600	IN	CNAME	.
 openfans.org	600	IN	CNAME	.
@@ -141348,6 +141908,8 @@ orangeapk.com	600	IN	CNAME	.
 *.orangeapk.com	600	IN	CNAME	.
 orangeclk.com	600	IN	CNAME	.
 *.orangeclk.com	600	IN	CNAME	.
+orangeconnex.com	600	IN	CNAME	.
+*.orangeconnex.com	600	IN	CNAME	.
 orangelovely.com	600	IN	CNAME	.
 *.orangelovely.com	600	IN	CNAME	.
 orangemum.com	600	IN	CNAME	.
@@ -141486,6 +142048,8 @@ origloria.com	600	IN	CNAME	.
 *.origloria.com	600	IN	CNAME	.
 orihard.com	600	IN	CNAME	.
 *.orihard.com	600	IN	CNAME	.
+orion34g.com	600	IN	CNAME	.
+*.orion34g.com	600	IN	CNAME	.
 oriphant.com	600	IN	CNAME	.
 *.oriphant.com	600	IN	CNAME	.
 oritive.com	600	IN	CNAME	.
@@ -142114,6 +142678,8 @@ oygteapq.com	600	IN	CNAME	.
 *.oygteapq.com	600	IN	CNAME	.
 oym56lm.com	600	IN	CNAME	.
 *.oym56lm.com	600	IN	CNAME	.
+oyn01.cc	600	IN	CNAME	.
+*.oyn01.cc	600	IN	CNAME	.
 oyohyee.com	600	IN	CNAME	.
 *.oyohyee.com	600	IN	CNAME	.
 oyonyou.com	600	IN	CNAME	.
@@ -142684,6 +143250,8 @@ pantherhealthcare.com	600	IN	CNAME	.
 *.pantherhealthcare.com	600	IN	CNAME	.
 pantonechina.com	600	IN	CNAME	.
 *.pantonechina.com	600	IN	CNAME	.
+pantonecn.com	600	IN	CNAME	.
+*.pantonecn.com	600	IN	CNAME	.
 pantower.com	600	IN	CNAME	.
 *.pantower.com	600	IN	CNAME	.
 pantrysbest.com	600	IN	CNAME	.
@@ -145614,6 +146182,8 @@ ppt118.com	600	IN	CNAME	.
 *.ppt118.com	600	IN	CNAME	.
 ppt20.com	600	IN	CNAME	.
 *.ppt20.com	600	IN	CNAME	.
+ppt28.com	600	IN	CNAME	.
+*.ppt28.com	600	IN	CNAME	.
 ppt360.com	600	IN	CNAME	.
 *.ppt360.com	600	IN	CNAME	.
 ppt920.com	600	IN	CNAME	.
@@ -145712,6 +146282,8 @@ pqt-bearing.com	600	IN	CNAME	.
 *.pqt-bearing.com	600	IN	CNAME	.
 pqtygsfkv.com	600	IN	CNAME	.
 *.pqtygsfkv.com	600	IN	CNAME	.
+pqxz.com	600	IN	CNAME	.
+*.pqxz.com	600	IN	CNAME	.
 pqyhigh.com	600	IN	CNAME	.
 *.pqyhigh.com	600	IN	CNAME	.
 pqylow.com	600	IN	CNAME	.
@@ -146130,6 +146702,8 @@ ptx123.com	600	IN	CNAME	.
 *.ptx123.com	600	IN	CNAME	.
 ptxie.com	600	IN	CNAME	.
 *.ptxie.com	600	IN	CNAME	.
+ptxw.com	600	IN	CNAME	.
+*.ptxw.com	600	IN	CNAME	.
 ptxyrcw.com	600	IN	CNAME	.
 *.ptxyrcw.com	600	IN	CNAME	.
 ptxz.com	600	IN	CNAME	.
@@ -146290,6 +146864,8 @@ punchbox.info	600	IN	CNAME	.
 *.punchbox.info	600	IN	CNAME	.
 pungboo.com	600	IN	CNAME	.
 *.pungboo.com	600	IN	CNAME	.
+puno-filter.com	600	IN	CNAME	.
+*.puno-filter.com	600	IN	CNAME	.
 puoke.com	600	IN	CNAME	.
 *.puoke.com	600	IN	CNAME	.
 puoraiatorcubt.icu	600	IN	CNAME	.
@@ -146458,6 +147034,8 @@ pw88.com	600	IN	CNAME	.
 *.pw88.com	600	IN	CNAME	.
 pwand.com	600	IN	CNAME	.
 *.pwand.com	600	IN	CNAME	.
+pwccn.com	600	IN	CNAME	.
+*.pwccn.com	600	IN	CNAME	.
 pwdding.icu	600	IN	CNAME	.
 *.pwdding.icu	600	IN	CNAME	.
 pwithe.com	600	IN	CNAME	.
@@ -146514,6 +147092,10 @@ pxene.com	600	IN	CNAME	.
 *.pxene.com	600	IN	CNAME	.
 pxhuiben.com	600	IN	CNAME	.
 *.pxhuiben.com	600	IN	CNAME	.
+pxhvc.com	600	IN	CNAME	.
+*.pxhvc.com	600	IN	CNAME	.
+pxlmxx.com	600	IN	CNAME	.
+*.pxlmxx.com	600	IN	CNAME	.
 pxrczpw.com	600	IN	CNAME	.
 *.pxrczpw.com	600	IN	CNAME	.
 pxsfybjy.com	600	IN	CNAME	.
@@ -146598,6 +147180,8 @@ pyneo.com	600	IN	CNAME	.
 *.pyneo.com	600	IN	CNAME	.
 pyou.com	600	IN	CNAME	.
 *.pyou.com	600	IN	CNAME	.
+pyrc.net	600	IN	CNAME	.
+*.pyrc.net	600	IN	CNAME	.
 pyshszh.com	600	IN	CNAME	.
 *.pyshszh.com	600	IN	CNAME	.
 pystar.com	600	IN	CNAME	.
@@ -146682,6 +147266,8 @@ pzhqz.com	600	IN	CNAME	.
 *.pzhqz.com	600	IN	CNAME	.
 pzhr.com	600	IN	CNAME	.
 *.pzhr.com	600	IN	CNAME	.
+pzhsz.com	600	IN	CNAME	.
+*.pzhsz.com	600	IN	CNAME	.
 pzhwater.com	600	IN	CNAME	.
 *.pzhwater.com	600	IN	CNAME	.
 pzhwyw.com	600	IN	CNAME	.
@@ -147466,6 +148052,8 @@ qh-hospital.org	600	IN	CNAME	.
 *.qh-hospital.org	600	IN	CNAME	.
 qh-lb.com	600	IN	CNAME	.
 *.qh-lb.com	600	IN	CNAME	.
+qh24.com	600	IN	CNAME	.
+*.qh24.com	600	IN	CNAME	.
 qh4321.com	600	IN	CNAME	.
 *.qh4321.com	600	IN	CNAME	.
 qh6bc.com	600	IN	CNAME	.
@@ -148198,6 +148786,8 @@ qidiantu.com	600	IN	CNAME	.
 *.qidiantu.com	600	IN	CNAME	.
 qidic.com	600	IN	CNAME	.
 *.qidic.com	600	IN	CNAME	.
+qiding.xin	600	IN	CNAME	.
+*.qiding.xin	600	IN	CNAME	.
 qidisheng.com	600	IN	CNAME	.
 *.qidisheng.com	600	IN	CNAME	.
 qidiwang.com	600	IN	CNAME	.
@@ -148486,6 +149076,8 @@ qincai.com	600	IN	CNAME	.
 *.qincai.com	600	IN	CNAME	.
 qincaigame.com	600	IN	CNAME	.
 *.qincaigame.com	600	IN	CNAME	.
+qince.com	600	IN	CNAME	.
+*.qince.com	600	IN	CNAME	.
 qinchuan.com	600	IN	CNAME	.
 *.qinchuan.com	600	IN	CNAME	.
 qinchugudao.com	600	IN	CNAME	.
@@ -148632,6 +149224,8 @@ qinghuo.net	600	IN	CNAME	.
 *.qinghuo.net	600	IN	CNAME	.
 qingicon.com	600	IN	CNAME	.
 *.qingicon.com	600	IN	CNAME	.
+qingjiansoft.com	600	IN	CNAME	.
+*.qingjiansoft.com	600	IN	CNAME	.
 qingjiaocloud.com	600	IN	CNAME	.
 *.qingjiaocloud.com	600	IN	CNAME	.
 qingju.com	600	IN	CNAME	.
@@ -149156,6 +149750,8 @@ qiuyewang.com	600	IN	CNAME	.
 *.qiuyewang.com	600	IN	CNAME	.
 qiuyexitong.com	600	IN	CNAME	.
 *.qiuyexitong.com	600	IN	CNAME	.
+qiuyl.com	600	IN	CNAME	.
+*.qiuyl.com	600	IN	CNAME	.
 qiuyueli.com	600	IN	CNAME	.
 *.qiuyueli.com	600	IN	CNAME	.
 qiuzhang.com	600	IN	CNAME	.
@@ -149380,6 +149976,8 @@ qjjmw.com	600	IN	CNAME	.
 *.qjjmw.com	600	IN	CNAME	.
 qjmotor.com	600	IN	CNAME	.
 *.qjmotor.com	600	IN	CNAME	.
+qjmotorlink.com	600	IN	CNAME	.
+*.qjmotorlink.com	600	IN	CNAME	.
 qjnice.com	600	IN	CNAME	.
 *.qjnice.com	600	IN	CNAME	.
 qjrc.com	600	IN	CNAME	.
@@ -151896,6 +152494,8 @@ qzone.cc	600	IN	CNAME	.
 *.qzone.cc	600	IN	CNAME	.
 qzone.com	600	IN	CNAME	.
 *.qzone.com	600	IN	CNAME	.
+qzone6.com	600	IN	CNAME	.
+*.qzone6.com	600	IN	CNAME	.
 qzoneapp.com	600	IN	CNAME	.
 *.qzoneapp.com	600	IN	CNAME	.
 qzonei.com	600	IN	CNAME	.
@@ -151904,6 +152504,8 @@ qzqcfw.com	600	IN	CNAME	.
 *.qzqcfw.com	600	IN	CNAME	.
 qzqcw.com	600	IN	CNAME	.
 *.qzqcw.com	600	IN	CNAME	.
+qzqi.com	600	IN	CNAME	.
+*.qzqi.com	600	IN	CNAME	.
 qzqn8.com	600	IN	CNAME	.
 *.qzqn8.com	600	IN	CNAME	.
 qzqstudio.com	600	IN	CNAME	.
@@ -152290,6 +152892,8 @@ rat3c.com	600	IN	CNAME	.
 *.rat3c.com	600	IN	CNAME	.
 rate2003.com	600	IN	CNAME	.
 *.rate2003.com	600	IN	CNAME	.
+ratetend.com	600	IN	CNAME	.
+*.ratetend.com	600	IN	CNAME	.
 rationalwh.com	600	IN	CNAME	.
 *.rationalwh.com	600	IN	CNAME	.
 ratogh.com	600	IN	CNAME	.
@@ -152382,6 +152986,8 @@ raymx-micro.com	600	IN	CNAME	.
 *.raymx-micro.com	600	IN	CNAME	.
 raynext.info	600	IN	CNAME	.
 *.raynext.info	600	IN	CNAME	.
+rayootech.com	600	IN	CNAME	.
+*.rayootech.com	600	IN	CNAME	.
 rayoptek.com	600	IN	CNAME	.
 *.rayoptek.com	600	IN	CNAME	.
 rayp.com	600	IN	CNAME	.
@@ -153454,6 +154060,8 @@ rhonghai.com	600	IN	CNAME	.
 *.rhonghai.com	600	IN	CNAME	.
 rhphos.com	600	IN	CNAME	.
 *.rhphos.com	600	IN	CNAME	.
+rhrlawyer.com	600	IN	CNAME	.
+*.rhrlawyer.com	600	IN	CNAME	.
 rhsj520.com	600	IN	CNAME	.
 *.rhsj520.com	600	IN	CNAME	.
 rhspring.com	600	IN	CNAME	.
@@ -154258,6 +154866,8 @@ rosefinchfund.com	600	IN	CNAME	.
 *.rosefinchfund.com	600	IN	CNAME	.
 rosesandgold.fun	600	IN	CNAME	.
 *.rosesandgold.fun	600	IN	CNAME	.
+roseshop.asia	600	IN	CNAME	.
+*.roseshop.asia	600	IN	CNAME	.
 rosewin.com	600	IN	CNAME	.
 *.rosewin.com	600	IN	CNAME	.
 rosin-china.com	600	IN	CNAME	.
@@ -154826,6 +155436,8 @@ ruijiery.com	600	IN	CNAME	.
 *.ruijiery.com	600	IN	CNAME	.
 ruijieyun.com	600	IN	CNAME	.
 *.ruijieyun.com	600	IN	CNAME	.
+ruijingenergy.com	600	IN	CNAME	.
+*.ruijingenergy.com	600	IN	CNAME	.
 ruijinginfo.com	600	IN	CNAME	.
 *.ruijinginfo.com	600	IN	CNAME	.
 ruijinintl.com	600	IN	CNAME	.
@@ -155328,6 +155940,8 @@ rzglgc.com	600	IN	CNAME	.
 *.rzglgc.com	600	IN	CNAME	.
 rzhr.com	600	IN	CNAME	.
 *.rzhr.com	600	IN	CNAME	.
+rzhuce.com	600	IN	CNAME	.
+*.rzhuce.com	600	IN	CNAME	.
 rzhushou.com	600	IN	CNAME	.
 *.rzhushou.com	600	IN	CNAME	.
 rzhybh.com	600	IN	CNAME	.
@@ -155484,6 +156098,8 @@ saagasports.com	600	IN	CNAME	.
 *.saagasports.com	600	IN	CNAME	.
 saasddos.com	600	IN	CNAME	.
 *.saasddos.com	600	IN	CNAME	.
+saaslb.com	600	IN	CNAME	.
+*.saaslb.com	600	IN	CNAME	.
 saasops.tech	600	IN	CNAME	.
 *.saasops.tech	600	IN	CNAME	.
 saasruanjian.com	600	IN	CNAME	.
@@ -156236,6 +156852,8 @@ sast.net	600	IN	CNAME	.
 *.sast.net	600	IN	CNAME	.
 sat0.net	600	IN	CNAME	.
 *.sat0.net	600	IN	CNAME	.
+satellitestress.st	600	IN	CNAME	.
+*.satellitestress.st	600	IN	CNAME	.
 satgssb.com	600	IN	CNAME	.
 *.satgssb.com	600	IN	CNAME	.
 sating-tech.com	600	IN	CNAME	.
@@ -156778,6 +157396,8 @@ scenictc.com	600	IN	CNAME	.
 *.scenictc.com	600	IN	CNAME	.
 scensmart.com	600	IN	CNAME	.
 *.scensmart.com	600	IN	CNAME	.
+scetc.net	600	IN	CNAME	.
+*.scetc.net	600	IN	CNAME	.
 scetop.com	600	IN	CNAME	.
 *.scetop.com	600	IN	CNAME	.
 scezju.com	600	IN	CNAME	.
@@ -157248,6 +157868,8 @@ scwmwl.com	600	IN	CNAME	.
 *.scwmwl.com	600	IN	CNAME	.
 scwqxh.com	600	IN	CNAME	.
 *.scwqxh.com	600	IN	CNAME	.
+scwsrc.com	600	IN	CNAME	.
+*.scwsrc.com	600	IN	CNAME	.
 scwy.net	600	IN	CNAME	.
 *.scwy.net	600	IN	CNAME	.
 scwyzx.com	600	IN	CNAME	.
@@ -157278,6 +157900,8 @@ scylzx.net	600	IN	CNAME	.
 *.scylzx.net	600	IN	CNAME	.
 scymob.com	600	IN	CNAME	.
 *.scymob.com	600	IN	CNAME	.
+scyol.com	600	IN	CNAME	.
+*.scyol.com	600	IN	CNAME	.
 scyongqin.com	600	IN	CNAME	.
 *.scyongqin.com	600	IN	CNAME	.
 scyqfhw.com	600	IN	CNAME	.
@@ -157796,6 +158420,8 @@ sdjzgt.com	600	IN	CNAME	.
 *.sdjzgt.com	600	IN	CNAME	.
 sdjzsemi.com	600	IN	CNAME	.
 *.sdjzsemi.com	600	IN	CNAME	.
+sdkairun.com	600	IN	CNAME	.
+*.sdkairun.com	600	IN	CNAME	.
 sdkamaiduo.com	600	IN	CNAME	.
 *.sdkamaiduo.com	600	IN	CNAME	.
 sdkbalance.com	600	IN	CNAME	.
@@ -158088,6 +158714,8 @@ sdteya.com	600	IN	CNAME	.
 *.sdteya.com	600	IN	CNAME	.
 sdtianjing.com	600	IN	CNAME	.
 *.sdtianjing.com	600	IN	CNAME	.
+sdticai.com	600	IN	CNAME	.
+*.sdticai.com	600	IN	CNAME	.
 sdtkgl.com	600	IN	CNAME	.
 *.sdtkgl.com	600	IN	CNAME	.
 sdtlpm.com	600	IN	CNAME	.
@@ -158714,6 +159342,8 @@ semptian.com	600	IN	CNAME	.
 *.semptian.com	600	IN	CNAME	.
 semw-sh.com	600	IN	CNAME	.
 *.semw-sh.com	600	IN	CNAME	.
+senachina.com	600	IN	CNAME	.
+*.senachina.com	600	IN	CNAME	.
 senaocargo.com	600	IN	CNAME	.
 *.senaocargo.com	600	IN	CNAME	.
 senbeijia.com	600	IN	CNAME	.
@@ -159376,6 +160006,8 @@ sh-gelanlishi.com	600	IN	CNAME	.
 *.sh-gelanlishi.com	600	IN	CNAME	.
 sh-gexing.com	600	IN	CNAME	.
 *.sh-gexing.com	600	IN	CNAME	.
+sh-gffm.com	600	IN	CNAME	.
+*.sh-gffm.com	600	IN	CNAME	.
 sh-gsg.com	600	IN	CNAME	.
 *.sh-gsg.com	600	IN	CNAME	.
 sh-henderson-metropolitan.com	600	IN	CNAME	.
@@ -160054,6 +160686,8 @@ shangxue.com	600	IN	CNAME	.
 *.shangxue.com	600	IN	CNAME	.
 shangxueba.com	600	IN	CNAME	.
 *.shangxueba.com	600	IN	CNAME	.
+shangxueshuo.com	600	IN	CNAME	.
+*.shangxueshuo.com	600	IN	CNAME	.
 shangyejihua.com	600	IN	CNAME	.
 *.shangyejihua.com	600	IN	CNAME	.
 shangyekj.com	600	IN	CNAME	.
@@ -160524,6 +161158,8 @@ shdgm.com	600	IN	CNAME	.
 *.shdgm.com	600	IN	CNAME	.
 shdingzhidental.com	600	IN	CNAME	.
 *.shdingzhidental.com	600	IN	CNAME	.
+shdjnet.com	600	IN	CNAME	.
+*.shdjnet.com	600	IN	CNAME	.
 shdjt.com	600	IN	CNAME	.
 *.shdjt.com	600	IN	CNAME	.
 shdmic.com	600	IN	CNAME	.
@@ -160632,6 +161268,8 @@ shejijingsai.com	600	IN	CNAME	.
 *.shejijingsai.com	600	IN	CNAME	.
 shejiku.net	600	IN	CNAME	.
 *.shejiku.net	600	IN	CNAME	.
+shejilogo.com	600	IN	CNAME	.
+*.shejilogo.com	600	IN	CNAME	.
 shejinu.com	600	IN	CNAME	.
 *.shejinu.com	600	IN	CNAME	.
 shejiqun.com	600	IN	CNAME	.
@@ -160840,6 +161478,8 @@ shengtaigroup.net	600	IN	CNAME	.
 *.shengtaigroup.net	600	IN	CNAME	.
 shengtian.com	600	IN	CNAME	.
 *.shengtian.com	600	IN	CNAME	.
+shengtiangames.com	600	IN	CNAME	.
+*.shengtiangames.com	600	IN	CNAME	.
 shengtiangroup.com	600	IN	CNAME	.
 *.shengtiangroup.com	600	IN	CNAME	.
 shengtongedu.com	600	IN	CNAME	.
@@ -161032,6 +161672,8 @@ shenxuanche.com	600	IN	CNAME	.
 *.shenxuanche.com	600	IN	CNAME	.
 shenyang2car.com	600	IN	CNAME	.
 *.shenyang2car.com	600	IN	CNAME	.
+shenyangbus.com	600	IN	CNAME	.
+*.shenyangbus.com	600	IN	CNAME	.
 shenyangoffice.com	600	IN	CNAME	.
 *.shenyangoffice.com	600	IN	CNAME	.
 shenyd.com	600	IN	CNAME	.
@@ -161096,6 +161738,8 @@ shenzhenygx.com	600	IN	CNAME	.
 *.shenzhenygx.com	600	IN	CNAME	.
 shenzhenyuren.com	600	IN	CNAME	.
 *.shenzhenyuren.com	600	IN	CNAME	.
+shenzhong.net	600	IN	CNAME	.
+*.shenzhong.net	600	IN	CNAME	.
 shenzhoublm.com	600	IN	CNAME	.
 *.shenzhoublm.com	600	IN	CNAME	.
 shenzhouen.com	600	IN	CNAME	.
@@ -161260,6 +161904,8 @@ shhenghesh.com	600	IN	CNAME	.
 *.shhenghesh.com	600	IN	CNAME	.
 shheywow.com	600	IN	CNAME	.
 *.shheywow.com	600	IN	CNAME	.
+shhezhenzszy.com	600	IN	CNAME	.
+*.shhezhenzszy.com	600	IN	CNAME	.
 shhic.com	600	IN	CNAME	.
 *.shhic.com	600	IN	CNAME	.
 shhigher.com	600	IN	CNAME	.
@@ -161274,6 +161920,8 @@ shhl56.com	600	IN	CNAME	.
 *.shhl56.com	600	IN	CNAME	.
 shhlgroup.com	600	IN	CNAME	.
 *.shhlgroup.com	600	IN	CNAME	.
+shhljsj.com	600	IN	CNAME	.
+*.shhljsj.com	600	IN	CNAME	.
 shhmbio.com	600	IN	CNAME	.
 *.shhmbio.com	600	IN	CNAME	.
 shhmu.net	600	IN	CNAME	.
@@ -162772,6 +163420,8 @@ shuajibao.com	600	IN	CNAME	.
 *.shuajibao.com	600	IN	CNAME	.
 shuajizhijia.net	600	IN	CNAME	.
 *.shuajizhijia.net	600	IN	CNAME	.
+shualian.work	600	IN	CNAME	.
+*.shualian.work	600	IN	CNAME	.
 shuame.com	600	IN	CNAME	.
 *.shuame.com	600	IN	CNAME	.
 shuang-feng.com	600	IN	CNAME	.
@@ -163054,6 +163704,8 @@ shuiwushi.net	600	IN	CNAME	.
 *.shuiwushi.net	600	IN	CNAME	.
 shuixin.tech	600	IN	CNAME	.
 *.shuixin.tech	600	IN	CNAME	.
+shuixing.com	600	IN	CNAME	.
+*.shuixing.com	600	IN	CNAME	.
 shuiyaohuo.com	600	IN	CNAME	.
 *.shuiyaohuo.com	600	IN	CNAME	.
 shuiye.cc	600	IN	CNAME	.
@@ -163442,6 +164094,8 @@ shwpbbs.com	600	IN	CNAME	.
 *.shwpbbs.com	600	IN	CNAME	.
 shwpg.com	600	IN	CNAME	.
 *.shwpg.com	600	IN	CNAME	.
+shws.com	600	IN	CNAME	.
+*.shws.com	600	IN	CNAME	.
 shws.org	600	IN	CNAME	.
 *.shws.org	600	IN	CNAME	.
 shwsfy.com	600	IN	CNAME	.
@@ -164492,6 +165146,8 @@ sinopharm-gz.com	600	IN	CNAME	.
 *.sinopharm-gz.com	600	IN	CNAME	.
 sinopharm-henan.com	600	IN	CNAME	.
 *.sinopharm-henan.com	600	IN	CNAME	.
+sinopharm-yz.com	600	IN	CNAME	.
+*.sinopharm-yz.com	600	IN	CNAME	.
 sinopharm.com	600	IN	CNAME	.
 *.sinopharm.com	600	IN	CNAME	.
 sinopharmdbj.com	600	IN	CNAME	.
@@ -164724,6 +165380,8 @@ sisi-smu.org	600	IN	CNAME	.
 *.sisi-smu.org	600	IN	CNAME	.
 sisigad.com	600	IN	CNAME	.
 *.sisigad.com	600	IN	CNAME	.
+sisiim.com	600	IN	CNAME	.
+*.sisiim.com	600	IN	CNAME	.
 sisp-china.com	600	IN	CNAME	.
 *.sisp-china.com	600	IN	CNAME	.
 sissiok.com	600	IN	CNAME	.
@@ -164898,6 +165556,8 @@ sjebh.com	600	IN	CNAME	.
 *.sjebh.com	600	IN	CNAME	.
 sjetdz.com	600	IN	CNAME	.
 *.sjetdz.com	600	IN	CNAME	.
+sjez.com	600	IN	CNAME	.
+*.sjez.com	600	IN	CNAME	.
 sjf029.com	600	IN	CNAME	.
 *.sjf029.com	600	IN	CNAME	.
 sjfcdn.com	600	IN	CNAME	.
@@ -165534,6 +166194,8 @@ slyld.com	600	IN	CNAME	.
 *.slyld.com	600	IN	CNAME	.
 slyxmobi.com	600	IN	CNAME	.
 *.slyxmobi.com	600	IN	CNAME	.
+slyz.net	600	IN	CNAME	.
+*.slyz.net	600	IN	CNAME	.
 slzsxx.com	600	IN	CNAME	.
 *.slzsxx.com	600	IN	CNAME	.
 sm-check.com	600	IN	CNAME	.
@@ -165774,6 +166436,8 @@ smgstv.com	600	IN	CNAME	.
 *.smgstv.com	600	IN	CNAME	.
 smgtech.net	600	IN	CNAME	.
 *.smgtech.net	600	IN	CNAME	.
+smh.cc	600	IN	CNAME	.
+*.smh.cc	600	IN	CNAME	.
 smhsw.com	600	IN	CNAME	.
 *.smhsw.com	600	IN	CNAME	.
 smhyplay.com	600	IN	CNAME	.
@@ -166358,6 +167022,8 @@ soft568.com	600	IN	CNAME	.
 *.soft568.com	600	IN	CNAME	.
 soft6.com	600	IN	CNAME	.
 *.soft6.com	600	IN	CNAME	.
+soft711.com	600	IN	CNAME	.
+*.soft711.com	600	IN	CNAME	.
 soft778.com	600	IN	CNAME	.
 *.soft778.com	600	IN	CNAME	.
 soft8.net	600	IN	CNAME	.
@@ -166518,6 +167184,8 @@ sojson.com	600	IN	CNAME	.
 *.sojson.com	600	IN	CNAME	.
 sojump.com	600	IN	CNAME	.
 *.sojump.com	600	IN	CNAME	.
+sok100.com	600	IN	CNAME	.
+*.sok100.com	600	IN	CNAME	.
 soke17.com	600	IN	CNAME	.
 *.soke17.com	600	IN	CNAME	.
 soken-sz.com	600	IN	CNAME	.
@@ -167032,6 +167700,8 @@ soupin.com	600	IN	CNAME	.
 *.soupin.com	600	IN	CNAME	.
 soupingguo.com	600	IN	CNAME	.
 *.soupingguo.com	600	IN	CNAME	.
+soupng.com	600	IN	CNAME	.
+*.soupng.com	600	IN	CNAME	.
 soupu.com	600	IN	CNAME	.
 *.soupu.com	600	IN	CNAME	.
 soupv.com	600	IN	CNAME	.
@@ -167094,6 +167764,8 @@ southseagy.com	600	IN	CNAME	.
 *.southseagy.com	600	IN	CNAME	.
 southsurvey.com	600	IN	CNAME	.
 *.southsurvey.com	600	IN	CNAME	.
+southteacher.com	600	IN	CNAME	.
+*.southteacher.com	600	IN	CNAME	.
 southyule.com	600	IN	CNAME	.
 *.southyule.com	600	IN	CNAME	.
 soutiyun.com	600	IN	CNAME	.
@@ -167150,6 +167822,8 @@ sowu.com	600	IN	CNAME	.
 *.sowu.com	600	IN	CNAME	.
 soxpai.com	600	IN	CNAME	.
 *.soxpai.com	600	IN	CNAME	.
+soxsok.com	600	IN	CNAME	.
+*.soxsok.com	600	IN	CNAME	.
 soxyc.com	600	IN	CNAME	.
 *.soxyc.com	600	IN	CNAME	.
 soya-protein.com	600	IN	CNAME	.
@@ -167754,6 +168428,8 @@ ssc-mcc.com	600	IN	CNAME	.
 *.ssc-mcc.com	600	IN	CNAME	.
 sscanmou.com	600	IN	CNAME	.
 *.sscanmou.com	600	IN	CNAME	.
+sscct.com	600	IN	CNAME	.
+*.sscct.com	600	IN	CNAME	.
 sscejia.com	600	IN	CNAME	.
 *.sscejia.com	600	IN	CNAME	.
 sscha.com	600	IN	CNAME	.
@@ -168814,6 +169490,8 @@ sufachina.com	600	IN	CNAME	.
 *.sufachina.com	600	IN	CNAME	.
 sufangxu.com	600	IN	CNAME	.
 *.sufangxu.com	600	IN	CNAME	.
+sufe.me	600	IN	CNAME	.
+*.sufe.me	600	IN	CNAME	.
 sufeinet.com	600	IN	CNAME	.
 *.sufeinet.com	600	IN	CNAME	.
 sufoma.com	600	IN	CNAME	.
@@ -169274,6 +169952,8 @@ sunnyqi.com	600	IN	CNAME	.
 *.sunnyqi.com	600	IN	CNAME	.
 sunnysemi.com	600	IN	CNAME	.
 *.sunnysemi.com	600	IN	CNAME	.
+sunnytextile.com	600	IN	CNAME	.
+*.sunnytextile.com	600	IN	CNAME	.
 sunnyxx.com	600	IN	CNAME	.
 *.sunnyxx.com	600	IN	CNAME	.
 sunocean.life	600	IN	CNAME	.
@@ -169362,6 +170042,8 @@ suntgj.com	600	IN	CNAME	.
 *.suntgj.com	600	IN	CNAME	.
 suntimehousehold.com	600	IN	CNAME	.
 *.suntimehousehold.com	600	IN	CNAME	.
+suntl.com	600	IN	CNAME	.
+*.suntl.com	600	IN	CNAME	.
 suntop168.com	600	IN	CNAME	.
 *.suntop168.com	600	IN	CNAME	.
 suntray.com	600	IN	CNAME	.
@@ -169530,6 +170212,8 @@ superdns.org	600	IN	CNAME	.
 *.superdns.org	600	IN	CNAME	.
 superfix.com	600	IN	CNAME	.
 *.superfix.com	600	IN	CNAME	.
+superguancai.com	600	IN	CNAME	.
+*.superguancai.com	600	IN	CNAME	.
 superhcloud.com	600	IN	CNAME	.
 *.superhcloud.com	600	IN	CNAME	.
 superic.com	600	IN	CNAME	.
@@ -169732,12 +170416,16 @@ sustcra.com	600	IN	CNAME	.
 *.sustcra.com	600	IN	CNAME	.
 sustech.online	600	IN	CNAME	.
 *.sustech.online	600	IN	CNAME	.
+susudesu.com	600	IN	CNAME	.
+*.susudesu.com	600	IN	CNAME	.
 susudm.com	600	IN	CNAME	.
 *.susudm.com	600	IN	CNAME	.
 susun.cc	600	IN	CNAME	.
 *.susun.cc	600	IN	CNAME	.
 susungroup.com	600	IN	CNAME	.
 *.susungroup.com	600	IN	CNAME	.
+sut56.com	600	IN	CNAME	.
+*.sut56.com	600	IN	CNAME	.
 sut999.vip	600	IN	CNAME	.
 *.sut999.vip	600	IN	CNAME	.
 sutanapp.com	600	IN	CNAME	.
@@ -169834,6 +170522,8 @@ suzhoulinsen.com	600	IN	CNAME	.
 *.suzhoulinsen.com	600	IN	CNAME	.
 suzhousj.com	600	IN	CNAME	.
 *.suzhousj.com	600	IN	CNAME	.
+suzhoutianqi114.com	600	IN	CNAME	.
+*.suzhoutianqi114.com	600	IN	CNAME	.
 suzhouyabao.com	600	IN	CNAME	.
 *.suzhouyabao.com	600	IN	CNAME	.
 suzip.com	600	IN	CNAME	.
@@ -170432,6 +171122,8 @@ sxslhg.com	600	IN	CNAME	.
 *.sxslhg.com	600	IN	CNAME	.
 sxslnews.com	600	IN	CNAME	.
 *.sxslnews.com	600	IN	CNAME	.
+sxsltlyy.com	600	IN	CNAME	.
+*.sxsltlyy.com	600	IN	CNAME	.
 sxsme.org	600	IN	CNAME	.
 *.sxsme.org	600	IN	CNAME	.
 sxsmtgyxh.com	600	IN	CNAME	.
@@ -171006,6 +171698,8 @@ syzpw.com	600	IN	CNAME	.
 *.syzpw.com	600	IN	CNAME	.
 syzsgroup.com	600	IN	CNAME	.
 *.syzsgroup.com	600	IN	CNAME	.
+syzsks.com	600	IN	CNAME	.
+*.syzsks.com	600	IN	CNAME	.
 sz-3a.com	600	IN	CNAME	.
 *.sz-3a.com	600	IN	CNAME	.
 sz-acuvu.com	600	IN	CNAME	.
@@ -171140,6 +171834,8 @@ sz002329.com	600	IN	CNAME	.
 *.sz002329.com	600	IN	CNAME	.
 sz0429.com	600	IN	CNAME	.
 *.sz0429.com	600	IN	CNAME	.
+sz120.com	600	IN	CNAME	.
+*.sz120.com	600	IN	CNAME	.
 sz121.com	600	IN	CNAME	.
 *.sz121.com	600	IN	CNAME	.
 sz1905.com	600	IN	CNAME	.
@@ -171482,6 +172178,8 @@ szeua.org	600	IN	CNAME	.
 *.szeua.org	600	IN	CNAME	.
 szeverich.com	600	IN	CNAME	.
 *.szeverich.com	600	IN	CNAME	.
+szeyoung.com	600	IN	CNAME	.
+*.szeyoung.com	600	IN	CNAME	.
 szfa.com	600	IN	CNAME	.
 *.szfa.com	600	IN	CNAME	.
 szfachina.org	600	IN	CNAME	.
@@ -171850,6 +172548,8 @@ szkjjs.com	600	IN	CNAME	.
 *.szkjjs.com	600	IN	CNAME	.
 szkjxh.com	600	IN	CNAME	.
 *.szkjxh.com	600	IN	CNAME	.
+szkke.com	600	IN	CNAME	.
+*.szkke.com	600	IN	CNAME	.
 szknet.com	600	IN	CNAME	.
 *.szknet.com	600	IN	CNAME	.
 szknk.net	600	IN	CNAME	.
@@ -172158,6 +172858,8 @@ szrhg.com	600	IN	CNAME	.
 *.szrhg.com	600	IN	CNAME	.
 szrj.net	600	IN	CNAME	.
 *.szrj.net	600	IN	CNAME	.
+szrjyx.com	600	IN	CNAME	.
+*.szrjyx.com	600	IN	CNAME	.
 szrlaw.net	600	IN	CNAME	.
 *.szrlaw.net	600	IN	CNAME	.
 szrrjc.com	600	IN	CNAME	.
@@ -173376,6 +174078,8 @@ tantaly.com	600	IN	CNAME	.
 *.tantaly.com	600	IN	CNAME	.
 tantanapp.com	600	IN	CNAME	.
 *.tantanapp.com	600	IN	CNAME	.
+tantanscience.com	600	IN	CNAME	.
+*.tantanscience.com	600	IN	CNAME	.
 tantu.com	600	IN	CNAME	.
 *.tantu.com	600	IN	CNAME	.
 tantu.info	600	IN	CNAME	.
@@ -173478,6 +174182,8 @@ taocheche.com	600	IN	CNAME	.
 *.taocheche.com	600	IN	CNAME	.
 taoci.com	600	IN	CNAME	.
 *.taoci.com	600	IN	CNAME	.
+taoci10.com	600	IN	CNAME	.
+*.taoci10.com	600	IN	CNAME	.
 taoci163.com	600	IN	CNAME	.
 *.taoci163.com	600	IN	CNAME	.
 taocibao.com	600	IN	CNAME	.
@@ -174650,6 +175356,8 @@ tegvzpvz.com	600	IN	CNAME	.
 *.tegvzpvz.com	600	IN	CNAME	.
 tehang.com	600	IN	CNAME	.
 *.tehang.com	600	IN	CNAME	.
+tehlin-bj.com	600	IN	CNAME	.
+*.tehlin-bj.com	600	IN	CNAME	.
 tehub.com	600	IN	CNAME	.
 *.tehub.com	600	IN	CNAME	.
 tehuituan.com	600	IN	CNAME	.
@@ -175242,6 +175950,8 @@ tendrones.com	600	IN	CNAME	.
 *.tendrones.com	600	IN	CNAME	.
 tendyron.com	600	IN	CNAME	.
 *.tendyron.com	600	IN	CNAME	.
+tenfu.com	600	IN	CNAME	.
+*.tenfu.com	600	IN	CNAME	.
 tengamy.com	600	IN	CNAME	.
 *.tengamy.com	600	IN	CNAME	.
 tenganxinxi.com	600	IN	CNAME	.
@@ -175444,6 +176154,8 @@ terra-cn.djiservice.org	600	IN	CNAME	.
 *.terra-cn.djiservice.org	600	IN	CNAME	.
 terra-master.com	600	IN	CNAME	.
 *.terra-master.com	600	IN	CNAME	.
+terrabbs.ink	600	IN	CNAME	.
+*.terrabbs.ink	600	IN	CNAME	.
 terran.tech	600	IN	CNAME	.
 *.terran.tech	600	IN	CNAME	.
 terransforce.com	600	IN	CNAME	.
@@ -175458,6 +176170,8 @@ teruide.net	600	IN	CNAME	.
 *.teruide.net	600	IN	CNAME	.
 tese5.com	600	IN	CNAME	.
 *.tese5.com	600	IN	CNAME	.
+tesegu.com	600	IN	CNAME	.
+*.tesegu.com	600	IN	CNAME	.
 tesery.com	600	IN	CNAME	.
 *.tesery.com	600	IN	CNAME	.
 tesexiu.com	600	IN	CNAME	.
@@ -175662,6 +176376,8 @@ tgect.com	600	IN	CNAME	.
 *.tgect.com	600	IN	CNAME	.
 tgeosmart.com	600	IN	CNAME	.
 *.tgeosmart.com	600	IN	CNAME	.
+tggfl.com	600	IN	CNAME	.
+*.tggfl.com	600	IN	CNAME	.
 tgjh.com	600	IN	CNAME	.
 *.tgjh.com	600	IN	CNAME	.
 tgking.net	600	IN	CNAME	.
@@ -175968,6 +176684,8 @@ thinkerride.com	600	IN	CNAME	.
 *.thinkerride.com	600	IN	CNAME	.
 thinkerx.com	600	IN	CNAME	.
 *.thinkerx.com	600	IN	CNAME	.
+thinkgoall.com	600	IN	CNAME	.
+*.thinkgoall.com	600	IN	CNAME	.
 thinkindrupal.com	600	IN	CNAME	.
 *.thinkindrupal.com	600	IN	CNAME	.
 thinkive.com	600	IN	CNAME	.
@@ -176000,6 +176718,8 @@ thismomentinamerica.org	600	IN	CNAME	.
 *.thismomentinamerica.org	600	IN	CNAME	.
 thisnew.com	600	IN	CNAME	.
 *.thisnew.com	600	IN	CNAME	.
+thispx.com	600	IN	CNAME	.
+*.thispx.com	600	IN	CNAME	.
 thisshop.com	600	IN	CNAME	.
 *.thisshop.com	600	IN	CNAME	.
 thiztech.com	600	IN	CNAME	.
@@ -176488,6 +177208,8 @@ tiantiancaige.com	600	IN	CNAME	.
 *.tiantiancaige.com	600	IN	CNAME	.
 tiantiancaipu.com	600	IN	CNAME	.
 *.tiantiancaipu.com	600	IN	CNAME	.
+tiantianditu.com	600	IN	CNAME	.
+*.tiantianditu.com	600	IN	CNAME	.
 tiantianfm.com	600	IN	CNAME	.
 *.tiantianfm.com	600	IN	CNAME	.
 tiantianfunds.com	600	IN	CNAME	.
@@ -176548,6 +177270,8 @@ tianxin100.vip	600	IN	CNAME	.
 *.tianxin100.vip	600	IN	CNAME	.
 tianxing.com	600	IN	CNAME	.
 *.tianxing.com	600	IN	CNAME	.
+tianxingfengshui.com	600	IN	CNAME	.
+*.tianxingfengshui.com	600	IN	CNAME	.
 tianxingjianyiliao.com	600	IN	CNAME	.
 *.tianxingjianyiliao.com	600	IN	CNAME	.
 tianxinkeji.com	600	IN	CNAME	.
@@ -176878,6 +177602,10 @@ time-year.com	600	IN	CNAME	.
 *.time-year.com	600	IN	CNAME	.
 time.izatcloud.net	600	IN	CNAME	.
 *.time.izatcloud.net	600	IN	CNAME	.
+time163.com	600	IN	CNAME	.
+*.time163.com	600	IN	CNAME	.
+timecha.com	600	IN	CNAME	.
+*.timecha.com	600	IN	CNAME	.
 timecloud.us	600	IN	CNAME	.
 *.timecloud.us	600	IN	CNAME	.
 timecoo.com	600	IN	CNAME	.
@@ -176956,6 +177684,8 @@ timzuu.com	600	IN	CNAME	.
 *.timzuu.com	600	IN	CNAME	.
 tinavi.com	600	IN	CNAME	.
 *.tinavi.com	600	IN	CNAME	.
+tineco.com	600	IN	CNAME	.
+*.tineco.com	600	IN	CNAME	.
 tinengwang.com	600	IN	CNAME	.
 *.tinengwang.com	600	IN	CNAME	.
 tinetcloud.com	600	IN	CNAME	.
@@ -177172,6 +177902,8 @@ tiyufeng.com	600	IN	CNAME	.
 *.tiyufeng.com	600	IN	CNAME	.
 tiyuguoji.com	600	IN	CNAME	.
 *.tiyuguoji.com	600	IN	CNAME	.
+tiyuhu.com	600	IN	CNAME	.
+*.tiyuhu.com	600	IN	CNAME	.
 tiyule.com	600	IN	CNAME	.
 *.tiyule.com	600	IN	CNAME	.
 tiyusaishi.com	600	IN	CNAME	.
@@ -177410,6 +178142,8 @@ tjwf.com	600	IN	CNAME	.
 *.tjwf.com	600	IN	CNAME	.
 tjwj88.com	600	IN	CNAME	.
 *.tjwj88.com	600	IN	CNAME	.
+tjwjh888.com	600	IN	CNAME	.
+*.tjwjh888.com	600	IN	CNAME	.
 tjwmschool.net	600	IN	CNAME	.
 *.tjwmschool.net	600	IN	CNAME	.
 tjxinyu.com	600	IN	CNAME	.
@@ -177742,6 +178476,8 @@ tlzyxy.com	600	IN	CNAME	.
 *.tlzyxy.com	600	IN	CNAME	.
 tm-auto.com	600	IN	CNAME	.
 *.tm-auto.com	600	IN	CNAME	.
+tm022.com	600	IN	CNAME	.
+*.tm022.com	600	IN	CNAME	.
 tm0755.com	600	IN	CNAME	.
 *.tm0755.com	600	IN	CNAME	.
 tm1949.com	600	IN	CNAME	.
@@ -177864,6 +178600,8 @@ tmusoft.com	600	IN	CNAME	.
 *.tmusoft.com	600	IN	CNAME	.
 tmuyun.com	600	IN	CNAME	.
 *.tmuyun.com	600	IN	CNAME	.
+tmwanba.com	600	IN	CNAME	.
+*.tmwanba.com	600	IN	CNAME	.
 tmwcn.com	600	IN	CNAME	.
 *.tmwcn.com	600	IN	CNAME	.
 tmwxxcx.com	600	IN	CNAME	.
@@ -178180,6 +178918,8 @@ tongleer.com	600	IN	CNAME	.
 *.tongleer.com	600	IN	CNAME	.
 tonglei.com	600	IN	CNAME	.
 *.tonglei.com	600	IN	CNAME	.
+tongli.net	600	IN	CNAME	.
+*.tongli.net	600	IN	CNAME	.
 tonglian.com	600	IN	CNAME	.
 *.tonglian.com	600	IN	CNAME	.
 tongliangrc.com	600	IN	CNAME	.
@@ -178306,6 +179046,8 @@ tongyiplastic.com	600	IN	CNAME	.
 *.tongyiplastic.com	600	IN	CNAME	.
 tongyonggroup.com	600	IN	CNAME	.
 *.tongyonggroup.com	600	IN	CNAME	.
+tongyongpe.com	600	IN	CNAME	.
+*.tongyongpe.com	600	IN	CNAME	.
 tongyongpe.net	600	IN	CNAME	.
 *.tongyongpe.net	600	IN	CNAME	.
 tongyongts.com	600	IN	CNAME	.
@@ -178618,6 +179360,8 @@ topunix.com	600	IN	CNAME	.
 *.topunix.com	600	IN	CNAME	.
 topv1.com	600	IN	CNAME	.
 *.topv1.com	600	IN	CNAME	.
+topvee.com	600	IN	CNAME	.
+*.topvee.com	600	IN	CNAME	.
 topwalk.com	600	IN	CNAME	.
 *.topwalk.com	600	IN	CNAME	.
 topway.org	600	IN	CNAME	.
@@ -178986,6 +179730,8 @@ tprtc.com	600	IN	CNAME	.
 *.tprtc.com	600	IN	CNAME	.
 tpsea.com	600	IN	CNAME	.
 *.tpsea.com	600	IN	CNAME	.
+tpsem.com	600	IN	CNAME	.
+*.tpsem.com	600	IN	CNAME	.
 tpsge.com	600	IN	CNAME	.
 *.tpsge.com	600	IN	CNAME	.
 tpshleasing.com	600	IN	CNAME	.
@@ -179364,6 +180110,8 @@ trjcn.net	600	IN	CNAME	.
 *.trjcn.net	600	IN	CNAME	.
 trjddq.com	600	IN	CNAME	.
 *.trjddq.com	600	IN	CNAME	.
+trjho.com	600	IN	CNAME	.
+*.trjho.com	600	IN	CNAME	.
 trkj.com	600	IN	CNAME	.
 *.trkj.com	600	IN	CNAME	.
 trkjbj.com	600	IN	CNAME	.
@@ -179588,6 +180336,8 @@ tsa-page5.com	600	IN	CNAME	.
 *.tsa-page5.com	600	IN	CNAME	.
 tsa-page6.com	600	IN	CNAME	.
 *.tsa-page6.com	600	IN	CNAME	.
+tsbear.com	600	IN	CNAME	.
+*.tsbear.com	600	IN	CNAME	.
 tsbjschool.com	600	IN	CNAME	.
 *.tsbjschool.com	600	IN	CNAME	.
 tsbtv.tv	600	IN	CNAME	.
@@ -179618,6 +180368,8 @@ tsfqw.com	600	IN	CNAME	.
 *.tsfqw.com	600	IN	CNAME	.
 tsg-online.net	600	IN	CNAME	.
 *.tsg-online.net	600	IN	CNAME	.
+tsgaosu.com	600	IN	CNAME	.
+*.tsgaosu.com	600	IN	CNAME	.
 tsggx.com	600	IN	CNAME	.
 *.tsggx.com	600	IN	CNAME	.
 tsgks.com	600	IN	CNAME	.
@@ -179652,6 +180404,8 @@ tsinghua-getinfo.com	600	IN	CNAME	.
 *.tsinghua-getinfo.com	600	IN	CNAME	.
 tsinghua-sz.org	600	IN	CNAME	.
 *.tsinghua-sz.org	600	IN	CNAME	.
+tsinghua-tj.org	600	IN	CNAME	.
+*.tsinghua-tj.org	600	IN	CNAME	.
 tsinghua-vc.com	600	IN	CNAME	.
 *.tsinghua-vc.com	600	IN	CNAME	.
 tsinghua-wx.org	600	IN	CNAME	.
@@ -179700,6 +180454,8 @@ tslib.net	600	IN	CNAME	.
 *.tslib.net	600	IN	CNAME	.
 tsljzs.com	600	IN	CNAME	.
 *.tsljzs.com	600	IN	CNAME	.
+tslnqfzxx.com	600	IN	CNAME	.
+*.tslnqfzxx.com	600	IN	CNAME	.
 tslongtai.com	600	IN	CNAME	.
 *.tslongtai.com	600	IN	CNAME	.
 tslsmart.com	600	IN	CNAME	.
@@ -179982,6 +180738,8 @@ tttz.com	600	IN	CNAME	.
 *.tttz.com	600	IN	CNAME	.
 ttunion.com	600	IN	CNAME	.
 *.ttunion.com	600	IN	CNAME	.
+ttvod.net	600	IN	CNAME	.
+*.ttvod.net	600	IN	CNAME	.
 ttwanjia.com	600	IN	CNAME	.
 *.ttwanjia.com	600	IN	CNAME	.
 ttwebview.com	600	IN	CNAME	.
@@ -180606,6 +181364,8 @@ tuxing.art	600	IN	CNAME	.
 *.tuxing.art	600	IN	CNAME	.
 tuxing2010.com	600	IN	CNAME	.
 *.tuxing2010.com	600	IN	CNAME	.
+tuxingis.com	600	IN	CNAME	.
+*.tuxingis.com	600	IN	CNAME	.
 tuxingren.com	600	IN	CNAME	.
 *.tuxingren.com	600	IN	CNAME	.
 tuxiu.com	600	IN	CNAME	.
@@ -180738,6 +181498,8 @@ twanxi.com	600	IN	CNAME	.
 *.twanxi.com	600	IN	CNAME	.
 twatchesmall.com	600	IN	CNAME	.
 *.twatchesmall.com	600	IN	CNAME	.
+twb520.com	600	IN	CNAME	.
+*.twb520.com	600	IN	CNAME	.
 twbuild.org	600	IN	CNAME	.
 *.twbuild.org	600	IN	CNAME	.
 twcczhu.com	600	IN	CNAME	.
@@ -181028,8 +181790,12 @@ ty-group.net	600	IN	CNAME	.
 *.ty-group.net	600	IN	CNAME	.
 ty-im.com	600	IN	CNAME	.
 *.ty-im.com	600	IN	CNAME	.
+ty-job.com	600	IN	CNAME	.
+*.ty-job.com	600	IN	CNAME	.
 ty-magnet.com	600	IN	CNAME	.
 *.ty-magnet.com	600	IN	CNAME	.
+ty-space.com	600	IN	CNAME	.
+*.ty-space.com	600	IN	CNAME	.
 ty-tyre.com	600	IN	CNAME	.
 *.ty-tyre.com	600	IN	CNAME	.
 ty-xxl.com	600	IN	CNAME	.
@@ -181106,6 +181872,8 @@ tyihome.com	600	IN	CNAME	.
 *.tyihome.com	600	IN	CNAME	.
 tyjd.cc	600	IN	CNAME	.
 *.tyjd.cc	600	IN	CNAME	.
+tyjdj.org	600	IN	CNAME	.
+*.tyjdj.org	600	IN	CNAME	.
 tyjnkj.com	600	IN	CNAME	.
 *.tyjnkj.com	600	IN	CNAME	.
 tyjsq.com	600	IN	CNAME	.
@@ -181168,6 +181936,8 @@ tyst.cc	600	IN	CNAME	.
 *.tyst.cc	600	IN	CNAME	.
 tyszy.com	600	IN	CNAME	.
 *.tyszy.com	600	IN	CNAME	.
+tyt.net	600	IN	CNAME	.
+*.tyt.net	600	IN	CNAME	.
 tytgigty.com	600	IN	CNAME	.
 *.tytgigty.com	600	IN	CNAME	.
 tytlj.com	600	IN	CNAME	.
@@ -181324,6 +182094,8 @@ tzres.com	600	IN	CNAME	.
 *.tzres.com	600	IN	CNAME	.
 tzrl.com	600	IN	CNAME	.
 *.tzrl.com	600	IN	CNAME	.
+tzrsks.com	600	IN	CNAME	.
+*.tzrsks.com	600	IN	CNAME	.
 tzsfhxx.com	600	IN	CNAME	.
 *.tzsfhxx.com	600	IN	CNAME	.
 tzshipping.net	600	IN	CNAME	.
@@ -181390,6 +182162,8 @@ tzzszb.com	600	IN	CNAME	.
 *.tzzszb.com	600	IN	CNAME	.
 tzzx.net	600	IN	CNAME	.
 *.tzzx.net	600	IN	CNAME	.
+tzzxrmyy.com	600	IN	CNAME	.
+*.tzzxrmyy.com	600	IN	CNAME	.
 u-camera.com	600	IN	CNAME	.
 *.u-camera.com	600	IN	CNAME	.
 u-carloan.com	600	IN	CNAME	.
@@ -182130,6 +182904,8 @@ ukpass.org	600	IN	CNAME	.
 *.ukpass.org	600	IN	CNAME	.
 ukpathway.com	600	IN	CNAME	.
 *.ukpathway.com	600	IN	CNAME	.
+ukqu.com	600	IN	CNAME	.
+*.ukqu.com	600	IN	CNAME	.
 ukrainevisacenter.com	600	IN	CNAME	.
 *.ukrainevisacenter.com	600	IN	CNAME	.
 uku6.com	600	IN	CNAME	.
@@ -182354,6 +183130,8 @@ uni-perfect.com	600	IN	CNAME	.
 *.uni-perfect.com	600	IN	CNAME	.
 uni-ubi.com	600	IN	CNAME	.
 *.uni-ubi.com	600	IN	CNAME	.
+uni4006.net	600	IN	CNAME	.
+*.uni4006.net	600	IN	CNAME	.
 unibizp.com	600	IN	CNAME	.
 *.unibizp.com	600	IN	CNAME	.
 unicde.com	600	IN	CNAME	.
@@ -182816,6 +183594,8 @@ upwater.net	600	IN	CNAME	.
 *.upwater.net	600	IN	CNAME	.
 upx8.com	600	IN	CNAME	.
 *.upx8.com	600	IN	CNAME	.
+upxuan.com	600	IN	CNAME	.
+*.upxuan.com	600	IN	CNAME	.
 upyun.com	600	IN	CNAME	.
 *.upyun.com	600	IN	CNAME	.
 upzxt.com	600	IN	CNAME	.
@@ -183066,6 +183846,8 @@ ustclug.org	600	IN	CNAME	.
 *.ustclug.org	600	IN	CNAME	.
 ustui.com	600	IN	CNAME	.
 *.ustui.com	600	IN	CNAME	.
+usunhome.com	600	IN	CNAME	.
+*.usunhome.com	600	IN	CNAME	.
 usuredata.com	600	IN	CNAME	.
 *.usuredata.com	600	IN	CNAME	.
 usus.ltd	600	IN	CNAME	.
@@ -183704,6 +184486,8 @@ vasdgame.com	600	IN	CNAME	.
 *.vasdgame.com	600	IN	CNAME	.
 vasee.com	600	IN	CNAME	.
 *.vasee.com	600	IN	CNAME	.
+vasen.com	600	IN	CNAME	.
+*.vasen.com	600	IN	CNAME	.
 vaslco.com	600	IN	CNAME	.
 *.vaslco.com	600	IN	CNAME	.
 vasoon.com	600	IN	CNAME	.
@@ -183730,6 +184514,8 @@ vayol.com	600	IN	CNAME	.
 *.vayol.com	600	IN	CNAME	.
 vayuan.com	600	IN	CNAME	.
 *.vayuan.com	600	IN	CNAME	.
+vazton.com	600	IN	CNAME	.
+*.vazton.com	600	IN	CNAME	.
 vazyme.com	600	IN	CNAME	.
 *.vazyme.com	600	IN	CNAME	.
 vazymemedical.com	600	IN	CNAME	.
@@ -184778,6 +185564,8 @@ vivosjpt.com	600	IN	CNAME	.
 *.vivosjpt.com	600	IN	CNAME	.
 vivotc.com	600	IN	CNAME	.
 *.vivotc.com	600	IN	CNAME	.
+viwei.com	600	IN	CNAME	.
+*.viwei.com	600	IN	CNAME	.
 viwik.com	600	IN	CNAME	.
 *.viwik.com	600	IN	CNAME	.
 vixiu.com	600	IN	CNAME	.
@@ -185466,6 +186254,8 @@ vpshu.com	600	IN	CNAME	.
 *.vpshu.com	600	IN	CNAME	.
 vpsjxw.com	600	IN	CNAME	.
 *.vpsjxw.com	600	IN	CNAME	.
+vpsjyz.com	600	IN	CNAME	.
+*.vpsjyz.com	600	IN	CNAME	.
 vpsno.com	600	IN	CNAME	.
 *.vpsno.com	600	IN	CNAME	.
 vpsoff.net	600	IN	CNAME	.
@@ -185786,6 +186576,8 @@ vwvvwv.com	600	IN	CNAME	.
 *.vwvvwv.com	600	IN	CNAME	.
 vwwmsd.com	600	IN	CNAME	.
 *.vwwmsd.com	600	IN	CNAME	.
+vx.com	600	IN	CNAME	.
+*.vx.com	600	IN	CNAME	.
 vx56.com	600	IN	CNAME	.
 *.vx56.com	600	IN	CNAME	.
 vxe.com	600	IN	CNAME	.
@@ -186472,6 +187264,8 @@ wangmtd.asia	600	IN	CNAME	.
 *.wangmtd.asia	600	IN	CNAME	.
 wangniuwms.com	600	IN	CNAME	.
 *.wangniuwms.com	600	IN	CNAME	.
+wangonglue.com	600	IN	CNAME	.
+*.wangonglue.com	600	IN	CNAME	.
 wangpeiaiot.com	600	IN	CNAME	.
 *.wangpeiaiot.com	600	IN	CNAME	.
 wangpiao.com	600	IN	CNAME	.
@@ -186498,6 +187292,8 @@ wangshugu.com	600	IN	CNAME	.
 *.wangshugu.com	600	IN	CNAME	.
 wangsu.com	600	IN	CNAME	.
 *.wangsu.com	600	IN	CNAME	.
+wangsu8.com	600	IN	CNAME	.
+*.wangsu8.com	600	IN	CNAME	.
 wangsucloud.com	600	IN	CNAME	.
 *.wangsucloud.com	600	IN	CNAME	.
 wangsuedge.com	600	IN	CNAME	.
@@ -186698,6 +187494,8 @@ wanlicd.com	600	IN	CNAME	.
 *.wanlicd.com	600	IN	CNAME	.
 wanliduo.com	600	IN	CNAME	.
 *.wanliduo.com	600	IN	CNAME	.
+wanlin888.com	600	IN	CNAME	.
+*.wanlin888.com	600	IN	CNAME	.
 wanliniu.com	600	IN	CNAME	.
 *.wanliniu.com	600	IN	CNAME	.
 wanlitong.com	600	IN	CNAME	.
@@ -188442,6 +189240,8 @@ weiye-alu.com	600	IN	CNAME	.
 *.weiye-alu.com	600	IN	CNAME	.
 weiye.me	600	IN	CNAME	.
 *.weiye.me	600	IN	CNAME	.
+weiyeac.com	600	IN	CNAME	.
+*.weiyeac.com	600	IN	CNAME	.
 weiyes.com	600	IN	CNAME	.
 *.weiyes.com	600	IN	CNAME	.
 weiyi.com	600	IN	CNAME	.
@@ -189080,6 +189880,8 @@ weti.me	600	IN	CNAME	.
 *.weti.me	600	IN	CNAME	.
 wetimetech.com	600	IN	CNAME	.
 *.wetimetech.com	600	IN	CNAME	.
+wetolink.com	600	IN	CNAME	.
+*.wetolink.com	600	IN	CNAME	.
 weton.net	600	IN	CNAME	.
 *.weton.net	600	IN	CNAME	.
 wetools.com	600	IN	CNAME	.
@@ -189386,6 +190188,8 @@ whatswebyuo.com	600	IN	CNAME	.
 *.whatswebyuo.com	600	IN	CNAME	.
 whattheybuy.com	600	IN	CNAME	.
 *.whattheybuy.com	600	IN	CNAME	.
+whaty.com	600	IN	CNAME	.
+*.whaty.com	600	IN	CNAME	.
 whaudio.com	600	IN	CNAME	.
 *.whaudio.com	600	IN	CNAME	.
 whbahyxh.com	600	IN	CNAME	.
@@ -189712,6 +190516,8 @@ whjiahai.com	600	IN	CNAME	.
 *.whjiahai.com	600	IN	CNAME	.
 whjiaoy.com	600	IN	CNAME	.
 *.whjiaoy.com	600	IN	CNAME	.
+whjiku.com	600	IN	CNAME	.
+*.whjiku.com	600	IN	CNAME	.
 whjinlong.com	600	IN	CNAME	.
 *.whjinlong.com	600	IN	CNAME	.
 whjkcj.com	600	IN	CNAME	.
@@ -190996,6 +191802,8 @@ wkmic.com	600	IN	CNAME	.
 *.wkmic.com	600	IN	CNAME	.
 wknky1296.com	600	IN	CNAME	.
 *.wknky1296.com	600	IN	CNAME	.
+wkoooo.com	600	IN	CNAME	.
+*.wkoooo.com	600	IN	CNAME	.
 wkopen.com	600	IN	CNAME	.
 *.wkopen.com	600	IN	CNAME	.
 wkread.com	600	IN	CNAME	.
@@ -191102,6 +191910,8 @@ wlmqwb.com	600	IN	CNAME	.
 *.wlmqwb.com	600	IN	CNAME	.
 wlnh.net	600	IN	CNAME	.
 *.wlnh.net	600	IN	CNAME	.
+wlnjsb.com	600	IN	CNAME	.
+*.wlnjsb.com	600	IN	CNAME	.
 wlnkaep.xyz	600	IN	CNAME	.
 *.wlnkaep.xyz	600	IN	CNAME	.
 wlnmp.com	600	IN	CNAME	.
@@ -191130,6 +191940,8 @@ wltong.com	600	IN	CNAME	.
 *.wltong.com	600	IN	CNAME	.
 wluotx.com	600	IN	CNAME	.
 *.wluotx.com	600	IN	CNAME	.
+wlups.com	600	IN	CNAME	.
+*.wlups.com	600	IN	CNAME	.
 wlwj.com	600	IN	CNAME	.
 *.wlwj.com	600	IN	CNAME	.
 wlwltech.com	600	IN	CNAME	.
@@ -191316,6 +192128,8 @@ wnjdtz.com	600	IN	CNAME	.
 *.wnjdtz.com	600	IN	CNAME	.
 wnkj88.com	600	IN	CNAME	.
 *.wnkj88.com	600	IN	CNAME	.
+wnl.cc	600	IN	CNAME	.
+*.wnl.cc	600	IN	CNAME	.
 wnlbs.com	600	IN	CNAME	.
 *.wnlbs.com	600	IN	CNAME	.
 wnlpromain.com	600	IN	CNAME	.
@@ -191402,6 +192216,8 @@ woaap.com	600	IN	CNAME	.
 *.woaap.com	600	IN	CNAME	.
 woai310.com	600	IN	CNAME	.
 *.woai310.com	600	IN	CNAME	.
+woaidiaoyu.com	600	IN	CNAME	.
+*.woaidiaoyu.com	600	IN	CNAME	.
 woaidu.org	600	IN	CNAME	.
 *.woaidu.org	600	IN	CNAME	.
 woaihaoyouxi.com	600	IN	CNAME	.
@@ -191770,6 +192586,8 @@ woqu.com	600	IN	CNAME	.
 *.woqu.com	600	IN	CNAME	.
 woquyun.com	600	IN	CNAME	.
 *.woquyun.com	600	IN	CNAME	.
+word2txt.com	600	IN	CNAME	.
+*.word2txt.com	600	IN	CNAME	.
 word666.com	600	IN	CNAME	.
 *.word666.com	600	IN	CNAME	.
 wordfc.com	600	IN	CNAME	.
@@ -191966,6 +192784,8 @@ woxihuan.com	600	IN	CNAME	.
 *.woxihuan.com	600	IN	CNAME	.
 woxiu.com	600	IN	CNAME	.
 *.woxiu.com	600	IN	CNAME	.
+woxshare.com	600	IN	CNAME	.
+*.woxshare.com	600	IN	CNAME	.
 woxuexue.com	600	IN	CNAME	.
 *.woxuexue.com	600	IN	CNAME	.
 woxuyuan.com	600	IN	CNAME	.
@@ -192008,6 +192828,8 @@ wp-hz.com	600	IN	CNAME	.
 *.wp-hz.com	600	IN	CNAME	.
 wpan123.com	600	IN	CNAME	.
 *.wpan123.com	600	IN	CNAME	.
+wpbattery.com	600	IN	CNAME	.
+*.wpbattery.com	600	IN	CNAME	.
 wpceo.com	600	IN	CNAME	.
 *.wpceo.com	600	IN	CNAME	.
 wpcio.com	600	IN	CNAME	.
@@ -192690,6 +193512,8 @@ wuhao13.xin	600	IN	CNAME	.
 *.wuhao13.xin	600	IN	CNAME	.
 wuhema.com	600	IN	CNAME	.
 *.wuhema.com	600	IN	CNAME	.
+wuhetumu.com	600	IN	CNAME	.
+*.wuhetumu.com	600	IN	CNAME	.
 wuhexxg.com	600	IN	CNAME	.
 *.wuhexxg.com	600	IN	CNAME	.
 wuhongsheng.com	600	IN	CNAME	.
@@ -193028,6 +193852,8 @@ wuxisj.com	600	IN	CNAME	.
 *.wuxisj.com	600	IN	CNAME	.
 wuxitianlang.com	600	IN	CNAME	.
 *.wuxitianlang.com	600	IN	CNAME	.
+wuxituozhan.com	600	IN	CNAME	.
+*.wuxituozhan.com	600	IN	CNAME	.
 wuxiwang.net	600	IN	CNAME	.
 *.wuxiwang.net	600	IN	CNAME	.
 wuxiwanli.com	600	IN	CNAME	.
@@ -193082,6 +193908,8 @@ wuyi.link	600	IN	CNAME	.
 *.wuyi.link	600	IN	CNAME	.
 wuyijt.com	600	IN	CNAME	.
 *.wuyijt.com	600	IN	CNAME	.
+wuying.com	600	IN	CNAME	.
+*.wuying.com	600	IN	CNAME	.
 wuyishan.net	600	IN	CNAME	.
 *.wuyishan.net	600	IN	CNAME	.
 wuyixinyi.com	600	IN	CNAME	.
@@ -194154,6 +194982,8 @@ x-cmd.com	600	IN	CNAME	.
 *.x-cmd.com	600	IN	CNAME	.
 x-droners.com	600	IN	CNAME	.
 *.x-droners.com	600	IN	CNAME	.
+x-gpu.com	600	IN	CNAME	.
+*.x-gpu.com	600	IN	CNAME	.
 x-imagine.com	600	IN	CNAME	.
 *.x-imagine.com	600	IN	CNAME	.
 x-jishu.com	600	IN	CNAME	.
@@ -194242,6 +195072,8 @@ x8sb.com	600	IN	CNAME	.
 *.x8sb.com	600	IN	CNAME	.
 xa-bank.com	600	IN	CNAME	.
 *.xa-bank.com	600	IN	CNAME	.
+xa-junxu.com	600	IN	CNAME	.
+*.xa-junxu.com	600	IN	CNAME	.
 xa-online.com	600	IN	CNAME	.
 *.xa-online.com	600	IN	CNAME	.
 xa-psj.com	600	IN	CNAME	.
@@ -194258,6 +195090,8 @@ xa9t.com	600	IN	CNAME	.
 *.xa9t.com	600	IN	CNAME	.
 xaaycz.com	600	IN	CNAME	.
 *.xaaycz.com	600	IN	CNAME	.
+xabaoan.com	600	IN	CNAME	.
+*.xabaoan.com	600	IN	CNAME	.
 xabaotu.com	600	IN	CNAME	.
 *.xabaotu.com	600	IN	CNAME	.
 xabbs.com	600	IN	CNAME	.
@@ -194364,6 +195198,8 @@ xakaili.com	600	IN	CNAME	.
 *.xakaili.com	600	IN	CNAME	.
 xakjgzz.com	600	IN	CNAME	.
 *.xakjgzz.com	600	IN	CNAME	.
+xaklkx.com	600	IN	CNAME	.
+*.xaklkx.com	600	IN	CNAME	.
 xakqby.com	600	IN	CNAME	.
 *.xakqby.com	600	IN	CNAME	.
 xakrlab.com	600	IN	CNAME	.
@@ -195830,6 +196666,8 @@ xiangwushuo.com	600	IN	CNAME	.
 *.xiangwushuo.com	600	IN	CNAME	.
 xiangxiangmf.com	600	IN	CNAME	.
 *.xiangxiangmf.com	600	IN	CNAME	.
+xiangxinggl.com	600	IN	CNAME	.
+*.xiangxinggl.com	600	IN	CNAME	.
 xiangxinggroup.com	600	IN	CNAME	.
 *.xiangxinggroup.com	600	IN	CNAME	.
 xiangxingnet.com	600	IN	CNAME	.
@@ -196006,6 +196844,8 @@ xiao-bo.com	600	IN	CNAME	.
 *.xiao-bo.com	600	IN	CNAME	.
 xiao-new.com	600	IN	CNAME	.
 *.xiao-new.com	600	IN	CNAME	.
+xiao-xin.net	600	IN	CNAME	.
+*.xiao-xin.net	600	IN	CNAME	.
 xiao100.com	600	IN	CNAME	.
 *.xiao100.com	600	IN	CNAME	.
 xiao688.com	600	IN	CNAME	.
@@ -196102,6 +196942,8 @@ xiaochamao.com	600	IN	CNAME	.
 *.xiaochamao.com	600	IN	CNAME	.
 xiaoche001.com	600	IN	CNAME	.
 *.xiaoche001.com	600	IN	CNAME	.
+xiaochenbaoku.com	600	IN	CNAME	.
+*.xiaochenbaoku.com	600	IN	CNAME	.
 xiaocheng.com	600	IN	CNAME	.
 *.xiaocheng.com	600	IN	CNAME	.
 xiaochengxu029.com	600	IN	CNAME	.
@@ -196110,6 +196952,8 @@ xiaochengxucms.com	600	IN	CNAME	.
 *.xiaochengxucms.com	600	IN	CNAME	.
 xiaochi198.com	600	IN	CNAME	.
 *.xiaochi198.com	600	IN	CNAME	.
+xiaochi7.com	600	IN	CNAME	.
+*.xiaochi7.com	600	IN	CNAME	.
 xiaochixiang.com	600	IN	CNAME	.
 *.xiaochixiang.com	600	IN	CNAME	.
 xiaochuanyun.com	600	IN	CNAME	.
@@ -196340,6 +197184,8 @@ xiaojing360.com	600	IN	CNAME	.
 *.xiaojing360.com	600	IN	CNAME	.
 xiaojinzi.com	600	IN	CNAME	.
 *.xiaojinzi.com	600	IN	CNAME	.
+xiaojiyun.com	600	IN	CNAME	.
+*.xiaojiyun.com	600	IN	CNAME	.
 xiaojl.com	600	IN	CNAME	.
 *.xiaojl.com	600	IN	CNAME	.
 xiaojp.com	600	IN	CNAME	.
@@ -196446,6 +197292,8 @@ xiaomai.live	600	IN	CNAME	.
 *.xiaomai.live	600	IN	CNAME	.
 xiaomai5.com	600	IN	CNAME	.
 *.xiaomai5.com	600	IN	CNAME	.
+xiaomaicn.com	600	IN	CNAME	.
+*.xiaomaicn.com	600	IN	CNAME	.
 xiaomaidong.com	600	IN	CNAME	.
 *.xiaomaidong.com	600	IN	CNAME	.
 xiaomaigongkao.com	600	IN	CNAME	.
@@ -197830,6 +198678,8 @@ xingzoushu.com	600	IN	CNAME	.
 *.xingzoushu.com	600	IN	CNAME	.
 xingzuo.com	600	IN	CNAME	.
 *.xingzuo.com	600	IN	CNAME	.
+xingzuobaike.com	600	IN	CNAME	.
+*.xingzuobaike.com	600	IN	CNAME	.
 xingzuomi.com	600	IN	CNAME	.
 *.xingzuomi.com	600	IN	CNAME	.
 xingzuowu.com	600	IN	CNAME	.
@@ -197966,6 +198816,8 @@ xinjunshi.net	600	IN	CNAME	.
 *.xinjunshi.net	600	IN	CNAME	.
 xinjunshicn.net	600	IN	CNAME	.
 *.xinjunshicn.net	600	IN	CNAME	.
+xinkailawyer.com	600	IN	CNAME	.
+*.xinkailawyer.com	600	IN	CNAME	.
 xinkuai.com	600	IN	CNAME	.
 *.xinkuai.com	600	IN	CNAME	.
 xinlangtupian.com	600	IN	CNAME	.
@@ -198068,6 +198920,8 @@ xinnong.com	600	IN	CNAME	.
 *.xinnong.com	600	IN	CNAME	.
 xinnong.net	600	IN	CNAME	.
 *.xinnong.net	600	IN	CNAME	.
+xinnuosf.com	600	IN	CNAME	.
+*.xinnuosf.com	600	IN	CNAME	.
 xino-tech.com	600	IN	CNAME	.
 *.xino-tech.com	600	IN	CNAME	.
 xinorngyk.com	600	IN	CNAME	.
@@ -198686,6 +199540,8 @@ xiuxiandou.com	600	IN	CNAME	.
 *.xiuxiandou.com	600	IN	CNAME	.
 xiuxianshipin.com	600	IN	CNAME	.
 *.xiuxianshipin.com	600	IN	CNAME	.
+xiuxitong.com	600	IN	CNAME	.
+*.xiuxitong.com	600	IN	CNAME	.
 xiuxiu.com	600	IN	CNAME	.
 *.xiuxiu.com	600	IN	CNAME	.
 xiuxiuda.com	600	IN	CNAME	.
@@ -199502,6 +200358,8 @@ xmldz4.com	600	IN	CNAME	.
 *.xmldz4.com	600	IN	CNAME	.
 xmlhifi.com	600	IN	CNAME	.
 *.xmlhifi.com	600	IN	CNAME	.
+xmlib.net	600	IN	CNAME	.
+*.xmlib.net	600	IN	CNAME	.
 xmlvbarcode.com	600	IN	CNAME	.
 *.xmlvbarcode.com	600	IN	CNAME	.
 xmmade.com	600	IN	CNAME	.
@@ -199584,6 +200442,8 @@ xmswim.com	600	IN	CNAME	.
 *.xmswim.com	600	IN	CNAME	.
 xmtbang.com	600	IN	CNAME	.
 *.xmtbang.com	600	IN	CNAME	.
+xmtcm.com	600	IN	CNAME	.
+*.xmtcm.com	600	IN	CNAME	.
 xmtyy.net	600	IN	CNAME	.
 *.xmtyy.net	600	IN	CNAME	.
 xmuli.tech	600	IN	CNAME	.
@@ -199910,6 +200770,8 @@ xn--jor0b302fdhgwnccw8g.com	600	IN	CNAME	.
 *.xn--jor0b302fdhgwnccw8g.com	600	IN	CNAME	.
 xn--jpr47zq87axwjc0d.com	600	IN	CNAME	.
 *.xn--jpr47zq87axwjc0d.com	600	IN	CNAME	.
+xn--jxqz98c.com	600	IN	CNAME	.
+*.xn--jxqz98c.com	600	IN	CNAME	.
 xn--jxuv1s.net	600	IN	CNAME	.
 *.xn--jxuv1s.net	600	IN	CNAME	.
 xn--kcr304agl5b.xn--czr694b	600	IN	CNAME	.
@@ -200110,6 +200972,8 @@ xn--z4q559dueav8q.com	600	IN	CNAME	.
 *.xn--z4q559dueav8q.com	600	IN	CNAME	.
 xn--z63a11k.com	600	IN	CNAME	.
 *.xn--z63a11k.com	600	IN	CNAME	.
+xn--zfru1ggxt.fun	600	IN	CNAME	.
+*.xn--zfru1ggxt.fun	600	IN	CNAME	.
 xn--zwtr2f7xebqvx24ax9a.xn--3ds443g	600	IN	CNAME	.
 *.xn--zwtr2f7xebqvx24ax9a.xn--3ds443g	600	IN	CNAME	.
 xn0.cc	600	IN	CNAME	.
@@ -200292,6 +201156,8 @@ xplaymobile.com	600	IN	CNAME	.
 *.xplaymobile.com	600	IN	CNAME	.
 xppjzs.com	600	IN	CNAME	.
 *.xppjzs.com	600	IN	CNAME	.
+xprinter.net	600	IN	CNAME	.
+*.xprinter.net	600	IN	CNAME	.
 xpsup.com	600	IN	CNAME	.
 *.xpsup.com	600	IN	CNAME	.
 xpsy.net	600	IN	CNAME	.
@@ -201446,6 +202312,8 @@ xunsho.com	600	IN	CNAME	.
 *.xunsho.com	600	IN	CNAME	.
 xunshou.com	600	IN	CNAME	.
 *.xunshou.com	600	IN	CNAME	.
+xunshu.org	600	IN	CNAME	.
+*.xunshu.org	600	IN	CNAME	.
 xunsl.com	600	IN	CNAME	.
 *.xunsl.com	600	IN	CNAME	.
 xunsn.com	600	IN	CNAME	.
@@ -202422,6 +203290,8 @@ xzhzkd.com	600	IN	CNAME	.
 *.xzhzkd.com	600	IN	CNAME	.
 xzis.org	600	IN	CNAME	.
 *.xzis.org	600	IN	CNAME	.
+xzisc.com	600	IN	CNAME	.
+*.xzisc.com	600	IN	CNAME	.
 xzjhgt.com	600	IN	CNAME	.
 *.xzjhgt.com	600	IN	CNAME	.
 xzjiufa.com	600	IN	CNAME	.
@@ -202888,6 +203758,8 @@ yanfukun.com	600	IN	CNAME	.
 *.yanfukun.com	600	IN	CNAME	.
 yang99.fun	600	IN	CNAME	.
 *.yang99.fun	600	IN	CNAME	.
+yangben001.com	600	IN	CNAME	.
+*.yangben001.com	600	IN	CNAME	.
 yangbentong.com	600	IN	CNAME	.
 *.yangbentong.com	600	IN	CNAME	.
 yangbinlvshi.com	600	IN	CNAME	.
@@ -202908,6 +203780,8 @@ yangcong345.com	600	IN	CNAME	.
 *.yangcong345.com	600	IN	CNAME	.
 yangcongchufang.com	600	IN	CNAME	.
 *.yangcongchufang.com	600	IN	CNAME	.
+yangcongxueyuan.com	600	IN	CNAME	.
+*.yangcongxueyuan.com	600	IN	CNAME	.
 yangdongjia.com	600	IN	CNAME	.
 *.yangdongjia.com	600	IN	CNAME	.
 yangfannie.com	600	IN	CNAME	.
@@ -203244,6 +204118,8 @@ yanzhoulugang.com	600	IN	CNAME	.
 *.yanzhoulugang.com	600	IN	CNAME	.
 yao.com	600	IN	CNAME	.
 *.yao.com	600	IN	CNAME	.
+yao07.com	600	IN	CNAME	.
+*.yao07.com	600	IN	CNAME	.
 yao123.com	600	IN	CNAME	.
 *.yao123.com	600	IN	CNAME	.
 yao51.com	600	IN	CNAME	.
@@ -203522,6 +204398,8 @@ yayu.net	600	IN	CNAME	.
 *.yayu.net	600	IN	CNAME	.
 yayunjiqi.com	600	IN	CNAME	.
 *.yayunjiqi.com	600	IN	CNAME	.
+yazhongzhuangshi.com	600	IN	CNAME	.
+*.yazhongzhuangshi.com	600	IN	CNAME	.
 yazuo.com	600	IN	CNAME	.
 *.yazuo.com	600	IN	CNAME	.
 yazx.net	600	IN	CNAME	.
@@ -203592,6 +204470,8 @@ ybj.com	600	IN	CNAME	.
 *.ybj.com	600	IN	CNAME	.
 ybjjsgc.com	600	IN	CNAME	.
 *.ybjjsgc.com	600	IN	CNAME	.
+ybjk.com	600	IN	CNAME	.
+*.ybjk.com	600	IN	CNAME	.
 ybk001.com	600	IN	CNAME	.
 *.ybk001.com	600	IN	CNAME	.
 ybk168.com	600	IN	CNAME	.
@@ -204162,6 +205042,8 @@ yearlygreen.com	600	IN	CNAME	.
 *.yearlygreen.com	600	IN	CNAME	.
 yearnfar.com	600	IN	CNAME	.
 *.yearnfar.com	600	IN	CNAME	.
+yeasen.com	600	IN	CNAME	.
+*.yeasen.com	600	IN	CNAME	.
 yeastar.com	600	IN	CNAME	.
 *.yeastar.com	600	IN	CNAME	.
 yebaike.com	600	IN	CNAME	.
@@ -204170,6 +205052,8 @@ yebangyu.org	600	IN	CNAME	.
 *.yebangyu.org	600	IN	CNAME	.
 yebaojiasu.com	600	IN	CNAME	.
 *.yebaojiasu.com	600	IN	CNAME	.
+yebeta.com	600	IN	CNAME	.
+*.yebeta.com	600	IN	CNAME	.
 yebinnet.com	600	IN	CNAME	.
 *.yebinnet.com	600	IN	CNAME	.
 yeboyzq.com	600	IN	CNAME	.
@@ -204782,6 +205666,8 @@ yhachina.com	600	IN	CNAME	.
 *.yhachina.com	600	IN	CNAME	.
 yham.net	600	IN	CNAME	.
 *.yham.net	600	IN	CNAME	.
+yhans.com	600	IN	CNAME	.
+*.yhans.com	600	IN	CNAME	.
 yhc-card.com	600	IN	CNAME	.
 *.yhc-card.com	600	IN	CNAME	.
 yhcangchu.com	600	IN	CNAME	.
@@ -205064,6 +205950,8 @@ yichengnews.com	600	IN	CNAME	.
 *.yichengnews.com	600	IN	CNAME	.
 yichengwangluo.net	600	IN	CNAME	.
 *.yichengwangluo.net	600	IN	CNAME	.
+yichenlawfirm.com	600	IN	CNAME	.
+*.yichenlawfirm.com	600	IN	CNAME	.
 yicheshi.com	600	IN	CNAME	.
 *.yicheshi.com	600	IN	CNAME	.
 yichi.tech	600	IN	CNAME	.
@@ -205314,6 +206202,8 @@ yihaiquanyi.com	600	IN	CNAME	.
 *.yihaiquanyi.com	600	IN	CNAME	.
 yihaishijia.com	600	IN	CNAME	.
 *.yihaishijia.com	600	IN	CNAME	.
+yihaisoft.com	600	IN	CNAME	.
+*.yihaisoft.com	600	IN	CNAME	.
 yihang.info	600	IN	CNAME	.
 *.yihang.info	600	IN	CNAME	.
 yihao.com	600	IN	CNAME	.
@@ -205472,6 +206362,8 @@ yikang1977.com	600	IN	CNAME	.
 *.yikang1977.com	600	IN	CNAME	.
 yikanxs.com	600	IN	CNAME	.
 *.yikanxs.com	600	IN	CNAME	.
+yikao88.com	600	IN	CNAME	.
+*.yikao88.com	600	IN	CNAME	.
 yikaoapp.com	600	IN	CNAME	.
 *.yikaoapp.com	600	IN	CNAME	.
 yikaochacha.com	600	IN	CNAME	.
@@ -205864,6 +206756,8 @@ yingtai.com	600	IN	CNAME	.
 *.yingtai.com	600	IN	CNAME	.
 yingtaigroup.com	600	IN	CNAME	.
 *.yingtaigroup.com	600	IN	CNAME	.
+yingtailaw.com	600	IN	CNAME	.
+*.yingtailaw.com	600	IN	CNAME	.
 yingtaorelian.com	600	IN	CNAME	.
 *.yingtaorelian.com	600	IN	CNAME	.
 yingtaosiyue.com	600	IN	CNAME	.
@@ -206716,6 +207610,8 @@ yizumi-group.com	600	IN	CNAME	.
 *.yizumi-group.com	600	IN	CNAME	.
 yizumi.com	600	IN	CNAME	.
 *.yizumi.com	600	IN	CNAME	.
+yizuren.com	600	IN	CNAME	.
+*.yizuren.com	600	IN	CNAME	.
 yizuxing.com	600	IN	CNAME	.
 *.yizuxing.com	600	IN	CNAME	.
 yj-fun.com	600	IN	CNAME	.
@@ -206734,6 +207630,8 @@ yj518.com	600	IN	CNAME	.
 *.yj518.com	600	IN	CNAME	.
 yjai.art	600	IN	CNAME	.
 *.yjai.art	600	IN	CNAME	.
+yjbys.com	600	IN	CNAME	.
+*.yjbys.com	600	IN	CNAME	.
 yjbzr.com	600	IN	CNAME	.
 *.yjbzr.com	600	IN	CNAME	.
 yjcard.com	600	IN	CNAME	.
@@ -206844,6 +207742,8 @@ yjsswjt.com	600	IN	CNAME	.
 *.yjsswjt.com	600	IN	CNAME	.
 yjswsht.xyz	600	IN	CNAME	.
 *.yjswsht.xyz	600	IN	CNAME	.
+yjsyy.com	600	IN	CNAME	.
+*.yjsyy.com	600	IN	CNAME	.
 yjtiyu.com	600	IN	CNAME	.
 *.yjtiyu.com	600	IN	CNAME	.
 yjtvw.com	600	IN	CNAME	.
@@ -207356,6 +208256,8 @@ ymyw.net	600	IN	CNAME	.
 *.ymyw.net	600	IN	CNAME	.
 ymyxsw.com	600	IN	CNAME	.
 *.ymyxsw.com	600	IN	CNAME	.
+ymzec.com	600	IN	CNAME	.
+*.ymzec.com	600	IN	CNAME	.
 ymzer.com	600	IN	CNAME	.
 *.ymzer.com	600	IN	CNAME	.
 ymzsl.com	600	IN	CNAME	.
@@ -207514,6 +208416,8 @@ ynshhyy.com	600	IN	CNAME	.
 *.ynshhyy.com	600	IN	CNAME	.
 ynshijian.com	600	IN	CNAME	.
 *.ynshijian.com	600	IN	CNAME	.
+ynsj001.com	600	IN	CNAME	.
+*.ynsj001.com	600	IN	CNAME	.
 ynsjg.com	600	IN	CNAME	.
 *.ynsjg.com	600	IN	CNAME	.
 ynsjzyxh.com	600	IN	CNAME	.
@@ -208752,6 +209656,8 @@ youyuegame.com	600	IN	CNAME	.
 *.youyuegame.com	600	IN	CNAME	.
 youyur.com	600	IN	CNAME	.
 *.youyur.com	600	IN	CNAME	.
+youyuwei.com	600	IN	CNAME	.
+*.youyuwei.com	600	IN	CNAME	.
 youyuwenhuay.com	600	IN	CNAME	.
 *.youyuwenhuay.com	600	IN	CNAME	.
 youyuwo.com	600	IN	CNAME	.
@@ -208774,6 +209680,8 @@ youzhao.com	600	IN	CNAME	.
 *.youzhao.com	600	IN	CNAME	.
 youzhenhua.com	600	IN	CNAME	.
 *.youzhenhua.com	600	IN	CNAME	.
+youzhi.com	600	IN	CNAME	.
+*.youzhi.com	600	IN	CNAME	.
 youzhi.net	600	IN	CNAME	.
 *.youzhi.net	600	IN	CNAME	.
 youzhi99.com	600	IN	CNAME	.
@@ -209026,6 +209934,8 @@ yqslmall.com	600	IN	CNAME	.
 *.yqslmall.com	600	IN	CNAME	.
 yqsn.com	600	IN	CNAME	.
 *.yqsn.com	600	IN	CNAME	.
+yqt365.com	600	IN	CNAME	.
+*.yqt365.com	600	IN	CNAME	.
 yqtg.cc	600	IN	CNAME	.
 *.yqtg.cc	600	IN	CNAME	.
 yqtkgzbk.com	600	IN	CNAME	.
@@ -209162,6 +210072,8 @@ yscro.com	600	IN	CNAME	.
 *.yscro.com	600	IN	CNAME	.
 ysczw.com	600	IN	CNAME	.
 *.ysczw.com	600	IN	CNAME	.
+ysdaima.com	600	IN	CNAME	.
+*.ysdaima.com	600	IN	CNAME	.
 ysdp.online	600	IN	CNAME	.
 *.ysdp.online	600	IN	CNAME	.
 ysdwe.asia	600	IN	CNAME	.
@@ -210066,6 +210978,8 @@ yueye7.com	600	IN	CNAME	.
 *.yueye7.com	600	IN	CNAME	.
 yueyear.com	600	IN	CNAME	.
 *.yueyear.com	600	IN	CNAME	.
+yueyitingxin.com	600	IN	CNAME	.
+*.yueyitingxin.com	600	IN	CNAME	.
 yueyouxs.com	600	IN	CNAME	.
 *.yueyouxs.com	600	IN	CNAME	.
 yueyu114.com	600	IN	CNAME	.
@@ -210336,6 +211250,8 @@ yun.lenovo.com	600	IN	CNAME	.
 *.yun.lenovo.com	600	IN	CNAME	.
 yun123.com	600	IN	CNAME	.
 *.yun123.com	600	IN	CNAME	.
+yun163.net	600	IN	CNAME	.
+*.yun163.net	600	IN	CNAME	.
 yun5.vip	600	IN	CNAME	.
 *.yun5.vip	600	IN	CNAME	.
 yun61.com	600	IN	CNAME	.
@@ -210608,6 +211524,8 @@ yunifang.com	600	IN	CNAME	.
 *.yunifang.com	600	IN	CNAME	.
 yunify.com	600	IN	CNAME	.
 *.yunify.com	600	IN	CNAME	.
+yunikly.com	600	IN	CNAME	.
+*.yunikly.com	600	IN	CNAME	.
 yunio.com	600	IN	CNAME	.
 *.yunio.com	600	IN	CNAME	.
 yunip.com	600	IN	CNAME	.
@@ -210770,6 +211688,8 @@ yunqifly.com	600	IN	CNAME	.
 *.yunqifly.com	600	IN	CNAME	.
 yunqiju.com	600	IN	CNAME	.
 *.yunqiju.com	600	IN	CNAME	.
+yunqin.online	600	IN	CNAME	.
+*.yunqin.online	600	IN	CNAME	.
 yunqingugm.com	600	IN	CNAME	.
 *.yunqingugm.com	600	IN	CNAME	.
 yunqishi8.com	600	IN	CNAME	.
@@ -211350,6 +212270,8 @@ yw160.com	600	IN	CNAME	.
 *.yw160.com	600	IN	CNAME	.
 yw2005.com	600	IN	CNAME	.
 *.yw2005.com	600	IN	CNAME	.
+yw70.com	600	IN	CNAME	.
+*.yw70.com	600	IN	CNAME	.
 ywart.com	600	IN	CNAME	.
 *.ywart.com	600	IN	CNAME	.
 ywbank.com	600	IN	CNAME	.
@@ -211858,6 +212780,8 @@ yyhh.com	600	IN	CNAME	.
 *.yyhh.com	600	IN	CNAME	.
 yyhn365.com	600	IN	CNAME	.
 *.yyhn365.com	600	IN	CNAME	.
+yyhxps.com	600	IN	CNAME	.
+*.yyhxps.com	600	IN	CNAME	.
 yyhybz.com	600	IN	CNAME	.
 *.yyhybz.com	600	IN	CNAME	.
 yyi100.com	600	IN	CNAME	.
@@ -212122,6 +213046,8 @@ yzfcdn.com	600	IN	CNAME	.
 *.yzfcdn.com	600	IN	CNAME	.
 yzfchat.com	600	IN	CNAME	.
 *.yzfchat.com	600	IN	CNAME	.
+yzfcw.com	600	IN	CNAME	.
+*.yzfcw.com	600	IN	CNAME	.
 yzfdc.net	600	IN	CNAME	.
 *.yzfdc.net	600	IN	CNAME	.
 yzfjy.com	600	IN	CNAME	.
@@ -212930,6 +213856,8 @@ zcaijing.com	600	IN	CNAME	.
 *.zcaijing.com	600	IN	CNAME	.
 zcand.com	600	IN	CNAME	.
 *.zcand.com	600	IN	CNAME	.
+zcanjia.com	600	IN	CNAME	.
+*.zcanjia.com	600	IN	CNAME	.
 zcbearing.com	600	IN	CNAME	.
 *.zcbearing.com	600	IN	CNAME	.
 zcbgy.net	600	IN	CNAME	.
@@ -213386,6 +214314,8 @@ zengslb.com	600	IN	CNAME	.
 *.zengslb.com	600	IN	CNAME	.
 zengyt.com	600	IN	CNAME	.
 *.zengyt.com	600	IN	CNAME	.
+zengyuanfen.com	600	IN	CNAME	.
+*.zengyuanfen.com	600	IN	CNAME	.
 zengzeng.net	600	IN	CNAME	.
 *.zengzeng.net	600	IN	CNAME	.
 zenha.net	600	IN	CNAME	.
@@ -213636,6 +214566,8 @@ zgby114.com	600	IN	CNAME	.
 *.zgby114.com	600	IN	CNAME	.
 zgc-bigdata.org	600	IN	CNAME	.
 *.zgc-bigdata.org	600	IN	CNAME	.
+zgc-blockchain.com	600	IN	CNAME	.
+*.zgc-blockchain.com	600	IN	CNAME	.
 zgc261.com	600	IN	CNAME	.
 *.zgc261.com	600	IN	CNAME	.
 zgcbank.com	600	IN	CNAME	.
@@ -213824,6 +214756,8 @@ zgjgw.com	600	IN	CNAME	.
 *.zgjgw.com	600	IN	CNAME	.
 zgjhjy.com	600	IN	CNAME	.
 *.zgjhjy.com	600	IN	CNAME	.
+zgjia.com	600	IN	CNAME	.
+*.zgjia.com	600	IN	CNAME	.
 zgjianfang.com	600	IN	CNAME	.
 *.zgjianfang.com	600	IN	CNAME	.
 zgjiaoyan.com	600	IN	CNAME	.
@@ -213852,6 +214786,8 @@ zgjscopper.com	600	IN	CNAME	.
 *.zgjscopper.com	600	IN	CNAME	.
 zgjsdsj.com	600	IN	CNAME	.
 *.zgjsdsj.com	600	IN	CNAME	.
+zgjsfz.com	600	IN	CNAME	.
+*.zgjsfz.com	600	IN	CNAME	.
 zgjsks.com	600	IN	CNAME	.
 *.zgjsks.com	600	IN	CNAME	.
 zgjsqw.com	600	IN	CNAME	.
@@ -214274,6 +215210,8 @@ zhaeec.com	600	IN	CNAME	.
 *.zhaeec.com	600	IN	CNAME	.
 zhai14.com	600	IN	CNAME	.
 *.zhai14.com	600	IN	CNAME	.
+zhaiad.com	600	IN	CNAME	.
+*.zhaiad.com	600	IN	CNAME	.
 zhaiba.com	600	IN	CNAME	.
 *.zhaiba.com	600	IN	CNAME	.
 zhaibao.vip	600	IN	CNAME	.
@@ -215404,6 +216342,8 @@ zhihejiaoyu.com	600	IN	CNAME	.
 *.zhihejiaoyu.com	600	IN	CNAME	.
 zhihemobi.com	600	IN	CNAME	.
 *.zhihemobi.com	600	IN	CNAME	.
+zhihenglawyer.com	600	IN	CNAME	.
+*.zhihenglawyer.com	600	IN	CNAME	.
 zhihengwangchen.com	600	IN	CNAME	.
 *.zhihengwangchen.com	600	IN	CNAME	.
 zhihepartners.com	600	IN	CNAME	.
@@ -216092,6 +217032,8 @@ zhongguohao123.com	600	IN	CNAME	.
 *.zhongguohao123.com	600	IN	CNAME	.
 zhongguohuo.com	600	IN	CNAME	.
 *.zhongguohuo.com	600	IN	CNAME	.
+zhongguolaoqu.com	600	IN	CNAME	.
+*.zhongguolaoqu.com	600	IN	CNAME	.
 zhongguopeixun.net	600	IN	CNAME	.
 *.zhongguopeixun.net	600	IN	CNAME	.
 zhongguose.com	600	IN	CNAME	.
@@ -216524,6 +217466,8 @@ zhoulaoshi.club	600	IN	CNAME	.
 *.zhoulaoshi.club	600	IN	CNAME	.
 zhoulingjie.com	600	IN	CNAME	.
 *.zhoulingjie.com	600	IN	CNAME	.
+zhoulishan.site	600	IN	CNAME	.
+*.zhoulishan.site	600	IN	CNAME	.
 zhoupu123.com	600	IN	CNAME	.
 *.zhoupu123.com	600	IN	CNAME	.
 zhoupudata.com	600	IN	CNAME	.
@@ -217306,6 +218250,8 @@ zidg.com	600	IN	CNAME	.
 *.zidg.com	600	IN	CNAME	.
 zidiankeji.com	600	IN	CNAME	.
 *.zidiankeji.com	600	IN	CNAME	.
+zidianzaixian.com	600	IN	CNAME	.
+*.zidianzaixian.com	600	IN	CNAME	.
 zidoo.tv	600	IN	CNAME	.
 *.zidoo.tv	600	IN	CNAME	.
 zidootv.com	600	IN	CNAME	.
@@ -218150,6 +219096,8 @@ zjhospital.net	600	IN	CNAME	.
 *.zjhospital.net	600	IN	CNAME	.
 zjhpyy.com	600	IN	CNAME	.
 *.zjhpyy.com	600	IN	CNAME	.
+zjhr.com	600	IN	CNAME	.
+*.zjhr.com	600	IN	CNAME	.
 zjhrnet.com	600	IN	CNAME	.
 *.zjhrnet.com	600	IN	CNAME	.
 zjhslyw.com	600	IN	CNAME	.
@@ -218262,6 +219210,8 @@ zjjsit.com	600	IN	CNAME	.
 *.zjjsit.com	600	IN	CNAME	.
 zjjsjt.com	600	IN	CNAME	.
 *.zjjsjt.com	600	IN	CNAME	.
+zjjslawyer.com	600	IN	CNAME	.
+*.zjjslawyer.com	600	IN	CNAME	.
 zjjstzhb.com	600	IN	CNAME	.
 *.zjjstzhb.com	600	IN	CNAME	.
 zjjsw.com	600	IN	CNAME	.
@@ -218834,6 +219784,8 @@ zjxymy.com	600	IN	CNAME	.
 *.zjxymy.com	600	IN	CNAME	.
 zjxzgrd.com	600	IN	CNAME	.
 *.zjxzgrd.com	600	IN	CNAME	.
+zjyangfan.com	600	IN	CNAME	.
+*.zjyangfan.com	600	IN	CNAME	.
 zjyanxing.com	600	IN	CNAME	.
 *.zjyanxing.com	600	IN	CNAME	.
 zjyari.com	600	IN	CNAME	.
@@ -219078,6 +220030,8 @@ zkyai.com	600	IN	CNAME	.
 *.zkyai.com	600	IN	CNAME	.
 zkydib.com	600	IN	CNAME	.
 *.zkydib.com	600	IN	CNAME	.
+zkyg.com	600	IN	CNAME	.
+*.zkyg.com	600	IN	CNAME	.
 zkyl.vip	600	IN	CNAME	.
 *.zkyl.vip	600	IN	CNAME	.
 zkyouxi.com	600	IN	CNAME	.
@@ -219658,6 +220612,8 @@ zonsenmotor.com	600	IN	CNAME	.
 *.zonsenmotor.com	600	IN	CNAME	.
 zonst.com	600	IN	CNAME	.
 *.zonst.com	600	IN	CNAME	.
+zonta-suzhou.com	600	IN	CNAME	.
+*.zonta-suzhou.com	600	IN	CNAME	.
 zontes.com	600	IN	CNAME	.
 *.zontes.com	600	IN	CNAME	.
 zoocer.com	600	IN	CNAME	.
@@ -219702,6 +220658,8 @@ zoqlan.com	600	IN	CNAME	.
 *.zoqlan.com	600	IN	CNAME	.
 zoranchem.com	600	IN	CNAME	.
 *.zoranchem.com	600	IN	CNAME	.
+zorocloud.com	600	IN	CNAME	.
+*.zorocloud.com	600	IN	CNAME	.
 zoroli.com	600	IN	CNAME	.
 *.zoroli.com	600	IN	CNAME	.
 zorrospray.com	600	IN	CNAME	.
@@ -219816,6 +220774,8 @@ zpmg.com	600	IN	CNAME	.
 *.zpmg.com	600	IN	CNAME	.
 zpparts.com	600	IN	CNAME	.
 *.zpparts.com	600	IN	CNAME	.
+zprc.com	600	IN	CNAME	.
+*.zprc.com	600	IN	CNAME	.
 zpstar.com	600	IN	CNAME	.
 *.zpstar.com	600	IN	CNAME	.
 zpt966033.com	600	IN	CNAME	.
@@ -220170,6 +221130,8 @@ zsmyy.com	600	IN	CNAME	.
 *.zsmyy.com	600	IN	CNAME	.
 zsmz.com	600	IN	CNAME	.
 *.zsmz.com	600	IN	CNAME	.
+zsph.com	600	IN	CNAME	.
+*.zsph.com	600	IN	CNAME	.
 zspharm.com	600	IN	CNAME	.
 *.zspharm.com	600	IN	CNAME	.
 zsquant.com	600	IN	CNAME	.
@@ -221556,6 +222518,8 @@ zzcjby.com	600	IN	CNAME	.
 *.zzcjby.com	600	IN	CNAME	.
 zzcjxy.com	600	IN	CNAME	.
 *.zzcjxy.com	600	IN	CNAME	.
+zzclass.com	600	IN	CNAME	.
+*.zzclass.com	600	IN	CNAME	.
 zzcmjn.com	600	IN	CNAME	.
 *.zzcmjn.com	600	IN	CNAME	.
 zzcomm.com	600	IN	CNAME	.
@@ -221710,6 +222674,8 @@ zzqfte.com	600	IN	CNAME	.
 *.zzqfte.com	600	IN	CNAME	.
 zzqklm.com	600	IN	CNAME	.
 *.zzqklm.com	600	IN	CNAME	.
+zzqrgs3148.vip	600	IN	CNAME	.
+*.zzqrgs3148.vip	600	IN	CNAME	.
 zzqss.com	600	IN	CNAME	.
 *.zzqss.com	600	IN	CNAME	.
 zzquan9.com	600	IN	CNAME	.
@@ -221722,6 +222688,8 @@ zzqz2024.com	600	IN	CNAME	.
 *.zzqz2024.com	600	IN	CNAME	.
 zzqzz.com	600	IN	CNAME	.
 *.zzqzz.com	600	IN	CNAME	.
+zzr.cc	600	IN	CNAME	.
+*.zzr.cc	600	IN	CNAME	.
 zzrc.net	600	IN	CNAME	.
 *.zzrc.net	600	IN	CNAME	.
 zzrcw.net	600	IN	CNAME	.
